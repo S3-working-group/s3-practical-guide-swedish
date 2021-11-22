@@ -1,6 +1,6 @@
 # S3 Practical Guide (Swedish Version)
 
-The French translation of the electronic publication [A Practical Guide to Sociocracy 3.0](https://github.com/S3-working-group/s3-practical-guide).
+The Swedish translation of the electronic publication [A Practical Guide to Sociocracy 3.0](https://github.com/S3-working-group/s3-practical-guide).
 
 ## Build Process
 
