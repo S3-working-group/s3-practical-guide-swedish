@@ -34,7 +34,7 @@ Om ett eller flera av dessa kriterier av någon anledning inte kan uppfyllas är
 
 ## Samskapande av kontrakt
 
-Det sätt som ett avtal förhandlas fram kan avsevärt bidra till att bygga förtroende mellan parter. Hantera kontraktsskrivning från utgångspunkten att skapa en överenskommelse mellan parter, inte utifrån att parterna är motståndare: skapa kontraktet tillsammans, skräddarsy det till det specifika sammanhanget och se till att det är juridiskt stabilt.
+Det sätt som ett kontrakt förhandlas fram på kan avsevärt bidra till att bygga förtroende mellan parter. Hantera kontraktsskrivning från utgångspunkten att skapa en överenskommelse mellan parter, inte utifrån att parterna är motståndare: skapa kontraktet tillsammans, skräddarsy det till det specifika sammanhanget och se till att det är juridiskt stabilt.
 
 - Kontraktet bör innehålla alla förväntningar från berörda parter, där varje förväntan förklaras i tillräcklig detalj.
 - Använd ett tydligt och enkelt språk som alla parter kan förstå, och var entydig om rättsliga konsekvenser.
@@ -43,7 +43,7 @@ Det sätt som ett avtal förhandlas fram kan avsevärt bidra till att bygga för
 
 ## Vid samskapande av ett kontrakt:
 
-- se till att alla parter har en delegation som inkluderar representation för alla berörda <a href="#" class="tooltip" title="Domän: A distinct area of influence, activity and decision making within an organization.">domäner</a> (t.ex. inte bara försäljning, men också utveckling / produktion / stöd, etc.)
+- se till att alla parter har en delegation som inkluderar representation för alla berörda <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> (t.ex. inte bara försäljning, men också utveckling / produktion / stöd, etc.)
 - beskriv uttryckligen den kultur du vill utveckla, med hänsyn till en gemensam grund och eventuella kulturella skillnader mellan parter
 - ange skälen till det föreslagna samarbetet, och var öppen om förväntningar och behov hos alla parter
 - lämna ut all relevant information (under NDA om nödvändigt)
@@ -58,10 +58,10 @@ Alla kontrakt kan ändras när som helst, förutsatt att alla parter är överen
 
 - vidta åtgärder för att framgångsrikt komma igång genom att definiera uppstartsförfaranden
 - har en prövotid, där alla parter kan prova på samarbetet, och ett tydligt protokoll för hur varje part kan säga upp kontraktet under provperioden
-- definiera och bygg in i avtalet regelbundna utvärderingsmöten där undertecknarna träffas för att dela erfarenheter och lärande och besluta hur avtalet kan ändras för att anpassas till förändrade förhållanden
+- definiera och bygg in regelbundna utvärderingsmöten i överenskommelsen där de som undertecknat träffas för att dela erfarenheter och lärande och besluta hur överenskommelsen kan ändras för att anpassas till förändrade förhållanden
 - inkludera tydliga rutiner för hanteringen av kontraktsöverträdelser
 - överväg att tillhandahålla alternativa metoder för tvistlösning, t.ex. medling, förlikning eller skiljeförfarande
-- överväg att begränsa avtalet till en viss tid varefter avtalet löper ut och kan förnyas om det krävs
+- överväg att begränsa kontraktet till en viss tid varefter avtalet löper ut och kan förnyas om det krävs
 
 ## Kultur
 
@@ -74,7 +74,7 @@ Varje kontrakt påverkar kulturen i det samarbete som den styr, även när det v
 Om standardavtal i branschen är föråldrade jämfört med den önskade kulturen, bygg en databas med mallar för kontrakt och klausuler och överväg att dela den med andra, så att det går att utnyttja tidigare erfarenheter när nya kontrakt skapas.
 
 <div class="bottom-nav">
-<a href="breaking-agreements.html" title="Back to: Bryta överenskommelser">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="transparent-salary.html" title="Read next: Transparent lönesättning">▶ Read next: Transparent lönesättning</a>
+<a href="breaking-agreements.html" title="Tillbaka till: Bryta överenskommelser">◀</a> <a href="enablers-of-collaboration.html" title="Upp: Främja samarbete">▲</a> <a href="transparent-salary.html" title="Läs vidare: Transparent lönesättning">▶ Läs vidare: Transparent lönesättning</a>
 </div>
 
 

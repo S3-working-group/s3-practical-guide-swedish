@@ -7,7 +7,7 @@ title: "Skickligt deltagande"
 
 *"Är mitt beteende i detta ögonblick det bästa jag kan göra för att få detta samarbete att fungera så bra som möjligt?"*
 
-Att delta skickligt kan inkludera att avbryta, invända eller bryta <a href="#" class="tooltip" title="Överenskommelse: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">överenskommelser</a>.
+Att delta skickligt kan inkludera att avbryta, invända eller bryta <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a>.
 
 *Skickligt deltagande* är ett **individuellt åtagande** att:
 
@@ -27,7 +27,7 @@ Skickligt deltagande:
 - skapar en kultur av ömsesidigt stöttning och nära samarbete
 - ju fler som använder det desto mer kraftfullt är det
 
-![Balance autonomy and collaboration through artful participation](img/illustrations/balance-autonomy-collaboration-alt.png)
+![Balansera autonomi och samarbete genom skickligt deltagande](img/illustrations/balance-autonomy-collaboration-alt.png)
 
 ## Skickligt deltagande: Självutvärdering
 
@@ -42,7 +42,7 @@ Skickligt deltagande:
     - den vidare omgivningen?
 
 <div class="bottom-nav">
-<a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="adopt-the-seven-principles.html" title="Read next: Anta De Sju Principerna">▶ Read next: Anta De Sju Principerna</a>
+<a href="enablers-of-collaboration.html" title="Upp: Främja samarbete">▲</a> <a href="adopt-the-seven-principles.html" title="Läs vidare: Anta De Sju Principerna">▶ Läs vidare: Anta De Sju Principerna</a>
 </div>
 
 

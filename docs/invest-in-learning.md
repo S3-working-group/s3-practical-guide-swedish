@@ -4,19 +4,19 @@ title: "Princip 8 – Satsa på lärande"
 
 
 
-**_Se till att människor odlar sin kompetens och kunnande så att de utvecklas, deras bidrag förblir värdefullt och organisationen kan vidareutvecklas._**
+**_Stöd alla att utveckla sin kompetens och skicklighet så att deras bidrag förblir värdefulla och organisationen kan utvecklas._**
 
 Viktiga möster för att hjälpa till att uppnå detta är:
 
--   [Navigate via Tension](navigate-via-tension.html) – Everyone in the organization paying attention for situations where growing competence and skills may be valuable, focuses the learning effort and facilitates continuous improvement.
--   [Evaluate Meetings](evaluate-meetings.html) – A brief evaluation at the end of each meeting or workshop helps people identify their strengths, growing edges and ways to improve their contribution in the future.
--   [Peer Review](peer-review.html) –  A team or person in a role regularly inviting relevant stakeholders for a review of their effectiveness, supports identifying their strengths, growing edges and ways they can improve their contribution in future.
--   [Development Plan](development-plan.html) –  Collaborating with relevant stakeholders on a plan for how to develop necessary skills and competence, is an effective way of focusing the learning efforts of a person in a role, or for a team.
--   [Peer Feedback](peer-feedback.html) –  Inviting feedback from peers, supports people in understanding their strengths and growing edges, so that they can invest in learning where helpful.
+-   [Navigera via spänning](navigate-via-tension.html) – När alla i organisationen är uppmärksamma på situationer där det kan vara värdefullt att odla kompetens och kunnande fokuseras lärandet och kontinuerliga förbättringar underlättas.
+-   [Utvärdera möten](evaluate-meetings.html) – En kort utvärdering i slutet av varje möte eller workshop hjälper människor att identifiera sina styrkor, tillväxtutmaningar och sätt att förbättra sitt bidrag i framtiden.
+-   [Kollegial utvärdering](peer-review.html) – Att som team eller person i en roll regelbundet bjuda in relevanta intressenter för en genomgång av sin effektivitet gör det möjligt att identifiera styrkor, tillväxtutmaningar och sätt att förbättra framtida bidrag.
+-   [Utvecklingsplan](development-plan.html) – Att samarbeta med relevanta intressenter om en plan för hur man kan utveckla nödvändig kompetens och kunnande, är ett effektivt sätt att fokusera inlärningsarbetet hos en person i en roll eller för ett team.
+-   [Kollegial återkoppling](peer-feedback.html) – Att bjuda in återkoppling från kollegor gör det möjligt för människor att förstå sina styrkor och tillväxtutmaningar så att de kan satsa på att lära sig inom områden där det kan vara till hjälp.
 
 
 <div class="bottom-nav">
-<a href="transformation.html" title="Up: Tre principer för transformation">▲</a> <a href="develop-culture.html" title="Read next: Princip 9 – Utveckla kulturen medvetet">▶ Read next: Princip 9 – Utveckla kulturen medvetet</a>
+<a href="transformation.html" title="Upp: Tre principer för transformation">▲</a> <a href="develop-culture.html" title="Läs vidare: Princip 9 – Utveckla kulturen medvetet">▶ Läs vidare: Princip 9 – Utveckla kulturen medvetet</a>
 </div>
 
 

@@ -1,22 +1,22 @@
 ---
-title: "A Common Sense Framework for Organizations and Teams"
+title: "Ett ramverk för sunt förnuft i organisationer och team"
 ---
 
 
 
-![Ramverket för Sunt Förnuft](img/csf/csf-logo.png)
+![The Common Sense Framework - ramverket för sunt förnuft](img/csf/csf-logo.png)
 
-We’re observing an emerging common sense that is transforming organizations around the world, inspiring and enabling people to build successful organizations where BOTH the people and the organization thrive.
+Vi ser ett framväxande gemensamt sunt förnuft som transformerar organisationer runt om i världen, som inspirerar och gör det möjligt för människor att bygga framgångsrika organisationer där BÅDE människor och organisationen frodas.
 
-We have distilled the essence of this _common sense_ into a concise  framework for teams and organizations: The **Common Sense Framework (CSF)** is a tool for sense-making, designed to help people address the challenges and opportunities they face. It supports building a shared understanding of the bigger picture, identifying and prioritizing areas of need within a team and throughout an organization, and understanding what to focus on next.
+Vi har summerat kärnan i detta _sunda förnuft_ till ett koncist ramverk för team och organisationer: **"The Common Sense Framework" (CSF) - ramverket för sunt förnuft** - är ett verktyg för att skapa mening och förståelse, utformat för att hjälpa människor att ta itu med de utmaningar och möjligheter de står inför. Det stöttar byggandet av en gemensam förståelse för helheten, att identifiera och prioritera behovsområden inom ett team och i en organisation, och förstå vad man ska fokusera på som nästa steg.
 
-We mapped the 10 principles that comprise the framework to the patterns in S3, so that you can use the CSF as a guide for identifying those patterns that help address your specific needs.
+Vi korsrefererade de 10 principer som utgör ramen till mönstren i S3, så att man kan använda CSF som en guide för att identifiera de mönster som hjälper till att tillgodose specifika behov.
 
-The CSF can be applied in the context of developing individual teams and the organization as a whole. 
+CSF kan tillämpas för att utveckla enskilda team eller hela organisationer. 
 
 
 <div class="bottom-nav">
-<a href="fractal-organization.html" title="Back to: Fraktal organisation">◀</a> <a href="thrive.html" title="Read next: En organisation där BÅDE människor och organisationen kan frodas">▶ Read next: En organisation där BÅDE människor och organisationen kan frodas</a>
+<a href="fractal-organization.html" title="Tillbaka till: Fraktal organisation">◀</a> <a href="thrive.html" title="Läs vidare: En organisation där BÅDE människor och organisationen kan frodas">▶ Läs vidare: En organisation där BÅDE människor och organisationen kan frodas</a>
 </div>
 
 

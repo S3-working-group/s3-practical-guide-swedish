@@ -1,52 +1,52 @@
 ---
-title: "The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)"
+title: "Det avsiktliga åtagandet för utövare och utbildare av Sociokrati 3.0 (ICPT)"
 ---
 
 
-This commitment supports:
+Detta åtagande stöttar:
 
-**Practitioners and teachers** with clear guidance on how to continually develop their experience and skills in sharing about and applying S3 patterns, and improve their knowledge and understanding of S3 as it evolves.
+- **utövare och utbildare** genom en tydlig vägledning om hur man kontinuerligt utvecklar sina erfarenheter och färdigheter i att dela med sig av och tillämpa S3-mönster, och att vidareutveckla sin kunskap och förståelse av S3 i takt med att den utvecklas.
 
-**Clients and students** in selecting the people they wish to work with and learn from, according to their level of experience and the quality and integrity of their work.
+- **kunder och kursdeltagare** i att välja de personer de vill arbeta med och lära av, utifrån dessas erfarenhetsnivå, kvalitet och integriteten i deras arbete.
 
-If you follow the voluntary Commitment you can add our banners to your website, or to other materials that promote you as a practitioner or teacher of Sociocracy 3.0. Please consider signing the commitment so that we can notify you of proposed changes to the ICPT and seek any objections or concerns you may have. Thank you.
+Om du följer detta frivilliga åtagande kan du använda våra emblem på din webbplats, eller i annat material som framhåller dig som utövare eller utbildare i Sociokrati 3.0. Vi ser helst du att undertecknar åtagandet så att vi kan meddela dig om föreslagna ändringar i ICPT och utforska eventuella invändningar eller oro som du kan ha. Tack.
 
-You can find out more about the ICPT at <https://sociocracy30.org/s3-intentional-commitment/>
+Du kan läsa mer om ICPT på <https://sociocracy30.org/s3-intentional-commitment/>
 
-## Full Text of the ICPT
+## ICPT:s fullständiga text
 
-**Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0**
+**Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)**
 
-I commit to developing a sociocratic and agile mindset, and I hold myself accountable to practice and teach Sociocracy 3.0 with integrity, by following these guidelines:
+Jag förbinder mig att utveckla ett sociokratiskt och agilt tänkesätt, och jag håller mig själv ansvarig för att praktisera och undervisa Sociokrati 3.0 med integritet, genom att följa dessa riktlinjer:
 
-I strive to follow the seven principles in my daily life. I commit to participating artfully in my collaboration with others.
+Jag strävar efter att följa de sju principerna i mitt dagliga liv. Jag förbinder mig att uppträdda skickligt i mitt samarbete med andra.
 
-I practice and facilitate S3 patterns.
+Jag praktiserar och faciliterar användningen av S3 mönster.
 
-I maintain appropriate confidentiality about issues relating to my clients.
+Jag upprätthåller lämplig sekretess i frågor som rör mina kunder.
 
-I will work in accordance with my level of competence and the client's needs, and disclose when I am out of my depth.
+Jag kommer att arbeta i enlighet med min kompetens och kundens behov och vara tydlig på när jag rör mig utanför min expertis och erfarenhet.
 
-I stay up to date with the ongoing developments of the S3 and the way it's presented. (e.g. by following the changelog in the latest version of the practical guide)
+Jag håller mig uppdaterad om den ständiga utvecklingen av S3 och hur den presenteras. (t.ex. genom att följa ändringsloggen i den senaste versionen av den praktiska handledningen)
 
-I will continue learning about S3, deepen my understanding and explore related topics.
+Jag kommer att fortsätta lära mig om S3, fördjupa min förståelse och utforska relaterade ämnen.
 
-I am transparent about my level of experience, my understanding of S3, the feedback I receive and my development plan.
+Jag är öppen med min erfarenhet, min förståelse för S3, för den feedback jag får och min utvecklingsplan.
 
-I conduct regular peer reviews, and I integrate feedback from clients and peers into evolving what I'm doing.
+Jag genomför regelbundna kollegiala utvärderingar, och jag tar in återkoppling från klienter och kollegor så att jag kan utveckla det jag gör.
 
-I will give all clients/peers the chance to publicly share feedback.
+Jag kommer att ge alla kunder och kollegor möjlighet att dela sin återkoppling offentligt.
 
-I am part of an organized intervision group (of at least 3 people, e.g. a triad or a circle) for collaborative learning to support my development, where I share about my practice and offer and receive help from peers, including relating to resources any one of us creates.
+Jag är en del i en organiserad gruppcoachning (av minst 3 personer, t.ex. en triad eller en cirkel) för kollaborativt lärande för att stödja min utveckling, där jag delar med mig av mitt praktiserande och erbjuder och får hjälp av kollegor, inkluderat information om nya resurser som någon av oss skapar.
 
-I dedicate some time to actively support others from the S3 community to learn and grow.
+Jag ägnar en del tid åt att aktivt stödja andra i S3-gemenskapen att lära och utvecklas.
 
-I will make any S3 resources I adapt or create available under a Creative Commons Attribution-ShareAlike license.
+Jag kommer att göra alla S3-resurser jag anpassar eller skapar tillgängliga under en Creative Commons Attribution-ShareAlike licens.
 
-I will discuss possible objections relating to S3 patterns in my intervision group, and pass to S3 developers if I believe they qualify.
+Jag kommer att diskutera eventuella invändningar relaterade till S3 mönster i min coachinggrupp och vidarebefordra till utvecklarna av S3 om jag tror att de kvalificerar.
 
 <div class="bottom-nav">
-<a href="disclaimer.html" title="Back to: Ansvarsfriskrivning">◀</a> <a href="appendix.html" title="Up: Bilagor">▲</a> <a href="acknowledgments.html" title="Read next: Tack till">▶ Read next: Tack till</a>
+<a href="disclaimer.html" title="Tillbaka till: Ansvarsfriskrivning">◀</a> <a href="appendix.html" title="Upp: Bilagor">▲</a> <a href="acknowledgments.html" title="Läs vidare: Tack till">▶ Läs vidare: Tack till</a>
 </div>
 
 

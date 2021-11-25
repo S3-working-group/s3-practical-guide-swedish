@@ -5,7 +5,7 @@ title: "Tidsbegränsa aktiviteter"
 
 <strong>Sätt en tidsbegränsning för att förbli fokuserad, göra alla medvetna om den tid som finns tillgänglig och hur man använder den på bästa sätt.</strong>
 
-_A **timebox** is a fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox)._
+_En **timebox** är en bestämd tidsperiod fokuserad på en specifik aktivitet (som inte nödvändigtvis hinner blir klar inom tidsperioden)._
 
 - var tydlig med vad som skall uppnås för att få ut så mycket värde som möjligt av den begränsade tiden
 - kom överens om längden på tidsbegränsningen och synliggör kvarvarande tid
@@ -25,7 +25,7 @@ Man kan tidsbegränsa
 - arbete som sträcker sig över en längre tid (en sprint)
 
 <div class="bottom-nav">
-<a href="limit-work-in-progress.html" title="Back to: Begränsa pågående arbete">◀</a> <a href="organizing-work.html" title="Up: Organisera arbete">▲</a> <a href="align-flow.html" title="Read next: Ensa flödet">▶ Read next: Ensa flödet</a>
+<a href="limit-work-in-progress.html" title="Tillbaka till: Begränsa pågående arbete">◀</a> <a href="organizing-work.html" title="Upp: Organisera arbete">▲</a> <a href="align-flow.html" title="Läs vidare: Ensa flödet">▶ Läs vidare: Ensa flödet</a>
 </div>
 
 

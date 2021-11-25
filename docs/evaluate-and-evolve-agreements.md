@@ -3,14 +3,14 @@ title: "Utvärdera och förädla överenskommelser"
 ---
 
 
-<strong>Förädla kontinuerligt existerande överenskommelser, och eliminera spill.</strong>
+<strong>Förädla kontinuerligt existerande överenskommelser, och eliminera spill och slöseri.</strong>
 
 Regelbunden utvärdering av överenskommelser är en viktig procedur för en lärande organisation:
 
 - anpassa överenskommelser för att passa föränderliga sammanhang
 - integrera lärandet för att göra dem mer effektiva
 
-Säkra att alla <a href="#" class="tooltip" title="Överenskommelse: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">överenskommelser</a> har ett lämpligt datum för utvärdering.
+Säkra att alla <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a> har ett lämpligt datum för utvärdering.
 
 Att utvärdera en överenskommelse kan vara så enkelt som att kontrollera att den fortfarande är relevant, och att inte det finns några invändningar mot att behålla det som det är.
 
@@ -31,7 +31,7 @@ Delar av detta mönster kan också användas av enstaka personer för att utvär
 
 ## Längre format
 
-![A long format for evaluating and evolving agreements](img/agreements/evaluate-agreements.png)
+![Det långa format för att utvärdera och förfina avtal](img/agreements/evaluate-agreements.png)
 
 Förberedelser:
 
@@ -45,7 +45,7 @@ Uppföljning:
 - Överväg effekter på eventuella relaterade överenskommelser.
 
 <div class="bottom-nav">
-<a href="resolve-objections.html" title="Back to: Lös upp invändningar">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="involve-those-affected.html" title="Read next: Involvera de som påverkas">▶ Read next: Involvera de som påverkas</a>
+<a href="resolve-objections.html" title="Tillbaka till: Lös upp invändningar">◀</a> <a href="co-creation-and-evolution.html" title="Upp: Samskapande och utveckling">▲</a> <a href="involve-those-affected.html" title="Läs vidare: Involvera de som påverkas">▶ Läs vidare: Involvera de som påverkas</a>
 </div>
 
 

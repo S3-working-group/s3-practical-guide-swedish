@@ -3,16 +3,16 @@ title: "Be om hjälp"
 ---
 
 
-<strong>A simple protocol for learning, skill sharing, and building connections, with respect for people's agency.</strong>
+<strong>Ett enkelt protokoll för lärande, kunskapsdelning och uppbyggande av kontakter, med respekt för människors medverkan.</strong>
 
-Ask someone, "*would you be willing to help me with ...*?" The person asked accepts or declines with a simple "*yes*" or "*no*".
+Fråga någon, "*skulle du vara villig att hjälpa mig med...*?" Den tillfrågade accepterar eller avböjer med en enkel "*ja*" eller "*nej*".
 
-- if the request is declined, the person asking accepts the answer without negotiation or inquiry
-- if the request is unclear, inquire for more information
-- if you accept a request for help, support your peer in the best way you can
+- om begäran avslås, accepterar den som frågar svaret utan förhandling eller utfrågning
+- om begäran är oklar, frågar den tillfrågade efter mer information
+- om begäran accepteras ska den frågade ge sitt bästa möjliga stöd
 
 <div class="bottom-nav">
-<a href="peer-development.html" title="Up: Kollegial utveckling">▲</a> <a href="peer-feedback.html" title="Read next: Kollegial återkoppling">▶ Read next: Kollegial återkoppling</a>
+<a href="peer-development.html" title="Upp: Kollegial utveckling">▲</a> <a href="peer-feedback.html" title="Läs vidare: Kollegial återkoppling">▶ Läs vidare: Kollegial återkoppling</a>
 </div>
 
 

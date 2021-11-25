@@ -1,5 +1,5 @@
 ---
-title: "Enablers of Collaboration"
+title: "Främja samarbete"
 ---
 
 
@@ -14,8 +14,8 @@ title: "Enablers of Collaboration"
   <dt><a href="agree-on-values.html">Enas om värderingar</a></dt>
   <dd><p><strong>Utveckla medvetet kulturen i din organisation.</strong></p></dd>
 
-  <dt><a href="governance-facilitator.html">Styrningsfacilitator</a></dt>
-  <dd><p><strong>Välj någon för att facilitera möten för strukturell styrning.</strong></p></dd>
+  <dt><a href="governance-facilitator.html">Facilitator för strukturell styrning</a></dt>
+  <dd><p><strong>Välj någon att facilitera mötena för strukturell styrning.</strong></p></dd>
 
   <dt><a href="breaking-agreements.html">Bryta överenskommelser</a></dt>
   <dd><p><strong>Bryt överenskommelser när det är tydligt att nyttan för organisationen av det är större än kostnaden av att först vänta på en förändring av överenskommelsen och tag ansvar för konsekvenserna.</strong></p></dd>
@@ -27,7 +27,7 @@ title: "Enablers of Collaboration"
   <dd><p><strong>Skapa en rättvis löneformel och gör den synlig för alla.</strong></p></dd>
 
   <dt><a href="support-role.html">Stödjande roll</a></dt>
-  <dd><p><strong>Tillämpa rollmönstret på externa entreprenörer.</strong></p></dd>
+  <dd><p><strong>Tillämpa rollmönstret även på externa entreprenörer.</strong></p></dd>
 
   <dt><a href="bylaws.html">Stadgar</a></dt>
   <dd><p>Säkerställ att S3:s principer och mönster reflekteras i stadgar efter behov så att <strong>rättslig integritet</strong> och <strong>organisationskultur</strong> skyddas.</p></dd>
@@ -35,7 +35,7 @@ title: "Enablers of Collaboration"
 
 
 <div class="bottom-nav">
-<a href="development-plan.html" title="Back to: Utvecklingsplan">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="artful-participation.html" title="Read next: Skickligt deltagande">▶ Read next: Skickligt deltagande</a>
+<a href="development-plan.html" title="Tillbaka till: Utvecklingsplan">◀</a> <a href="patterns.html" title="Upp: Mönstren">▲</a> <a href="artful-participation.html" title="Läs vidare: Skickligt deltagande">▶ Läs vidare: Skickligt deltagande</a>
 </div>
 
 

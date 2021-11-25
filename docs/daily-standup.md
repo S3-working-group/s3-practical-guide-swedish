@@ -1,21 +1,21 @@
 ---
-title: "Daglig planering"
+title: "Dagligt planeringsmöte"
 ---
 
 
-<strong>Träffas dagligen för att organisera arbetet, underlätta inlärning och förbättra produktivitet och effekt.</strong>
+<strong>Träffas dagligen för att organisera arbetet, underlätta inlärning och förbättra produktivitet och verkan.</strong>
 
-- <a href="#" class="tooltip" title="Timebox: A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).">tidsbegränsad</a> (vanligtvis 15 minuter)
+- <a href="#" class="tooltip" title="Tidsbox: En bestämd tidsperiod fokuserad på en specifik aktivitet (som inte nödvändigtvis hinner blir klar inom tidsperioden).">tidsbegränsad</a> (vanligtvis 15 minuter)
 - vid samma tid varje dag
 - teamet samlas kring en visuell planeringstavla eller -verktyg för att: 
     - organisera dagens arbete
-    - ta itu med hinder/blockeringar
-    - anpassa befintliga <a href="#" class="tooltip" title="Överenskommelse: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">överenskommelser</a> eller skapa nya på plats
+    - hantera med hinder/blockeringar
+    - anpassa befintliga <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a> eller skapa nya på plats
 
-![Daily standup is an essential meeting for self-organizing teams.](img/meetings/planning-review-standup.png)
+![Dagligt planeringsmöte är ett viktigt möte för självorganiserande team.](img/meetings/planning-review-standup.png)
 
 <div class="bottom-nav">
-<a href="retrospective.html" title="Back to: Återblick">◀</a> <a href="focused-interactions.html" title="Up: Fokuserade interaktioner">▲</a> <a href="planning-and-review-meetings.html" title="Read next: Planerings- och utvärderingsmöten">▶ Read next: Planerings- och utvärderingsmöten</a>
+<a href="retrospective.html" title="Tillbaka till: Återblick">◀</a> <a href="focused-interactions.html" title="Upp: Fokuserade interaktioner">▲</a> <a href="planning-and-review-meetings.html" title="Läs vidare: Planerings- och utvärderingsmöten">▶ Läs vidare: Planerings- och utvärderingsmöten</a>
 </div>
 
 

@@ -7,7 +7,7 @@ title: "Facilitera möten"
 
 Före varje möte, förbered en agenda med ämnen, och välj en facilitator för att:
 
-- se till att alla får utrymme i tid, rum, åsikter och tid och att låta agendan vara ledande för diskussioner
+- se till att alla får utrymme i tid, rum, åsikter, håll tid och låta agendan vara ledande för diskussioner
 - facilitera en lämplig aktivitet eller format för varje ämne
 - facilitera en [utvärdering](evaluate-meetings.html) i slutet av mötet
 
@@ -16,7 +16,7 @@ Före varje möte, förbered en agenda med ämnen, och välj en facilitator för
 **Se även:** [Förberedelse inför möten](prepare-for-meetings.html), [Rollutnämning](role-selection.html)
 
 <div class="bottom-nav">
-<a href="rounds.html" title="Back to: Rundor">◀</a> <a href="meeting-practices.html" title="Up: Mötespraxis">▲</a> <a href="prepare-for-meetings.html" title="Read next: Förbered möten">▶ Read next: Förbered möten</a>
+<a href="rounds.html" title="Tillbaka till: Rundor">◀</a> <a href="meeting-practices.html" title="Upp: Mötestekniker">▲</a> <a href="prepare-for-meetings.html" title="Läs vidare: Förbered möten">▶ Läs vidare: Förbered möten</a>
 </div>
 
 

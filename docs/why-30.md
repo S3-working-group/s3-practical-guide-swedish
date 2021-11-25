@@ -1,27 +1,27 @@
 ---
-title: "Why \"3.0\"?"
+title: "Varför \"3.0\"?"
 ---
 
 
-Sociokrati som en form av styrning har funnits sedan 1851. Därefter har den utvecklats och anpassats av många olika personer och organisationer, bland annat Gerard Endenburg, The Sociocracy Group (TSG) och Brian Robertson (HolacracyOne).
+Sociokrati som en form av styrning har funnits sedan 1851. Sedan dess har den utvecklats och anpassats av många olika personer och organisationer, bland annat Gerard Endenburg, The Sociocracy Group (TSG) och Brian Robertson (HolacracyOne).
 
 Men utanför Nederländerna har sociokratin fram till nyligen varit i stort sett okänd.
 
-Vi älskar sociokrati eftersom vi ser organisationer och deras medlemmar trivas när de använder delar av det för att berika eller förändra det de gör idag.
+Vi älskar sociokrati eftersom vi ser organisationer och deras medlemmar frodas när de använder delar av det för att berika eller förändra det de gör idag.
 
-Vi älskar också Agile, Lean, Kanban, Core Protocol, icke-våldsligt språk och många andra idéer också. Vi tror att världen kommer att bli en bättre plats när allt fler organisationer lär sig att utnyttka det överflöd av fantastiska metoder som växer fram i världen idag, och lär sig att kombinera dem med det de redan kan.
+Vi älskar också Agile, Lean, Kanban, Core Protocol, icke-våldsligt språk och många andra idéer också. Vi tror att världen kommer att bli en bättre plats när allt fler organisationer lär sig att utnyttja det överflöd av fantastiska metoder som växer fram i världen idag, och lär sig att kombinera dem med det de redan kan.
 
 Därför bestämde vi oss för att ägna en del av vår tid åt att utveckla och utveckla sociokratin, integrera den med många av dessa andra potenta idéer, för att göra den tillgänglig och tillämplig för så många organisationer som möjligt.
 
-För detta ändamål inser vi värdet av en stark identitet, ett radikalt annorlunda sätt att sprida information, och att anpassa *Sociocratic Circle Organization Metod* för att förbättra dess tillämpbarhet.
+För detta ändamål inser vi värdet av en stark identitet, ett radikalt annorlunda sätt att sprida information, och av att anpassa *Sociocratic Circle Organization Metod* för att förbättra dess tillämpbarhet.
 
 ## Namnet
 
 Namnet "*Sociokrati 3.0*" visar både på respekt för härstamningen och ett betydande steg framåt.
 
-Det bidrar också till att undvika uppfattningen av vi förvanskar *Sociocratic Circle Organization Method* (SCM) så som den marknadsförs av The Sociocracy Group.
+Det bidrar också till att undvika uppfattningen att vi förvanskar *Sociocratic Circle Organization Method* (SCM) så som den marknadsförs av The Sociocracy Group.
 
-![Three variants of sociocracy](img/context/sociocracy-variants.png)
+![Tre varianter av sociokrati](img/context/sociocracy-variants.png)
 
 ## Ny modell för spridning
 
@@ -34,21 +34,21 @@ Vi stöder "viral" spridning genom två viktiga strategier:
 
 ## Utvecklingen av den sociokratiska cirkelorganisations-metoden
 
-Vi känner att vi behöver vara tydliga med att Sociocracy 3.0 inte är specifikt inriktad på den existerande gemenskapen av människor som använder *Sociocratic Circle Organization Method*, eller mot The Sociocracy Group (TSG). *Sociocratic Circle Organization Method* (SCM) är redan väl utvecklad och många människor verkar vara mestadels nöjda med den.
+Vi känner att vi behöver vara tydliga med att Sociocracy 3.0 inte är specifikt inriktad mot den existerande gemenskapen av människor som använder *Sociocratic Circle Organization Method*, eller mot The Sociocracy Group (TSG). *Sociocratic Circle Organization Method* (SCM) är redan väl utvecklad och många människor verkar vara mestadels nöjda med den.
 
 Men våra personliga erfarenheter är att även för de organisationer som har hört talas om sociokrati finns det många hinder för att komma igång. Med *Sociocracy 3.0* försöker vi aktivt arbeta för att adressera och minimera de saker som står i vägen.
 
 ### Minska risk och motstånd
 
-*Sociocracy 3.0* möter organisationer där dom är och dem med på en resa av ständiga förbättringar. Det innebär ingen radikal förändring eller omorganisation. *Sociokrati 3.0* innehåller en samling oberoende och principiella mönster som en organisation kan utnyttja för att bli mer effektiv. Alla mönster bygger på en uppsättning grundläggande principer, och kan lätt anpassas till sammanhanget.
+*Sociokrati 3.0* möter organisationer där dom befinner sig och tar dem med på en resa av ständiga förbättringar. Det krävs ingen radikal förändring eller omorganisation. *Sociokrati 3.0* tillhandahåller en samling oberoende och principiella mönster som en organisation kan utnyttja för att bli mer ändamålsenlig. Alla mönster bygger på en uppsättning grundläggande principer, och kan lätt anpassas till sammanhanget.
 
 ### Att skifta fokus från mål (eller syfte) till behov
 
-*Sociokrati 3.0* flyttar en organisations primära fokus från vision, uppdrag, mål eller syfte, mot källan till motivation, och anpassar organisationen till att upptäcka och ta itu med vad den behöver.  Organisationer som redan är behovsstyrda, värdedrivna eller kundcentrerade, finner detta naturligt att anamma.
+*Sociokrati 3.0* flyttar en organisations primära fokus från vision, uppdrag, mål eller syfte, mot källan till motivation, och anpassar organisationen till att upptäcka och ta itu med vad den behöver. Organisationer som redan är behovsstyrda, värdedrivna eller kundcentrerade, finner detta naturligt att anamma.
 
 ### Kondenserad till det väsentliga
 
-Om man jämför verkar *Sociocratic Circle Organization Method* stor och omfattande. By focusing on the essentials only, *Sociocracy 3.0* offers a lightweight approach to adapt and build on as necessary.
+Vid en jämförelse kan *Sociocratic Circle Organization Method* verka stor och omfattande. Genom att fokusera på det väsentliga erbjuder *Sociokrati 3.0* ett lättviktigt ramverk som är lätt att anpassa och bygga vidare på vid behov.
 
 Detta betyder inte att det är helt enkelt, att välja att börja med mönster från *Sociokrati 3.0s* kräver en investering i lärande och omtänk. Det är därför det är viktigt att börja med bara det som behövs, det är ingen idé att ändra på saker som redan är tillräckligt bra.
 
@@ -61,7 +61,7 @@ Detta betyder inte att det är helt enkelt, att välja att börja med mönster f
 Organisationsstrukturen enligt *Sociocratic Circle Organization Metod* modelleras efter en strikt hierarki av domäner. Vi ser allt fler miljöer av samarbete mellan flera intressenter och därmed ett ökat behov av ett bredare utbud av mönster för organisationsstrukturer. Organisationsstrukturen utvecklas naturligt när informationsflödet och inflytandet i en organisation stegvis anpassas till värdeflödet. *Sociokrati 3.0* möjliggör en mängd olika strukturella mönster som kan kombineras för att utveckla strukturen efter behov och på ett flexibelt sätt.
 
 <div class="bottom-nav">
-<a href="history.html" title="Back to: Inspiration och historia bakom Sociokrati 3.0">◀</a> <a href="what-is-s3.html" title="Up: Vad är Sociokrati 3.0?">▲</a> <a href="principles.html" title="Read next: De Sju Principerna">▶ Read next: De Sju Principerna</a>
+<a href="history.html" title="Tillbaka till: Inspiration till och historien bakom Sociokrati 3.0">◀</a> <a href="what-is-s3.html" title="Upp: Vad är Sociokrati 3.0?">▲</a> <a href="principles.html" title="Läs vidare: De Sju Principerna">▶ Läs vidare: De Sju Principerna</a>
 </div>
 
 

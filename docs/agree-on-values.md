@@ -5,14 +5,14 @@ title: "Enas om värderingar"
 
 <strong>Utveckla medvetet kulturen i din organisation.</strong>
 
-_**Values** are valued principles that guide behavior. Values define scope for action and ethical constraints._
+_**Värderingar** är grundläggande principer som vägleder beteende. Värderingar definierar omfattningen och begränsningar för åtgärder och etiska restriktioner._
 
-- varje medlem har med sig sina egna värderingar till en organisation baserat på sina personliga erfarenheter och uppfattningar
+- varje medlem i en organisation tar med sig sina värderingar baserat på sina personliga erfarenheter och uppfattningar
 - ett team eller en organisation kan **välja att kollektivt anta värderingar** för att vägleda sitt samarbete
 
-Värderingar kan ge vägledning för att avgöra lämpliga åtgärder, även när tydliga <a href="#" class="tooltip" title="Överenskommelse: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">överenskommelser</a> saknas.
+Värderingar kan ge vägledning till lämpliga åtgärder, även när tydliga <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a> saknas.
 
-Att kollektivt anta en uppsättning värderingar har stor effekt i en organisation, det:
+Att gemensamt anta en uppsättning värderingar stöder en organisations ändamålsenlighet. Det:
 
 - minskar risken för **missförstånd**
 - hjälper till att **ensa** beslutsfattande och handling
@@ -20,10 +20,10 @@ Att kollektivt anta en uppsättning värderingar har stor effekt i en organisati
 
 De valda värderingarna bildar en överenskommelse som bör utsättas för **regelbundna utvärderingar**.
 
-![Chosen values define constraints for collaboration](img/collaboration-values/chosen-values.png)
+![Valda värderingar definierar begränsningar för samarbete](img/collaboration-values/chosen-values.png)
 
 <div class="bottom-nav">
-<a href="adopt-the-seven-principles.html" title="Back to: Anta De Sju Principerna">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="governance-facilitator.html" title="Read next: Styrningsfacilitator">▶ Read next: Styrningsfacilitator</a>
+<a href="adopt-the-seven-principles.html" title="Tillbaka till: Anta De Sju Principerna">◀</a> <a href="enablers-of-collaboration.html" title="Upp: Främja samarbete">▲</a> <a href="governance-facilitator.html" title="Läs vidare: Facilitator för strukturell styrning">▶ Läs vidare: Facilitator för strukturell styrning</a>
 </div>
 
 

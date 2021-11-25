@@ -1,9 +1,9 @@
 ---
-title: "Inspiration och historia bakom Sociokrati 3.0"
+title: "Inspiration till och historien bakom Sociokrati 3.0"
 ---
 
 
-![Influences and history of Sociocracy 3.0](img/context/history.png)
+![Inspiration till och historien bakom Sociokrati 3.0](img/context/history.png)
 
 Den bokstavliga innebörden av termen **sociokrati** är "kamraternas styre": *socio* - från latinets *socius* - som betyder "följeslagare", eller "vän", och suffixet *-cracy* - från den forntida grekiskans κρα<unk> τος (kra<unk> tos) - som betyder "makt" eller "styre".
 
@@ -25,10 +25,10 @@ Sociokrati har visat sig vara kraftfullt för många organisationer och samhäll
 
 ## Sociokrati 3.0 - Rörelsen
 
-Då intresse för Sociocracy 3.0. växer finns det en snabbt växande gemenskap av människor från en mängd olika bakgrunder - banbrytande konsulter, coacher, utbildande facilitatorer, och personer som tillämpar S3 i sina olika sammanhang — som delar uppskattning för transformationspotentialen i Sociocracy 3.0 som kan hjälpa organisationer och deras medlemmar att blomstra. Många är vänliga nog att gärna ägna en del av sin tid åt att experimentera med och dela med sig om S3, och en del samarbetar också för att lära av varandra och dokumentera erfarenheter för att vägleda den pågående utvecklingen och förfiningen av ramverket och dess olika tillämpningar.
+Då intresset för Sociocracy 3.0. ökar finns det en snabbt växande gemenskap av människor från en mängd olika bakgrunder - banbrytande konsulter, coacher, utbildande facilitatorer, och personer som tillämpar S3 i sina olika sammanhang — som alla uppskattar transformationspotentialen i Sociocracy 3.0 som kan hjälpa organisationer och deras medlemmar att blomstra. Många är vänliga nog att gärna ägna en del av sin tid åt att experimentera med och dela med sig om S3, och en del samarbetar också för att lära av varandra och dokumentera erfarenheter för att vägleda den pågående utvecklingen och förfiningen av ramverket och dess olika tillämpningar.
 
 <div class="bottom-nav">
-<a href="contents.html" title="Back to: Vad finns i den här guiden?">◀</a> <a href="what-is-s3.html" title="Up: Vad är Sociokrati 3.0?">▲</a> <a href="why-30.html" title="Read next: Why &quot;3.0&quot;?">▶ Read next: Why &quot;3.0&quot;?</a>
+<a href="contents.html" title="Tillbaka till: Vad finns i den här handledningen?">◀</a> <a href="what-is-s3.html" title="Upp: Vad är Sociokrati 3.0?">▲</a> <a href="why-30.html" title="Läs vidare: Varför &quot;3.0&quot;?">▶ Läs vidare: Varför &quot;3.0&quot;?</a>
 </div>
 
 

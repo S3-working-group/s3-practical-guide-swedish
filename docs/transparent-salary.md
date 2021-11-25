@@ -19,10 +19,10 @@ När man beslutar (eller överenskommer) om en löneformel för en organisation 
 
 Besluta hur ersättning för förändrade roller ska hanteras och [utveckla en strategi](clarify-and-develop-strategy.html) för hur man går över till nya kontrakt och ersättningsavtal.
 
-![Two ways of opening salaries](img/process/opening-salaries.png)
+![Två sätt att öppna upp lönemodellen](img/process/opening-salaries.png)
 
 <div class="bottom-nav">
-<a href="contract-for-successful-collaboration.html" title="Back to: Kontrakt för framgångsrikt samarbete">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="support-role.html" title="Read next: Stödjande roll">▶ Read next: Stödjande roll</a>
+<a href="contract-for-successful-collaboration.html" title="Tillbaka till: Kontrakt för framgångsrikt samarbete">◀</a> <a href="enablers-of-collaboration.html" title="Upp: Främja samarbete">▲</a> <a href="support-role.html" title="Läs vidare: Stödjande roll">▶ Läs vidare: Stödjande roll</a>
 </div>
 
 

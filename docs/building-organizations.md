@@ -27,7 +27,7 @@ title: "Bygga organisationer"
   <dd><p><strong>Samla ett team av likvärdiga människor med mandat att agera på en specifik uppsättning behov som definierats av en delegator.</strong></p></dd>
 
   <dt><a href="open-domain.html">Öppen domän</a></dt>
-  <dd><p><strong>Avsiktligt skapa ansvar för en domän via inbjudan, snarare än genom utpekning och begäran, så att de inbjudna kan bidra när de kan.</strong></p></dd>
+  <dd><p><strong>Avsiktligt skapa ansvarighet för en domän genom att bjuda in, snarare än genom att peka ut, och begära att de inbjudna bidrar när de kan.</strong></p></dd>
 
   <dt><a href="open-systems.html">Öppna system</a></dt>
   <dd><p><strong>Kommunicera medvetet med och lär av andra utanför ditt system.</strong></p></dd>
@@ -36,7 +36,7 @@ title: "Bygga organisationer"
 
 
 <div class="bottom-nav">
-<a href="bylaws.html" title="Back to: Stadgar">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="delegate-influence.html" title="Read next: Delegera inflytande">▶ Read next: Delegera inflytande</a>
+<a href="bylaws.html" title="Tillbaka till: Stadgar">◀</a> <a href="patterns.html" title="Upp: Mönstren">▲</a> <a href="delegate-influence.html" title="Läs vidare: Delegera inflytande">▶ Läs vidare: Delegera inflytande</a>
 </div>
 
 

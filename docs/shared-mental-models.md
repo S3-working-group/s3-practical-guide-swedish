@@ -8,13 +8,13 @@ title: "Princip 10 – Bygg gemensamma mentala modeller"
 
 Viktiga möster för att hjälpa till att uppnå detta är:
 
--   [Navigate via Tension](navigate-via-tension.html) – Everyone in the organization paying attention for situations that might benefit from building or refining a shared mental model,  gets people on the same page so that they can engage in productive dialogue.
--   [Clarify and Develop Domains](clarify-and-develop-domains.html) – Explicitly clarifying and documenting areas of  responsibility ensures a shared mental model regarding expectations and responsibilities.
--   [Clarify Intended Outcome](clarify-intended-outcome.html) – By first agreeing on the intended outcome of a proposed activity, project or agreement, people develop shared understanding of where things should be headed and can then engage in productive dialog about how to get there.
+-   [Navigera via spänning](navigate-via-tension.html) – Om alla i organisationen är uppmärksamma på situationer där man skulle kunna dra nytta av att bygga eller förfina en gemensam mental modell får man människor att se saker ur samma perspektiv så att de kan föra en produktiv dialog.
+-   [Tydliggör och utveckla domäner](clarify-and-develop-domains.html) – Att tydliggöra och dokumentera ansvarsområden säkrar en gemensam mental modell avseende förväntningar och ansvar.
+-   [Förtydliga avsett utfall](clarify-intended-outcome.html) – Genom att först komma överens om det avsedda utfallet av en föreslagen aktivitet, projekt eller överenskommelse, utvecklar människor en gemensam förståelse för åt vilket håll saker bör utvecklas och kan sedan föra en produktiv dialog om hur man når dit.
 
 
 <div class="bottom-nav">
-<a href="develop-culture.html" title="Back to: Princip 9 – Utveckla kulturen medvetet">◀</a> <a href="transformation.html" title="Up: Tre principer för transformation">▲</a> <a href="where-to-start.html" title="Read next: Var ska man börja?">▶ Read next: Var ska man börja?</a>
+<a href="develop-culture.html" title="Tillbaka till: Princip 9 – Utveckla kulturen medvetet">◀</a> <a href="transformation.html" title="Upp: Tre principer för transformation">▲</a> <a href="where-to-start.html" title="Läs vidare: Var ska man börja?">▶ Läs vidare: Var ska man börja?</a>
 </div>
 
 

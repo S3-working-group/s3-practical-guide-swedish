@@ -5,7 +5,7 @@ title: "Beskriv organisatoriska drivkrafter"
 
 <strong>Beskriv organisatoriska drivkrafter för att förstå, kommunicera och komma ihåg dem.</strong>
 
-Att beskriva <a href="#" class="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivkrafter</a> kan göras av en grupp eller av en enstaka person. Beroende på deras perspektiv kan de bestämma sig för att beskriva en drivkraft som ett **problem** att lösa eller en **möjlighet** att utnyttja.
+Att beskriva <a href="#" class="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkrafter</a> kan göras av en grupp eller av en enstaka person. Beroende på deras perspektiv kan de bestämma sig för att beskriva en drivkraft som ett **problem** att lösa eller en **möjlighet** att utnyttja.
 
 Ett enkelt sätt att beskriva en drivkraft är genom att förklara:
 
@@ -16,7 +16,7 @@ Ett enkelt sätt att beskriva en drivkraft är genom att förklara:
     - **behovet** som organisationen har i förhållande till denna situation
     - den **effekt** som ett åtgärdande av behovet kan få
 
-Skapa en kort men allsidig sammanfattning som innehåller precis tillräckligt med information för att tydligt förmedla behovet av en åtgärd eller ett beslut.
+Skapa en kort men mångsidig sammanfattning som innehåller precis tillräckligt med information för att tydligt förmedla behovet av en åtgärd eller ett beslut.
 
 Sikta på en eller två meningar, så att informationen är lätt att komma ihåg och bearbeta.
 
@@ -51,9 +51,9 @@ Förklara hur organisationen påverkas av denna situation:
 
 > *"Vi behöver köket i ett användbart skick..."*
 
-Förklara organisationens <a href="#" class="tooltip" title="Behov: The lack of something wanted or deemed necessary (a requirement).">behov</a> i förhållande till denna situation:
+Förklara organisationens <a href="#" class="tooltip" title="Behov: Avsaknad av något som önskas eller anses nödvändigt (ett krav).">behov</a> i förhållande till denna situation:
 
-- En **organisations behov** kan vara vad som helst som ett team (eller person) behöver för att på ett effektivt sätt ansvara för en <a href="#" class="tooltip" title="Domän: A distinct area of influence, activity and decision making within an organization.">domän</a>.
+- En **organisations behov** kan vara vad som helst som ett team (eller person) behöver för att på ett effektivt sätt ansvara för en <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domän</a>.
 - Var tydlig med vems behov det är ("vi behöver", "de behöver", "jag behöver").
 - Om det finns oenighet om behovet kan det hjälpa att zooma ut från specifika lösningar och fokusera på vad organisationen saknar i denna situation.
 
@@ -63,7 +63,7 @@ Förklara organisationens <a href="#" class="tooltip" title="Behov: The lack of 
 
 Beskriv effekten av att ta hand om behovet:
 
-- Förklara den <a href="#" class="tooltip" title="Avsedd effekt: The expected result of an agreement, action, project or strategy.">avsedda effekten</a>, potentiella fördelar eller möjligheter.
+- Förklara det <a href="#" class="tooltip" title="Avsett utfall: Det förväntade utfallet av en överenskommelse, ett projekt, en åtgärd eller strategi.">avsedda utfallet</a>, potentiella fördelar eller möjligheter.
 - Effekten kan vara uppenbar eller implicit, särskilt när påverkan av den nuvarande situationen redan har beskrivits.
 
 ## Utvärdera drivkrafter
@@ -78,7 +78,7 @@ Värdefulla frågor vid en sådan utvärdering kan vara:
 - Är drivkraften fortfarande relevant?
 
 <div class="bottom-nav">
-<a href="navigate-via-tension.html" title="Back to: Navigera via spänning">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="consent-decision-making.html" title="Read next: Samtyckesbeslut">▶ Read next: Samtyckesbeslut</a>
+<a href="navigate-via-tension.html" title="Tillbaka till: Navigera via spänning">◀</a> <a href="co-creation-and-evolution.html" title="Upp: Samskapande och utveckling">▲</a> <a href="consent-decision-making.html" title="Läs vidare: Samtyckesbeslut">▶ Läs vidare: Samtyckesbeslut</a>
 </div>
 
 

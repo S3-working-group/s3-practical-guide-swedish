@@ -7,14 +7,14 @@ title: "Begränsa pågående arbete"
 
 Till pågående uppgifter räknas t.ex
 
-- antalet punkter i en <a href="#" class="tooltip" title="Planeringslista: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">planeringslista</a>
+- antalet punkter i en <a href="#" class="tooltip" title="Planeringslista: En lista av (ofta prioriterade, ordnade) oavslutade uppgifter (leverabler eller drivkrafter) som behöver åtgärdas.">planeringslista</a>
 - samtidiga projekt eller uppgifter för team eller individer
 - produkter i en produktportfölj
 
 När igångsättandet av ett arbete skulle överskrida en överenskommen gräns för samtidigt pågående arbete, måste detta tas upp med teamet innan det påbörjas.
 
 <div class="bottom-nav">
-<a href="pull-system-for-work.html" title="Back to: Starta arbete vid ledig kapacitet">◀</a> <a href="organizing-work.html" title="Up: Organisera arbete">▲</a> <a href="timebox-activities.html" title="Read next: Tidsbegränsa aktiviteter">▶ Read next: Tidsbegränsa aktiviteter</a>
+<a href="pull-system-for-work.html" title="Tillbaka till: Flödesorientera arbetet">◀</a> <a href="organizing-work.html" title="Upp: Organisera arbete">▲</a> <a href="timebox-activities.html" title="Läs vidare: Tidsbegränsa aktiviteter">▶ Läs vidare: Tidsbegränsa aktiviteter</a>
 </div>
 
 

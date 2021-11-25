@@ -14,7 +14,7 @@ Den praktiska guiden finns i andra format och språk på [https://sociocracy30.o
 **Följ oss på twitter:** *@sociocracy30*
 
 <div class="bottom-nav">
-<a href="pattern-index.html" title="Back to: Alfabetisk lista över alla mönster">◀</a> <a href="appendix.html" title="Up: Bilagor">▲</a> <a href="license.html" title="Read next: Licens">▶ Read next: Licens</a>
+<a href="pattern-index.html" title="Tillbaka till: Alfabetisk lista över alla mönster">◀</a> <a href="appendix.html" title="Upp: Bilagor">▲</a> <a href="license.html" title="Läs vidare: Licens">▶ Läs vidare: Licens</a>
 </div>
 
 

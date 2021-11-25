@@ -16,7 +16,7 @@ I en gruppincheckning, tillåt att deltagare avböjer.
 När man checkar in i en ny miljö kan man också säga sitt namn och var man kommer ifrån, som ett sätt att presentera sig själv. (Tips: Undvik att tala om din funktion, rang mm. om det inte finns en speciell anledning att göra det.)
 
 <div class="bottom-nav">
-<a href="prepare-for-meetings.html" title="Back to: Förbered möten">◀</a> <a href="meeting-practices.html" title="Up: Mötespraxis">▲</a> <a href="evaluate-meetings.html" title="Read next: Utvärdera möten">▶ Read next: Utvärdera möten</a>
+<a href="prepare-for-meetings.html" title="Tillbaka till: Förbered möten">◀</a> <a href="meeting-practices.html" title="Upp: Mötestekniker">▲</a> <a href="evaluate-meetings.html" title="Läs vidare: Utvärdera möten">▶ Läs vidare: Utvärdera möten</a>
 </div>
 
 

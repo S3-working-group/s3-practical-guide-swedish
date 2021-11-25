@@ -8,16 +8,16 @@ title: "Princip 9 – Utveckla kulturen medvetet"
 
 Viktiga möster för att hjälpa till att uppnå detta är:
 
--   [Artful Participation](artful-participation.html) – Introducing the concept of Artful Participation to people, invites them to pay conscious attention to how they contribute and to make changes when they realize their current approach can be improved.
--   [Adopt the Seven Principles](adopt-the-seven-principles.html) – The seven principles provide guidelines for behavior that enable a productive, engaging and cooperative culture.
--   [Agree on Values](agree-on-values.html) – Agreement on fundamental guidelines for behavior in the organization, define ethical parameters for action and facilitate coherence.
--   [Evaluate and Evolve Agreements](evaluate-and-evolve-agreements.html) – Regular review and intentional evolution of agreements relating to culture, helps keep them alive in the consciousness of the people and identify when and how they can be improved.
--   [Contract for Successful Collaboration](contract-for-successful-collaboration.html) – Co-creating mutually beneficial agreements for collaboration from the start, supports building and maintaining an engaging and productive working environment and a culture of trust between parties.
--   [Create a Pull-System for Organizational Change](create-a-pull-system-for-organizational-change.html) – Distributing the responsibility for developing culture to everybody, invites proactivity in addressing challenges and opportunities as they arise.
+-   [Skickligt deltagande](artful-participation.html) – Att introducera begreppet "Skickligt deltagande" gör alla medvetna om hur de bidrar och får dem att göra förändringar när de inser hur deras nuvarande tillvägagångssätt kan utvecklas vidare.
+-   [Anta de sju principerna](adopt-the-seven-principles.html) – De sju principerna ger riktlinjer för beteende som möjliggör en produktiv, engagerande och kooperativ kultur.
+-   [Enas om värderingar](agree-on-values.html) – Samsyn kring grundläggande riktlinjer för beteende i organisationen definierar de etiska parametrarna för hur man agerar och underlättar samstämmighet.
+-   [Utvärdera och förädla överenskommelser](evaluate-and-evolve-agreements.html) – Regelbunden utvärdering och medveten utveckling av överenskommelserna avseende kultur håller dem levande i medvetandet hos människorna och gör det lättare att identifiera när och hur de kan förbättras.
+-   [Kontrakt för framgångsrikt samarbete](contract-for-successful-collaboration.html) – Att tillsammans skapa ömsesidigt fördelaktiga överenskommelser för samarbete redan från början stöder uppbyggnaden och upprätthållandet av en engagerande och produktiv arbetsmiljö och en kultur av förtroende mellan parter.
+-   [Skapa ett flödesbaserat system för organisatorisk förändring](create-a-pull-system-for-organizational-change.html) – Att fördela ansvaret för att utveckla kulturen på alla inbjuder till proaktivitet i att ta itu med utmaningar och möjligheter närhelst de uppstår.
 
 
 <div class="bottom-nav">
-<a href="invest-in-learning.html" title="Back to: Princip 8 – Satsa på lärande">◀</a> <a href="transformation.html" title="Up: Tre principer för transformation">▲</a> <a href="shared-mental-models.html" title="Read next: Princip 10 – Bygg gemensamma mentala modeller">▶ Read next: Princip 10 – Bygg gemensamma mentala modeller</a>
+<a href="invest-in-learning.html" title="Tillbaka till: Princip 8 – Satsa på lärande">◀</a> <a href="transformation.html" title="Upp: Tre principer för transformation">▲</a> <a href="shared-mental-models.html" title="Läs vidare: Princip 10 – Bygg gemensamma mentala modeller">▶ Läs vidare: Princip 10 – Bygg gemensamma mentala modeller</a>
 </div>
 
 

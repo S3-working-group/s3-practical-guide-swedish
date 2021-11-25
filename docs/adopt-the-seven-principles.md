@@ -14,7 +14,7 @@ En organisations värderingar måste omfatta De Sju Principerna.
 ![En organisations värderingar måste omfatta De Sju Principerna](img/collaboration-values/values-7principles.png)
 
 <div class="bottom-nav">
-<a href="artful-participation.html" title="Back to: Skickligt deltagande">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="agree-on-values.html" title="Read next: Enas om värderingar">▶ Read next: Enas om värderingar</a>
+<a href="artful-participation.html" title="Tillbaka till: Skickligt deltagande">◀</a> <a href="enablers-of-collaboration.html" title="Upp: Främja samarbete">▲</a> <a href="agree-on-values.html" title="Läs vidare: Enas om värderingar">▶ Läs vidare: Enas om värderingar</a>
 </div>
 
 

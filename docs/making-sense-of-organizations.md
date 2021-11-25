@@ -15,10 +15,10 @@ Här beskrivs också hur dessa begrepp förhåller sig till värde (och spill), 
 
 När man förstår dessa begrepp, ger det ett gemensamt språk för att tydligt beskriva vad som händer i organisationen. Detta bidrar till att öka den delade förståelsen och möjliggör en konstruktiv dialog om vad som behöver göras.
 
-Slå upp begrepp du inte kan förklara i begreppslistan i slutet.
+Du kan slå upp begrepp du vill ha en förklaring till i begreppslistan i slutet.
 
 <div class="bottom-nav">
-<a href="principles.html" title="Back to: De Sju Principerna">◀</a> <a href="driver.html" title="Read next: Drivkrafter">▶ Read next: Drivkrafter</a>
+<a href="principles.html" title="Tillbaka till: De Sju Principerna">◀</a> <a href="driver.html" title="Läs vidare: Drivkrafter">▶ Läs vidare: Drivkrafter</a>
 </div>
 
 

@@ -3,7 +3,7 @@ title: "Drivkrafter"
 ---
 
 
-_A **driver** is a person’s or a group's motive for responding to a specific situation._
+_En **drivkraft** är en persons eller grupps motiv för att svara på en specifik situation._
 
 Drivkrafter:
 
@@ -12,9 +12,9 @@ Drivkrafter:
 
 ## Drivkrafter, värde och spill
 
-_**Value** is the importance, worth or usefulness of something in relation to a driver._
+_**Värde** är vikten, värdet, nyttan eller användbarheten av något i förhållande till en drivkraft._
 
-_**Waste** is anything unnecessary for — or standing in the way of — a (more) effective response to a driver._
+_**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för en (mer) ändamålsenlig respons på en drivkraft._
 
 Genom att anamma begreppen värde och spill, kan många metoder och idéer från **lean production** och **lean software development** användas av organisationer som börjar använda mönster från S3:
 
@@ -23,7 +23,7 @@ Genom att anamma begreppen värde och spill, kan många metoder och idéer från
 - Kanban-metoden
 
 <div class="bottom-nav">
-<a href="making-sense-of-organizations.html" title="Up: Nyckelbegrepp för att förstå organisationer">▲</a> <a href="domain.html" title="Read next: Domän">▶ Read next: Domän</a>
+<a href="making-sense-of-organizations.html" title="Upp: Nyckelbegrepp för att förstå organisationer">▲</a> <a href="domain.html" title="Läs vidare: Domän">▶ Läs vidare: Domän</a>
 </div>
 
 

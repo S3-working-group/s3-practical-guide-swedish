@@ -1,14 +1,14 @@
 ---
-title: "Styrningsfacilitator"
+title: "Facilitator för strukturell styrning"
 ---
 
 
-<strong>Välj någon för att facilitera möten för strukturell styrning.</strong>
+<strong>Välj någon att facilitera mötena för strukturell styrning.</strong>
 
-En facilitator för <a href="#" class="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives."> strukturell styrning</a>:
+En facilitator för <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål."> strukturell styrning</a>:
 
 - säkerställer att [möten för strukturell styrning](governance-meeting.html) fokuserar på rätt saker och utvärderas
-- väljs (oftast) av ett <a href="#" class="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> bland dess medlemmar (och för en viss period)
+- väljs (oftast) av ett <a href="#" class="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a> bland dess medlemmar (och för en viss period)
 - bekantar sig med [planeringslistan för strukturell styrning](governance-backlog.html)
 - bjuder ofta in andra att facilitera vissa punkter på dagordningen
 
@@ -16,16 +16,16 @@ Som facilitator för möten för strukturell styrning bör du överväga att lä
 
 - [Rundor](rounds.html)
 - [Förslagsformulering](proposal-forming.html)
-- [Consent Decision Making](consent-decision-making.html)
+- [Samtyckesbeslut](consent-decision-making.html)
 - [Rollutnämning](role-selection.html)
 - [Utvärdera möten](evaluate-meetings.html)
 - [Lös upp invändningar](resolve-objections.html)
 - [Kollegial utvärdering](peer-review.html)
 
-![The governance facilitator is typically a member of the team](img/circle/facilitator.png)
+![Facilitatorn för strukturell styrning är vanligtvis en medlem av teamet](img/circle/facilitator.png)
 
 <div class="bottom-nav">
-<a href="agree-on-values.html" title="Back to: Enas om värderingar">◀</a> <a href="enablers-of-collaboration.html" title="Up: Enablers of Collaboration">▲</a> <a href="breaking-agreements.html" title="Read next: Bryta överenskommelser">▶ Read next: Bryta överenskommelser</a>
+<a href="agree-on-values.html" title="Tillbaka till: Enas om värderingar">◀</a> <a href="enablers-of-collaboration.html" title="Upp: Främja samarbete">▲</a> <a href="breaking-agreements.html" title="Läs vidare: Bryta överenskommelser">▶ Läs vidare: Bryta överenskommelser</a>
 </div>
 
 

@@ -3,47 +3,61 @@ title: "Strukturell styrning och operationell verksamhet"
 ---
 
 
-S3 strävar efter att möjliggöra produktivitet genom att låta människor att göra och bestämma så mycket som möjligt för sig själva, samtidigt som man säkerställer samstämmighet i samverkan för en framgångsrik och effektiv organisation.
+När människor tänker på styrning ("governance") tänker de ofta på bolagsstyrning, regelverk, praxis och processer som används för att styra och leda företaget. Traditionellt har många av dessa beslut ansett vara en uppgift för chefer och ledare i en organisatorisk ledningshierarki, men många andra över hela organisationen fattar ofta, eller åtminstone bidrar till, beslut om strukturell styrning, oavsett om de är medvetna om det eller inte. Den strukturella styrningen sker inte bara i den hierarkiska organisationsstrukturen utan även inom team, arbetsgrupper och till och med på individuell nivå.
 
-Större självständighet för individer och team kräver tydliga överenskommelser (dvs. riktlinjer och begränsningar) som möjliggör ett smidigt samarbete mellan dessa team och personer, och som stöder uppnåendet av både långsiktiga och kortsiktiga mål. Regelbunden och återkommande granskning och successiv utveckling av överenskommelser säkrar att de förblir lämpliga för ändamålet.
+De flesta av dagens organisationer och team skulle gagnas av att utveckla kapacitet för gemensamt meningsskapande och av att utnyttja en mångfald perspektiv för att ändamålsenligt fatta och utveckla de beslut som krävs för att navigera i en komplex värld.
 
-Medan ett beslut med kortsiktig och liten påverkan kan lätt ändras spontant, tjänar överenskommelser med större påverkan och som begränsar människors beteende och aktivitet, ofta på ett större deltagande och en tydlig [beslutsprocess](consent-decision-making.html).
+Eftersom det krävs så många beslut för att driva en organisation på ett ändamålsenligt sätt, strävar S3 efter att möjliggöra produktivitet genom att tillåta människor att själva göra och bestämma så mycket som möjligt men samtidigt säkerställa samstämmighet i samverkan för en framgångsrik och ändamålsenlig organisation.
 
-Such agreements need to be documented, both to remember them and to support effective [review](evaluate-and-evolve-agreements.html), and to be communicated to people affected (who are ideally also [involved in the creation and evolution](involve-those-affected.html) of those agreements).
+Större självständighet för individer och team kräver tydliga överenskommelser (dvs. riktlinjer och begränsningar) som möjliggör ett smidigt samarbete mellan dessa team och personer, och som stöder uppnåendet av både långsiktiga och kortsiktiga mål. Regelbunden och återkommande utvärdering och successiv utveckling av överenskommelser säkrar att de förblir lämpliga för ändamålet.
+
+Medan ett beslut med kortsiktig och liten påverkan lätt kan ändras spontant, tjänar överenskommelser med större påverkan och som begränsar människors beteende och aktivitet, ofta på ett större deltagande och en tydlig [beslutsprocess](consent-decision-making.html). Dessa överenskommelser omfattar men är inte begränsade till frågor som: strategi, prioriteringar, fördelning av ansvar och makt att påverka, arbetsprocesser och många beslut om produkter och tjänster.
+
+Sådana överenskommelser måste dokumenteras, både för att man skall minnas dem och för att stödja ändamålsenlig [utvärdering](evaluate-and-evolve-agreements.html), men också för att kunna kommuniceras till berörda människor (som lämpligtvis också är [involverade i skapandet och förädlingen](involve-those-affected.html) av dessa överenskommelser).
 
 Därför är det värdefullt att skilja mellan två kategorier av aktiviteter i en organisation, en av dem kallar vi strukturell styrning och den andra operationell verksamhet:
 
-_**Governance** in an organization (or a domain within it) is the process of setting objectives and making and evolving decisions that guide people towards achieving those objectives._
+_**Strukturell styrning** i en organisation (eller en domän inom den) är processen att sätta upp mål och fatta och förfina beslut som vägleder människor mot att uppnå dessa mål._
 
-_**Operations** is doing the work and organizing day-to-day activities within the constraints defined through governance._
+_**Operativ verksamhet** är att organisera, planera och utföra de dagliga aktiviteterna inom de begränsningar som definierats genom strukturell styrning._
 
 För varje domän i en organisation finns det ett *strukturellt styrande organ*: personer med mandat att ingå och utveckla överenskommelser som styr hur de människor som utför arbetet inom området skapar värde.
 
-Det finns många sätt att fördela arbete och strukturell styrning. Ibland är det strukturellt styrande organet en enda person, t.ex. när det gäller en teamledare, och ibland är det en grupp människor, t.ex. – i en cirkel där alla cirkelmedlemmar delar ansvaret för den strukturella styrningen inom domänens begränsningar.
+Det finns många sätt att fördela arbete och strukturell styrning. Ibland är det styrande organet en enda person, t.ex. när det gäller en chef som leder andra. I andra fall styr en [grupp av människor sig själva](circle.html) och alla medlemmar delar ansvaret för den strukturella styrningen inom deras område.
 
-**Beslut om strukturell styrning** sätter begränsningar och vägleder framtida beslut i den operationella verksamheten.
+**Beslut om strukturell styrning** sätter begränsningar på aktiviteter och vägleder framtida beslut. De rör till exempel frågor som:
 
-Detta inkluderar:
+- Arbetsprocesser
+- Policy och rutiner för hur människor arbetar tillsammans
+- Organisationsstruktur: 
+    - Fördela ansvar och makt att påverka genom att skapa domäner och välja personer att ansvara för dem
+    - Ansvarighet för beroenden mellan team
+- Fördelning av resurser
+- Strategi (för hela organisationen, för ett team, produkt eller roll), 
+- Prioriteringar och mål
+- Följdbeslut om produkter, tjänster, verktyg, teknik, säkerhet etc.
 
-- definiera domäner
-- delegera inflytande till människor
-- allokera resurser och kapacitet
-- beskriva leverabler och prioritera leverans.
+Beroende på sammanhanget kan en grupp fatta strukturella styrningsbeslut:
 
-Beslut om strukturell styrning kan fattas när som helst och var som helst, inte bara vid ett specifikt möte, även om ett [återkommande möte där man ingår och förfinar överenskommelser](governance-meeting.html) ofta är en bra idé.
+- i dedikerade [möten för strukturell styrning](governance-meeting.html) som planeras in regelbundet
+- i farten, under arbetsdagen
+- i ett separat möte för att ta itu med ett specifikt ämne
+- i andra typer av möten såsom produktmöten, [planeringsmöten](planning-and-review-meetings.html) eller [retrospektiv](retrospective.html), etc.
+
+Var och när beslut om styrning fattas är det värt att tänka på att [dokumentera dem på något sätt](record-agreements.html). På så sätt kommer man att kunna komma ihåg vad som överenskommits, och det finns något att komma tillbaka till när det är dags att utvärdera.
 
 ## Relaterade begrepp
 
-**Självstyrning:** People governing themselves within the constraints of a domain.
+**Självstyrning:** Människor som själva fattar beslut om den strukturella styrning inom en domän.
 
-**Halv-autonomi:** The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.
+**Halv-autonomi:** Människors självständighet att själva bestämma hur man skapar värde, inom ramen för begränsningarna i deras domän, och genom invändningar från delegatorn, representanter eller andra.
 
-**Självorganisation:** Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).
+**Självorganisering:** Alla aktiviteter eller processer genom vilka människor organiserar arbete. Självorganisering sker inom begränsningarna av ett område, men utan direkt inflytande av externa agenter. I varje organisation eller grupp samexisterar självorganisation med externt inflytande (t.ex. externa invändningar eller styrningsbeslut som påverkar domänen).
 
-Beroende på de begränsningar som delegatorn har satt upp har team mer eller mindre frihet att bedriva strukturell styrning och bestämma hur de organiserar sin operationella verksamhet, och är därför mer eller mindre självstyrande och självorganiserande.
+Beroende på de begränsningar som delegatorn har satt upp har delegaten eller teamet mer eller mindre frihet att bedriva strukturell styrning och bestämma hur de organiserar sin operationella verksamhet, och är därför mer eller mindre självstyrande och självorganiserande.
 
 <div class="bottom-nav">
-<a href="agreement.html" title="Back to: Överenskommelser">◀</a> <a href="making-sense-of-organizations.html" title="Up: Nyckelbegrepp för att förstå organisationer">▲</a> <a href="patterns.html" title="Read next: The Patterns">▶ Read next: The Patterns</a>
+<a href="agreement.html" title="Tillbaka till: Överenskommelser">◀</a> <a href="making-sense-of-organizations.html" title="Upp: Nyckelbegrepp för att förstå organisationer">▲</a> <a href="patterns.html" title="Läs vidare: Mönstren">▶ Läs vidare: Mönstren</a>
 </div>
 
 

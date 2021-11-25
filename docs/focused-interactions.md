@@ -6,13 +6,13 @@ title: "Fokuserade interaktioner"
 <dl>
 
   <dt><a href="governance-meeting.html">Möte för strukturell styrning</a></dt>
-  <dd><p><strong>Teamen träffas med jämna mellanrum för att bestämma vad de ska göra för att uppnå målsättningarna, och för att avgränsa hur och när saker ska göras.</strong></p></dd>
+  <dd><p><strong>Team träffas med jämna mellanrum för att bestämma vad de ska göra för att uppnå målsättningarna, och för att avgränsa hur och när saker ska göras.</strong></p></dd>
 
   <dt><a href="retrospective.html">Återblick</a></dt>
   <dd><p><strong>Reservera tid för att reflektera över tidigare erfarenheter och lärdomar och bestämma hur man kan förbättra arbetsprocessen.</strong></p></dd>
 
-  <dt><a href="daily-standup.html">Daglig planering</a></dt>
-  <dd><p><strong>Träffas dagligen för att organisera arbetet, underlätta inlärning och förbättra produktivitet och effekt.</strong></p></dd>
+  <dt><a href="daily-standup.html">Dagligt planeringsmöte</a></dt>
+  <dd><p><strong>Träffas dagligen för att organisera arbetet, underlätta inlärning och förbättra produktivitet och verkan.</strong></p></dd>
 
   <dt><a href="planning-and-review-meetings.html">Planerings- och utvärderingsmöten</a></dt>
   <dd><p><strong>Människor träffas med jämna mellanrum (1-4 veckor) i tidsbegränsade möten för att planera och utvärdera arbetet.</strong></p></dd>
@@ -23,7 +23,7 @@ title: "Fokuserade interaktioner"
 
 
 <div class="bottom-nav">
-<a href="logbook-keeper.html" title="Back to: Logbook Keeper">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="governance-meeting.html" title="Read next: Möte för strukturell styrning">▶ Read next: Möte för strukturell styrning</a>
+<a href="logbook-keeper.html" title="Tillbaka till: Sekreterare">◀</a> <a href="patterns.html" title="Upp: Mönstren">▲</a> <a href="governance-meeting.html" title="Läs vidare: Möte för strukturell styrning">▶ Läs vidare: Möte för strukturell styrning</a>
 </div>
 
 

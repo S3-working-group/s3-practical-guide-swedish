@@ -4,11 +4,11 @@ title: "Tre principer för navigering"
 
 
 
-![Three Principles for Navigation: Focus on Value – Sense & Respond – Run Experiments](img/csf/csf-light-navigation.png)
+![Tre principer för navigering: Fokus på värde – Känn av & agera – Experimentera](img/csf/csf-light-navigation.png)
 
 
 <div class="bottom-nav">
-<a href="develop-strategy.html" title="Back to: Princip 2 – Utveckla strategi">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="focus-on-value.html" title="Read next: Princip 3 – Fokusera på värde">▶ Read next: Princip 3 – Fokusera på värde</a>
+<a href="develop-strategy.html" title="Tillbaka till: Princip 2 – Utveckla strategi">◀</a> <a href="csf.html" title="Upp: Ett ramverk för sunt förnuft i organisationer och team">▲</a> <a href="focus-on-value.html" title="Läs vidare: Princip 3 – Fokusera på värde">▶ Läs vidare: Princip 3 – Fokusera på värde</a>
 </div>
 
 

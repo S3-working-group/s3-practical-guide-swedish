@@ -3,28 +3,42 @@ title: "De Sju Principerna"
 ---
 
 
-Sociocracy 3.0 is built on seven foundational principles which enable sociocratic and agile collaboration. Eftersom de sju principerna återspeglas i alla mönster, är det viktigt att förstå dessa principer för att införa, och av största vikt när man anpassar, mönster från Sociokrati 3.0.
+Sociokrati 3.0 bygger på sju grundläggande principer som möjliggör socokratisk och agil samverkan. Eftersom de sju principerna återspeglas i alla mönster, är det viktigt att förstå dessa principer för att införa, och av största vikt när man anpassar, mönster från Sociokrati 3.0.
 
-Att utöva Sociokrati 3.0 hjälper människor att uppskatta det väsentliga värde som dessa principer ger – både för individer och organisationer – och stödjer deras integration i organisationskulturen.
+Att utöva Sociokrati 3.0 hjälper människor att uppskatta det fundamentala värde som dessa principer ger – både för individer och organisationer – och stödjer deras integration i organisationskulturen.
 
 ![De Sju Principerna](img/framework/s3-principles-plain.png)
 
-**The Principle of Effectiveness:** Devote time only to what brings you closer toward achieving your objectives.
+**[Principen om ändamålsenlighet](principle-effectiveness.html):**
 
-**The Principle of Consent:** Raise, seek out and resolve objections to decisions and actions.
+***Lägg endast tid på sådant som leder närmare organisationens övergripande mål**, så att den begränsade tid, energi och resurs som finns tillgänglig används på bästa sätt.*
 
-**The Principle of Empiricism:** Test all assumptions you rely on, through experiments and continuous revision.
+**[Principen om samtycke](principle-consent.html):**
 
-**The Principle of Continuous Improvement:** Change incrementally to accommodate steady empirical learning.
+***Ta upp, undersök och lös upp invändningar mot beslut och åtgärder** så att risken för oönskade konsekvenser minskar och eventuella värdefulla sätt att förbättra kan upptäckas.*
 
-**The Principle of Equivalence:** Involve people in making and evolving decisions that affect them.
+**[Principen om empiri](principle-empiricism.html):**
 
-**The Principle of Transparency:** Record all information that is valuable for the organization, and make it accessible to everyone, unless there is a reason for confidentiality.
+***Pröva alla antaganden du är beroende av genom experiment och kontinuerlig revidering** så att du lär dig snabbt, förstår och kan navigera så ändamålsenligt som möjligt.*
 
-**The Principle of Accountability:** Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.
+**[Principen om ständig förbättring](principle-continuous-improvement.html):**
+
+***Granska regelbundet utfallet av det du gör, och gör sedan stegvisa förbättringar av vad du gör och hur du gör det baserat på vad du lär dig** så att du kan anpassa dig till förändringar när det behövs, och upprätthålla eller förbättra ändamålsenligheten över tid.*
+
+**[Principen om likvärdighet](principle-equivalence.html):**
+
+***Engagera människor i att fatta och förfina beslut som påverkar dem** så att du ökar engagemanget och ansvarstagandet, och utnyttjar den distribuerade intelligensen för att uppnå och utveckla dina mål.*
+
+**[Principen om öppenhet](principle-transparency.html):**
+
+***Anteckna all information som är värdefull för organisationen och gör den tillgänglig för alla i organisationen, såvida det inte finns någon speciell anledning till sekretess** så att alla har den information de behöver för att förstå hur man gör sitt arbete på ett sätt som så ändamålsenligt som möjligt bidrar helheten.*
+
+**[Principen om ansvarighet](principle-accountability.html):**
+
+***Agera när något behövs, gör vad du överenskommit och axla din del av ansvaret för organisationens framgång** så att det som behöver göras blir gjort, ingenting förbises och alla gör vad de kan för att bidra till organisationens ändamålsmässighet och integritet.*
 
 <div class="bottom-nav">
-<a href="why-30.html" title="Back to: Why &quot;3.0&quot;?">◀</a> <a href="making-sense-of-organizations.html" title="Read next: Nyckelbegrepp för att förstå organisationer">▶ Read next: Nyckelbegrepp för att förstå organisationer</a>
+<a href="why-30.html" title="Tillbaka till: Varför &quot;3.0&quot;?">◀</a> <a href="making-sense-of-organizations.html" title="Läs vidare: Nyckelbegrepp för att förstå organisationer">▶ Läs vidare: Nyckelbegrepp för att förstå organisationer</a>
 </div>
 
 

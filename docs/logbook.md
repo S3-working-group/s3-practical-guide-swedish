@@ -7,24 +7,24 @@ title: "Loggbok"
 
 En loggbok är ett (digitalt) system där all information som är relevant för att driva en organisation och dess olika grupper lagras. Loggboken är tillgänglig för alla medlemmar i organisationen och information hålls konfidentiell endast när det finns anledning att göra det.
 
-Common platforms for logbooks are Wikis (e.g. [DokuWiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), Content Management Systems (e.g. [Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) or even [Trello](https://trello.com/).
+Vanliga plattformar för loggböcker är Wikis (t.ex. [Dokuwiki](https://www.dokuwiki.org/), [MediaWiki](https://www.mediawiki.org/), [Confluence](https://www.atlassian.com/software/confluence)), webbplattformar (t.ex. [Wordpress](https://wordpress.org/)), [G Suite](https://gsuite.google.com), [Evernote](https://evernote.com/business) eller till och med [Trello](https://trello.com/).
 
 ## Loggboksinnehåll
 
 Innehåll som rör hela organisationen:
 
-- <a href="#" class="tooltip" title="Primary Driver: The primary driver for a domain is the main driver that people who account for that domain respond to.">primär drivkraft</a>, <a href="#" class="tooltip" title="Strategi: A high level approach for how people will create value to successfully account for a domain.">strategi</a> och organisatoriska <a href="#" class="tooltip" title="Värderingar: Valued principles that guide behavior. Not to be confused with &quot;value&quot; (singular) in the context of a driver.">värden</a>
-- organisationsstruktur (<a href="#" class="tooltip" title="Domän: A distinct area of influence, activity and decision making within an organization.">domäner</a> och kopplingarna mellan dem)
-- <a href="#" class="tooltip" title="Överenskommelse: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">överenskommelser</a>
+- <a href="#" class="tooltip" title="Primär drivkraft: Den primära drivkraften för en domän är den huvudsakliga drivkraften som de personer som ansvarar för den domänen agerar på.">primär drivkraft</a>, <a href="#" class="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.">strategi</a> och organisatoriska <a href="#" class="tooltip" title="Värderingar: Värderade principer som styr beteende. Icke att förväxla med &quot;värde&quot; i samband med en drivkraft.">värderingar</a>
+- organisationsstruktur (<a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> och kopplingarna mellan dem)
+- <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a>
 
-Innehåll som rör ett specifikt team eller <a href="#" class="tooltip" title="Roll: A domain that is delegated to an individual, who then becomes the role keeper.">roll</a>:
+Innehåll som rör ett specifikt team eller <a href="#" class="tooltip" title="Roll: En domän som delegeras till en person som då blir rollinnehavare.">roll</a>:
 
 - domänbeskrivning och strategi
-- överenskommelser (inklusive <a href="#" class="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">delegaters</a> domänbeskrivningar, strategier och [utvecklingsplaner](development-plan.html))
-- <a href="#" class="tooltip" title="Planeringslista: A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.">planeringslistor</a> och annan information om arbete och <a href="#" class="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">strukturell styrning</a>
+- överenskommelser (inklusive <a href="#" class="tooltip" title="Delegat: En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.">delegaters</a> domänbeskrivningar, strategier och [utvecklingsplaner](development-plan.html))
+- <a href="#" class="tooltip" title="Planeringslista: En lista av (ofta prioriterade, ordnade) oavslutade uppgifter (leverabler eller drivkrafter) som behöver åtgärdas.">planeringslistor</a> och annan information om arbete och <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">strukturell styrning</a>
 
 <div class="bottom-nav">
-<a href="evaluation-criteria.html" title="Back to: Utvärderingskriterier">◀</a> <a href="defining-agreements.html" title="Up: Definiera avtal">▲</a> <a href="logbook-keeper.html" title="Read next: Logbook Keeper">▶ Read next: Logbook Keeper</a>
+<a href="evaluation-criteria.html" title="Tillbaka till: Utvärderingskriterier">◀</a> <a href="defining-agreements.html" title="Upp: Definiera överenskommelser">▲</a> <a href="logbook-keeper.html" title="Läs vidare: Sekreterare">▶ Läs vidare: Sekreterare</a>
 </div>
 
 

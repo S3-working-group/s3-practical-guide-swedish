@@ -3,9 +3,9 @@ title: "Mötesvärd"
 ---
 
 
-<strong>Välj någon som tar ansvar för förberedelser och uppföljning av möten, workshops eller andra evenemang.</strong>
+<strong>Välj någon som tar ansvar för förberedelser och uppföljning av möten, workshops eller andra arrangemang.</strong>
 
-En person kan ta på sig rollen som mötesvärd för ett specifikt evenemang eller för flera evenemang över en tidsperiod.
+En person kan ta på sig rollen som mötesvärd för ett specifikt arrangemang eller för flera arrangemang över en tidsperiod.
 
 ## Mötesvärdens uppgifter
 
@@ -24,7 +24,7 @@ Förberedelser:
 **Se även:** [Facilitera möten](facilitate-meetings.html), [Förbered möten](prepare-for-meetings.html)
 
 <div class="bottom-nav">
-<a href="evaluate-meetings.html" title="Back to: Utvärdera möten">◀</a> <a href="meeting-practices.html" title="Up: Mötespraxis">▲</a> <a href="governance-backlog.html" title="Read next: Planeringslista för strukturell styrning">▶ Read next: Planeringslista för strukturell styrning</a>
+<a href="evaluate-meetings.html" title="Tillbaka till: Utvärdera möten">◀</a> <a href="meeting-practices.html" title="Upp: Mötestekniker">▲</a> <a href="governance-backlog.html" title="Läs vidare: Planeringslista för strukturell styrning">▶ Läs vidare: Planeringslista för strukturell styrning</a>
 </div>
 
 

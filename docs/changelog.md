@@ -18,7 +18,7 @@ title: "Ändringslogg"
 
 ## Changes 2021-02-06
 
-- Revised glossary definitions for <a href="#" class="tooltip" title="Halv-autonomi: The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.">Semi-Autonomy</a>, <a href="#" class="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">Self-Organization</a> and <a href="#" class="tooltip" title="Sociocracy: An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.">Sociocracy</a>
+- Revised glossary definitions for <a href="#" class="tooltip" title="Halv-autonomi: Människors självständighet att själva bestämma hur man skapar värde, inom ramen för begränsningarna i deras domän, och genom invändningar från delegatorn, representanter eller andra.">Semi-Autonomy</a>, <a href="#" class="tooltip" title="Självorganisering: Alla aktiviteter eller processer genom vilka människor organiserar arbete. Självorganisering sker inom begränsningarna av ett område, men utan direkt inflytande av externa agenter. I varje organisation eller grupp samexisterar självorganisation med externt inflytande (t.ex. externa invändningar eller styrningsbeslut som påverkar domänen).">Self-Organization</a> and <a href="#" class="tooltip" title="Sociokrati: En strategi för att samorganisera där människor som påverkas av beslut kan påverka dem då det finns skäl att göra det.">Sociocracy</a>
 - Renamed Pattern: *Those Affected Decide* to *Involve Those Affected*
 - Several small corrections and revisions
 
@@ -60,7 +60,7 @@ title: "Ändringslogg"
 
 - revised all illustrations for a more consistent style and increased readability
 - revised introduction: more explanation about patterns and core concepts
-- updated glossary: revised explanation of <a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">Delegator</a>, <a href="#" class="tooltip" title="Delegatee: An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.">Delegatee</a>, <a href="#" class="tooltip" title="Roll: A domain that is delegated to an individual, who then becomes the role keeper.">Role</a> and <a href="#" class="tooltip" title="Pattern: A process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.">Pattern</a>, added <a href="#" class="tooltip" title="Role Keeper: An individual taking responsibility for a role.">Role Keeper</a>
+- updated glossary: revised explanation of <a href="#" class="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">Delegator</a>, <a href="#" class="tooltip" title="Delegat: En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.">Delegatee</a>, <a href="#" class="tooltip" title="Roll: En domän som delegeras till en person som då blir rollinnehavare.">Role</a> and <a href="#" class="tooltip" title="Mönster: En process, teknik eller riktlinje som fungerar som en mall för att framgångsrikt agera på en viss typ av utmaning eller möjlighet.">Pattern</a>, added <a href="#" class="tooltip" title="Rollinnehavare: En person som tar ansvar för en roll.">Role Keeper</a>
 
 ## Changes 2020-04-29
 
@@ -84,13 +84,13 @@ title: "Ändringslogg"
 
 ## Changes 2019-06-27
 
-- *Objection*: further refined definition of objection, and updated the glossary term for <a href="#" class="tooltip" title="Invändning: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">objection</a> accordingly
+- *Objection*: further refined definition of objection, and updated the glossary term for <a href="#" class="tooltip" title="Invändning: Ett argument som rör en (föreslagen) överenskommelse, åtgärd eller beslut och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar.">objection</a> accordingly
 - replaced "action" with activity in a few places where it made more sense
 - fixed a few typos
 
 ## Changes 2019-05-03
 
-- refined glossary terms for <a href="#" class="tooltip" title="Överenskommelse: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">agreement</a>, <a href="#" class="tooltip" title="Organisation: A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.">organization</a> and <a href="#" class="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a>, added glossary term for <a href="#" class="tooltip" title="Objective: A (specific) result that a person or team or organization wants to achieve; an aim or a goal.">objective</a>
+- refined glossary terms for <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">agreement</a>, <a href="#" class="tooltip" title="Organisation: En grupp människor som samarbetar mot en delad drivkraft (eller mål). Ofta delas en organisation upp i flera grupper.">organization</a> and <a href="#" class="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a>, added glossary term for <a href="#" class="tooltip" title="Mål: Ett (specifikt) resultat som en person eller grupp eller organisation vill uppnå, en målsättning eller ambition.">objective</a>
 - Principle of Accountability: clarified individual accountability for work as well as for collaboration
 - [Contract For Successful Collaboration](contract-for-successful-collaboration.html): revised text
 - [Describe Deliverables](describe-deliverables.html): added User Stories as an example for describing deliverables
@@ -114,10 +114,10 @@ title: "Ändringslogg"
 
 **Begreppslista:**
 
-- added <a href="#" class="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> to glossary (and replaced group with team throughout the practical guide where applicable)
-- updated definition for <a href="#" class="tooltip" title="Deliverable: A product, service, component or material provided in response to an organizational driver.">deliverable</a>
+- added <a href="#" class="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a> to glossary (and replaced group with team throughout the practical guide where applicable)
+- updated definition for <a href="#" class="tooltip" title="Leverabel: En produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.">deliverable</a>
 - removed **driver statement** from text and glossary
-- updated definitions for <a href="#" class="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">governance</a>, <a href="#" class="tooltip" title="Operations: Doing the work and organizing day-to-day activities within the constraints defined through governance.">operations</a>, and <a href="#" class="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">self-organization</a>
+- updated definitions for <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">governance</a>, <a href="#" class="tooltip" title="Operativ verksamhet: Att organisera, planera och utföra de dagliga aktiviteterna inom de begränsningar som definierats genom strukturell styrning.">operations</a>, and <a href="#" class="tooltip" title="Självorganisering: Alla aktiviteter eller processer genom vilka människor organiserar arbete. Självorganisering sker inom begränsningarna av ett område, men utan direkt inflytande av externa agenter. I varje organisation eller grupp samexisterar självorganisation med externt inflytande (t.ex. externa invändningar eller styrningsbeslut som påverkar domänen).">self-organization</a>
 
 **Illustrations:**
 
@@ -293,7 +293,7 @@ title: "Ändringslogg"
 - *Qualify Driver*
 
 <div class="bottom-nav">
-<a href="appendix.html" title="Up: Bilagor">▲</a> <a href="pattern-index.html" title="Read next: Alfabetisk lista över alla mönster">▶ Read next: Alfabetisk lista över alla mönster</a>
+<a href="appendix.html" title="Upp: Bilagor">▲</a> <a href="pattern-index.html" title="Läs vidare: Alfabetisk lista över alla mönster">▶ Läs vidare: Alfabetisk lista över alla mönster</a>
 </div>
 
 

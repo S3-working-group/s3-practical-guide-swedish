@@ -7,15 +7,15 @@ title: "Representant"
 
 Representanter (även kallat länkar):
 
-- representera intressena från ett <a href="#" class="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a> i ett annat team
+- representera intressena från ett <a href="#" class="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a> i ett annat team
 - väljs för en begränsad tidsperiod
 - delta i **strukturella styrningsbeslut** för det team som de länkar med, och kan: 
     - lägga in punkter i dagordningen
     - delta i utformandet av förslag
-    - lyfta <a href="#" class="tooltip" title="Invändning: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">invändningar</a> mot förslag och befintliga <a href="#" class="tooltip" title="Överenskommelse: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">överenskommelser</a>
+    - lyfta <a href="#" class="tooltip" title="Invändning: Ett argument som rör en (föreslagen) överenskommelse, åtgärd eller beslut och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar.">invändningar</a> mot förslag och befintliga <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a>
 
 <div class="bottom-nav">
-<a href="double-linking.html" title="Back to: Dubbellänkning">◀</a> <a href="building-organizations.html" title="Up: Bygga organisationer">▲</a> <a href="helping-team.html" title="Read next: Hjälpande team">▶ Read next: Hjälpande team</a>
+<a href="double-linking.html" title="Tillbaka till: Dubbellänkning">◀</a> <a href="building-organizations.html" title="Upp: Bygga organisationer">▲</a> <a href="helping-team.html" title="Läs vidare: Hjälpande team">▶ Läs vidare: Hjälpande team</a>
 </div>
 
 

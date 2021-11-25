@@ -5,12 +5,12 @@ title: "Servicecirkel"
 
 <strong>Flytta ut tjänster som behövs av två eller flera domäner.</strong>
 
-En servicecirkel kan fyllas av medlemmar i de <a href="#" class="tooltip" title="Domän: A distinct area of influence, activity and decision making within an organization.">domäner</a> den tjänar och/eller andra personer.
+En servicecirkel kan fyllas av medlemmar i de <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> den tjänar och/eller andra personer.
 
 ![Servicecirkel](img/structural-patterns/service-circle.png)
 
 <div class="bottom-nav">
-<a href="organizational-structure.html" title="Up: Organisationsstruktur">▲</a> <a href="delegate-circle.html" title="Read next: Delegatscirkel">▶ Read next: Delegatscirkel</a>
+<a href="organizational-structure.html" title="Upp: Organisationsstruktur">▲</a> <a href="delegate-circle.html" title="Läs vidare: Delegatscirkel">▶ Läs vidare: Delegatscirkel</a>
 </div>
 
 

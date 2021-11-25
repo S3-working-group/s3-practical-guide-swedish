@@ -1,5 +1,5 @@
 ---
-title: "Hur kan Sociocracy 3.0 hjälpa?"
+title: "Hur kan Sociokrati 3.0 hjälpa?"
 ---
 
 
@@ -11,7 +11,7 @@ S3 integrerar grundläggande koncept och metoder som finns i agila metoder, lean
 
 
 <div class="bottom-nav">
-<a href="what-is-s3.html" title="Up: Vad är Sociokrati 3.0?">▲</a> <a href="pattern.html" title="Read next: Ett mönsterbaserat tillvägagångssätt för organisatorisk förändring">▶ Read next: Ett mönsterbaserat tillvägagångssätt för organisatorisk förändring</a>
+<a href="what-is-s3.html" title="Upp: Vad är Sociokrati 3.0?">▲</a> <a href="pattern.html" title="Läs vidare: Ett mönsterbaserat tillvägagångssätt för organisatorisk förändring">▶ Läs vidare: Ett mönsterbaserat tillvägagångssätt för organisatorisk förändring</a>
 </div>
 
 

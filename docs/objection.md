@@ -3,21 +3,21 @@ title: "Invändningar"
 ---
 
 
-_An **objection** is an argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve._
+_En **invändning** är ett argument som rör en (föreslagen) överenskommelse, åtgärd eller beslut och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar._
 
 Invändningar avslöjar information om (potentiella) **oavsiktliga konsekvenser**, eller om **värdefulla sätt att förbättra**.
 
 Tänk på att undanhållna invändningar kan påverka personers, teams eller hela organisationens möjligheter att uppnå sina mål negativt.
 
-Det är varje individs ansvar i en organisation att uttrycka sina potentiella invändningar mot förslag, beslut, befintliga <a href="#" class="tooltip" title="Överenskommelse: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">överenskommelser</a> eller aktiviteter.
+Det är varje individs ansvar i en organisation att uttrycka sina potentiella invändningar mot förslag, beslut, befintliga <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a> eller aktiviteter.
 
-De som ansvarar för en aktivitet eller (föreslaget) avtal, är ansvariga för att *överväga argument och ta itu med invändningar* som gjorts, det att bidrar till att uppnå organisationens mål.
+De som ansvarar för en aktivitet eller en (föreslagen) överenskommelse, är ansvariga för att *begrunda argument och ta itu med invändningar* som gjorts, när det att bidrar till att uppnå organisationens mål.
 
 När du utforskar potentiella invändningar, beakta:
 
-- varför den <a href="#" class="tooltip" title="Avsedd effekt: The expected result of an agreement, action, project or strategy.">avsedda effekten</a> inte skulle uppnås (fullständigt): **verkan**
+- varför den <a href="#" class="tooltip" title="Avsett utfall: Det förväntade utfallet av en överenskommelse, ett projekt, en åtgärd eller strategi.">avsedda effekten</a> inte skulle uppnås (fullständigt): **verkan**
 - varför det skulle vara slösaktigt att fortsätta som föreslagits (eller tidigare överenskommits): **ansträngning**
-- negativa konsekvenser som något skulle kunna ha någon annanstans (i samma <a href="#" class="tooltip" title="Domän: A distinct area of influence, activity and decision making within an organization.">domän</a>, i den vidare organisationen, eller bortom): **biverkningar**
+- negativa konsekvenser som något skulle kunna ha någon annanstans (i samma <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domän</a>, i den vidare organisationen, eller bortom): **biverkningar**
 
 Den information som kommer fram vid invändningar kan användas för att förbättra:
 
@@ -36,15 +36,15 @@ Utnyttja en mångfald av perspektiv och var öppen för att utmana ditt eget, f�
 
 **Alla argument som förs fram är inte invändningar. Skilj mellan invändningar, som alltid avslöjar användbar information, och andra argument som endast bygger på antaganden, personliga preferenser eller åsikter.**
 
-_A **concern** is an assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver._
+_En **oro** är ett antagande - eller en åsikt - om att göra något (även i avsaknad av invändningar) kan stå i vägen för en (mer) ändamålsenlig respons på en organisatorisk drivkraft._
 
 I [samtyckesbeslut](consent-decision-making.html) kan oro indikera olika sätt att förfina överenskommelser (inklusive utvärderingskriterier och utvärderingsfrekvens). Ta upp din oro om du tycker att det är värdefullt att överväga den, och registrera åtminstone den tillsammans med överenskommelsen, och övervaka resultaten över tid.
 
-Om du är osäker på om du har en invändning eller en oro, var proaktiv och fråga andra för att se vad de anser. (Se också [Kontrollera om argument är invändningar](test-arguments-qualify-as-objections.html)).
+Om du är osäker på om du har en invändning eller en oro, var proaktiv och fråga andra för att se vad de anser. (Se också [Pröva om argument är invändningar](test-arguments-qualify-as-objections.html)).
 
 
 <div class="bottom-nav">
-<a href="domain.html" title="Back to: Domän">◀</a> <a href="making-sense-of-organizations.html" title="Up: Nyckelbegrepp för att förstå organisationer">▲</a> <a href="agreement.html" title="Read next: Överenskommelser">▶ Read next: Överenskommelser</a>
+<a href="domain.html" title="Tillbaka till: Domän">◀</a> <a href="making-sense-of-organizations.html" title="Upp: Nyckelbegrepp för att förstå organisationer">▲</a> <a href="agreement.html" title="Läs vidare: Överenskommelser">▶ Läs vidare: Överenskommelser</a>
 </div>
 
 

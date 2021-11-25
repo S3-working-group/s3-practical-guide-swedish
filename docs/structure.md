@@ -8,7 +8,7 @@ title: "Två principer för struktur"
 
 
 <div class="bottom-nav">
-<a href="run-experiments.html" title="Back to: Princip 5 - Experimentera">◀</a> <a href="csf.html" title="Up: A Common Sense Framework for Organizations and Teams">▲</a> <a href="enable-autonomy.html" title="Read next: Princip 6 – Möjliggör autonomi">▶ Read next: Princip 6 – Möjliggör autonomi</a>
+<a href="run-experiments.html" title="Tillbaka till: Princip 5 - Experimentera">◀</a> <a href="csf.html" title="Upp: Ett ramverk för sunt förnuft i organisationer och team">▲</a> <a href="enable-autonomy.html" title="Läs vidare: Princip 6 – Främja autonomi">▶ Läs vidare: Princip 6 – Främja autonomi</a>
 </div>
 
 

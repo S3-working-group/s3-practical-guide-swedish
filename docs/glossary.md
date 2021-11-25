@@ -6,260 +6,260 @@ title: "Begreppslista"
 <dl class="glossary">
 
 
-<dt id="entry-account">Account for (v.)</dt>
-<dd>to take the responsibility for something.</dd>
+<dt id="entry-account">Ansvara för (v.)</dt>
+<dd>att ta på sig att göra någonting.</dd>
 
 
-<dt id="entry-accountability">Accountability (principle)</dt>
-<dd>Respond when something is needed, do what you agreed to do, and take ownership for the course of the organization.</dd>
+<dt id="entry-accountability">Ansvarighet (princip)</dt>
+<dd><strong>Agera när något behövs, gör vad du överenskommit och axla din del av ansvaret för organisationens framgång</strong> så att det som behöver göras blir gjort, ingenting förbises och alla gör vad de kan för att bidra till organisationens ändamålsmässighet och integritet.</dd>
 
 
-<dt id="entry-alignment">Alignment</dt>
-<dd>The process of bringing the actions of all parts of an organization in line with the organization's objectives.</dd>
-
-
-<dt id="entry-intended-outcome">Avsedd effekt</dt>
-<dd>The expected result of an agreement, action, project or strategy.</dd>
+<dt id="entry-intended-outcome">Avsett utfall</dt>
+<dd>Det förväntade utfallet av en överenskommelse, ett projekt, en åtgärd eller strategi.</dd>
 
 
 <dt id="entry-need">Behov</dt>
-<dd>The lack of something wanted or deemed necessary (a requirement).</dd>
-
-
-<dt id="entry-check-in">Check-In</dt>
-<dd>A brief disclosure where you share something about what’s up for you and how you are, revealing thoughts, feelings, distractions or needs.</dd>
-
-
-<dt id="entry-chosen-values">Chosen Values</dt>
-<dd>A set of principles a team (or an organization) has chosen to collectively adopt to guide their behavior in the context of their collaboration.</dd>
+<dd>Avsaknad av något som önskas eller anses nödvändigt (ett krav).</dd>
 
 
 <dt id="entry-circle">Cirkel</dt>
 <dd>Ett självstyrande och halv-autonomt team av likvärdiga personer som samarbetar för att hantera en domän.</dd>
 
 
-<dt id="entry-complexity">Complexity</dt>
-<dd>An environment where unknowns are unknown, cause and effect can only be understood in retrospect, and actions lead to unpredictable changes. [Snowden and Boone]</dd>
-
-
-<dt id="entry-consent">Consent (principle)</dt>
-<dd>Raise, seek out and resolve objections to decisions and actions.</dd>
-
-
-<dt id="entry-constituent">Constituent</dt>
-<dd>A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.</dd>
-
-
-<dt id="entry-continuous-improvement">Continuous Improvement (principle)</dt>
-<dd>Change incrementally to accommodate steady empirical learning.</dd>
-
-
-<dt id="entry-coordination">Coordination</dt>
-<dd>The process of enabling individuals or teams to collaborate effectively across different domains to achieve shared objectives.</dd>
-
-
-<dt id="entry-delegatee">Delegatee</dt>
-<dd>An individual or group accepting responsibility for a domain delegated to them, becoming a role keeper or a team.</dd>
-
-
-<dt id="entry-delegation">Delegation</dt>
-<dd>The grant of authority by one party (the delegator) to another (the delegatee) to account for a domain (i.e. to do certain things and/or to make certain decisions), for which the delegator maintains overall accountability.</dd>
+<dt id="entry-delegatee">Delegat</dt>
+<dd>En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.</dd>
 
 
 <dt id="entry-delegator">Delegator</dt>
-<dd>An individual or group delegating responsibility for a domain to other(s).</dd>
+<dd>En individ eller grupp som delegerar ansvarigheten för en domän till andra.</dd>
 
 
-<dt id="entry-deliverable">Deliverable</dt>
-<dd>A product, service, component or material provided in response to an organizational driver.</dd>
+<dt id="entry-delegation">Delegering</dt>
+<dd>Utdelandet av befogenheter från en part (<em>delegatorn</em>) till en annan (<em>delegaten</em>) för att ansvara för en domän (dvs. att göra vissa saker och / eller att fatta vissa beslut), för vilka delegatorn behåller det övergripande redovisningsansvaret.</dd>
 
 
 <dt id="entry-domain">Domän</dt>
-<dd>A distinct area of influence, activity and decision making within an organization.</dd>
+<dd>Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.</dd>
 
 
 <dt id="entry-driver">Drivkraft</dt>
-<dd>A person’s or a group's motive for responding to a specific situation.</dd>
+<dd>En persons eller grupps motiv för att agera på en specifik situation.</dd>
 
 
-<dt id="entry-effectiveness">Effectiveness (principle)</dt>
-<dd>Devote time only to what brings you closer toward achieving your objectives.</dd>
+<dt id="entry-empiricism">Empiri (princip)</dt>
+<dd><strong>Pröva alla antaganden du är beroende av genom experiment och kontinuerlig revidering</strong> så att du lär dig snabbt, förstår och kan navigera så ändamålsenligt som möjligt.</dd>
 
 
-<dt id="entry-empiricism">Empiricism (principle)</dt>
-<dd>Test all assumptions you rely on, through experiments and continuous revision.</dd>
+<dt id="entry-alignment">Ensning</dt>
+<dd>Processen att ensa alla delar av en organisation i linje med organisationens mål.</dd>
 
 
-<dt id="entry-equivalence">Equivalence (principle)</dt>
-<dd>Involve people in making and evolving decisions that affect them.</dd>
-
-
-<dt id="entry-evolve">Evolve (v.)</dt>
-<dd>to develop gradually.</dd>
-
-
-<dt id="entry-flow-of-value">Flow of Value</dt>
-<dd>Deliverables traveling through an organization towards customers or other stakeholders.</dd>
-
-
-<dt id="entry-governance">Governance</dt>
-<dd>The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.</dd>
+<dt id="entry-evolve">Förädla (v.)</dt>
+<dd>att utveckla gradvis.</dd>
 
 
 <dt id="entry-semi-autonomy">Halv-autonomi</dt>
-<dd>The autonomy of people to decide for themselves how to create value, limited by the constraints of their domain, and by objections brought by the delegator, representatives, or others.</dd>
+<dd>Människors självständighet att själva bestämma hur man skapar värde, inom ramen för begränsningarna i deras domän, och genom invändningar från delegatorn, representanter eller andra.</dd>
 
 
 <dt id="entry-helping-team">Hjälpande team</dt>
-<dd>A team of equivalent people with the mandate to execute on a specific set of requirements.</dd>
+<dd>Ett team av likvärdiga personer med mandat att agera på en specifik uppsättning krav.</dd>
+
+
+<dt id="entry-key-responsibilities">Huvudansvar</dt>
+<dd>Väsentligt arbete och beslutsfattande som krävs inom ramen för en domän.</dd>
+
+
+<dt id="entry-check-in">Incheckning</dt>
+<dd>Ett kort yppande om vad som är aktuellt för dig och hur du känner dig, något som visar dina tankar, känslor, distraktioner eller behov.</dd>
 
 
 <dt id="entry-objection">Invändning</dt>
-<dd>An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.</dd>
+<dd>Ett argument som rör en (föreslagen) överenskommelse, åtgärd eller beslut och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar.</dd>
 
 
-<dt id="entry-key-responsibilities">Key responsibilities</dt>
-<dd>Essential work and decision making required in the context of a domain.</dd>
+<dt id="entry-complexity">Komplex</dt>
+<dd>En miljö där man inte vet vad man inte vet, orsak och verkan kan bara förstås i efterhand och åtgärder leder till oförutsägbara förändringar. [Snowden och Boone]</dd>
+
+
+<dt id="entry-constituent">Krets</dt>
+<dd>Ett team (t.ex. en cirkel, team, avdelning, gren, projekt eller organisation) som delegerar befogenhet till en representant för att agera på deras vägnar i andra team eller organisationer.</dd>
+
+
+<dt id="entry-deliverable">Leverabel</dt>
+<dd>En produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.</dd>
+
+
+<dt id="entry-equivalence">Likvärdighet (princip)</dt>
+<dd><strong>Engagera människor i att fatta och förfina beslut som påverkar dem</strong> så att du ökar engagemanget och ansvarstagandet, och utnyttjar den distribuerade intelligensen för att uppnå och utveckla dina mål.</dd>
 
 
 <dt id="entry-logbook">Loggbok</dt>
-<dd>A (digital) system to store all information relevant for running an organization.</dd>
+<dd>Ett (digitalt) system för att lagra all information som är relevant för att driva en organisation.</dd>
 
 
-<dt id="entry-metric">Metric</dt>
-<dd>A quantifiable measure used to track and assess progress, evaluate outcomes and determine success</dd>
+<dt id="entry-metric">Metrik</dt>
+<dd>Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång</dd>
 
 
-<dt id="entry-objective">Objective</dt>
-<dd>A (specific) result that a person or team or organization wants to achieve; an aim or a goal.</dd>
+<dt id="entry-objective">Mål</dt>
+<dd>Ett (specifikt) resultat som en person eller grupp eller organisation vill uppnå, en målsättning eller ambition.</dd>
 
 
-<dt id="entry-operations">Operations</dt>
-<dd>Doing the work and organizing day-to-day activities within the constraints defined through governance.</dd>
+<dt id="entry-pattern">Mönster</dt>
+<dd>En process, teknik eller riktlinje som fungerar som en mall för att framgångsrikt agera på en viss typ av utmaning eller möjlighet.</dd>
 
 
-<dt id="entry-operations-backlog">Operations Backlog</dt>
-<dd>En synlig lista över (typiskt prioriterade eller ordnade) oavslutade arbetsposter (leverabler).</dd>
+<dt id="entry-operations-backlog">Operativ planeringslista</dt>
+<dd>En synlig lista över (typiskt prioriterade eller ordnade) oavslutade arbetsmoment (leverabler).</dd>
+
+
+<dt id="entry-operations">Operativ verksamhet</dt>
+<dd>Att organisera, planera och utföra de dagliga aktiviteterna inom de begränsningar som definierats genom strukturell styrning.</dd>
 
 
 <dt id="entry-organization">Organisation</dt>
-<dd>A group of people collaborating toward a shared driver (or objective). Often an organization subdivides into several teams.</dd>
+<dd>En grupp människor som samarbetar mot en delad drivkraft (eller mål). Ofta delas en organisation upp i flera grupper.</dd>
 
 
-<dt id="entry-organizational-driver">Organizational Driver</dt>
-<dd>A driver is a person’s or a group's motive for responding to a specific situation. A driver is considered an <strong>organizational driver</strong> if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.</dd>
+<dt id="entry-organizational-driver">Organisatorisk drivkraft</dt>
+<dd>En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en <strong>organisatorisk drivkraft</strong> om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.</dd>
 
 
 <dt id="entry-concern">Oro</dt>
-<dd>An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.</dd>
-
-
-<dt id="entry-pattern">Pattern</dt>
-<dd>A process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity.</dd>
-
-
-<dt id="entry-peer-domain">Peer Domain</dt>
-<dd>Two peer domains are contained within the same immediate superdomain, and may be overlapping.</dd>
+<dd>Ett antagande – eller en åsikt – om att göra något (även i avsaknad av invändningar) skulle kunna stå i vägen för en (mer) ändamålsenlig respons på en organisatorisk drivkraft.</dd>
 
 
 <dt id="entry-backlog">Planeringslista</dt>
-<dd>A list of (often prioritized) uncompleted work items (deliverables), or drivers that need to be addressed.</dd>
+<dd>En lista av (ofta prioriterade, ordnade) oavslutade uppgifter (leverabler eller drivkrafter) som behöver åtgärdas.</dd>
 
 
 <dt id="entry-governance-backlog">Planeringslista för strukturell styrning</dt>
-<dd>A visible, prioritized list of items (drivers) that are related to governing a domain and require attention.</dd>
+<dd>En synlig, prioriterad lista över ärenden (drivkrafter) som är kopplade till att styra en domän och kräver åtgärder.</dd>
 
 
-<dt id="entry-primary-driver">Primary Driver</dt>
-<dd>The primary driver for a domain is the main driver that people who account for that domain respond to.</dd>
+<dt id="entry-primary-driver">Primär drivkraft</dt>
+<dd>Den primära drivkraften för en domän är den huvudsakliga drivkraften som de personer som ansvarar för den domänen agerar på.</dd>
 
 
-<dt id="entry-principle">Principle</dt>
-<dd>A basic idea or rule that guides behavior, or explains or controls how something happens or works.</dd>
-
-
-<dt id="entry-role-keeper">Role Keeper</dt>
-<dd>An individual taking responsibility for a role.</dd>
+<dt id="entry-principle">Princip</dt>
+<dd>En grundläggande idé eller regel som styr beteendet, eller förklarar eller styr hur något händer eller fungerar.</dd>
 
 
 <dt id="entry-role">Roll</dt>
-<dd>A domain that is delegated to an individual, who then becomes the role keeper.</dd>
+<dd>En domän som delegeras till en person som då blir rollinnehavare.</dd>
 
 
-<dt id="entry-self-governance">Self-Governance</dt>
-<dd>People governing themselves within the constraints of a domain.</dd>
+<dt id="entry-role-keeper">Rollinnehavare</dt>
+<dd>En person som tar ansvar för en roll.</dd>
 
 
-<dt id="entry-self-organization">Self-Organization</dt>
-<dd>Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).</dd>
+<dt id="entry-coordination">Samordning</dt>
+<dd>Processen att göra det möjligt för individer eller team att samarbeta effektivt mellan olika domäner för att uppnå gemensamma mål.</dd>
 
 
-<dt id="entry-social-technology">Social Technology</dt>
-<dd>Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.</dd>
+<dt id="entry-consent">Samtycke (princip)</dt>
+<dd><strong>Ta upp, undersök och lös upp invändningar mot beslut och åtgärder</strong> så att risken för oönskade konsekvenser minskar och eventuella värdefulla sätt att förbättra kan upptäckas.</dd>
 
 
-<dt id="entry-sociocracy">Sociocracy</dt>
-<dd>An approach for organizing together where people affected by decisions can influence them on the basis of reasons to do so.</dd>
+<dt id="entry-self-organization">Självorganisering</dt>
+<dd>Alla aktiviteter eller processer genom vilka människor organiserar arbete. Självorganisering sker inom begränsningarna av ett område, men utan direkt inflytande av externa agenter. I varje organisation eller grupp samexisterar självorganisation med externt inflytande (t.ex. externa invändningar eller styrningsbeslut som påverkar domänen).</dd>
+
+
+<dt id="entry-self-governance">Självstyre</dt>
+<dd>Människor som själva fattar beslut om den strukturella styrning inom en domän.</dd>
+
+
+<dt id="entry-social-technology">Social teknologi</dt>
+<dd>Social teknologi är varje process, teknik, metod, skicklighet eller annat tillvägagångssätt som människor kan använda för att påverka sociala system – organisationer, samhällen, samhällen etc. — för att stödja uppnåendet av gemensamma mål och vägleda meningsfullt samspel och utbyte.</dd>
 
 
 <dt id="entry-scm">Sociocratic Circle-Organisation Method (SCM)</dt>
-<dd>An egalitarian governance method for organizations based on a sociocratic mindset, developed in the Netherlands by Gerard Endenburg.</dd>
+<dd>En jämlik styrningsmetod för organisationer baserade på ett sociokratiskt tänkesätt som Gerard Endenburg utvecklat i Nederländerna.</dd>
+
+
+<dt id="entry-sociocracy">Sociokrati</dt>
+<dd>En strategi för att samorganisera där människor som påverkas av beslut kan påverka dem då det finns skäl att göra det.</dd>
+
+
+<dt id="entry-waste">Spill</dt>
+<dd>Allt som är onödigt för — eller står i vägen för — en (mer) effektiv respons på en drivkraft.</dd>
 
 
 <dt id="entry-tension">Spänning</dt>
-<dd>A personal experience, a symptom of dissonance between an individual's perception of a situation, and their expectations or preferences.</dd>
+<dd>En personlig upplevelse: ett symptom av dissonans mellan en persons uppfattning om en situation och dennes förväntningar (eller preferenser).</dd>
 
 
 <dt id="entry-strategy">Strategi</dt>
-<dd>A high level approach for how people will create value to successfully account for a domain.</dd>
+<dd>Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.</dd>
 
 
-<dt id="entry-subdomain">Subdomain</dt>
-<dd>A domain that is fully contained within another domain.</dd>
+<dt id="entry-governance">Strukturell styrning</dt>
+<dd>Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.</dd>
 
 
-<dt id="entry-subdriver">Subdriver</dt>
-<dd>A subdriver arises as a consequence of responding to another driver (the superdriver) and is essential for effectively responding to the superdriver.</dd>
+<dt id="entry-continuous-improvement">Ständig förbättring (princip)</dt>
+<dd><strong>Granska regelbundet utfallet av det du gör, och gör sedan stegvisa förbättringar av vad du gör och hur du gör det baserat på vad du lär dig</strong> så att du kan anpassa dig till förändringar när det behövs, och upprätthålla eller förbättra ändamålsenligheten över tid.</dd>
 
 
-<dt id="entry-superdomain">Superdomain</dt>
-<dd>A domain that fully contains another domain.</dd>
-
-
-<dt id="entry-superdriver">Superdriver</dt>
-<dd>see subdriver.</dd>
+<dt id="entry-peer-domain">Syskondomän</dt>
+<dd>Två syskondomäner finns inom samma omedelbara överdomän och kan vara överlappande.</dd>
 
 
 <dt id="entry-team">Team</dt>
-<dd>A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.</dd>
+<dd>En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.</dd>
 
 
-<dt id="entry-timebox">Timebox</dt>
-<dd>A fixed period of time spent focused on a specific activity (which is not necessarily finished by the end of the timebox).</dd>
+<dt id="entry-timebox">Tidsbox</dt>
+<dd>En bestämd tidsperiod fokuserad på en specifik aktivitet (som inte nödvändigtvis hinner blir klar inom tidsperioden).</dd>
 
 
-<dt id="entry-transparency">Transparency (principle)</dt>
-<dd>Record all information that is valuable for the organization, and make it accessible to everyone, unless there is a reason for confidentiality.</dd>
+<dt id="entry-subdomain">Underdomän</dt>
+<dd>En domän som är helt innesluten inom en annan domän.</dd>
+
+
+<dt id="entry-subdriver">Underliggande drivkraft</dt>
+<dd>En underliggande drivkraft uppstår som en konsekvens av att agera på en annan drivkraft (den överliggande drivkraften) och är nödvändig för att på ett ändamålsenligt sätt kunna svara på den överliggande drivkraften.</dd>
+
+
+<dt id="entry-chosen-values">Valda värderingar</dt>
+<dd>En uppsättning principer ett team (eller en organisation) har valt att kollektivt anta för att vägleda deras beteende i samband med deras samarbete.</dd>
 
 
 <dt id="entry-value">Värde</dt>
-<dd>The importance, worth or usefulness of something in relation to a driver. Also "a principle of some significance that guides behavior" (mostly used as plural, "values", or "organizational values").</dd>
+<dd>Vikt, värde, nytta eller användbarhet av något i förhållande till en drivkraft. Se också "värderingar".</dd>
+
+
+<dt id="entry-flow-of-value">Värdeflöde</dt>
+<dd>Leverabler som rör sig genom en organisation mot kunder eller andra intressenter.</dd>
 
 
 <dt id="entry-values">Värderingar</dt>
-<dd>Valued principles that guide behavior. Not to be confused with "value" (singular) in the context of a driver.</dd>
+<dd>Värderade principer som styr beteende. Icke att förväxla med "värde" i samband med en drivkraft.</dd>
 
 
-<dt id="entry-waste">Waste</dt>
-<dd>Anything unnecessary for — or standing in the way of — a (more) effective response to a driver.</dd>
+<dt id="entry-effectiveness">Ändamålsenlighet (princip)</dt>
+<dd><strong>Lägg endast tid på sådant som leder närmare organisationens övergripande mål</strong>, så att den begränsade tid, energi och resurs som finns tillgänglig används på bästa sätt.</dd>
 
 
 <dt id="entry-open-domain">Öppen domän</dt>
-<dd>A domain that is accounted for by a set of people who are invited to contribute when they can.</dd>
+<dd>En domän som hanteras av en rad personer som har bjudits in att bidra när de kan.</dd>
+
+
+<dt id="entry-transparency">Öppenhet (princip)</dt>
+<dd><strong>Anteckna all information som är värdefull för organisationen och gör den tillgänglig för alla i organisationen, såvida det inte finns någon speciell anledning till sekretess</strong> så att alla har den information de behöver för att förstå hur man gör sitt arbete på ett sätt som så ändamålsenligt som möjligt bidrar helheten.</dd>
+
+
+<dt id="entry-superdomain">Överdomän</dt>
+<dd>En domän som helt omsluter en annan domän.</dd>
 
 
 <dt id="entry-agreement">Överenskommelse</dt>
-<dd>An agreed upon guideline, process, protocol or policy designed to guide the flow of value.</dd>
+<dd>En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.</dd>
+
+
+<dt id="entry-superdriver">Överliggande drivkraft</dt>
+<dd>se underliggande drivkraft.</dd>
 
 
 </dl>
@@ -269,5 +269,5 @@ title: "Begreppslista"
 
 
 <div class="bottom-nav">
-<a href="authors.html" title="Back to: Författare">◀</a> <a href="appendix.html" title="Up: Bilagor">▲</a>
+<a href="authors.html" title="Tillbaka till: Författare">◀</a> <a href="appendix.html" title="Upp: Bilagor">▲</a>
 </div>

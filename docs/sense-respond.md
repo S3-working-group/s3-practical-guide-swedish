@@ -8,15 +8,15 @@ title: "Princip 4 - Känn av & agera"
 
 Viktiga möster för att hjälpa till att uppnå detta är:
 
--   [Continuous Improvement of Work Process](continuous-improvement-of-work-process.html) – Getting in the habit of continuously seeking to improve the work process supports people's skill in identifying and acting on opportunities to improve.
--   [Describe Organizational Drivers](describe-organizational-drivers.html) – Before responding to a perceived impediment or opportunity, it is essential to understand the current situation, and why it makes sense for the organization to respond
--   [Governance Backlog](governance-backlog.html) – Keeping a prioritized list of all impediments and opportunities that require a governance decision to be made, keeps outstanding issues visible and clarifies what is most important to respond to first.
--   [Navigate via Tension](navigate-via-tension.html) – When everyone in the organization pays attention for situations that appear different to what is expected or desired, and brings that information to the attention of those responsible, you maximize the organization’s potential for identifying impediments and opportunities.
--   [Respond to Organizational Driver](respond-to-organizational-drivers.html) – Responding only to challenges and opportunities that are valuable for the organization,  maximizes return on investment of  limited time, energy and resources.
+-   [Kontinuerlig förbättring av arbetsprocessen](continuous-improvement-of-work-process.html) – Att skaffa sig vanan att ständigt sträva efter att förbättra arbetsprocessen lyfter fram människors förmåga att identifiera och agera på möjligheter att förbättra.
+-   [Beskriv organisatoriska drivkrafter](describe-organizational-drivers.html) – Innan man agerar på ett upplevt hinder eller möjlighet är det viktigt att förstå den nuvarande situationen, och varför det kan vara meningsfullt för organisationen att agera.
+-   [Planeringslista för strukturell styrning](governance-backlog.html) – Att ha en prioriterad lista över alla hinder och möjligheter som kräver att ett styrningsbeslut fattas håller olösta frågor synliga och förtydligar vad som är viktigast att agera på först.
+-   [Navigera via spänning](navigate-via-tension.html) – När alla i organisationen är uppmärksamma på situationer som verkar annorlunda än vad som förväntas eller önskas och förmedlar detta faktum till ansvariga maximeras organisationens potential för att identifiera hinder och möjligheter.
+-   [Agera på organisatoriska drivkrafter](respond-to-organizational-drivers.html) – Att bara agera på de utmaningar och möjligheter som är värdefulla för organisationen maximerar värdet av att utnyttja en del av den begränsade tid, energi och resurser som finns tillgängligt.
 
 
 <div class="bottom-nav">
-<a href="focus-on-value.html" title="Back to: Princip 3 – Fokusera på värde">◀</a> <a href="navigation.html" title="Up: Tre principer för navigering">▲</a> <a href="run-experiments.html" title="Read next: Princip 5 - Experimentera">▶ Read next: Princip 5 - Experimentera</a>
+<a href="focus-on-value.html" title="Tillbaka till: Princip 3 – Fokusera på värde">◀</a> <a href="navigation.html" title="Upp: Tre principer för navigering">▲</a> <a href="run-experiments.html" title="Läs vidare: Princip 5 - Experimentera">▶ Läs vidare: Princip 5 - Experimentera</a>
 </div>
 
 

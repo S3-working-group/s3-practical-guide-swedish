@@ -3,31 +3,31 @@ title: "Licens"
 ---
 
 
-"A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" by Bernhard Bockelbrink, James Priest and Liliana David is licensed under a **Creative Commons Attribution-ShareAlike 4.0 International License**, which is a **Free Culture License**.
+"En praktisk handledning för att utveckla agila och uthålliga organisationer med Sociokrati 3.0" av Bernhard Bockelbrink, James Priest och Liliana David är licensierad under en internationell **Creative Commons Attributions-ShareAlike 4.0** licens, som är en **fri kulturlicens**.
 
-Basically this license grants you:
+I grund och botten ger denna licens dig:
 
-1. Freedom to use the work itself.
-2. Freedom to use the information in the work for any purpose, even commercially.
-3. Freedom to share copies of the work for any purpose, even commercially.
-4. Freedom to make and share remixes and other derivatives for any purpose.
+1. Frihet att använda själva verket.
+2. Frihet att använda informationen i arbetet för alla ändamål, även kommersiellt.
+3. Frihet att dela kopior av verket för vilket ändamål som helst, även kommersiellt.
+4. Frihet att göra och dela remixer och andra derivat för vilket ändamål som helst.
 
-You need to **attribute the original creator of the materials**, and **all derivatives need to be shared under the same license**.
+Du måste **tillstå den ursprungliga skaparen av materialet**, och **alla derivat måste delas under samma licens**.
 
-To view the the full text of this license, visit <https://creativecommons.org/licenses/by-sa/4.0/legalcode>
+För att se denna licens fulla text, besök [https://creativecommons.org/licenses/by-sa/4.0/legalcode/](https://creativecommons.org/licenses/by-sa/4.0/legalcode)
 
-There's more on the topic of free culture on the [Creative Commons website](https://creativecommons.org/freeworks).
+Det finns mer om ämnet fri kultur på [Creative Commons webbplats](https://creativecommons.org/freeworks).
 
-## Attribution of derivative works
+## Tillerkännande av härledda verk
 
-If you create a derivative work, you must give appropriate credit, and indicate which changes you made. A good attribution contains title, author, source and license, like this:
+Om du skapar ett arbete som bygger på materialet, måste du ge lämplig tillerkännande, och ange vilka ändringar du gjort. Ett bra tillerkännande innehåller titel, författare, källa och licens, så här:
 
-> This work, "[name of your work]", is a derivative of "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0" by James Priest, Bernhard Bockelbrink and Liliana David used under CC BY SA. "[name of your work]" is licensed under CC BY SA by [your name].
+> Detta arbete, "[namnet på ditt arbete]", bygger på "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"av James Priest, Bernhard Bockelbrink och Liliana David använt under CC BY SA. "[namnet på ditt arbete]" är licensierat under CC BY SA av [ditt namn].
 
-You can find out more about attribution on the [Creative Commons page about best practices for attribution](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
+Du kan läsa mer om tillerkännande på [Creative Commons sida om bästa metoder för tillerkännanden](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
 
 <div class="bottom-nav">
-<a href="links.html" title="Back to: Länkar">◀</a> <a href="appendix.html" title="Up: Bilagor">▲</a> <a href="disclaimer.html" title="Read next: Ansvarsfriskrivning">▶ Read next: Ansvarsfriskrivning</a>
+<a href="links.html" title="Tillbaka till: Länkar">◀</a> <a href="appendix.html" title="Upp: Bilagor">▲</a> <a href="disclaimer.html" title="Läs vidare: Ansvarsfriskrivning">▶ Läs vidare: Ansvarsfriskrivning</a>
 </div>
 
 

@@ -15,13 +15,13 @@ Några förslag på korta format:
 - mer av/mindre av/börja med/sluta med/behåll
 - positiva/kritiska/föreslagna förbättringar
 
-![Evaluate meetings right before closing the meeting](img/meetings/evaluate-interactions.png)
+![Utvärdera möten direkt innan mötet stängs](img/meetings/evaluate-interactions.png)
 
 ## Utvärdera möten: Långt format
 
-Ask everyone in a [round](rounds.html) to reflect on any or all of the following topics in a brief sharing, and report key points you'd like to remember for next time:
+I en [runda](rounds.html) be alla att reflektera över något eller alla av följande ämnen i en kort delning, och registrera viktiga punkter du vill komma ihåg till nästa gång:
 
-- verkan och format
+- ändamålsenlighet och format
 - facilitering och deltagande
 - emotionell ton
 - uppskattningar och prestationer (jag gillade...)
@@ -29,7 +29,7 @@ Ask everyone in a [round](rounds.html) to reflect on any or all of the following
 - galna idéer och radikala förslag (tänk om...)
 
 <div class="bottom-nav">
-<a href="check-in.html" title="Back to: Incheckning">◀</a> <a href="meeting-practices.html" title="Up: Mötespraxis">▲</a> <a href="meeting-host.html" title="Read next: Mötesvärd">▶ Read next: Mötesvärd</a>
+<a href="check-in.html" title="Tillbaka till: Incheckning">◀</a> <a href="meeting-practices.html" title="Upp: Mötestekniker">▲</a> <a href="meeting-host.html" title="Läs vidare: Mötesvärd">▶ Läs vidare: Mötesvärd</a>
 </div>
 
 

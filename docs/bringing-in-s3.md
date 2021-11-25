@@ -1,5 +1,5 @@
 ---
-title: "Bringing in S3"
+title: "Börja använda S3"
 ---
 
 
@@ -8,8 +8,8 @@ title: "Bringing in S3"
   <dt><a href="adapt-patterns-to-context.html">Anpassa mönster till sammanhang</a></dt>
   <dd><p><strong>Anpassa och utveckla mönstren i S3 så att de passar de speciella förhållandena.</strong></p></dd>
 
-  <dt><a href="create-a-pull-system-for-organizational-change.html">Skapa ett flödesoptimerat system för organisatorisk förändring</a></dt>
-  <dd><p><strong>Skapa en miljö som inbjuder och gör det möjligt för medlemmar i organisationen att driva förändring:</strong></p></dd>
+  <dt><a href="create-a-pull-system-for-organizational-change.html">Skapa ett flödebaserat system för organisatorisk förändring</a></dt>
+  <dd><p><strong>Skapa en miljö som inbjuder och gör det möjligt för medlemmar i organisationen att driva förändring.</strong></p></dd>
 
   <dt><a href="be-the-change.html">Var förändringen</a></dt>
   <dd><p><strong>Led genom att vara ett exempel.</strong></p></dd>
@@ -26,7 +26,7 @@ title: "Bringing in S3"
 
 
 <div class="bottom-nav">
-<a href="open-systems.html" title="Back to: Öppna system">◀</a> <a href="patterns.html" title="Up: The Patterns">▲</a> <a href="adapt-patterns-to-context.html" title="Read next: Anpassa mönster till sammanhang">▶ Read next: Anpassa mönster till sammanhang</a>
+<a href="open-systems.html" title="Tillbaka till: Öppna system">◀</a> <a href="patterns.html" title="Upp: Mönstren">▲</a> <a href="adapt-patterns-to-context.html" title="Läs vidare: Anpassa mönster till sammanhang">▶ Läs vidare: Anpassa mönster till sammanhang</a>
 </div>
 
 

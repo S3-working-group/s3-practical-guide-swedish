@@ -8,22 +8,22 @@ _En **cirkel** är ett självstyrande och halv-autonomt team av likvärdiga pers
 En cirkel:
 
 - kan vara permanent eller tillfällig
-- kan vara <a href="#" class="tooltip" title="Self-Organization: Any activity or process through which people organize work. Self-organization happens within the constraints of a domain, but without the direct influence of  external agents. In any organization or team, self-organization co-exists with external influence (e.g. external objections or governance decisions that affect the domain).">självorganiserande</a>
-- ansvarar för sin egen utveckling och sin uppsättning av <a href="#" class="tooltip" title="Överenskommelse: An agreed upon guideline, process, protocol or policy designed to guide the flow of value.">överenskommelser</a>.
+- kan vara <a href="#" class="tooltip" title="Självorganisering: Alla aktiviteter eller processer genom vilka människor organiserar arbete. Självorganisering sker inom begränsningarna av ett område, men utan direkt inflytande av externa agenter. I varje organisation eller grupp samexisterar självorganisation med externt inflytande (t.ex. externa invändningar eller styrningsbeslut som påverkar domänen).">självorganiserande</a>
+- ansvarar för sin egen utveckling och sin uppsättning av <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a>.
 
 - **halv-autonom:**
     
-    - En cirkels medlemmar agerar inom begränsningarna i deras <a href="#" class="tooltip" title="Domän: A distinct area of influence, activity and decision making within an organization.">domän</a>.
-    - Varje cirkel kan skapa <a href="#" class="tooltip" title="Värde: The importance, worth or usefulness of something in relation to a driver. Also &quot;a principle of some significance that guides behavior&quot; (mostly used as plural, &quot;values&quot;, or &quot;organizational values&quot;).">värde</a> självständigt.
+    - En cirkels medlemmar agerar inom begränsningarna i deras <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domän</a>.
+    - Varje cirkel kan skapa <a href="#" class="tooltip" title="Värde: Vikt, värde, nytta eller användbarhet av något i förhållande till en drivkraft. Se också &quot;värderingar&quot;.">värde</a> självständigt.
 - **självstyrande:** 
     - En cirkels medlemmar bestämmer tillsammans och kontinuerligt vad som behöver göras för att de skall kunna svara upp för sin domän och sätter gränser för hur och när saker ska göras.
 - **cirkelmedlemmarnas likvärdighet:** 
-    - Alla medlemmar i en cirkel är lika ansvariga för den <a href="#" class="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">strukturella styrningen</a> av cirkelns domän.
+    - Alla medlemmar i en cirkel är lika ansvariga för den <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">strukturella styrningen</a> av cirkelns domän.
 
-![All members of a circle are equally accountable for governance of the circle's domain](img/circle/circle.png)
+![Alla medlemmar i en cirkel är lika ansvariga för den strukturella styrningen av cirkelns domän](img/circle/circle.png)
 
 <div class="bottom-nav">
-<a href="delegate-influence.html" title="Back to: Delegera inflytande">◀</a> <a href="building-organizations.html" title="Up: Bygga organisationer">▲</a> <a href="role.html" title="Read next: Roll">▶ Read next: Roll</a>
+<a href="delegate-influence.html" title="Tillbaka till: Delegera inflytande">◀</a> <a href="building-organizations.html" title="Upp: Bygga organisationer">▲</a> <a href="role.html" title="Läs vidare: Roll">▶ Läs vidare: Roll</a>
 </div>
 
 

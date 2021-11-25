@@ -1,9 +1,9 @@
 ---
-title: "Kontrollera om argument är invändningar"
+title: "Pröva om argument är invändningar"
 ---
 
 
-**Utnyttja er begränsade tid och resurser klokt genom att kontrollera att argument kvalificerar som invändningar och agera bara på de som gör det.**
+**Utnyttja er begränsade tid och resurser klokt genom att pröva om argument kvalificerar som invändningar och agera bara på de som gör det.**
 
 När någon väcker ett argument för att ändra något, kontrollera om argumentet avslöjar vilka oönskade konsekvenser som kommer – eller kan – uppstå om saker lämnas oförändrade, eller om det indikerar ett värdefullt sätt att förbättra hur man gör för att nå målsättningarna.
 
@@ -29,11 +29,11 @@ Några användbara frågor
     -   inte kan anses 'säker nog' att prova?
 
 
-![A process for testing if an argument qualifies as an objection](img/agreements/qualify-objection-process.png)
+![En process för att pröva om ett argument kvalificerar som invändning](img/agreements/qualify-objection-process.png)
 
 
 <div class="bottom-nav">
-<a href="consent-decision-making.html" title="Back to: Samtyckesbeslut">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="resolve-objections.html" title="Read next: Lös upp invändningar">▶ Read next: Lös upp invändningar</a>
+<a href="consent-decision-making.html" title="Tillbaka till: Samtyckesbeslut">◀</a> <a href="co-creation-and-evolution.html" title="Upp: Samskapande och utveckling">▲</a> <a href="resolve-objections.html" title="Läs vidare: Lös upp invändningar">▶ Läs vidare: Lös upp invändningar</a>
 </div>
 
 

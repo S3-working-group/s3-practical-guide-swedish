@@ -4,20 +4,20 @@ title: "Princip 3 – Fokusera på värde"
 
 
 
-**_Fokusera ditt dagliga arbete på värdeleverans, så att de saker som behöver göra för att uppnå ditt syfte görs._**
+**_Fokusera ditt dagliga arbete på värdeleverans, så att de saker som behöver göras för att uppnå syftet faktiskt görs._**
 
-Viktiga möster för att hjälpa till att uppnå detta är:
+Viktiga mönster för att uppnå detta är:
 
--   [Clarify and Develop Domains](clarify-and-develop-domains.html) – Clarifying the area of influence, activity and decision making that a team, or person in a role is responsible for, enables them to understand the value they are expected to deliver.
--   [Respond to Organizational Drivers](respond-to-organizational-drivers.html) – Understanding what’s necessary to respond to and why, and ensuring those things are taken care of, maximizes potential for creating value.
--   [Prioritize Backlogs](prioritize-backlogs.html) –  When you prioritize your list of work items by value, it is obvious which ones need to be worked on first.
--   [Limit Work In Progress](limit-work-in-progress.html) –  Limiting the number of concurrent work items for people and teams, helps to maintain a steady flow of value and encourages collaboration when work is blocked.
--   [Daily Standup](daily-standup.html) – A Daily Standup provides the space for a team to organize how they will create value during the day ahead
--   [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html) – When you test each argument brought forward against a decision for whether or not it reveals worthwhile improvements or unwanted  consequences, you keep your work focused on value and avoid getting derailed by unfounded opinions and personal preferences.
+-   [Förtydliga och utveckla domäner](clarify-and-develop-domains.html) – Att tydliggöra området för inflytande, åtgärder och beslut som ett team eller en person i en roll har ansvar för gör det möjligt att förstå det värde som de förväntas bidra med.
+-   [Agera på organisatoriska drivkrafter](respond-to-organizational-drivers.html) – Att förstå vad som är nödvändigt att agera på och varför, och se till att dessa saker tas om hand, maximerar potentialen för att skapa värde.
+-   [Ordna planeringslistor](prioritize-backlogs.html) – När du ordnar din lista över de kommande insatserna efter värde, blir det uppenbart vilka som måste hanteras först.
+-   [Begränsa pågående arbete](limit-work-in-progress.html) – Att begränsa mängden samtidigt pågående arbete för personer och grupper, bidrar till att upprätthålla ett stadigt värdeflöde och uppmuntrar samarbete när det uppstår hinder.
+-   [Daglig planering](daily-standup.html) – Ett dagligt möte för kortsiktig planering ger möjlighet för ett team att organisera hur de tillsammans kommer att skapa värde under den kommande dagen.
+-   [Pröva om argument är invändningar](test-arguments-qualify-as-objections.html) – Genom att pröva varje argument som förs fram mot ett beslut om huruvida det avslöjar värdefulla förbättringar eller oönskade konsekvenser, fokuseras diskussionen på värde och man undviker att diskussionen spårar ur på grund av ogrundade åsikter och personliga preferenser.
 
 
 <div class="bottom-nav">
-<a href="navigation.html" title="Up: Tre principer för navigering">▲</a> <a href="sense-respond.html" title="Read next: Princip 4 - Känn av &amp; agera">▶ Read next: Princip 4 - Känn av &amp; agera</a>
+<a href="navigation.html" title="Upp: Tre principer för navigering">▲</a> <a href="sense-respond.html" title="Läs vidare: Princip 4 - Känn av &amp; agera">▶ Läs vidare: Princip 4 - Känn av &amp; agera</a>
 </div>
 
 

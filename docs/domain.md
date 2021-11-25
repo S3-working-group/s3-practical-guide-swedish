@@ -3,15 +3,15 @@ title: "Domän"
 ---
 
 
-_A **domain** is a distinct area of influence, activity and decision making within an organization._
+_En **domän** är ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation._
 
 För att bättre utnyttja den begränsade mängd tid, energi och resurser som finns, fördela arbetetet mellan personer i organisationen genom att skapa roller eller forma team, enheter eller avdelningar. Samtidigt kommer dom att, explicit eller implicit, definiera domäner - distinkta områden med ansvar och självbestämmande. Alla domäner existerar inom den övergripande domänen för en organisation och kan överlappa och/eller vara helt inneslutna inom andra domäner.
 
-![Domains may overlap and/or be fully contained within other domains](img/driver-domain/domains-in-organizations.png)
+![Domäner kan överlappa och/eller vara helt inneslutna inuti andra domäner](img/driver-domain/domains-in-organizations.png)
 
 Varje roll eller grupps syfte är att bidra till det övergripande syftet med organisationen genom att ta hand om ett specifikt organisatoriskt behov. Otillräckligt definierade domäner leder typiskt till att intressenter har olika antaganden om ansvarsområden och autonomi. Som en följd av detta uppstår brister i både samarbete och arbetsfördelning på grund av att man missar beroenden, gör dubbelt arbete eller att inget arbete utförs alls.
 
-Förtydliga och utveckla domäner/0> gör kontraktet mellan *delegatorn* (som delegerar ansvar för en domän) och *delegaten* (den som domänen är delegerad till) uttrycklig, vilket gör det möjligt för alla att lära sig om vad som fungerar och vad som inte fungerar, och att förstå vem som är ansvarig för vad. En tydlig domänbeskrivning med en rimlig detaljrikedom är en nödvändig förutsättning för att människor framgångsrikt ska kunna utvärdera och kontinuerligt förbättra sitt arbete.</p> 
+[Förtydliga och utveckla domäner](clarify-and-develop-domains.html) gör kontraktet mellan *delegatorn* (som delegerar ansvar för en domän) och *delegaten* (den som domänen är delegerad till) uttrycklig, vilket gör det möjligt för alla att lära sig vad som fungerar och vad som inte fungerar, och att förstå vem som är ansvarig för vad. En tydlig domänbeskrivning med en rimlig detaljrikedom är en nödvändig förutsättning för att människor framgångsrikt ska kunna utvärdera och kontinuerligt förbättra sitt arbete.
 
 ## Utvärdera och utveckla domäner regelbundet
 
@@ -21,17 +21,17 @@ Människor kan ansvara för en domän på ett bra sätt på det sätt som domän
 
 ## Delegerat ansvar för domäner
 
-_Delegation is the grant of authority by one party (the _delegator_) to another (the _delegatee_) to account for a domain (i.e. to do certain things and/or to make certain decisions),for which the delegator maintains overall accountability._
+_Delegation är utdelandet av befogenheter från en part (_delegatorn_) till en annan (_delegaten_) för att ansvara för en domän (dvs. att göra vissa saker och / eller att fatta vissa beslut), för vilka delegatorn behåller det övergripande redovisningsansvaret._
 
 Ansvaret för domäner är delegerat till grupper eller individer, som sedan agerar inom de definierade avgränsningarna avseende självständighet och påverkan.
 
-När en domän delegeras till en grupp människor blir de ett <a href="#" class="tooltip" title="Team: A group of people collaborating toward a shared driver (or objective). Typically a team is part of an organization, or it is formed as a collaboration of several organizations.">team</a>, när det delegeras till en individ blir den en <a href="#" class="tooltip" title="Role Keeper: An individual taking responsibility for a role.">rollinnehavare</a>.
+När en domän delegeras till en grupp människor blir de ett <a href="#" class="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a>, när det delegeras till en individ blir den en <a href="#" class="tooltip" title="Rollinnehavare: En person som tar ansvar för en roll.">rollinnehavare</a>.
 
 Delegaten(erna) kan göra det som de tror kommer att hjälpa dem att uppnå sitt syfte, om det inte är utanför domänen för organisationen, explicit förbjudet, de bryter mot någon annans (explicita) domän, eller hindrar andra människor att bidra till organisationen på något annat sätt.
 
 **Obs:** *Saker som är förbjudna inkluderar uttryckliga begränsningar som anges i domänbeskrivningen, andra överenskommelser delegaten(s) måste hålla, såväl som rättsliga och regulatoriska krav.*
 
-<a href="#" class="tooltip" title="Delegator: An individual or group delegating responsibility for a domain to other(s).">Delegatorn</a> har fortfarande det övergripande ansvaret för domänen, allokerar **resurser** och definierar ofta:
+<a href="#" class="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">Delegatorn</a> har fortfarande den övergripande ansvarigheten för domänen, allokerar **resurser** och definierar ofta:
 
 - **organisatoriska behov** domänen är utformad för att agera på
 - **huvudsakligt ansvar** (viktiga resultat och leverabler, eventuella kritiska risker att hantera, annat viktigt arbete och vilket beslutsfattande som delegerats)
@@ -42,12 +42,12 @@ Delegaten(erna) kan göra det som de tror kommer att hjälpa dem att uppnå sitt
 Det är också möjligt att förstå en domän i förhållande till organisatoriska drivkrafter:
 
 - domänens **primära drivkraft** - den huvudsakliga drivkraften delegaten/delegaterna svarar på
-- den uppsättning av sekundära drivkrafter organisationen kan dra nytta av att ta itu med samtidigt som man agerar på den primära drivkraften, vilket inkluderar: 
+- den uppsättning av sekundära, underliggande, drivkrafter organisationen kan dra nytta av att ta itu med samtidigt som man agerar på den primära drivkraften, vilket inkluderar: 
     - **nyckelansvar** (alla drivkrafter som följer direkt från domänens primära drivkraft)
     - **beroenden** och **externa begränsningar** (drivkrafter relaterade till andra domäner eller till miljön utanför organisationen) som begränsar delegaternas autonomi
 
 <div class="bottom-nav">
-<a href="driver.html" title="Back to: Drivkrafter">◀</a> <a href="making-sense-of-organizations.html" title="Up: Nyckelbegrepp för att förstå organisationer">▲</a> <a href="objection.html" title="Read next: Invändningar">▶ Read next: Invändningar</a>
+<a href="driver.html" title="Tillbaka till: Drivkrafter">◀</a> <a href="making-sense-of-organizations.html" title="Upp: Nyckelbegrepp för att förstå organisationer">▲</a> <a href="objection.html" title="Läs vidare: Invändningar">▶ Läs vidare: Invändningar</a>
 </div>
 
 

@@ -1,35 +1,35 @@
 ---
-title: "The Patterns"
+title: "Mönstren"
 ---
 
 
 <div class="homepage-box hp-box-green">
-<p><strong>Note:</strong> If you are looking for a specific pattern, use the <a href="pattern-index.html" ><img src="img/a-z.png"/>&nbsp;Pattern Index</a> or the <a href="map.html" ><img src="img/map.png"/>&nbsp;Pattern Map</a>, which are available at the top of each page, and in the "Quick Links" menu.</p>
+<p><strong>Notera:</strong> Om du letar efter ett speciellt mönster kan du använda <a href="pattern-index.html" ><img src="img/a-z.png"/>mönsterförteckningen</a> eller <a href="map.html" ><img src="img/map.png"/>mönsterkartan</a>, som båda finns tillgängliga överst på varje sida samt i menyn under "Snabblänkar".</p>
 </div>
 
 S3 erbjuder ett mönsterbaserat tillvägagångssätt för organisatorisk förändring.
 
-_A **pattern** is a process, practice or guideline that serves as a template for successfully responding to a specific kind of challenge or opportunity._
+_Ett **mönster** är en process, teknik eller riktlinje som fungerar som en mall för att framgångsrikt agera på en viss typ av utmaning eller möjlighet._
 
 Mönster är modulära och anpassningsbara, kan användas självständigt, och är ömsesidigt förstärkande och kompletterar varandra när de används i kombination. S3-mönster kan förfinas och anpassas för att möta organisationens specifika behov.
 
-I den här guiden grupperas mönstren efter ämne i tio kategorier för att lättare kunna identifiera vilka som är mest relevanta:
+I den här handledningen har mönstrena grupperats efter ämne i tio kategorier för att lättare kunna identifiera vilka som är mest relevanta i en viss organisation:
 
-- [Co-Creation and Evolution](co-creation-and-evolution.html)
+- [Samskapande och utveckling](co-creation-and-evolution.html)
 - [Kollegial utveckling](peer-development.html)
-- [Enablers of Collaboration](enablers-of-collaboration.html)
+- [Främja samarbete](enablers-of-collaboration.html)
 - [Bygga organisationer](building-organizations.html)
-- [Bringing in S3](bringing-in-s3.html)
-- [Definiera avtal](defining-agreements.html)
+- [Börja använda S3](bringing-in-s3.html)
+- [Definiera överenskommelser](defining-agreements.html)
 - [Fokuserade interaktioner](focused-interactions.html)
-- [Mötespraxis](meeting-practices.html)
+- [Mötestekniker](meeting-practices.html)
 - [Organisera arbete](organizing-work.html)
 - [Organisationsstruktur](organizational-structure.html)
 
 
 
 <div class="bottom-nav">
-<a href="governance.html" title="Back to: Strukturell styrning och operationell verksamhet">◀</a> <a href="co-creation-and-evolution.html" title="Read next: Co-Creation and Evolution">▶ Read next: Co-Creation and Evolution</a>
+<a href="governance.html" title="Tillbaka till: Strukturell styrning och operationell verksamhet">◀</a> <a href="co-creation-and-evolution.html" title="Läs vidare: Samskapande och utveckling">▶ Läs vidare: Samskapande och utveckling</a>
 </div>
 
 

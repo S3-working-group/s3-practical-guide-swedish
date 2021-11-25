@@ -9,10 +9,10 @@ title: "Planerings- och utvärderingsmöten"
 
 **Utvärderingsmöte:** utvärdera slutfört arbete och avgöra om det krävs omarbetning och ändringar inför nästa period.
 
-![Planning and review meetings](img/meetings/planning-review.png)
+![Planering- och granskningsmöten](img/meetings/planning-review.png)
 
 <div class="bottom-nav">
-<a href="daily-standup.html" title="Back to: Daglig planering">◀</a> <a href="focused-interactions.html" title="Up: Fokuserade interaktioner">▲</a> <a href="coordination-meeting.html" title="Read next: Samordningsmöte">▶ Read next: Samordningsmöte</a>
+<a href="daily-standup.html" title="Tillbaka till: Dagligt planeringsmöte">◀</a> <a href="focused-interactions.html" title="Upp: Fokuserade interaktioner">▲</a> <a href="coordination-meeting.html" title="Läs vidare: Samordningsmöte">▶ Läs vidare: Samordningsmöte</a>
 </div>
 
 

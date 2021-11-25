@@ -3,44 +3,44 @@ title: "Författare"
 ---
 
 
-Vi säljer konsulttjänster, utbildning, coaching och mentorskap, inkluderande, men inte begränsat till, *Sociokrati 3.0*. Vi ägnar en del av vår tid och pengar åt att skapa fria resurser om *Sociokrati 3.0* som en del av vårt pågående engagemang för att göra sociokrati och relaterade idéer mer tillgängliga för omvärlden.
+Vi säljer konsulttjänster, utbildning, coaching och mentorskap, inkluderande, men inte begränsat till, *Sociokrati 3.0*. Vi ägnar en del av vår tid och pengar åt att skapa fritt tillgängliga resurser om *Sociokrati 3.0* som en del av vårt pågående engagemang för att göra sociokrati och relaterade idéer mer tillgängliga för omvärlden.
 
 ![James Priest, Liliana David, Bernhard Bockelbrink](img/james-liliana-bernhard.png)
 
-**James Priest** serves internationally, providing organizational development consultancy, learning facilitation, and mentoring for people wishing to evolve collaborative, adaptive organizations at scale.
+**James Priest** arbetar internationellt och tillhandahåller konsulttjänster och mentorskap inom organisationsutveckling och utbildning för personer som vill utveckla samarbetsvilliga och adaptiva organisationer i stor skala.
 
 <https://thriveincollaboration.com>
 
 <james@thriveincollaboration.com>
 
-**Bernhard Bockelbrink** is an agile coach, trainer and consultant supporting individuals, teams and organizations in navigating complex challenges and developing a culture of effective, conscious and joyful collaboration.
+**Bernhard Bockelbrink** är en agil coach, utbildare och konsult som stödjer individer, team och organisationer i att navigera komplexa utmaningar och i att utveckla en kultur av ändamålsenligt, medvetet och glädjefyllt samarbete.
 
 <https://evolvingcollaboration.com>
 
 <bernhard.bockelbrink@evolvingcollaboration.com>
 
-**Liliana David** serves internationally, providing training, facilitation and mentoring to teams and organizations wishing to develop greater effectiveness and equivalence in collaboration.
+**Liliana David** arbetar internationellt och tillhandahåller utbildning, facilitering och mentorskap till team och organisationer som vill utveckla större ändamålsenlighet och likvärdighet i samarbetet.
 
 <https://thriveincollaboration.com>
 
 <lili@thriveincollaboration.com>
 
-## Our Commitment to You
+## Vårt åtagande
 
-We dedicate a part of our time and money to create free resources about Sociocracy 3.0 as part of our ongoing commitment to make sociocracy and related ideas more accessible to the wider world.
+Vi ägnar en del av vår tid och pengar åt att skapa fritt tillgängliga resurser om Sociokrati 3.0 som en del av vårt kontinuerliga engagemang för att göra sociokrati och relaterade idéer mer tillgängliga för omvärlden.
 
-There’s an overlap between what we give away for free and how we make a living. Besides our work co-developing Sociocracy 3.0, we also sell consulting, facilitation, coaching and mentoring services, and design and delivery courses and events about, but not limited to Sociocracy 3.0.
+Det finns ett överlapp mellan vad vi ger bort gratis och hur vi försörjer oss. Förutom vårt arbete att utveckla Sociokrati 3.0 säljer vi också konsulttjänster, facilitering, coachning och mentorstjänster, samt kurser och evenemang om bland annat, men inte begränsat till, Sociokrati 3.0.
 
-You can always rely on the the Practical Guide as being the current and authoritative description of Sociocracy 3.0, which will always be available under a Creative Commons Attribution-ShareAlike 4.0 International License.
+Du kan alltid förlita dig på att denna praktiska handledning är den aktuella och vederhäftiga beskrivningen av Sociokrati 3.0, och den kommer alltid att finnas tillgänglig under en internationell Creative Commons Attribution-ShareAlike 4.0 licens.
 
-On top of that, we make all the content of this website and all the materials on the Resources page available under the same license.
+Utöver det gör vi allt innehåll på denna webbplats och allt material på sidan för resurser tillgängligt under samma licens.
 
-We share new documentation we create, describing and explaining about S3 patterns and how they can be applied, in the Practical Guide and on the Sociocracy 3.0 website, when those documents are in a state of readiness that we are happy with.
+Vi delar med oss av den nya dokumentation vi skapar, beskriver och förklarar om S3-mönster och hur de kan tillämpas, i den praktiska handledningen och på webbplatsen för Sociokrati 3.0, så snart dessa dokument är i ett tillstånd som vi är nöjda med.
 
-To find out how you can contribute to the development of S3, go to <https://sociocracy30.org/contribute/>
+För att ta reda på hur du kan bidra till utvecklingen av S3, gå till <https://sociocracy30.org/contribute/>
 
 <div class="bottom-nav">
-<a href="acknowledgments.html" title="Back to: Tack till">◀</a> <a href="appendix.html" title="Up: Bilagor">▲</a> <a href="glossary.html" title="Read next: Begreppslista">▶ Read next: Begreppslista</a>
+<a href="acknowledgments.html" title="Tillbaka till: Tack till">◀</a> <a href="appendix.html" title="Upp: Bilagor">▲</a> <a href="glossary.html" title="Läs vidare: Begreppslista">▶ Läs vidare: Begreppslista</a>
 </div>
 
 

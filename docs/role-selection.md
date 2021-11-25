@@ -11,11 +11,11 @@ Istället för att helt enkelt tilldela personer till [roller](role.html), eller
 - öka ägandeskapet över beslutet
 - säkerställa stöd för rollinnehavaren från de påverkade.
 
-En förutsättning för utnämningsprocessen är en [tydlig beskrivning](clarify-and-develop-domains.html) av rollens <a href="#" class="tooltip" title="Domän: A distinct area of influence, activity and decision making within an organization.">domän</a>.
+En förutsättning för utnämningsprocessen är en [tydlig beskrivning](clarify-and-develop-domains.html) av rollens <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domän</a>.
 
 ## Rollutnämning - steg
 
-![Role selection process](img/agreements/selection.png)
+![Processen för rollutnämning](img/agreements/selection.png)
 
 1. **Presentera rollbeskrivningen:** Om möjligt, skicka ut domänbeskrivningen för rollen i förväg.
 2. **Registrera nomineringar:** Deltagare skriver sina förslag på papper. Man kan föreslå sig själv, någon annan eller avstå.
@@ -26,7 +26,7 @@ En förutsättning för utnämningsprocessen är en [tydlig beskrivning](clarify
     - själv föreslå en kandidat eller fråga en deltagare
     - bjuda in någon eller några kandidater att komma överens om vem som ska föreslås
     - bjuda in till gruppdialog för att uppdaga vem som är den starkaste kandidaten
-7. **Kontrollera invändningar:** Be deltagarna (inklusive de föreslagna kandidaterna) att alla samtidigt signalera om de har en <a href="#" class="tooltip" title="Invändning: An argument relating to a (proposed) agreement or activity that reveals unintended consequences you’d rather avoid, or that demonstrates worthwhile ways to improve.">invändning</a>.
+7. **Kontrollera invändningar:** Be deltagarna (inklusive de föreslagna kandidaterna) att alla samtidigt signalera om de har en <a href="#" class="tooltip" title="Invändning: Ett argument som rör en (föreslagen) överenskommelse, åtgärd eller beslut och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar.">invändning</a>.
 8. **Hantera och lös upp invändningar**, börja med eventuella invändningar från den föreslagna kandidaten. [Invändningar kan lösas upp](resolve-objections.html) på många olika sätt, inklusive att förändra rollens domänbeskrivning eller att föreslå någon annan. När alla invändningar har lösts upp, kontrollera med den (slutligiltigt) nominerade kandidaten att denne accepterar rollen.
 9. **Fira:** Bekräfta att en överenskommelse har nåtts och tacka den person som nu kommer att inneha rollen.
 
@@ -37,7 +37,7 @@ Ibland visar en rollutnämning på en brist i kapacitet, relevanta erfarenheter,
 Detta mönster kan också användas i alla situationer där det finns ett behov av att välja mellan ett antal olika alternativ.
 
 <div class="bottom-nav">
-<a href="proposal-forming.html" title="Back to: Förslagsformulering">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="driver-mapping.html" title="Read next: Kartläggning av drivkrafter">▶ Read next: Kartläggning av drivkrafter</a>
+<a href="proposal-forming.html" title="Tillbaka till: Förslagsformulering">◀</a> <a href="co-creation-and-evolution.html" title="Upp: Samskapande och utveckling">▲</a> <a href="driver-mapping.html" title="Läs vidare: Kartläggning av drivkrafter">▶ Läs vidare: Kartläggning av drivkrafter</a>
 </div>
 
 

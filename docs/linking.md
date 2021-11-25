@@ -5,12 +5,12 @@ title: "Länkning"
 
 <strong>Möjliggör flöde av information och inflytande mellan två team.</strong>
 
-Ett team väljer en av sina medlemmar att företräda sina intressen i beslut om den <a href="#" class="tooltip" title="Governance: The process of setting objectives and making and evolving decisions that guide people towards achieving those objectives.">strukturella styrningen</a> av ett annat team.
+Ett team väljer en av sina medlemmar att företräda sina intressen i beslut om den <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">strukturella styrningen</a> av ett annat team.
 
-![One circle linked to another circle](img/structural-patterns/link.png)
+![En cirkel kopplad till en annan cirkel](img/structural-patterns/link.png)
 
 <div class="bottom-nav">
-<a href="role.html" title="Back to: Roll">◀</a> <a href="building-organizations.html" title="Up: Bygga organisationer">▲</a> <a href="double-linking.html" title="Read next: Dubbellänkning">▶ Read next: Dubbellänkning</a>
+<a href="role.html" title="Tillbaka till: Roll">◀</a> <a href="building-organizations.html" title="Upp: Bygga organisationer">▲</a> <a href="double-linking.html" title="Läs vidare: Dubbellänkning">▶ Läs vidare: Dubbellänkning</a>
 </div>
 
 

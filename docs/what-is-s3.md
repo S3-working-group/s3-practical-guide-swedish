@@ -3,7 +3,7 @@ title: "Vad är Sociokrati 3.0?"
 ---
 
 
-Sociokrati 3.0 — också kallat "S3" — är en <a href="#" class="tooltip" title="Social Technology: Social technology is any process, technique, method, skill or any other approach that people can use to influence social systems — organizations, societies, communities etc. — to support achieving shared objectives and guide meaningful interaction and exchange.">social teknologi</a> för att utveckla lättrörliga och motståndskraftiga organisationer i alla storlekar, från små nystartade företag till stora internationella nätverk och samarbeten mellan många myndigheter.
+Sociokrati 3.0 — också kallat "S3" — är en <a href="#" class="tooltip" title="Social teknologi: Social teknologi är varje process, teknik, metod, skicklighet eller annat tillvägagångssätt som människor kan använda för att påverka sociala system – organisationer, samhällen, samhällen etc. — för att stödja uppnåendet av gemensamma mål och vägleda meningsfullt samspel och utbyte.">social teknologi</a> för att utveckla lättrörliga och motståndskraftiga organisationer i alla storlekar, från små nystartade företag till stora internationella nätverk och samarbeten mellan många myndigheter.
 
 Denna praktiska guide innehåller en omfattande samling av beprövade och testade **koncept, principer och metoder för att förbättra prestanda, engagemang och välbefinnande** i organisationer.
 
@@ -20,7 +20,7 @@ Att använda S3 kan **hjälpa dig att uppnå dina mål** och framgångsrikt navi
 
 
 <div class="bottom-nav">
-<a href="how-does-s3-help.html" title="Read next: Hur kan Sociocracy 3.0 hjälpa?">▶ Read next: Hur kan Sociocracy 3.0 hjälpa?</a>
+<a href="how-does-s3-help.html" title="Läs vidare: Hur kan Sociokrati 3.0 hjälpa?">▶ Läs vidare: Hur kan Sociokrati 3.0 hjälpa?</a>
 </div>
 
 

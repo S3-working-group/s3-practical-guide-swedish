@@ -1,29 +1,29 @@
 ---
-title: "Registrera överenskommelser"
+title: "Teckna ner överenskommelser"
 ---
 
 
-**Registrera delarna i överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förfina överenskommelsen över tid.**
+**Anteckna detaljerna i de överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förfina överenskommelsen över tid.**
 
-_An **agreement** is an agreed upon guideline, process, protocol or policy designed to guide the flow of value._
+_En **överenskommelse** är en överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet._
 
-**Observera:** I S3 behandlas riktlinjer, processer eller protokoll skapade av personer som innehar roller också som avtal.
+**Observera:** I S3 behandlas riktlinjer, processer eller protokoll skapade av personer som innehar roller också som överenskommelser.
 
-Håll register över överenskommelser uppdaterade, t.ex. i en <a href="#" class="tooltip" title="Loggbok: A (digital) system to store all information relevant for running an organization.">loggbok</a>.
+Håll register över överenskommelser uppdaterade, t.ex. i en <a href="#" class="tooltip" title="Loggbok: Ett (digitalt) system för att lagra all information som är relevant för att driva en organisation.">loggbok</a>.
 
 
-## Vad skall registeras?
+## Vad behöver antecknas?
 
-Registrera avtal med tillräcklig detaljrikedom, så att viktig information kan återfinnas senare.
+Teckna ned överenskommelser med tillräcklig detaljrikedom, så att viktig information kan återfinnas senare.
 
-Inkludera åtminstone en sammanfattning av drivkraften, en beskrivning av vad som överenskommits, vem ansvarar för vad, utvärderingskriterier och ett datum för utvärdering.
+Inkludera åtminstone en sammanfattning av drivkraften, en beskrivning av vad som överenskommits, vem som ansvarar för vad, utvärderingskriterier och ett datum för utvärdering.
 
 Beroende på överenskommelsens omfattning och betydelse kan man överväga att inkludera följande:
 
--   Titel på överenskommelsen
+-   Rubrik på överenskommelsen
 -   [Beskrivning av drivkraften](describe-organizational-drivers.html)
 -   Datum när överenskommelsen gjordes (och/eller version)
--   Datum när överenskommelsen skall avslutas eller resultatet levereras (om relevant)
+-   Datum när överenskommelsen går ut, avslutas eller resultatet levereras (om relevant)
 -   Utvärderingsdatum (eller -period)
 -   Vem är ansvarig för vad?
 -   En beskrivning av överenskommelsen, inklusive:
@@ -31,20 +31,20 @@ Beroende på överenskommelsens omfattning och betydelse kan man överväga att 
     -   Åtgärdspunkter
     -   Resurser
     -   Begränsningar
-    -   [Avsedda effekter](clarify-intended-outcome.html)
+    -   [Avsett utfall](clarify-intended-outcome.html)
     -   [Leverabler](describe-deliverables.html)
     -   Motivering
--   [Återkopplingskriterier](evaluation-criteria.html) (och potentiell <a href="#" class="tooltip" title="Oro: An assumption – or opinion – that doing something (even in the absence of objections) might stand in the way of (more) effective response to an organizational driver.">oro</a>)
+-   [Utvärderingskriterier](evaluation-criteria.html) (och potentiell <a href="#" class="tooltip" title="Oro: Ett antagande – eller en åsikt – om att göra något (även i avsaknad av invändningar) skulle kunna stå i vägen för en (mer) ändamålsenlig respons på en organisatorisk drivkraft.">oro</a>)
 -   Bilaga (vid behov)
     -   Bakgrundsinformation
-    -   Tidigare versioner av överenskommelserna
+    -   Tidigare versioner av överenskommelsen
     -   Referenser
 
-![Template for agreements](img/templates/agreement-template.png)
+![Mall för överenskommelser](img/templates/agreement-template.png)
 
 
 <div class="bottom-nav">
-<a href="defining-agreements.html" title="Up: Definiera avtal">▲</a> <a href="clarify-and-develop-strategy.html" title="Read next: Förtydliga och utveckla strategi">▶ Read next: Förtydliga och utveckla strategi</a>
+<a href="defining-agreements.html" title="Upp: Definiera överenskommelser">▲</a> <a href="clarify-and-develop-strategy.html" title="Läs vidare: Förtydliga och utveckla strategi">▶ Läs vidare: Förtydliga och utveckla strategi</a>
 </div>
 
 

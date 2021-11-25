@@ -7,13 +7,13 @@ title: "Förslagsformulering"
 
 - utnyttjar den kollektiva intelligensen och mångfalden av perspektiv inom en grupp
 - involverar personer i samskapandet av överenskommelser
-- främjar ansvarstagande och känsla av äganderätt
+- främjar ansvarighet och en känsla av ägande
 
 *Förslagsformulering* kan också användas av en enstaka person.
 
 ## Stegen i förslagsformulering
 
-**Samtycke till drivkraften:** Presentera kort <a href="#" class="tooltip" title="Organizational Driver: A driver is a person’s or a group&#x27;s motive for responding to a specific situation. A driver is considered an **organizational driver** if responding to it would help the organization generate value, eliminate waste or avoid unintended consequences.">drivkraften</a>. *Är denna drivkraft relevant för oss att agera på? Finns det några väsentliga tillägg till drivkraften som har lagts fram?*
+**Samtycke till drivkraften:** Presentera kort <a href="#" class="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraften</a>. *Är denna drivkraft relevant för oss att agera på? Finns det några väsentliga tillägg till drivkraften som har lagts fram?*
 
 **Fördjupa förståelsen av drivkraften:** Uppmuntra väsentliga frågor för att förstå drivkraften i mera detalj.
 
@@ -38,10 +38,10 @@ title: "Förslagsformulering"
 
 Det är oftast lämpligt med två eller tre formulerare. Kontrollera eventuella invändningar mot de föreslagna formulerarna.
 
-![Proposal forming process](img/agreements/proposal-forming.png)
+![Processen för förslagsformulering](img/agreements/proposal-forming.png)
 
 <div class="bottom-nav">
-<a href="co-create-proposals.html" title="Back to: Samskapa förslag">◀</a> <a href="co-creation-and-evolution.html" title="Up: Co-Creation and Evolution">▲</a> <a href="role-selection.html" title="Read next: Rollutnämning">▶ Read next: Rollutnämning</a>
+<a href="co-create-proposals.html" title="Tillbaka till: Samskapa förslag">◀</a> <a href="co-creation-and-evolution.html" title="Upp: Samskapande och utveckling">▲</a> <a href="role-selection.html" title="Läs vidare: Rollutnämning">▶ Läs vidare: Rollutnämning</a>
 </div>
 
 

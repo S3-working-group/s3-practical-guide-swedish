@@ -3,7 +3,7 @@ title: "Fraktal organisation"
 ---
 
 
-<strong>En organisations beståndsdelar (avdelningar, eller projekt) som har en gemensam (eller liknande) primär drivkraft och struktur kan dela lärande mellan funktionella domäner, ensa åtgärder och fatta beslut på hög nivå (t.ex övergripande strategi).</strong>
+<strong>Flera kretsar (avdelningar, team eller projekt) i en organisation som har en gemensam (eller liknande) primär drivkraft och struktur kan dela lärande tvärs funktionella domäner, ensa åtgärder och fatta beslut på hög nivå (t.ex övergripande strategi).</strong>
 
 Att skapa en fraktal organisation kan göra det möjligt för ett stort nätverk att snabbt agera på en föränderlig omvärld.
 
@@ -13,37 +13,37 @@ Om det behövs kan mönstret upprepas för att koppla ihop flera fraktala organi
 
 ## Förutsättningar
 
-En fraktal organisation kan bildas antingen av flera in(ter-)beroende organisationer som delar en gemensam (primär) <a href="#" class="tooltip" title="Drivkraft: A person’s or a group&#x27;s motive for responding to a specific situation.">drivkraft</a>, eller av flera grenar, avdelningar, eller projekt inom en större organisation.
+En fraktal organisation kan bildas antingen av flera (o-)beroende organisationer som delar en gemensam (primär) <a href="#" class="tooltip" title="Drivkraft: En persons eller grupps motiv för att agera på en specifik situation.">drivkraft</a>, eller av flera grenar, avdelningar, eller projekt inom en större organisation.
 
-Dessa <a href="#" class="tooltip" title="Constituent: A team (e.g. a circle, team, department, branch, project or organization) who delegate authority to a representative to act on their behalf in other team or organizations.">organisatoriska beståndsdelar</a> (dvs organisationer, grenar, avdelningar eller projekt) måste dela åtminstone några — och typiskt de flesta — funktionella <a href="#" class="tooltip" title="Domän: A distinct area of influence, activity and decision making within an organization.">domäner</a> (e. . redovisning, produkthantering, eller utveckling).
+Dessa <a href="#" class="tooltip" title="Krets: Ett team (t.ex. en cirkel, team, avdelning, gren, projekt eller organisation) som delegerar befogenhet till en representant för att agera på deras vägnar i andra team eller organisationer.">kretsar</a> (dvs organisationer, grenar, avdelningar eller projekt) måste dela åtminstone några — och typiskt de flesta — funktionella <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> (t.ex. redovisning, produkthantering, eller utveckling).
 
 ## Nivåer
 
 En fraktal organisation har minst tre nivåer:
 
-- första nivån: **beståndsdelarna** (dvs organisationer, grenar, avdelningar eller projekt)
-- andra nivåer: **funktionsspecifika [delegatscirklar](delegate-circle.html)** för att dela lärande och för att ingå och förädla avtal på uppdrag av funktionsspecifika domäner
-- tredje nivå: en **tvärfunktionell delegatscirkel** för att ingå och förädla avtal som svar på drikrafter som påverkar den övergripande delen av de organisatoriska beståndsdelarna
+- första nivån: **kretsar** (dvs organisationer, grenar, avdelningar eller projekt)
+- andra nivån: **funktionsspecifika [delegatscirklar](delegate-circle.html)** för att dela lärande och för att ingå och förädla överenskommelser på uppdrag av funktionsspecifika domäner
+- tredje nivå: en **tvärfunktionell delegatscirkel** för att ingå och förädla överenskommelser som respons på drivkrafter som påverkar de övergripande organisatoriska kretsarna
 
 ## Att bilda en fraktal organisation
 
-1. Bilda den **andra nivån:** I varje organisatorisk beståndsdel bestämmer medlemmarna i varje gemensam (och betydande) funktionell domän vem av dem kommer att representera dem i en **funktionsspecifik delegatscirkel**, där de delar kunskap och lärande, och gemensamt ingår och förädlar avtal. Representanter väljs för en begränsad tid (varefter ett nytt val görs).
+1. Bilda den **andra nivån:** I varje organisatorisk krets bestämmer medlemmarna i varje gemensam (och betydande) funktionell domän vem av dem kommer att representera dem i en **funktionsspecifik delegatscirkel**, där de delar kunskap och lärande, och gemensamt ingår och förädlar överenskommelser. Representanter väljs för en begränsad tid (varefter ett nytt val görs).
 2. Bilda den **tredje nivån:** andra nivåns delegatscirklar väljer var och en varsin delegat till en **tvärfunktionell delegatscirkel**.
 
-## Påverkan på organisationen(s)
+## Påverkan på organisationen
 
-Varje organisatorisk beståndsdel:
+Varje organisatorisk krets:
 
 - får tillgång till en mängd erfarenheter, visdom och färdigheter för att öka verkan, effektivitet och innovation.
-- kan dela resurser, infrastruktur och erfarenhet med andra organisatoriska beståndsdelar beroende på kapacitet och behov
+- kan dela resurser, infrastruktur och erfarenhet med andra organisatoriska kretsar beroende på kapacitet och behov
 
 Den andra och tredje nivån kan:
 
-- prova beslut i flera instanser av funktionsspecifika domäner samtidigt och ge omfattande återkoppling och snabbt lärande
-- organisera, ensa och styra hela systemet och samtidigt bibehålla autonomi och medverkan av de enskilda organisatoriska beståndsdelarna
+- prova beslut i flera instanser av funktionsspecifika domäner samtidigt vilket ger utförlig återkoppling och snabbt lärande
+- organisera, ensa och styra hela systemet och samtidigt bibehålla autonomi hos, och medverkan av, de enskilda organisatoriska kretsarna
 
 <div class="bottom-nav">
-<a href="service-organization.html" title="Back to: Serviceorganisation">◀</a> <a href="organizational-structure.html" title="Up: Organisationsstruktur">▲</a> <a href="csf.html" title="Read next: A Common Sense Framework for Organizations and Teams">▶ Read next: A Common Sense Framework for Organizations and Teams</a>
+<a href="service-organization.html" title="Tillbaka till: Serviceorganisation">◀</a> <a href="organizational-structure.html" title="Upp: Organisationsstruktur">▲</a> <a href="csf.html" title="Läs vidare: Ett ramverk för sunt förnuft i organisationer och team">▶ Läs vidare: Ett ramverk för sunt förnuft i organisationer och team</a>
 </div>
 
 

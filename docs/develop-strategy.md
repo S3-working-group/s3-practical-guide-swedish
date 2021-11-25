@@ -8,16 +8,16 @@ title: "Princip 2 – Utveckla strategi"
 
 Viktiga möster för att hjälpa till att uppnå detta är:
 
--   [Clarify and Develop Domains](clarify-and-develop-domains.html) – A clearly defined area of influence, activity and decision making is a prerequisite for defining an effective strategy for an organization, a team or role.
--   [Clarify Intended Outcome](clarify-intended-outcome.html) - Defining the intended outcome of a strategy is an essential component for monitoring and evaluating its effectiveness, and adapting things when necessary.
--   [Describe Organizational Drivers](describe-organizational-drivers.html) – Understanding the motive for acting in response to a specific situation is an essential component for designing an effective strategy for responding to it
--   [Clarify and Develop Strategy](clarify-and-develop-strategy.html) – Stakeholders collaborating on creating and evolving strategy for an organization, team or role, helps to support creation of relevant and effective strategy
--   [Evaluate And Evolve Agreements](evaluate-and-evolve-agreements.html) – Reviewing strategy and evolving it as necessary over time ensures it remains helpful and relevant to the organization, team or role.
--   [Evaluation Criteria](evaluation-criteria.html) – Defining criteria for success or failure is necessary for figuring out whether or not the strategy is effective.
+-   [Förtydliga och utveckla domäner](clarify-and-develop-domains.html) – Att ha tydlig en beskriving av ett område med definitioner av inflytande, aktivitet och beslutsfattande är en förutsättning för att definiera en effektiv strategi för en organisation, ett team eller roll.
+-   [Förtydliga avsett utfall](clarify-intended-outcome.html) - Att definiera det avsedda utfallet av en strategi är en viktig del i att övervaka och utvärdera dess ändamålsenlighet och att kunna anpassa saker efter behov.
+-   [Beskriv organisatoriska drivkrafter](describe-organizational-drivers.html) – Att förstå motivet för att agera på en specifik situation är en väsentlig del i att förstå, definiera och kommunicera syftet med en organisation, ett team eller avdelning.
+-   [Förtydliga och utveckla strategi](clarify-and-develop-strategy.html) – Intressenter som samarbetar för att skapa och utveckla strategier för en organisation, team eller roll, möjliggör skapandet av en relevant och effektiv strategi.
+-   [Utvärdera och förädla överenskommelser](evaluate-and-evolve-agreements.html) – Genom att granska strategin och utveckla den så som krävs över tid ser man till att den förblir användbar och relevant för organisationen, ett team eller en roll.
+-   [Utvärderingskriterier](evaluation-criteria.html) – Att definiera kriterier för framgång eller misslyckande är nödvändigt för att räkna ut om strategin är ändamålsenlig eller inte.
 
 
 <div class="bottom-nav">
-<a href="clarify-purpose.html" title="Back to: Princip 1 – Förtydliga syfte">◀</a> <a href="orientation.html" title="Up: Två principer för orientering">▲</a> <a href="navigation.html" title="Read next: Tre principer för navigering">▶ Read next: Tre principer för navigering</a>
+<a href="clarify-purpose.html" title="Tillbaka till: Princip 1 – Förtydliga syfte">◀</a> <a href="orientation.html" title="Upp: Två principer för orientering">▲</a> <a href="navigation.html" title="Läs vidare: Tre principer för navigering">▶ Läs vidare: Tre principer för navigering</a>
 </div>
 
 

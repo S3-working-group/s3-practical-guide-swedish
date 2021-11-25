@@ -8,14 +8,14 @@ title: "Bilagor"
 - [Länkar](links.html)
 - [Licens](license.html)
 - [Ansvarsfriskrivning](disclaimer.html)
-- [The Intentional Commitment for Practitioners and Teachers of Sociocracy 3.0 (ICPT)](icpt.html)
+- [Det avsiktliga åtagandet för utövare och utbildare av Sociokrati 3.0 (ICPT)](icpt.html)
 - [Tack till](acknowledgments.html)
 - [Författare](authors.html)
 - [Begreppslista](glossary.html)
 
 
 <div class="bottom-nav">
-<a href="where-to-start.html" title="Back to: Var ska man börja?">◀</a> <a href="changelog.html" title="Read next: Ändringslogg">▶ Read next: Ändringslogg</a>
+<a href="where-to-start.html" title="Tillbaka till: Var ska man börja?">◀</a> <a href="changelog.html" title="Läs vidare: Ändringslogg">▶ Läs vidare: Ändringslogg</a>
 </div>
 
 

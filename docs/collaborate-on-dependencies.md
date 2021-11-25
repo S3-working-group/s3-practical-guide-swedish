@@ -8,19 +8,19 @@ title: "Princip 7 – Samarbeta vid beroenden"
 
 Viktiga möster för att hjälpa till att uppnå detta är:
 
--   [Navigate via Tension](navigate-via-tension.html) – Everyone in the organization paying attention to dependencies maximizes the potential for unmanaged dependencies to be identified and responded to.
--   [Clarify and Develop Domains](clarify-and-develop-domains.html) – When people understand their own areas of responsibility, and those of others too, they also understand where collaboration on dependencies will be necessary.
--   [Visualize Work](visualize-work.html) – Visualizing work items and the dependencies between them, makes it easier to manage dependencies in cooperation with the relevant stakeholders.
--   [Respond to Organizational Drivers](respond-to-organizational-drivers.html) Understanding why a dependency exists in the first place, and ensuring it is taken care of, is essential for collaborating on managing or resolving dependencies.
--   [Involve Those Affected](involve-those-affected.html) – To address dependencies in an effective way, it often helps to gather the perspectives of all (relevant) stakeholders and involve them in the decision making process.
--   [Linking](linking.html) – Dependencies between two teams can often be addressed effectively by sending a [Representative](representative.html) to the decision making of the other team, to ensure all relevant perspectives are considered and ownership of decisions is shared.
--   [Delegate Circle](delegate-circle.html) – Delegating the power to make and evolve agreements for how to deal with specific dependencies between teams, to a circle of representatives, brings together relevant perspectives and generates ownership among stakeholders.
--   [Align Flow](align-flow.html) – Moving decision making close to where value is created, brings together the people necessary for making decisions in response to specific dependencies and eliminates unnecessary decision making bottlenecks.
--   [Create a Pull-System for Organizational Change](create-a-pull-system-for-organizational-change.html) – Inviting and enabling people to make changes to organizational structure, when doing so provides an effective way for dealing with dependencies they share responsibility for, facilitates the ongoing evolution of a coherent and effective organization.
+-   [Navigera via spänning](navigate-via-tension.html) – Att alla i organisationen är uppmärksamma på beroenden maximerar potentialen för att ohanterade beroenden upptäcks och hanteras.
+-   [Förtydliga och utveckla domäner](clarify-and-develop-domains.html) – När människor förstår sina egna och andras ansvarsområden förstår de också var beroenden gör det nödvändigt med samarbete.
+-   [Synliggör arbete](visualize-work.html) – Genom att visualisera arbeten och beroenden mellan dem, blir det lättare att hantera beroenden i samarbete med berörda intressenter.
+-   [Svara på organisatoriska drivkrafter](respond-to-organizational-drivers.html) Att förstå varför ett beroende faktiskt finns, och se till att den tas om hand, är avgörande för samarbete för att hantera eller lösa upp beroenden.
+-   [Involvera de som påverkas](involve-those-affected.html) – För att hantera beroenden på ett effektivt sätt behöver man ofta samla perspektiv från alla (relevanta) intressenter och involvera dem i beslutsprocessen.
+-   [Länkning](linking.html) – Beroenden mellan två team kan ofta hanteras effektivt genom att skicka en [representant](representative.html) till beslutsfattandet i det andra teamet för att säkerställa att alla relevanta perspektiv beaktas och att ägandet av beslutet delas.
+-   [Delegatscirkel](delegate-circle.html) – Att delegera befogenheten att ingå och förädla överenskommelser för hur man ska hantera specifika beroenden mellan grupper till en krets av representanter samlar relevanta perspektiv och skapar ägandeskap bland intressenterna.
+-   [Ensa flöde](align-flow.html) – Genom att flytta beslutsfattande till där värde skapas samlar man de människor som behövs för att fatta beslut som respons på specifika beroenden och eliminerar onödiga flaskhalsar i beslutsfattandet.
+-   [Skapa ett flödesbaserat system för organisatorisk förändring](create-a-pull-system-for-organizational-change.html) – Att bjuda in och göra det möjligt för människor att göra förändringar av den organisatoriska strukturen, när det verkar vara ett ändamålsenligt sätt att hantera beroenden som de delar ansvar för, möjliggör en kontinuerlig förädling av en välstrukturerad och ändamålsenlig organisation.
 
 
 <div class="bottom-nav">
-<a href="enable-autonomy.html" title="Back to: Princip 6 – Möjliggör autonomi">◀</a> <a href="structure.html" title="Up: Två principer för struktur">▲</a> <a href="transformation.html" title="Read next: Tre principer för transformation">▶ Read next: Tre principer för transformation</a>
+<a href="enable-autonomy.html" title="Tillbaka till: Princip 6 – Främja autonomi">◀</a> <a href="structure.html" title="Upp: Två principer för struktur">▲</a> <a href="transformation.html" title="Läs vidare: Tre principer för transformation">▶ Läs vidare: Tre principer för transformation</a>
 </div>
 
 

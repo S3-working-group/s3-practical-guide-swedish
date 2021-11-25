@@ -12,12 +12,12 @@ Team vid randen:
 
 Navet erbjuder interna tjänster för att stödja organisationen.
 
-<a href="#" class="tooltip" title="Domän: A distinct area of influence, activity and decision making within an organization.">Domäner</a> är sammanlänkade efter behov för att information och inflytande ska flöda, och för att stödja samarbete kring beroenden.
+<a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">Domäner</a> är sammanlänkade efter behov för att information och inflytande ska flöda, och för att stödja samarbete kring beroenden.
 
 ![Lagrad organisation](img/structural-patterns/peach-organization.png)
 
 <div class="bottom-nav">
-<a href="delegate-circle.html" title="Back to: Delegatscirkel">◀</a> <a href="organizational-structure.html" title="Up: Organisationsstruktur">▲</a> <a href="double-linked-hierarchy.html" title="Read next: Dubbellänkad hierarki">▶ Read next: Dubbellänkad hierarki</a>
+<a href="delegate-circle.html" title="Tillbaka till: Delegatscirkel">◀</a> <a href="organizational-structure.html" title="Upp: Organisationsstruktur">▲</a> <a href="double-linked-hierarchy.html" title="Läs vidare: Dubbellänkad hierarki">▶ Läs vidare: Dubbellänkad hierarki</a>
 </div>
 
 

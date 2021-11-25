@@ -14,10 +14,10 @@ Vid inbjudan:
 - undvik tvång eller manipulation
 - acceptera eventuell skepticism och tvivel
 
-Bjud in de inblandade och påverkade till regelbunden utvärdering av effekterna av ändringen.
+Bjud in de inblandade och påverkade till regelbunden utvärdering av utfallet.
 
 <div class="bottom-nav">
-<a href="be-the-change.html" title="Back to: Var förändringen">◀</a> <a href="bringing-in-s3.html" title="Up: Bringing in S3">▲</a> <a href="open-space-for-change.html" title="Read next: Öppen kultur för förändring">▶ Read next: Öppen kultur för förändring</a>
+<a href="be-the-change.html" title="Tillbaka till: Var förändringen">◀</a> <a href="bringing-in-s3.html" title="Upp: Börja använda S3">▲</a> <a href="open-space-for-change.html" title="Läs vidare: Öppen kultur för förändring">▶ Läs vidare: Öppen kultur för förändring</a>
 </div>
 
 
