@@ -13,7 +13,7 @@ För att **upptäcka drivkrafter** undersök vad som stimulerar spänningen och 
 
 När en drivkraft vidarebefordras till en annan domän är det ofta tillräckligt att kommunicera det som händer och varför det spelar roll (hur det påverkar organisationen). Låt de som ansvarar tänka på vad som behövs och vad man kan göra åt det.
 
-![Navigera via spänning, Beskriv organisatoriska drivrutiner, Svara på organisatoriska drivkrafter](img/process/navigate-describe-respond.png)
+![Navigera via spänning, Beskriv organisatoriska drivkrafter, Svara på organisatoriska drivkrafter](img/process/navigate-describe-respond.png)
 
 <div class="bottom-nav">
 <a href="respond-to-organizational-drivers.html" title="Tillbaka till: Agera på organisatoriska drivkrafter">◀</a> <a href="co-creation-and-evolution.html" title="Upp: Samskapande och utveckling">▲</a> <a href="describe-organizational-drivers.html" title="Läs vidare: Beskriv organisatoriska drivkrafter">▶ Läs vidare: Beskriv organisatoriska drivkrafter</a>

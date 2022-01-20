@@ -23,11 +23,11 @@ title: "Förslagsformulering"
 
 **Prioritera** överväganden.
 
-**Samla idéer** som kan vara möjliga komponenter i ett förslag.
+**Samla idéer** som kan vara möjliga beståndsdelar i ett förslag.
 
-**Konstruera ett förslag** som beskriver hur man kan agera på drivkraften utifrån de kreativa idéer och den information som samlats in hittills. Detta görs oftast av en mindre grupp av "formulerare".
+**Konstruera ett förslag** som beskriver hur man kan agera på drivkraften utifrån de kreativa idéer och den information som samlats in hittills. Detta görs oftast av en mindre grupp av "förslagsformulerare".
 
-## Att välja formulerare
+## Att välja förslagsformulerare
 
 Överväg:
 
@@ -36,7 +36,7 @@ title: "Förslagsformulering"
 - vem mer kan ha värdefulla bidrag?
 - expertis, utifrån-perspektiv och inspiration
 
-Det är oftast lämpligt med två eller tre formulerare. Kontrollera eventuella invändningar mot de föreslagna formulerarna.
+Det är oftast lämpligt med två eller tre förslagsformulerare. Kontrollera eventuella invändningar mot de föreslagna formulerarna.
 
 ![Processen för förslagsformulering](img/agreements/proposal-forming.png)
 

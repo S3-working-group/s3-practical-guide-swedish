@@ -96,7 +96,7 @@ Ansvar bör vara specifika och mätbara, så att de kan utvärderas och utveckla
 
 Gör de väsentliga beroendena mellan denna domän och andra delar av organisationen explicita, så att delegaten(-erna) kan samarbeta med andra intressenter för att hantera dessa beroenden.
 
-Överväg:
+Ta hänsyn till:
 
 -   Interna och externa kunder (de som nyttjar teamets resultat)
 -   Leverantörer av produkter eller tjänster som är väsentliga för delegatens/delegaternas arbete.
@@ -155,7 +155,7 @@ När en domän delegeras till andra, behåller delegatorn fortfarande den överg
 
 Lista exakt vilka skyldigheter delegatorn tar på sig till stöd för delegaten(-erna) som ansvara för denna domän.
 
-Överväg:
+Ta hänsyn till:
 
 -   Möjligheter till lärande och utveckling och stöd som erbjuds till delegaten(-erna).
 -   Saker som är viktiga för att framgångsrikt kunna ansvara för den domän som endast delegatorn kan göra.

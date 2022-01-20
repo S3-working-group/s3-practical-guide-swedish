@@ -84,7 +84,7 @@ Ordet sociokrati kan spåras tillbaka till 1851, när **Auguste Comte** föreslo
 
 Några decennier senare använde **Lester Frank Ward** ordet sociokrati för att beskriva hur människor kunde styra baserat på sina relationer med varandra. I stället för att ha sociologer i centrum, ville han ge mer makt och ansvar till individen, han föreställde sig sociologer i en roll som forskare och konsulter.
 
-År 1926 grundade den holländska reformisten och kväkaren **Kees Boeke**en internatskola baserad på principen om samtycke. Personal och studenter behandlades som likvärdiga deltagare i den strukturella styrningen av skolan, alla beslut var tvungna att vara acceptabla för alla. Han byggde denna version av sociokrati på kväkarnas principer och praxis, och beskrev sociokrati som en demokratiutveckling i sin essä "Demokrati som den kan vara" från 1945.
+År 1926 grundade den holländska reformisten och kväkaren **Kees Boeke** en internatskola baserad på principen om samtycke. Personal och studenter behandlades som likvärdiga deltagare i den strukturella styrningen av skolan, alla beslut var tvungna att vara acceptabla för alla. Han byggde denna version av sociokrati på kväkarnas principer och praxis, och beskrev sociokrati som en demokratiutveckling i sin essä "Demokrati som den kan vara" från 1945.
 
 **Gerard Endenburg**, också en kväkare och en elev i Boekes skola, ville tillämpa sociokrati i sin familjs företag, Endenburg Elektrotechniek. Han skapade och utvecklade *Den Sociokratiska Cirkelmetoden (SCM)* (som senare blev "Sociocratic Method"), där han integrerade Boekes form av sociokrati med ingenjörskonst och cybernetik. 1978 grundade Endenburg Sociocratisch Centrum i Utrecht (som nu är Sociocratic Center i Rotterdam) som ett sätt att främja sociokrati i och utanför Nederländerna. Sedan 1994 är organisationer i Nederländerna som använder SCM undantagna från det rättsliga kravet att ha ett arbetarråd.
 
@@ -450,7 +450,7 @@ För att **upptäcka drivkrafter** undersök vad som stimulerar spänningen och 
 
 När en drivkraft vidarebefordras till en annan domän är det ofta tillräckligt att kommunicera det som händer och varför det spelar roll (hur det påverkar organisationen). Låt de som ansvarar tänka på vad som behövs och vad man kan göra åt det.
 
-![Navigera via spänning, Beskriv organisatoriska drivrutiner, Svara på organisatoriska drivkrafter](img/process/navigate-describe-respond.png)
+![Navigera via spänning, Beskriv organisatoriska drivkrafter, Svara på organisatoriska drivkrafter](img/process/navigate-describe-respond.png)
 
 #### Beskriv organisatoriska drivkrafter
 
@@ -620,7 +620,7 @@ Delar av detta mönster kan också användas av enstaka personer för att utvär
 
 ##### Längre format
 
-![Det långa format för att utvärdera och förfina avtal](img/agreements/evaluate-agreements.png)
+![Den långa versionen av utvärdera och förädla avtal](img/agreements/evaluate-agreements.png)
 
 Förberedelser:
 
@@ -686,11 +686,11 @@ Förutom att göra detta i fysiska möten kan processen anpassas för videomöte
 
 **Prioritera** överväganden.
 
-**Samla idéer** som kan vara möjliga komponenter i ett förslag.
+**Samla idéer** som kan vara möjliga beståndsdelar i ett förslag.
 
-**Konstruera ett förslag** som beskriver hur man kan agera på drivkraften utifrån de kreativa idéer och den information som samlats in hittills. Detta görs oftast av en mindre grupp av "formulerare".
+**Konstruera ett förslag** som beskriver hur man kan agera på drivkraften utifrån de kreativa idéer och den information som samlats in hittills. Detta görs oftast av en mindre grupp av "förslagsformulerare".
 
-##### Att välja formulerare
+##### Att välja förslagsformulerare
 
 Överväg:
 
@@ -699,7 +699,7 @@ Förutom att göra detta i fysiska möten kan processen anpassas för videomöte
 - vem mer kan ha värdefulla bidrag?
 - expertis, utifrån-perspektiv och inspiration
 
-Det är oftast lämpligt med två eller tre formulerare. Kontrollera eventuella invändningar mot de föreslagna formulerarna.
+Det är oftast lämpligt med två eller tre förslagsformulerare. Kontrollera eventuella invändningar mot de föreslagna formulerarna.
 
 ![Processen för förslagsformulering](img/agreements/proposal-forming.png)
 
@@ -1570,7 +1570,7 @@ Ansvar bör vara specifika och mätbara, så att de kan utvärderas och utveckla
 
 Gör de väsentliga beroendena mellan denna domän och andra delar av organisationen explicita, så att delegaten(-erna) kan samarbeta med andra intressenter för att hantera dessa beroenden.
 
-Överväg:
+Ta hänsyn till:
 
 -   Interna och externa kunder (de som nyttjar teamets resultat)
 -   Leverantörer av produkter eller tjänster som är väsentliga för delegatens/delegaternas arbete.
@@ -1629,7 +1629,7 @@ När en domän delegeras till andra, behåller delegatorn fortfarande den överg
 
 Lista exakt vilka skyldigheter delegatorn tar på sig till stöd för delegaten(-erna) som ansvara för denna domän.
 
-Överväg:
+Ta hänsyn till:
 
 -   Möjligheter till lärande och utveckling och stöd som erbjuds till delegaten(-erna).
 -   Saker som är viktiga för att framgångsrikt kunna ansvara för den domän som endast delegatorn kan göra.

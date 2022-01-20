@@ -31,7 +31,7 @@ Delar av detta mönster kan också användas av enstaka personer för att utvär
 
 ## Längre format
 
-![Det långa format för att utvärdera och förfina avtal](img/agreements/evaluate-agreements.png)
+![Den långa versionen av utvärdera och förädla avtal](img/agreements/evaluate-agreements.png)
 
 Förberedelser:
 
