@@ -1,7 +1,7 @@
 # Dubbellänkning
 
 <summary>
-<strong>Möjliggör <em>tvåvägsflöde-</em> av information och inflytande mellan två team.</strong>
+<strong>Möjliggör <em>tvåvägsflöde</em> av information och inflytande mellan två team.</strong>
 </summary>
 
 Två ömsesidigt beroende team väljer var sin medlem för att representera sina intressen i beslut om den [strukturella styrningen](glossary:governance) av det andra teamet.

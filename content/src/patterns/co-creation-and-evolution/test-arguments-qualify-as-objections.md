@@ -6,7 +6,7 @@
 
 När någon väcker ett argument för att ändra något, kontrollera om argumentet avslöjar vilka oönskade konsekvenser som kommer – eller kan – uppstå om saker lämnas oförändrade, eller om det indikerar ett värdefullt sätt att förbättra hur man gör för att nå målsättningarna.
 
-Utforska och förfina varje argument så som krävs för att identifiera eventuella missuppfattningar eller missförstånd, och för att eliminera aspekter av argumentet som endast bygger på antaganden, en personlig preferens eller åsikt. Om ni är överens om att det som återstår av argumentet kvalificerar sig som en invändning, gå då vidare med att [lösa invändningen](section:resolve-objections).
+Utforska och förädla varje argument så som krävs för att identifiera eventuella missuppfattningar eller missförstånd, och för att eliminera aspekter av argumentet som endast bygger på antaganden, personliga preferenser eller åsikter. Om ni är överens om att det som återstår av argumentet kvalificerar sig som en invändning, gå då vidare med att [lösa invändningen](section:resolve-objections).
 
 För att avgöra om ett argument kan anses vara en invändning, kan en facilitator fråga gruppen:
 

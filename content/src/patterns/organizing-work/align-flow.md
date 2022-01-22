@@ -6,7 +6,7 @@
 
 **Värdeflöde:** {{glossary:flow-of-value}}
 
-Sträva efter, och upprätthåll, ensade flöden genom att ständigt utveckla och förfina organisationens samlade [överenskommelser](glossary:agreement):
+Sträva efter, och upprätthåll, ensade flöden genom att ständigt utveckla och förädla organisationens samlade [överenskommelser](glossary:agreement):
 
 - säkra att alla beslut som påverkar värdeflödet faktiskt stöder värdeflödet
 - möjliggör att personer med relevant kompetens och kunskap kan påverka beslut

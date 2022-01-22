@@ -38,9 +38,9 @@ För att människor ska kunna bidra på ett effektivt sätt behöver de tillgån
 
 ## Satsa på lärande och utveckling
 
-När människor involveras i beslutsfattande och alla förstår vad invändningar är – och hur de skiljer sig från oro, åsikter och preferenser – hjälper det människor att bidra till beslut på ett mer meningsfullt och ändamålsenligt sätt. Skapa vägar att samla eventuella invändningar som människor artikulerar och utveckla ett system för att enkelt göra dem tillgängliga för de människor som är direkt ansvariga för att fatta och förfina dessa beslut.
+När människor involveras i beslutsfattande och alla förstår vad invändningar är – och hur de skiljer sig från oro, åsikter och preferenser – hjälper det människor att bidra till beslut på ett mer meningsfullt och ändamålsenligt sätt. Skapa vägar att samla eventuella invändningar som människor uttrycker och utveckla ett system för att enkelt göra dem tillgängliga för de människor som är direkt ansvariga för att fatta och förädla dessa beslut.
 
-I de fall där människor är ansvariga för att ingå och förfina överenskommelser tillsammans regelbundet, satsa på att alla utvecklar nödvändig kompetens och skicklighet. Det inkluderar att lära sig grundläggande kommunikationsfärdigheter och att vara bekväm i vilka beslutsprocesser du än använder.
+I de fall där människor är ansvariga för att ingå och förädla överenskommelser tillsammans regelbundet, satsa på att alla utvecklar nödvändig kompetens och skicklighet. Det inkluderar att lära sig grundläggande kommunikationsfärdigheter och att vara bekväm i vilka beslutsprocesser du än använder.
 
 ## Bjud in externt inflytande
 

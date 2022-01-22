@@ -107,7 +107,7 @@ Detta steg kan anses klart när det finns en överenskommelse om en första iter
 
 I denna fas kan några personer vandra mellan domäner tills de hittar en som de känner att de kan bidra till.
 
-### 7. Förfina planeringslistorna
+### 7. Förädla planeringslistorna
 
 *Organisera arbetet framåt inom varje område, säkra att behoven prioriteras och beskrivs tillräckligt tydligt.*
 

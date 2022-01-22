@@ -1,4 +1,4 @@
 # Två principer för struktur
 
 
-![Two Principles for Structure: Enable Autonomy – Collaborate on Dependencies](img/csf/csf-light-structure.png)
+![Två principer för struktur: Främja autonomi – Samarbeta om beroenden](img/csf/csf-light-structure.png)

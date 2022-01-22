@@ -4,7 +4,7 @@
 <strong>Välj någon att facilitera mötena för strukturell styrning.</strong>
 </summary>
 
-En facilitator för [ strukturell styrning](glossary:governance):
+En facilitator för [strukturell styrning](glossary:governance)
 
 - säkerställer att [möten för strukturell styrning](section:governance-meeting) fokuserar på rätt saker och utvärderas
 - väljs (oftast) av ett [team](glossary:team) bland dess medlemmar (och för en viss period)

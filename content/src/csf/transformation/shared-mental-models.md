@@ -5,6 +5,6 @@
 
 Viktiga möster för att hjälpa till att uppnå detta är:
 
--   [Navigera via spänning](section:navigate-via-tension) – Om alla i organisationen är uppmärksamma på situationer där man skulle kunna dra nytta av att bygga eller förfina en gemensam mental modell får man människor att se saker ur samma perspektiv så att de kan föra en produktiv dialog.
+-   [Navigera via spänning](section:navigate-via-tension) – Om alla i organisationen är uppmärksamma på situationer där man skulle kunna dra nytta av att bygga eller förädla en gemensam mental modell får man människor att se saker ur samma perspektiv så att de kan föra en produktiv dialog.
 -   [Tydliggör och utveckla domäner](section:clarify-and-develop-domains) – Att tydliggöra och dokumentera ansvarsområden säkrar en gemensam mental modell avseende förväntningar och ansvar.
 -   [Förtydliga avsett utfall](section:clarify-intended-outcome) – Genom att först komma överens om det avsedda utfallet av en föreslagen aktivitet, projekt eller överenskommelse, utvecklar människor en gemensam förståelse för åt vilket håll saker bör utvecklas och kan sedan föra en produktiv dialog om hur man når dit.

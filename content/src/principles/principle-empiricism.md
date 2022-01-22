@@ -11,7 +11,7 @@ Att observera och sondera system och att använda sig av experiment för att vä
 
 ## Förtydliga hypotesen
 
-En hypotes är en preliminär förklaring av ett samband mellan en specifik orsak och en effekt som är både kan testas och falsifieras. Den ger en startpunkt för experiment som bevisar eller motbevisar hypotesen.
+En hypotes är en preliminär förklaring av ett samband mellan en specifik orsak och en effekt som både kan testas och falsifieras. Den ger en startpunkt för experiment som bevisar eller motbevisar hypotesen.
 
 När det gäller organisationer kan man utveckla hypoteser om hur en förändring i en arbetsprocess eller organisationsstruktur skulle förbättra ändamålsenligheten eller minska kostnaderna. Eller om hur en omplanering av ett möte skulle kunna öka engagemanget, eller hur en viss förändring av en produkt skulle kunna attrahera ett nytt kundsegment samtidigt som befintliga kunder är nöjda och så vidare.
 
@@ -24,7 +24,7 @@ I komplexa domäner förlitar sig en hypotesdriven strategi på experiment för 
 
 ## Konstruera bra experiment
 
-Ett experiment är ett kontrollerat test som är utformat för att bevisa eller motbevisa en hypotes. Experiment ger validerad kunskap om hur man bättre kan agera på kommande utmaningar och möjligheter. Utfallet ger ofta möjlighet att förfina hypotesen, eller till och med utveckla nya hypoteser som sedan kan testas med ytterligare experiment.
+Ett experiment är ett kontrollerat test som är utformat för att bevisa eller motbevisa en hypotes. Experiment ger validerad kunskap om hur man bättre kan agera på kommande utmaningar och möjligheter. Utfallet ger ofta möjlighet att förädla hypotesen, eller till och med utveckla nya hypoteser som sedan kan testas med ytterligare experiment.
 
 Innan ett experiment påbörjas är det viktigt att helt definiera och dokumentera det. När det gäller organisationer kommer ett experiment att bestå av en lista på aktiviteter som behöver genomföras, och om det hjälper, hur de behöver utföras, men även en lista på mätvärden som ska följas före, under och efter experimentet.
 

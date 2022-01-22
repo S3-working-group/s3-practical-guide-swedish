@@ -1,4 +1,4 @@
-Comment: This text is used as book description. See https://kdp.amazon.com/en_US/help/topic/G201189630 for supported HTML tags, headlines must be <h4> to <h6>
+Kommentar: Denna text används som bokbeskrivning. Se https://kdp.<unk> .com/en_US/help/topic/G201189630 för HTML-taggar som stöds, rubriker måste vara <h4> to <h6>
 
 Sociokrati 3.0 — förkortat "S3" — är en **social teknologi** för att utveckla smidiga och stabila organisationer i alla storlekar, från små nystartade företag till stora internationella nätverk och samarbeten mellan många organ.
 
