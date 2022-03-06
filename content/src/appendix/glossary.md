@@ -1,0 +1,3 @@
+# Begreppslista
+
+{{full-glossary}}
