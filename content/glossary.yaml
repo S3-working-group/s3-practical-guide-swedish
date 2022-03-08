@@ -1,0 +1,257 @@
+---
+#this is the database for the glossary.
+#each entry has a key that is used to reference it in the source files
+#{define:driver}
+#and some translatable strings
+#- name: the name of the glossary entry
+#- definition: the definition of the term in the form "a **x** is …"
+#- glossary: glossary text for a term
+#- note: a note that will be added as a second paragraph to the glossary after the definition
+title: Begreppslista
+continued: (…)
+terms:
+  accountability:
+    name: Ansvarighet (princip)
+    definition:
+    glossary: "**Agera när något behövs, gör vad du överenskommit och axla din del av ansvaret för organisationens framgång** så att det som behöver göras blir gjort, ingenting förbises och alla gör vad de kan för att bidra till organisationens ändamålsmässighet och integritet."
+  account:
+    name: Ansvara för (v.)
+    glossary: att ta på sig att göra någonting.
+  agreement:
+    name: Överenskommelse
+    definition: En **överenskommelse** är en överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.
+    glossary: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.
+  alignment:
+    name: Ensning
+    glossary: Processen att ensa alla delar av en organisation i linje med organisationens mål.
+  backlog:
+    name: Planeringslista
+    definition: En **planeringslista** (att-göra-lista) är en lista av (ofta prioriterade, ordnade) oavslutade uppgifter (leverabler eller drivkrafter) som behöver åtgärdas.
+    glossary: En lista av (ofta prioriterade, ordnade) oavslutade uppgifter (leverabler eller drivkrafter) som behöver åtgärdas.
+  chosen-values:
+    name: Valda värderingar
+    glossary: En uppsättning principer ett team (eller en organisation) har valt att kollektivt anta för att vägleda deras beteende i samband med deras samarbete.
+  circle:
+    name: Cirkel
+    definition: En **cirkel** är ett självstyrande och halv-autonomt team av likvärdiga personer som samarbetar för att hantera en domän.
+    glossary: Ett självstyrande och halv-autonomt team av likvärdiga personer som samarbetar för att hantera en domän.
+  check-in:
+    name: Incheckning
+    definition:
+    glossary: Ett kort yppande om vad som är aktuellt för dig och hur du känner dig, något som visar dina tankar, känslor, distraktioner eller behov.
+  complexity:
+    name: Komplex
+    glossary: En miljö där man inte vet vad man inte vet, orsak och verkan kan bara förstås i efterhand och åtgärder leder till oförutsägbara förändringar. [Snowden och Boone]
+  concern:
+    name: Oro
+    definition: En **oro** är ett antagande - eller en åsikt - om att göra något (även i avsaknad av invändningar) kan stå i vägen för en (mer) ändamålsenlig respons på en organisatorisk drivkraft.
+    glossary: Ett antagande – eller en åsikt – om att göra något (även i avsaknad av invändningar) skulle kunna stå i vägen för en (mer) ändamålsenlig respons på en organisatorisk drivkraft.
+  consent:
+    name: Samtycke (princip)
+    definition:
+    glossary: "**Ta upp, undersök och lös upp invändningar mot beslut och åtgärder** så att risken för oönskade konsekvenser minskar och eventuella värdefulla sätt att förbättra kan upptäckas."
+  constituent:
+    name: Krets
+    definition:
+    glossary: Ett team (t.ex. en cirkel, team, avdelning, gren, projekt eller organisation) som delegerar befogenhet till en representant för att agera på deras vägnar i andra team eller organisationer.
+  continuous-improvement:
+    name: Ständig förbättring (princip)
+    definition:
+    glossary: "**Granska regelbundet utfallet av det du gör, och gör sedan stegvisa förbättringar av vad du gör och hur du gör det baserat på vad du lär dig** så att du kan anpassa dig till förändringar när det behövs, och upprätthålla eller förbättra ändamålsenligheten över tid."
+  coordination:
+    name: Samordning
+    definition:
+    glossary: Processen att göra det möjligt för individer eller team att samarbeta effektivt mellan olika domäner för att uppnå gemensamma mål.
+  delegatee:
+    name: Delegat
+    glossary: En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.
+  delegation:
+    name: Delegering
+    definition: Delegation är utdelandet av befogenheter från en part (_delegatorn_) till en annan (_delegaten_) för att ansvara för en domän (dvs. att göra vissa saker och / eller att fatta vissa beslut), för vilka delegatorn behåller det övergripande redovisningsansvaret.
+    glossary: Utdelandet av befogenheter från en part (_delegatorn_) till en annan (_delegaten_) för att ansvara för en domän (dvs. att göra vissa saker och / eller att fatta vissa beslut), för vilka delegatorn behåller det övergripande redovisningsansvaret.
+  delegator:
+    name: Delegator
+    glossary: En individ eller grupp som delegerar ansvarigheten för en domän till andra.
+  deliverable:
+    name: Leverabel
+    definition: En **leverabel** är en produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.
+    glossary: En produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.
+  domain:
+    name: Domän
+    definition: En **domän** är ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.
+    glossary: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.
+  driver:
+    name: Drivkraft
+    definition: En **drivkraft** är en persons eller grupps motiv för att svara på en specifik situation.
+    glossary: En persons eller grupps motiv för att agera på en specifik situation.
+  effectiveness:
+    name: Ändamålsenlighet (princip)
+    definition:
+    glossary: "**Lägg endast tid på sådant som leder närmare organisationens övergripande mål**, så att den begränsade tid, energi och resurs som finns tillgänglig används på bästa sätt."
+  empiricism:
+    name: Empiri (princip)
+    definition:
+    glossary: "**Pröva alla antaganden du är beroende av genom experiment och kontinuerlig revidering** så att du lär dig snabbt, förstår och kan navigera så ändamålsenligt som möjligt."
+  equivalence:
+    name: Likvärdighet (princip)
+    definition:
+    glossary: "**Engagera människor i att fatta och förfina beslut som påverkar dem** så att du ökar engagemanget och ansvarstagandet, och utnyttjar den distribuerade intelligensen för att uppnå och utveckla dina mål."
+  evolve:
+    name: Förädla (v.)
+    glossary: att utveckla gradvis.
+  flow-of-value:
+    name: Värdeflöde
+    glossary: Leverabler som rör sig genom en organisation mot kunder eller andra intressenter.
+  governance:
+    name: Strukturell styrning
+    definition: "**Strukturell styrning** i en organisation (eller en domän inom den) är processen att sätta upp mål och fatta och förfina beslut som vägleder människor mot att uppnå dessa mål."
+    glossary: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.
+  governance-backlog:
+    name: Planeringslista för strukturell styrning
+    definition: En **planeringslista för strukturell styrning** är en synlig, prioriterad lista över ärenden (drivkrafter) som är kopplade till att styra en domän och som kräver åtgärder.
+    glossary: En synlig, prioriterad lista över ärenden (drivkrafter) som är kopplade till att styra en domän och kräver åtgärder.
+  intended-outcome:
+    name: Avsett utfall
+    definition:
+    glossary: Det förväntade utfallet av en överenskommelse, ett projekt, en åtgärd eller strategi.
+  helping-team:
+    name: Hjälpande team
+    definition:
+    glossary: Ett team av likvärdiga personer med mandat att agera på en specifik uppsättning krav.
+  key-responsibilities:
+    name: Huvudansvar
+    glossary: Väsentligt arbete och beslutsfattande som krävs inom ramen för en domän.
+  logbook:
+    name: Loggbok
+    definition:
+    glossary: Ett (digitalt) system för att lagra all information som är relevant för att driva en organisation.
+  metric:
+    name: Metrik
+    definition: En **metrik** är ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång.
+    glossary: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång
+  need:
+    name: Behov
+    definition: Ett **behov** är avsaknaden av något som önskas eller anses nödvändigt (ett krav).
+    glossary: Avsaknad av något som önskas eller anses nödvändigt (ett krav).
+  objection:
+    name: Invändning
+    definition: En **invändning** är ett argument som rör en (föreslagen) överenskommelse, åtgärd eller beslut och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar.
+    glossary: Ett argument som rör en (föreslagen) överenskommelse, åtgärd eller beslut och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar.
+  objective:
+    name: Mål
+    definition:
+    glossary: Ett (specifikt) resultat som en person eller grupp eller organisation vill uppnå, en målsättning eller ambition.
+  open-domain:
+    name: Öppen domän
+    definition:
+    glossary: En domän som hanteras av en rad personer som har bjudits in att bidra när de kan.
+  operations:
+    name: Operativ verksamhet
+    definition: "**Operativ verksamhet** är att organisera, planera och utföra de dagliga aktiviteterna inom de begränsningar som definierats genom strukturell styrning."
+    glossary: Att organisera, planera och utföra de dagliga aktiviteterna inom de begränsningar som definierats genom strukturell styrning.
+  operations-backlog:
+    name: Operativ planeringslista
+    definition: En **operationell planeringslista** är en synlig lista över (typiskt prioriterade eller ordnade) oavslutade arbetsmoment (leverabler).
+    glossary: En synlig lista över (typiskt prioriterade eller ordnade) oavslutade arbetsmoment (leverabler).
+  organization:
+    name: Organisation
+    definition:
+    glossary: En grupp människor som samarbetar mot en delad drivkraft (eller mål). Ofta delas en organisation upp i flera grupper.
+  organizational-driver:
+    name: Organisatorisk drivkraft
+    definition:
+    glossary: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.
+  pattern:
+    name: Mönster
+    definition: Ett **mönster** är en process, teknik eller riktlinje som fungerar som en mall för att framgångsrikt agera på en viss typ av utmaning eller möjlighet.
+    glossary: En process, teknik eller riktlinje som fungerar som en mall för att framgångsrikt agera på en viss typ av utmaning eller möjlighet.
+  peer-domain:
+    name: Syskondomän
+    definition:
+    glossary: Två syskondomäner finns inom samma omedelbara överdomän och kan vara överlappande.
+  primary-driver:
+    name: Primär drivkraft
+    definition:
+    glossary: Den primära drivkraften för en domän är den huvudsakliga drivkraften som de personer som ansvarar för den domänen agerar på.
+  principle:
+    name: Princip
+    definition: En **princip** är en grundläggande idé eller regel som styr beteenden, eller förklarar eller kontrollerar hur något händer eller fungerar.
+    glossary: En grundläggande idé eller regel som styr beteendet, eller förklarar eller styr hur något händer eller fungerar.
+  role:
+    name: Roll
+    definition:
+    glossary: En domän som delegeras till en person som då blir rollinnehavare.
+  role-keeper:
+    name: Rollinnehavare
+    definition:
+    glossary: En person som tar ansvar för en roll.
+  scm:
+    name: Sociocratic Circle-Organisation Method (SCM)
+    glossary: En jämlik styrningsmetod för organisationer baserade på ett sociokratiskt tänkesätt som Gerard Endenburg utvecklat i Nederländerna.
+  self-governance:
+    name: Självstyre
+    definition:
+    glossary: Människor som själva fattar beslut om den strukturella styrning inom en domän.
+  self-organization:
+    name: Självorganisering
+    definition:
+    glossary: Alla aktiviteter eller processer genom vilka människor organiserar arbete. Självorganisering sker inom begränsningarna av ett område, men utan direkt inflytande av externa agenter. I varje organisation eller grupp samexisterar självorganisation med externt inflytande (t.ex. externa invändningar eller styrningsbeslut som påverkar domänen).
+  semi-autonomy:
+    name: Halv-autonomi
+    definition:
+    glossary: Människors självständighet att själva bestämma hur man skapar värde, inom ramen för begränsningarna i deras domän, och genom invändningar från delegatorn, representanter eller andra.
+  social-technology:
+    name: Social teknologi
+    definition: Varje process, teknik, metod, skicklighet eller annan metod som människor kan använda för att påverka sociala system – organisationer, samhällen, samhällen etc. — för att stödja uppnåendet av gemensamma mål och vägleda meningsfullt samspel och utbyte.
+    glossary: Social teknologi är varje process, teknik, metod, skicklighet eller annat tillvägagångssätt som människor kan använda för att påverka sociala system – organisationer, samhällen, samhällen etc. — för att stödja uppnåendet av gemensamma mål och vägleda meningsfullt samspel och utbyte.
+  sociocracy:
+    name: Sociokrati
+    glossary: En strategi för att samorganisera där människor som påverkas av beslut kan påverka dem då det finns skäl att göra det.
+  strategy:
+    name: Strategi
+    definition: En **strategi** är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.
+    glossary: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.
+  subdomain:
+    name: Underdomän
+    definition:
+    glossary: En domän som är helt innesluten inom en annan domän.
+  subdriver:
+    name: Underliggande drivkraft
+    definition:
+    glossary: En underliggande drivkraft uppstår som en konsekvens av att agera på en annan drivkraft (den överliggande drivkraften) och är nödvändig för att på ett ändamålsenligt sätt kunna svara på den överliggande drivkraften.
+  superdriver:
+    name: Överliggande drivkraft
+    definition:
+    glossary: se underliggande drivkraft.
+  superdomain:
+    name: Överdomän
+    definition:
+    glossary: En domän som helt omsluter en annan domän.
+  team:
+    name: Team
+    definition:
+    glossary: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.
+  tension:
+    name: Spänning
+    definition:
+    glossary: 'En personlig upplevelse: ett symptom av dissonans mellan en persons uppfattning om en situation och dennes förväntningar (eller preferenser).'
+  timebox:
+    name: Tidsbox
+    definition: En **timebox** är en bestämd tidsperiod fokuserad på en specifik aktivitet (som inte nödvändigtvis hinner blir klar inom tidsperioden).
+    glossary: En bestämd tidsperiod fokuserad på en specifik aktivitet (som inte nödvändigtvis hinner blir klar inom tidsperioden).
+  transparency:
+    name: Öppenhet (princip)
+    definition:
+    glossary: "**Anteckna all information som är värdefull för organisationen och gör den tillgänglig för alla i organisationen, såvida det inte finns någon speciell anledning till sekretess** så att alla har den information de behöver för att förstå hur man gör sitt arbete på ett sätt som så ändamålsenligt som möjligt bidrar helheten."
+  value:
+    name: Värde
+    definition: "**Värde** är vikten, värdet, nyttan eller användbarheten av något i förhållande till en drivkraft."
+    glossary: Vikt, värde, nytta eller användbarhet av något i förhållande till en drivkraft. Se också "värderingar".
+  values:
+    name: Värderingar
+    definition: "**Värderingar** är grundläggande principer som vägleder beteende. Värderingar definierar omfattningen och begränsningar för åtgärder och etiska restriktioner."
+    glossary: "Värderade principer som styr beteende. Icke att förväxla med \"värde\" i samband med en drivkraft."
+  waste:
+    name: Spill
+    definition: "**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för en (mer) ändamålsenlig respons på en drivkraft."
+    glossary: Allt som är onödigt för — eller står i vägen för — en (mer) effektiv respons på en drivkraft.

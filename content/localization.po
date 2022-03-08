@@ -1,0 +1,98 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: sociocracy-30\n"
+"X-Crowdin-Project-ID: 88253\n"
+"X-Crowdin-Language: sv-SE\n"
+"X-Crowdin-File: localization.pot\n"
+"X-Crowdin-File-ID: 947\n"
+"Project-Id-Version: sociocracy-30\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language-Team: Swedish\n"
+"Language: sv_SE\n"
+"PO-Revision-Date: 2021-11-25 18:06\n"
+
+# continuation marker for follow-up slides
+msgid "(…)"
+msgstr "(…)"
+
+# patterns (plural)
+msgid "Patterns"
+msgstr "Mönster"
+
+# pattern (singular)
+msgid "Pattern"
+msgstr "Mönster"
+
+# site title for practical guide microsite
+msgid "A Practical Guide to Sociocracy 3.0"
+msgstr "En praktisk handledning till Sociokrati 3.0"
+
+# title for ebook
+msgid "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"
+msgstr "En praktisk handledning för att utveckla agila och motståndskraftiga organisationer med Sociokrati 3.0"
+
+# subtitle for ebook
+msgid "70+ Powerful Practices to Help You and Your Organization Thrive"
+msgstr "70+ kraftfulla tekniker som hjälper dig och din organisation frodas"
+
+# SE 2019
+msgid "Supporter Edition 2019"
+msgstr "Supporterutgåva 2019"
+
+# site descriptions for practical guide microsite
+msgid "The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David."
+msgstr "Den officiella beskrivningen av Sociokrati 3.0 - Alla mönster, de sju principerna och de viktigaste begreppen. Underhålls av Bernhard Bockelbrink, James Priest och Liliana David."
+
+# Headline for page "Concepts and Principles" in website
+msgid "Concepts and Principles"
+msgstr "Begrepp och principer"
+
+# Headline for Section "Introduction" (e.g. in ebook)
+msgid "Introduction"
+msgstr "Introduktion"
+
+# Headline for Section "The Patterns" (e.g. in ebook)
+msgid "The Patterns"
+msgstr "Mönstren"
+
+# Headline for Section "Appendix" (e.g. in ebook)
+msgid "Appendix"
+msgstr "Bilagor"
+
+# Pattern prefix
+msgid " Pattern %(chapter)s.%(section)s:"
+msgstr " Mönster %(chapter)s.%(section)s:"
+
+# Filename
+msgid "S3-practical-guide"
+msgstr ""
+
+# Title for reveal.js slide deck
+msgid "S3 - A Practical Guide"
+msgstr "En praktisk handledning"
+
+# Pattern-Index in PDF
+msgid "Pattern-Index"
+msgstr "Mönsterförteckning"
+
+# Title for Table of Contents in PDF
+msgid "Contents"
+msgstr "Innehåll"
+
+# (mdtools) webpage bottomnavigation: next page in reading order
+msgid "Read next:"
+msgstr "Läs vidare:"
+
+# (mdtools): webpage bottomnavigation: previous page in reading order
+msgid "Back to:"
+msgstr "Tillbaka till:"
+
+# (mdtools): webpage bottom navigation
+msgid "Up:"
+msgstr "Upp:"
+
+msgid ""
+msgstr ""
+""
+
