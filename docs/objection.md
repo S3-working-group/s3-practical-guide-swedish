@@ -38,7 +38,7 @@ Utnyttja en mångfald av perspektiv och var öppen för att utmana ditt eget, f�
 
 _En **oro** är ett antagande - eller en åsikt - om att göra något (även i avsaknad av invändningar) kan stå i vägen för en (mer) ändamålsenlig respons på en organisatorisk drivkraft._
 
-I [samtyckesbeslut](consent-decision-making.html) kan oro indikera olika sätt att förfina överenskommelser (inklusive utvärderingskriterier och utvärderingsfrekvens). Ta upp din oro om du tycker att det är värdefullt att överväga den, och registrera åtminstone den tillsammans med överenskommelsen, och övervaka resultaten över tid.
+I [samtyckesbeslut](consent-decision-making.html) kan oro indikera olika sätt att förädla överenskommelser (inklusive utvärderingskriterier och utvärderingsfrekvens). Ta upp din oro om du tycker att det är värdefullt att överväga den, och registrera åtminstone den tillsammans med överenskommelsen, och övervaka resultaten över tid.
 
 Om du är osäker på om du har en invändning eller en oro, var proaktiv och fråga andra för att se vad de anser. (Se också [Pröva om argument är invändningar](test-arguments-qualify-as-objections.html)).
 

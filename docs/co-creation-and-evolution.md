@@ -27,7 +27,7 @@ title: "Samskapande och utveckling"
   <dd><p><strong>Förädla kontinuerligt existerande överenskommelser, och eliminera spill och slöseri.</strong></p></dd>
 
   <dt><a href="involve-those-affected.html">Involvera de som påverkas</a></dt>
-  <dd><p><strong>De personer som påverkas skall delta i besluten för att upprätthålla likvärdighet och ansvarighet och för att </p>
+  <dd><p><strong>Involvera de personer som påverkas när beslut fattas för att upprätthålla likvärdighet och ansvarighet och för att </p>
 <p>öka kunskapen som används vid beslutet.</strong></p></dd>
 
   <dt><a href="co-create-proposals.html">Samskapa förslag</a></dt>

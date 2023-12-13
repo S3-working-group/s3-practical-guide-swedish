@@ -11,7 +11,7 @@ Att agera på <a href="#" class="tooltip" title="Organisatorisk drivkraft: En dr
 - organisera hur arbete kommer att utföras
 - fatta beslut om strukturell styrning
 
-Hur man beslutar att agera på en organisatorisk drivkraft bör alltid betraktas som ett experiment som ska utvärderas och förfinas över tid.
+Hur man beslutar att agera på en organisatorisk drivkraft bör alltid betraktas som ett experiment som ska utvärderas och förädlas över tid.
 
 ![Möjliga svar på organisatoriska drivkrafter](img/driver-domain/driver-response-full.png)
 

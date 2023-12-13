@@ -7,7 +7,7 @@ title: "Ensa flödet"
 
 **Värdeflöde:** Leverabler som rör sig genom en organisation mot kunder eller andra intressenter.
 
-Sträva efter, och upprätthåll, ensade flöden genom att ständigt utveckla och förfina organisationens samlade <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a>:
+Sträva efter, och upprätthåll, ensade flöden genom att ständigt utveckla och förädla organisationens samlade <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a>:
 
 - säkra att alla beslut som påverkar värdeflödet faktiskt stöder värdeflödet
 - möjliggör att personer med relevant kompetens och kunskap kan påverka beslut

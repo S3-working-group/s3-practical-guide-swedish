@@ -22,7 +22,7 @@ Ett enkelt sätt att stödja intressenter i att utveckla en gemensam förståels
 -   Kompetenser, egenskaper och färdigheter
 -   Nyckelresurser
 -   Delegatorns ansvar
--   Nyckeltal
+-   Primära mätvärden
 -   Utvärdering
 
 På [S3 Canvas microsite] hittar du en mängd olika mallar som du kan använda för att (sam-)skapa och dokumentera domänbeskrivningar.
@@ -164,11 +164,11 @@ Ta hänsyn till:
 Beskriv delegatorns ansvar i specifika och mätbara termer, så att de kan granskas och utvecklas efter behov.
 
 
-### Nyckeltal
+### Primära mätvärden
 
-<a href="#" class="tooltip" title="Metrik: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång">Nyckeltal</a> är statistik som fungerar som kritiska indikatorer för framsteg, projektstatus eller prestanda. De relaterar till den primära drivkraften (och/eller syftet), nyckelansvar, utmaningar, leverabler och delegatorns ansvar som definierats för denna domän.
+<a href="#" class="tooltip" title="Metrik: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång">Mätvärden</a> är statistik som fungerar som kritiska indikatorer för framsteg, projektstatus eller prestanda. De relaterar till den primära drivkraften (och/eller syftet), nyckelansvar, utmaningar, leverabler och delegatorns ansvar som definierats för denna domän.
 
-Nyckeltal övervakas och utvärderas ofta. De är relevanta kriterier för utvärdering av utfall och framgång i schemalagda utvärderingar (se ”Övervakning och utvärdering” nedan).
+Primära mätvärden övervakas och utvärderas ofta. De är relevanta kriterier för utvärdering av utfall och framgång i schemalagda utvärderingar (se ”Övervakning och utvärdering” nedan).
 
 För varje mätetal, betrakta de faktiska siffror som övervakas, liksom innebörden av dessa värden i förhållande till domänen (börvärden, acceptabelt omfång eller tolerans).
 
@@ -191,7 +191,7 @@ I utvärderingen, se till att du överväger följande aspekter:
 Definiera:
 
 -   Schema eller frekvens för utvärderingar.
--   Andra användbara utvärderingskriterier utöver nyckeltalen.
+-   Andra användbara utvärderingskriterier utöver de primära mätetalen.
 -   Eventuella andra relevanta aspekter att beakta vid utvärderingen.
 -   Vem ska delta i utvärderingen.
 -   En process för utvärdering (t.ex. [kollegiala utvärderingar](peer-review.html)).

@@ -21,7 +21,7 @@ title: "Börja använda S3"
   <dd><p><strong>Bjud in alla att skapa och genomföra experiment för att utveckla organisationen.</strong></p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Kontinuerlig förbättring av arbetsprocessen</a></dt>
-  <dd><p><strong>Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förfina processerna.</strong></p></dd>
+  <dd><p><strong>Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förädla processerna.</strong></p></dd>
 </dl>
 
 

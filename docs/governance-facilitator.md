@@ -5,7 +5,7 @@ title: "Facilitator för strukturell styrning"
 
 <strong>Välj någon att facilitera mötena för strukturell styrning.</strong>
 
-En facilitator för <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål."> strukturell styrning</a>:
+En facilitator för <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">strukturell styrning</a>
 
 - säkerställer att [möten för strukturell styrning](governance-meeting.html) fokuserar på rätt saker och utvärderas
 - väljs (oftast) av ett <a href="#" class="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a> bland dess medlemmar (och för en viss period)

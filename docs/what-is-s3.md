@@ -16,7 +16,7 @@ Att använda S3 kan **hjälpa dig att uppnå dina mål** och framgångsrikt navi
 
 **Oavsett din position i organisationen** finns det många beprövade idéer som är relevanta och användbara för dig.
 
-**Sociocracy 3.0 är gratis och helt fritt att använda**, och licensierat under Creative Commons Free Culture License.
+**Sociokrati 3.0 är gratis och helt fritt att använda**, och licensierat under Creative Commons Free Culture License.
 
 
 <div class="bottom-nav">

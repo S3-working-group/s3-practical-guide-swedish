@@ -18,7 +18,7 @@ title: "Bygga organisationer"
   <dd><p><strong>Möjliggör flöde av information och inflytande mellan två team.</strong></p></dd>
 
   <dt><a href="double-linking.html">Dubbellänkning</a></dt>
-  <dd><p><strong>Möjliggör <em>tvåvägsflöde-</em> av information och inflytande mellan två team.</strong></p></dd>
+  <dd><p><strong>Möjliggör <em>tvåvägsflöde</em> av information och inflytande mellan två team.</strong></p></dd>
 
   <dt><a href="representative.html">Representant</a></dt>
   <dd><p><strong>Välj en teammedlem som ska delta i beslut kring den strukturella styrningen för ett annat team för att möjliggöra flödet av information och inflytande.</strong></p></dd>

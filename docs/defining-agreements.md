@@ -12,7 +12,7 @@ S3 främjar en hypotesdriven strategi för beslutsfattande.
 <dl>
 
   <dt><a href="record-agreements.html">Teckna ner överenskommelser</a></dt>
-  <dd><p>Anteckna detaljerna i de överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förfina överenskommelsen över tid.</p></dd>
+  <dd><p>Anteckna detaljerna i de överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förädla överenskommelsen över tid.</p></dd>
 
   <dt><a href="clarify-and-develop-strategy.html">Förtydliga och utveckla strategi</a></dt>
   <dd><p><em>En <strong>strategi</strong> är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.</em></p></dd>

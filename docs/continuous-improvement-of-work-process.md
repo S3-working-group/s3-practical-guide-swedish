@@ -3,7 +3,7 @@ title: "Kontinuerlig förbättring av arbetsprocessen"
 ---
 
 
-<strong>Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förfina processerna.</strong>
+<strong>Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förädla processerna.</strong>
 
 - introducera principen om samtycke och [Navigera via spänning](navigate-via-tension.html) för att utveckla processerna i ett team
 - överväga att välja en facilitator för att leda en grupps processer, och välja värderingar för att vägleda beteenden

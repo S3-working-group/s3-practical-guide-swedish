@@ -48,7 +48,7 @@ title: "Alfabetisk lista över alla mönster"
   <dd><p><strong>Delegera all mandat för att fatta beslut om strukturell styrning till självstyrande cirklar, dubbelkopplade över alla nivåer i hierarkin, för att gå från en traditionell hierarki till en struktur som är mer lämplig för att nyttja den kollektiva intelligensen, säkerställa likvärdighet och bygga engagemang.</strong></p></dd>
 
   <dt><a href="double-linking.html">Dubbellänkning</a></dt>
-  <dd><p><strong>Möjliggör <em>tvåvägsflöde-</em> av information och inflytande mellan två team.</strong></p></dd>
+  <dd><p><strong>Möjliggör <em>tvåvägsflöde</em> av information och inflytande mellan två team.</strong></p></dd>
 
   <dt><a href="agree-on-values.html">Enas om värderingar</a></dt>
   <dd><p><strong>Utveckla medvetet kulturen i din organisation.</strong></p></dd>
@@ -87,7 +87,7 @@ title: "Alfabetisk lista över alla mönster"
   <dd><p><strong>Hjälp människor att bli medvetna om sig själva och andra, att fokusera, vara närvarande och engagera.</strong></p></dd>
 
   <dt><a href="involve-those-affected.html">Involvera de som påverkas</a></dt>
-  <dd><p><strong>De personer som påverkas skall delta i besluten för att upprätthålla likvärdighet och ansvarighet och för att </p>
+  <dd><p><strong>Involvera de personer som påverkas när beslut fattas för att upprätthålla likvärdighet och ansvarighet och för att </p>
 <p>öka kunskapen som används vid beslutet.</strong></p></dd>
 
   <dt><a href="driver-mapping.html">Kartläggning av drivkrafter</a></dt>
@@ -100,7 +100,7 @@ title: "Alfabetisk lista över alla mönster"
   <dd><p><strong>Bjud in en medlem i din organisation till att ge dig konstruktiv feedback på din prestation i en roll eller i ett team, om ditt allmänna deltagande och bidrag, eller om något annat område du vill utveckla.</strong></p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Kontinuerlig förbättring av arbetsprocessen</a></dt>
-  <dd><p><strong>Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förfina processerna.</strong></p></dd>
+  <dd><p><strong>Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förädla processerna.</strong></p></dd>
 
   <dt><a href="contract-for-successful-collaboration.html">Kontrakt för framgångsrikt samarbete</a></dt>
   <dd><p><strong>Främja framgångsrikt samarbete redan från början och skapa förtroende mellan parterna genom att skapa ömsesidigt fördelaktiga och juridiskt robusta kontrakt.</strong></p></dd>
@@ -190,7 +190,7 @@ title: "Alfabetisk lista över alla mönster"
   <dd><p><strong>Använd ett system som gör att alla intressenter kan studera tillståndet för de uppgifter som för närvarande väntar, pågår eller slutförts.</strong></p></dd>
 
   <dt><a href="record-agreements.html">Teckna ner överenskommelser</a></dt>
-  <dd><p>Anteckna detaljerna i de överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förfina överenskommelsen över tid.</p></dd>
+  <dd><p>Anteckna detaljerna i de överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förädla överenskommelsen över tid.</p></dd>
 
   <dt><a href="timebox-activities.html">Tidsbegränsa aktiviteter</a></dt>
   <dd><p><strong>Sätt en tidsbegränsning för att förbli fokuserad, göra alla medvetna om den tid som finns tillgänglig och hur man använder den på bästa sätt.</strong></p></dd>

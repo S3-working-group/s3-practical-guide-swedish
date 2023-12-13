@@ -17,7 +17,7 @@ Att använda S3 kan **hjälpa dig att uppnå dina mål** och framgångsrikt navi
 
 **Oavsett din position i organisationen** finns det många beprövade idéer som är relevanta och användbara för dig.
 
-**Sociocracy 3.0 är gratis och helt fritt att använda**, och licensierat under Creative Commons Free Culture License.
+**Sociokrati 3.0 är gratis och helt fritt att använda**, och licensierat under Creative Commons Free Culture License.
 
 
 ### Hur kan Sociokrati 3.0 hjälpa?
@@ -35,7 +35,7 @@ S3 erbjuder ett mönsterbaserat tillvägagångssätt för organisatorisk förän
 
 Ett **mönster** är en process, praxis eller riktlinje som fungerar som en mall för att framgångsrikt agera på en viss typ av utmaning eller möjlighet. S3-mönster upptäcks genom att observera människor som arbetar tillsammans i olika organisationer för att lösa problem och agera på de möjligheter de möter. När man upptäcker att det invanda sättet att göra saker inte ger förväntat eller önskat utfall kan man ofta hitta S3-mönster som kan hjälpa.
 
-Mönster är modulära och anpassningsbara, kan användas självständigt, och är ömsesidigt förstärkande och kompletterar varandra när de används i kombination. S3-mönster kan förfinas och anpassas för att möta organisationens specifika behov.
+Mönster är modulära och anpassningsbara, kan användas självständigt, och är ömsesidigt förstärkande och kompletterar varandra när de används i kombination. S3-mönster kan förädlas och anpassas för att passa en organisations specifika behov.
 
 I den här handledningen har mönstrena grupperats efter ämne i tio kategorier för att lättare kunna identifiera vilka som är mest relevanta i en viss organisation:
 
@@ -314,7 +314,7 @@ Utnyttja en mångfald av perspektiv och var öppen för att utmana ditt eget, f�
 
 _En **oro** är ett antagande - eller en åsikt - om att göra något (även i avsaknad av invändningar) kan stå i vägen för en (mer) ändamålsenlig respons på en organisatorisk drivkraft._
 
-I _samtyckesbeslut_ kan oro indikera olika sätt att förfina överenskommelser (inklusive utvärderingskriterier och utvärderingsfrekvens). Ta upp din oro om du tycker att det är värdefullt att överväga den, och registrera åtminstone den tillsammans med överenskommelsen, och övervaka resultaten över tid.
+I _samtyckesbeslut_ kan oro indikera olika sätt att förädla överenskommelser (inklusive utvärderingskriterier och utvärderingsfrekvens). Ta upp din oro om du tycker att det är värdefullt att överväga den, och registrera åtminstone den tillsammans med överenskommelsen, och övervaka resultaten över tid.
 
 Om du är osäker på om du har en invändning eller en oro, var proaktiv och fråga andra för att se vad de anser. (Se också _Pröva om argument är invändningar_).
 
@@ -325,9 +325,9 @@ _En **överenskommelse** är en överenskommen inriktning, process, förhållnin
 
 Samsyn om riktlinjer om varför, hur och när man ska agera, och vad som särskilt krävs, möjliggör ett effektivt samarbete.
 
-Överenskommelser skapas som ett sätt att agera på <a href="#" class="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">organisatoriska drivkrafter</a>, ska **utvärderas regelbundet**, och förfinas vid behov.
+Överenskommelser skapas som ett sätt att agera på <a href="#" class="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">organisatoriska drivkrafter</a>, ska **utvärderas regelbundet**, och förädlas vid behov.
 
-**Övergripande ansvarighet** för överenskommelser ligger hos de människor som träffar dom.
+**Övergripande ansvarighet** för överenskommelser ligger hos de människor som ingår dom.
 
 En överenskommelse kan innehålla **delegering av särskilda ansvarsområden** till personer eller grupper.
 
@@ -394,7 +394,7 @@ S3 erbjuder ett mönsterbaserat tillvägagångssätt för organisatorisk förän
 
 _Ett **mönster** är en process, teknik eller riktlinje som fungerar som en mall för att framgångsrikt agera på en viss typ av utmaning eller möjlighet._
 
-Mönster är modulära och anpassningsbara, kan användas självständigt, och är ömsesidigt förstärkande och kompletterar varandra när de används i kombination. S3-mönster kan förfinas och anpassas för att möta organisationens specifika behov.
+Mönster är modulära och anpassningsbara, kan användas självständigt, och är ömsesidigt förstärkande och kompletterar varandra när de används i kombination. S3-mönster kan förädlas och anpassas för att passa en organisations specifika behov.
 
 I den här handledningen har mönstrena grupperats efter ämne i tio kategorier för att lättare kunna identifiera vilka som är mest relevanta i en viss organisation:
 
@@ -426,7 +426,7 @@ Att agera på <a href="#" class="tooltip" title="Organisatorisk drivkraft: En dr
 - organisera hur arbete kommer att utföras
 - fatta beslut om strukturell styrning
 
-Hur man beslutar att agera på en organisatorisk drivkraft bör alltid betraktas som ett experiment som ska utvärderas och förfinas över tid.
+Hur man beslutar att agera på en organisatorisk drivkraft bör alltid betraktas som ett experiment som ska utvärderas och förädlas över tid.
 
 ![Möjliga svar på organisatoriska drivkrafter](img/driver-domain/driver-response-full.png)
 
@@ -551,7 +551,7 @@ Att undanhålla invändningar kan försvåra uppnåendet av syftet för ett team
 
 När någon väcker ett argument för att ändra något, kontrollera om argumentet avslöjar vilka oönskade konsekvenser som kommer – eller kan – uppstå om saker lämnas oförändrade, eller om det indikerar ett värdefullt sätt att förbättra hur man gör för att nå målsättningarna.
 
-Utforska och förfina varje argument så som krävs för att identifiera eventuella missuppfattningar eller missförstånd, och för att eliminera aspekter av argumentet som endast bygger på antaganden, en personlig preferens eller åsikt. Om ni är överens om att det som återstår av argumentet kvalificerar sig som en invändning, gå då vidare med att _lösa invändningen_.
+Utforska och förädla varje argument så som krävs för att identifiera eventuella missuppfattningar eller missförstånd, och för att eliminera aspekter av argumentet som endast bygger på antaganden, personliga preferenser eller åsikter. Om ni är överens om att det som återstår av argumentet kvalificerar sig som en invändning, gå då vidare med att _lösa invändningen_.
 
 För att avgöra om ett argument kan anses vara en invändning, kan en facilitator fråga gruppen:
 
@@ -635,7 +635,7 @@ Uppföljning:
 
 #### Involvera de som påverkas
 
-<strong>De personer som påverkas skall delta i besluten för att upprätthålla likvärdighet och ansvarighet och för att 
+<strong>Involvera de personer som påverkas när beslut fattas för att upprätthålla likvärdighet och ansvarighet och för att 
 öka kunskapen som används vid beslutet.</strong>
 
 För större grupper:
@@ -643,7 +643,7 @@ För större grupper:
 - facilitera en process i flera steg och skapa mindre grupper som väljer delegater
 - använd ett online-verktyg och genomför en asynkron, _tidsbegränsad_ process i flera steg
 
-Överväg att inkludera de som berörs även i att utvärdera och förfina beslut.
+Överväg att inkludera de som berörs även i att utvärdera och förädla beslut.
 
 #### Samskapa förslag
 
@@ -845,7 +845,7 @@ Detta steg kan anses klart när det finns en överenskommelse om en första iter
 
 I denna fas kan några personer vandra mellan domäner tills de hittar en som de känner att de kan bidra till.
 
-###### 7. Förfina planeringslistorna
+###### 7. Förädla planeringslistorna
 
 *Organisera arbetet framåt inom varje område, säkra att behoven prioriteras och beskrivs tillräckligt tydligt.*
 
@@ -977,7 +977,7 @@ Att delta skickligt kan inkludera att avbryta, invända eller bryta <a href="#" 
 
 ##### Fördelarna med skickligt deltagande
 
-Skickligt deltagande:
+Skickligt deltagande
 
 - möjliggör **samskapande och förfining** av överenskommelser
 - bidrar till att utveckla bättre team
@@ -990,10 +990,10 @@ Skickligt deltagande:
 ##### Skickligt deltagande: Självutvärdering
 
 - Hur kan jag hjälpa mig själv och andra att delta på ett mer skickligt sätt?
-- När är mina interaktioner med andra ohjälpsamma eller ineffektiva?
+- När är mina interaktioner med andra ohjälpsamma eller inte ändamålsenliga?
 - Vilka överenskommelser har jag svårt att hålla? Vad kan jag göra för att ta itu med detta?
 - Vilka färdigheter kan jag utveckla, som skulle hjälpa mig att delta på ett skickligare sätt?
-- Vad skulle skickligt deltagande betyda i förhållande till: 
+- Vad skulle skickligt deltagande betyda i förhållande till 
     - mina dagliga aktiviteter?
     - samarbete och interaktion med andra?
     - organisationen? ...våra kunder eller klienter?
@@ -1036,7 +1036,7 @@ De valda värderingarna bildar en överenskommelse som bör utsättas för **reg
 
 <strong>Välj någon att facilitera mötena för strukturell styrning.</strong>
 
-En facilitator för <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål."> strukturell styrning</a>:
+En facilitator för <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">strukturell styrning</a>
 
 - säkerställer att _möten för strukturell styrning_ fokuserar på rätt saker och utvärderas
 - väljs (oftast) av ett <a href="#" class="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a> bland dess medlemmar (och för en viss period)
@@ -1257,7 +1257,7 @@ Ett team väljer en av sina medlemmar att företräda sina intressen i beslut om
 
 #### Dubbellänkning
 
-<strong>Möjliggör <em>tvåvägsflöde-</em> av information och inflytande mellan två team.</strong>
+<strong>Möjliggör <em>tvåvägsflöde</em> av information och inflytande mellan två team.</strong>
 
 Två ömsesidigt beroende team väljer var sin medlem för att representera sina intressen i beslut om den <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">strukturella styrningen</a> av det andra teamet.
 
@@ -1387,7 +1387,7 @@ Bjud in de inblandade och påverkade till regelbunden utvärdering av utfallet.
 
 #### Kontinuerlig förbättring av arbetsprocessen
 
-<strong>Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förfina processerna.</strong>
+<strong>Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förädla processerna.</strong>
 
 - introducera principen om samtycke och _Navigera via spänning_ för att utveckla processerna i ett team
 - överväga att välja en facilitator för att leda en grupps processer, och välja värderingar för att vägleda beteenden
@@ -1418,7 +1418,7 @@ S3 främjar en hypotesdriven strategi för beslutsfattande.
 
 #### Teckna ner överenskommelser
 
-**Anteckna detaljerna i de överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förfina överenskommelsen över tid.**
+**Anteckna detaljerna i de överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förädla överenskommelsen över tid.**
 
 _En **överenskommelse** är en överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet._
 
@@ -1470,9 +1470,9 @@ Eftersom <a href="#" class="tooltip" title="Delegator: En individ eller grupp so
 
 En strategi är en överenskommelse mellan delegator(er) och delegat(er) som regelbundet utvärderas och uppdateras vid behov (*byt riktning eller fortsätt*)
 
-![Strategier valideras och förfinas genom experiment och lärande.](img/evolution/domain-driver-strategy-exeriments.png)
+![Strategier valideras och förädlas genom experiment och lärande.](img/evolution/domain-driver-strategy-exeriments.png)
 
-Strategier valideras och förfinas genom experimenterande och lärande.
+Strategier valideras och förädlas genom experimenterande och lärande.
 
 
 #### Tydliggör och utveckla domäner
@@ -1496,7 +1496,7 @@ Ett enkelt sätt att stödja intressenter i att utveckla en gemensam förståels
 -   Kompetenser, egenskaper och färdigheter
 -   Nyckelresurser
 -   Delegatorns ansvar
--   Nyckeltal
+-   Primära mätvärden
 -   Utvärdering
 
 På [S3 Canvas microsite] hittar du en mängd olika mallar som du kan använda för att (sam-)skapa och dokumentera domänbeskrivningar.
@@ -1638,11 +1638,11 @@ Ta hänsyn till:
 Beskriv delegatorns ansvar i specifika och mätbara termer, så att de kan granskas och utvecklas efter behov.
 
 
-###### Nyckeltal
+###### Primära mätvärden
 
-<a href="#" class="tooltip" title="Metrik: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång">Nyckeltal</a> är statistik som fungerar som kritiska indikatorer för framsteg, projektstatus eller prestanda. De relaterar till den primära drivkraften (och/eller syftet), nyckelansvar, utmaningar, leverabler och delegatorns ansvar som definierats för denna domän.
+<a href="#" class="tooltip" title="Metrik: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång">Mätvärden</a> är statistik som fungerar som kritiska indikatorer för framsteg, projektstatus eller prestanda. De relaterar till den primära drivkraften (och/eller syftet), nyckelansvar, utmaningar, leverabler och delegatorns ansvar som definierats för denna domän.
 
-Nyckeltal övervakas och utvärderas ofta. De är relevanta kriterier för utvärdering av utfall och framgång i schemalagda utvärderingar (se ”Övervakning och utvärdering” nedan).
+Primära mätvärden övervakas och utvärderas ofta. De är relevanta kriterier för utvärdering av utfall och framgång i schemalagda utvärderingar (se ”Övervakning och utvärdering” nedan).
 
 För varje mätetal, betrakta de faktiska siffror som övervakas, liksom innebörden av dessa värden i förhållande till domänen (börvärden, acceptabelt omfång eller tolerans).
 
@@ -1665,7 +1665,7 @@ I utvärderingen, se till att du överväger följande aspekter:
 Definiera:
 
 -   Schema eller frekvens för utvärderingar.
--   Andra användbara utvärderingskriterier utöver nyckeltalen.
+-   Andra användbara utvärderingskriterier utöver de primära mätetalen.
 -   Eventuella andra relevanta aspekter att beakta vid utvärderingen.
 -   Vem ska delta i utvärderingen.
 -   En process för utvärdering (t.ex. _kollegiala utvärderingar_).
@@ -1691,7 +1691,7 @@ Se till att registrera och övervaka när en domän skall granskas och lägg til
 
 Godkänn och teckna ner en tydlig beskrivning av det avsedda utfallet.
 
-Det avsedda utfallet kan användas för att definiera _utvärderingskriterier_ och <a href="#" class="tooltip" title="Metrik: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång">mätetal</a> för att värdera det verkliga utfallet.
+Det avsedda utfallet kan användas för att definiera _utvärderingskriterier_ och <a href="#" class="tooltip" title="Metrik: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång">mätvärden</a> för att värdera det verkliga utfallet.
 
 ![Avsett utfall och utvärderingskriterier](img/templates/outcome-and-criteria.png)
 
@@ -1717,7 +1717,7 @@ Att tydligt beskriva leverabler kan vara användbart för att förbättra kommun
 - Sikta på **enkla och entydiga** kriterier och dokumentera dem (för att undvika diskussion eller onödig dialog vid senare utvärdering av <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelsen</a>).
 - Definiera **konkreta <a href="#" class="tooltip" title="Metrik: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång">mätvärden</a>** som det går att agera på för att kontinuerligt följa resultat och upptäcka avvikelser från det <a href="#" class="tooltip" title="Avsett utfall: Det förväntade utfallet av en överenskommelse, ett projekt, en åtgärd eller strategi.">avsedda utfallet</a>.
 - Överväg att lägga till kriterier som tydliggör när det skulle kunna anses att det tänkta utfallet av en överenskommelse **inte har uppnåtts**.
-- Vid utvärdering av en överenskommelse, överväg **att förfina utvärderingskriterierna** baserat på lärdomarna.
+- Vid utvärdering av en överenskommelse, överväg **att förädla utvärderingskriterierna** baserat på lärdomarna.
 
 #### Loggbok
 
@@ -2111,7 +2111,7 @@ Man kan tidsbegränsa
 
 **Värdeflöde:** Leverabler som rör sig genom en organisation mot kunder eller andra intressenter.
 
-Sträva efter, och upprätthåll, ensade flöden genom att ständigt utveckla och förfina organisationens samlade <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a>:
+Sträva efter, och upprätthåll, ensade flöden genom att ständigt utveckla och förädla organisationens samlade <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a>:
 
 - säkra att alla beslut som påverkar värdeflödet faktiskt stöder värdeflödet
 - möjliggör att personer med relevant kompetens och kunskap kan påverka beslut
@@ -2324,7 +2324,7 @@ De behöver ett enkelt sätt att bygga en gemensam förståelse för vad som hä
 ### Två principer för orientering
 
 
-![Två principer för orientering: Förtydliga syfte – Utveckla strategi](img/csf/csf-light-orientation.png)
+![Two Principles for Orientation: Clarify Purpose – Develop Strategy](img/csf/csf-light-orientation.png)
 
 
 
@@ -2357,7 +2357,7 @@ Viktiga möster för att hjälpa till att uppnå detta är:
 ### Tre principer för navigering
 
 
-![Tre principer för navigering: Fokus på värde – Känn av & agera – Experimentera](img/csf/csf-light-navigation.png)
+![Tre principer för navigering: Fokus på värde – Känn av & svara – Gör experiment](img/csf/csf-light-navigation.png)
 
 
 #### Princip 3 – Fokusera på värde
@@ -2408,7 +2408,7 @@ Viktiga möster för att hjälpa till att uppnå detta är:
 ### Två principer för struktur
 
 
-![Two Principles for Structure: Enable Autonomy – Collaborate on Dependencies](img/csf/csf-light-structure.png)
+![Två principer för struktur: Främja autonomi – Samarbeta om beroenden](img/csf/csf-light-structure.png)
 
 
 #### Princip 6 – Främja autonomi
@@ -2489,7 +2489,7 @@ Viktiga möster för att hjälpa till att uppnå detta är:
 
 Viktiga möster för att hjälpa till att uppnå detta är:
 
--   _Navigera via spänning_ – Om alla i organisationen är uppmärksamma på situationer där man skulle kunna dra nytta av att bygga eller förfina en gemensam mental modell får man människor att se saker ur samma perspektiv så att de kan föra en produktiv dialog.
+-   _Navigera via spänning_ – Om alla i organisationen är uppmärksamma på situationer där man skulle kunna dra nytta av att bygga eller förädla en gemensam mental modell får man människor att se saker ur samma perspektiv så att de kan föra en produktiv dialog.
 -   _Tydliggör och utveckla domäner_ – Att tydliggöra och dokumentera ansvarsområden säkrar en gemensam mental modell avseende förväntningar och ansvar.
 -   _Förtydliga avsett utfall_ – Genom att först komma överens om det avsedda utfallet av en föreslagen aktivitet, projekt eller överenskommelse, utvecklar människor en gemensam förståelse för åt vilket håll saker bör utvecklas och kan sedan föra en produktiv dialog om hur man når dit.
 
@@ -2510,6 +2510,21 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
 
 
 ### Ändringslogg
+
+#### Changes 2021-06-18
+
+- added a dedicated chapter for each of the Seven Principles
+- revised the ten principles of the Common Sense Framework
+- updated section about governance in the introduction 
+    - added more text to explain how governance can be distributed throughout the organization
+    - more examples for governance decisions 
+- corrected a few typos
+- several small revisions
+
+#### Changes 2021-05-15
+
+- _Navigate via Tension_: added more explanation about passing on drivers to another domain
+- _Clarify and Develop Domains_: more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
 
 #### Changes 2021-03-15
 
@@ -2537,8 +2552,8 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
     - _What is Sociocracy 3.0_
     - _De Sju Principerna_
     - _Nyckelbegrepp för att förstå organisationer_
-    - _The Patterns_
-    - _Ramverket för Sunt Förnuft_
+    - _Mönstren_
+    - _The Common Sense Framework - ramverket för sunt förnuft_
     - _Bilagor_
 - Redesigned the website for better usability: 
     - A new responsive menu that provides direct access to all patterns and other sections of the guide
@@ -2616,7 +2631,7 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
 - expanded the introduction with more information about S3 and the history of sociocracy that was previously only available on the main S3 website
 - updated section about governance in the introduction
 - added captions to all illustrations
-- renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
+- bytt namn på mönstergrupp "Främja samskapande" till "Främja samarbete"
 - removed slide deck version and improved layout and formatting of pdf and ePub version
 - website version: added clickable pattern map for simpler navigation, added glossary overlays to many patterns
 
@@ -2847,7 +2862,7 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
   <dd><p><strong>Delegera all mandat för att fatta beslut om strukturell styrning till självstyrande cirklar, dubbelkopplade över alla nivåer i hierarkin, för att gå från en traditionell hierarki till en struktur som är mer lämplig för att nyttja den kollektiva intelligensen, säkerställa likvärdighet och bygga engagemang.</strong></p></dd>
 
   <dt><a href="double-linking.html">Dubbellänkning</a></dt>
-  <dd><p><strong>Möjliggör <em>tvåvägsflöde-</em> av information och inflytande mellan två team.</strong></p></dd>
+  <dd><p><strong>Möjliggör <em>tvåvägsflöde</em> av information och inflytande mellan två team.</strong></p></dd>
 
   <dt><a href="agree-on-values.html">Enas om värderingar</a></dt>
   <dd><p><strong>Utveckla medvetet kulturen i din organisation.</strong></p></dd>
@@ -2886,7 +2901,7 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
   <dd><p><strong>Hjälp människor att bli medvetna om sig själva och andra, att fokusera, vara närvarande och engagera.</strong></p></dd>
 
   <dt><a href="involve-those-affected.html">Involvera de som påverkas</a></dt>
-  <dd><p><strong>De personer som påverkas skall delta i besluten för att upprätthålla likvärdighet och ansvarighet och för att </p>
+  <dd><p><strong>Involvera de personer som påverkas när beslut fattas för att upprätthålla likvärdighet och ansvarighet och för att </p>
 <p>öka kunskapen som används vid beslutet.</strong></p></dd>
 
   <dt><a href="driver-mapping.html">Kartläggning av drivkrafter</a></dt>
@@ -2899,7 +2914,7 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
   <dd><p><strong>Bjud in en medlem i din organisation till att ge dig konstruktiv feedback på din prestation i en roll eller i ett team, om ditt allmänna deltagande och bidrag, eller om något annat område du vill utveckla.</strong></p></dd>
 
   <dt><a href="continuous-improvement-of-work-process.html">Kontinuerlig förbättring av arbetsprocessen</a></dt>
-  <dd><p><strong>Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förfina processerna.</strong></p></dd>
+  <dd><p><strong>Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förädla processerna.</strong></p></dd>
 
   <dt><a href="contract-for-successful-collaboration.html">Kontrakt för framgångsrikt samarbete</a></dt>
   <dd><p><strong>Främja framgångsrikt samarbete redan från början och skapa förtroende mellan parterna genom att skapa ömsesidigt fördelaktiga och juridiskt robusta kontrakt.</strong></p></dd>
@@ -2989,7 +3004,7 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
   <dd><p><strong>Använd ett system som gör att alla intressenter kan studera tillståndet för de uppgifter som för närvarande väntar, pågår eller slutförts.</strong></p></dd>
 
   <dt><a href="record-agreements.html">Teckna ner överenskommelser</a></dt>
-  <dd><p>Anteckna detaljerna i de överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förfina överenskommelsen över tid.</p></dd>
+  <dd><p>Anteckna detaljerna i de överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förädla överenskommelsen över tid.</p></dd>
 
   <dt><a href="timebox-activities.html">Tidsbegränsa aktiviteter</a></dt>
   <dd><p><strong>Sätt en tidsbegränsning för att förbli fokuserad, göra alla medvetna om den tid som finns tillgänglig och hur man använder den på bästa sätt.</strong></p></dd>
@@ -3031,9 +3046,9 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
 
 ### Länkar
 
-Den **senaste on-line-versionen av den praktiska guiden** på [https://patterns.sociocracy30.org](http://patterns.sociocracy30.org) kan kommenteras via hypotes.is och innehåller ett alfabetiskt index och en mönsterkarta för enkel navigering.
+Den **senaste on-line-versionen av den praktiska handledningen** på [https://patterns.sociocracy30.org](http://patterns.sociocracy30.org) kan kommenteras via hypotes.is och innehåller ett alfabetiskt index och en mönsterkarta för enkel navigering.
 
-Den praktiska guiden finns i andra format och språk på [https://sociocracy30.org/guide/](http://sociocracy30.org/guide/).
+Denna praktiska handledning finns även i andra format och språk på [https://sociocracy30.org/guide/](http://sociocracy30.org/guide/).
 
 **Fler S3-resurser:** [https://sociocracy30.org/resources/](http://sociocracy30.org/resources/)
 

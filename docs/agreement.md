@@ -7,9 +7,9 @@ _En **överenskommelse** är en överenskommen inriktning, process, förhållnin
 
 Samsyn om riktlinjer om varför, hur och när man ska agera, och vad som särskilt krävs, möjliggör ett effektivt samarbete.
 
-Överenskommelser skapas som ett sätt att agera på <a href="#" class="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">organisatoriska drivkrafter</a>, ska **utvärderas regelbundet**, och förfinas vid behov.
+Överenskommelser skapas som ett sätt att agera på <a href="#" class="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">organisatoriska drivkrafter</a>, ska **utvärderas regelbundet**, och förädlas vid behov.
 
-**Övergripande ansvarighet** för överenskommelser ligger hos de människor som träffar dom.
+**Övergripande ansvarighet** för överenskommelser ligger hos de människor som ingår dom.
 
 En överenskommelse kan innehålla **delegering av särskilda ansvarsområden** till personer eller grupper.
 

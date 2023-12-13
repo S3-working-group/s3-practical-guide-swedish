@@ -3,7 +3,7 @@ title: "Dubbellänkning"
 ---
 
 
-<strong>Möjliggör <em>tvåvägsflöde-</em> av information och inflytande mellan två team.</strong>
+<strong>Möjliggör <em>tvåvägsflöde</em> av information och inflytande mellan två team.</strong>
 
 Två ömsesidigt beroende team väljer var sin medlem för att representera sina intressen i beslut om den <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">strukturella styrningen</a> av det andra teamet.
 

@@ -3,6 +3,21 @@ title: "Ändringslogg"
 ---
 
 
+## Changes 2021-06-18
+
+- added a dedicated chapter for each of the Seven Principles
+- revised the ten principles of the Common Sense Framework
+- updated section about governance in the introduction 
+    - added more text to explain how governance can be distributed throughout the organization
+    - more examples for governance decisions 
+- corrected a few typos
+- several small revisions
+
+## Changes 2021-05-15
+
+- [Navigate via Tension](navigate-via-tension.html): added more explanation about passing on drivers to another domain
+- [Clarify and Develop Domains](clarify-and-develop-domains.html): more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
+
 ## Changes 2021-03-15
 
 - updated the Seven Principles
@@ -29,8 +44,8 @@ title: "Ändringslogg"
     - [What is Sociocracy 3.0](what-is-s3.html)
     - [De Sju Principerna](principles.html)
     - [Nyckelbegrepp för att förstå organisationer](making-sense-of-organizations.html)
-    - [The Patterns](patterns.html)
-    - [Ramverket för Sunt Förnuft](csf.html)
+    - [Mönstren](patterns.html)
+    - [The Common Sense Framework - ramverket för sunt förnuft](csf.html)
     - [Bilagor](appendix.html)
 - Redesigned the website for better usability: 
     - A new responsive menu that provides direct access to all patterns and other sections of the guide
@@ -108,7 +123,7 @@ title: "Ändringslogg"
 - expanded the introduction with more information about S3 and the history of sociocracy that was previously only available on the main S3 website
 - updated section about governance in the introduction
 - added captions to all illustrations
-- renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
+- bytt namn på mönstergrupp "Främja samskapande" till "Främja samarbete"
 - removed slide deck version and improved layout and formatting of pdf and ePub version
 - website version: added clickable pattern map for simpler navigation, added glossary overlays to many patterns
 
