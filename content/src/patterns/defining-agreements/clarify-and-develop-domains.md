@@ -1,12 +1,14 @@
 # Tydliggör och utveckla domäner
 
 <summary>
-En tydlig förståelse för människors ansvar och självbestämmande möjliggör ökad effektivitet, bättre samarbete och lättrörlighet i hela organisationen.
+Att uttryckligen tydliggöra, och sedan utvärdera och utveckla en domäns design baserat på lärande för att underlätta för de som är ansvariga för domänen att hantera den så att den får största effekt. 
 </summary>
 
-Fördela arbetet mellan personer i organisationen genom att skapa roller eller forma team, enheter eller avdelningar så att den begränsade mängd tid, energi och resurser som finns utnyttjas bättre. I det arbetet kommer också [domäner](glossary:domain) - distinkta ansvarsområden och självbestämmande - att definieras, uttryckligen eller underförstått.
+En klar förståelse för personers ansvarsområden och autonomi underlättar ökad effektivitet, verkansfullt samarbete och lättrörlighet i hela organisationen.
 
-Uppgiften för varje roll eller team är att bidra till det övergripande syftet med organisationen genom att ta hand om ett specifikt organisatoriskt behov. Domäner som inte är tillräckligt definierade leder typiskt till att intressenter har olika antaganden om ansvarsområden och autonomi. Som en följd av detta uppstår brister i både samarbete och arbetsfördelning på grund av att man missar beroenden, gör dubbelt arbete eller att inget arbete utförs alls.
+För att bättre utnyttja den begränsade mängd tid, energi och resurser som finns, fördela arbetetet mellan personer i organisationen genom att skapa roller eller forma team, enheter eller avdelningar. I det arbetet kommer också [domäner](glossary:domain) - distinkta ansvarsområden och självbestämmande - att definieras, uttryckligen eller underförstått.
+
+Uppgiften för varje roll eller team är att bidra till det övergripande syftet med organisationen genom att ta hand om ett specifikt organisatoriskt behov. Otillräckligt definierade domäner leder typiskt till att intressenter har olika antaganden om ansvarsområden och autonomi. Som en följd av detta uppstår brister i både samarbete och arbetsfördelning på grund av att man missar beroenden, gör dubbelt arbete eller att inget arbete utförs alls.
 
 Förtydligande av domäner gör kontraktet mellan [delegator](glossary:delegator) och [delegater](glossary:delegatee) explicit, vilket gör det möjligt för alla att inse vad som fungerar och vad som inte fungerar, eftersom alla förstår vem som är ansvarig för vad. En tydlig domänbeskrivning med en rimlig detaljrikedom är en nödvändig förutsättning för att människor framgångsrikt ska kunna utvärdera och kontinuerligt förbättra sitt arbete.
 
@@ -24,16 +26,14 @@ Ett enkelt sätt att stödja intressenter i att utveckla en gemensam förståels
 -   Primära mätvärden
 -   Utvärdering
 
-På [S3 Canvas microsite] hittar du en mängd olika mallar som du kan använda för att (sam-)skapa och dokumentera domänbeskrivningar.
-
-(http://s3canvas.sociocracy30.org/s3-delegation-canvas.html)
+På  [mikro-sajten för S3-kartan](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html) kan du hitta en mängd olika mallar som du kan använda för att (sam)skapa och dokumentera domänbeskrivningar.
 
 Överväg att skapa domäner med minsta möjliga, men tillräckliga, begränsningar och välj alltid begränsningar som gör möjligheterna för människor att skapa värde maximala.
 
 Delegaten(erna) kan göra vad helst de tror kan hjälpa dem att uppnå sitt syfte, om det inte är utanför domänen för organisationen, explicit förbjudet, de bryter mot någon annans (explicita) domän, eller hindrar andra människors bidrag till organisationen på något annat sätt. Saker som är förbjudna inkluderar uttryckliga begränsningar som anges i domänbeskrivningen, andra överenskommelser delegaten(-erna) måste hålla, såväl som rättsliga och regulatoriska krav.
 
 
-## När behöver man förtydliga domäner
+## När behöver man förtydliga domäner?
 
 Överväg att förtydliga domäner när du märker att intressenter har olika antaganden om domänen för en befintlig [roll](section:role), position, team, avdelning, enhet eller till och med för organisationens domän som helhet.
 

@@ -1,7 +1,7 @@
 # Anpassa mönster till sammanhang
 
 <summary>
-<strong>Anpassa och utveckla mönstren i S3 så att de passar de speciella förhållandena.</strong>
+Anpassa och utveckla mönstren i S3 så att de passar de speciella förhållandena.
 </summary>
 
 Säkra att alla som påverkas:

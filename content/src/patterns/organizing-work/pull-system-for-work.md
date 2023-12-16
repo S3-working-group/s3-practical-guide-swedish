@@ -1,7 +1,7 @@
 # Flödesorientera arbetet
 
 <summary>
-<strong>Påbörja nya uppgifter när det finns kapacitet (i stället för att arbete åläggs eller tilldelas).</strong>
+Påbörja nya uppgifter när det finns kapacitet (i stället för att arbete åläggs eller tilldelas).
 </summary>
 
 Prioritera väntande uppgifter för att säkra att viktigt arbete görs först.

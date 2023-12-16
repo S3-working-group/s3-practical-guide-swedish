@@ -10,7 +10,7 @@ Varje roll eller grupps syfte är att bidra till det övergripande syftet med or
 
 [Förtydliga och utveckla domäner](section:clarify-and-develop-domains) gör kontraktet mellan *delegatorn* (som delegerar ansvar för en domän) och *delegaten* (den som domänen är delegerad till) uttrycklig, vilket gör det möjligt för alla att lära sig vad som fungerar och vad som inte fungerar, och att förstå vem som är ansvarig för vad. En tydlig domänbeskrivning med en rimlig detaljrikedom är en nödvändig förutsättning för att människor framgångsrikt ska kunna utvärdera och kontinuerligt förbättra sitt arbete.
 
-## Utvärdera och utveckla domäner regelbundet
+## Utvärdera och förfina domäner regelbundet
 
 Människors förståelse för sin organisation är alltid begränsad och miljön förändras alltid. Därför är det viktigt att delegatorn, delegaten och andra relevanta intressenter regelbundet tar sig tid att utvärdera och utveckla både utformningen av domänen och hur människor ansvarar för den allt eftersom deras förståelse av domänen fördjupas.
 

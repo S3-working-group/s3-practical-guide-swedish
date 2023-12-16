@@ -1,7 +1,7 @@
 # Incheckning
 
 <summary>
-<strong>Hjälp människor att bli medvetna om sig själva och andra, att fokusera, vara närvarande och engagera.</strong>
+Hjälper människor att bli medvetna om sig själva och andra, att fokusera, vara närvarande och engagera.
 </summary>
 
 För att checka in, nämn kort något om vad som är aktuellt för dig och hur du känner dig, något som visar dina tankar, känslor, distraktioner eller behov.

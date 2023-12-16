@@ -1,7 +1,7 @@
 # Förbered möten
 
 <summary>
-<strong>Förbered möten i förväg för att göra dem mer ändamålsenliga.</strong>
+Förbered möten i förväg för att göra dem mer ändamålsenliga.
 </summary>
 
 Några saker att tänka på när man förbereder ett möte:

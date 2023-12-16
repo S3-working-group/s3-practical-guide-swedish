@@ -1,7 +1,7 @@
 # Facilitera möten
 
 <summary>
-<strong>Välj någon att facilitera mötet för att hjälpa gruppen att hålla fokus, hålla siktet på syftet med mötet och på rätt sätt utnyttja deltagarnas kreativitet och kunskap.</strong>
+Att välja någon att facilitera mötet för att hjälpa gruppen att hålla fokus, hålla siktet på syftet med mötet och på rätt sätt utnyttja deltagarnas kreativitet och kunskap.
 </summary>
 
 Före varje möte, förbered en agenda med ämnen, och välj en facilitator för att:

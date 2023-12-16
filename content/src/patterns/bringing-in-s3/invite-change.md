@@ -1,7 +1,7 @@
 # Bjud in till förändring
 
 <summary>
-<strong>Klargör argumenten för att förändra och bjud in människor att delta och bidra.</strong>
+Klargör argumenten för att förändra och bjud in människor att delta och bidra.
 </summary>
 
 Att bjuda in till, snarare än att påtvinga, förändring bidrar till att minska motståndet och gör det möjligt för människor att välja själva.

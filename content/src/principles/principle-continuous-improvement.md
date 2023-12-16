@@ -16,7 +16,7 @@ Var medveten om att om du ändrar flera saker samtidigt, är det kanske inte mö
 
 ## Övervaka, mät och ändra baserat på insikter och lärdomar
 
-**Definiera det [avsedda utfallet](section:intended-outcome)** som en förändring förväntas leda till och var tydlig med hur utvärdering kommer att göras, oberoende vad som än händer. När förändringar görs, var tydlig och specifik med vad som är tänkt att bli bättre. Vilka positiva konsekvenser vill du förstärka och vilka negativa konsekvenser vill du minska?
+**Definiera det [avsedda utfallet](section:clarify-intended-outcome)** som en förändring förväntas leda till och var tydlig med hur utvärdering kommer att göras, oberoende vad som än händer. När förändringar görs, var tydlig och specifik med vad som är tänkt att bli bättre. Vilka positiva konsekvenser vill du förstärka och vilka negativa konsekvenser vill du minska?
 
 **Övervaka konsekvenserna av åtgärderna** och reflektera över insikter och lärdomar. Var uppmärksam på vad som faktiskt händer och om resultaten av dina ingripanden speglar dina antaganden och avsikter. Detta kommer att hjälpa till att följa om förändringarna överhuvudtaget ledde till några förbättringar.
 

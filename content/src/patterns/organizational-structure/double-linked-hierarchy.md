@@ -1,7 +1,7 @@
 # Dubbellänkad hierarki
 
 <summary>
-<strong>Delegera all mandat för att fatta beslut om strukturell styrning till självstyrande cirklar, dubbelkopplade över alla nivåer i hierarkin, för att gå från en traditionell hierarki till en struktur som är mer lämplig för att nyttja den kollektiva intelligensen, säkerställa likvärdighet och bygga engagemang.</strong>
+Delegera allt mandat för att fatta beslut om strukturell styrning till självstyrande cirklar, dubbelkopplade över alla nivåer i hierarkin, för att gå från en traditionell hierarki till en struktur som är mer lämplig för att nyttja den kollektiva intelligensen, säkerställa likvärdighet och bygga engagemang.
 </summary>
 
 1. Flytta beslut om strukturell styrning från enstaka individer till team genom att bilda [självstyrande](glossary:governance) [cirklar](glossary:circle) på alla nivåer i din organisation.

@@ -6,7 +6,7 @@ Ett särskilt erkännande riktas till Gerard Endenburg och andra som över åren
 
 Vi skulle också vilja tacka alla dem som har gjort betydande arbete för att underlätta framväxten av ett mer smidigt och magert tänkesätt, och de som har utvecklat och delat olika metoder med världen.
 
-Slutligen vill vi uppmärksamma våra många kollegor, kunder och deltagare i kurser om Sociokrati 3.0 som har valt att experimentera med Sociokrati 3.0. Tack för att du bidrar med din återkoppling för att hjälpa till att utveckla mönstren och göra det möjligt för oss alla att lära och växa.
+Slutligen vill vi uppmärksamma våra många kollegor, kunder och deltagare i kurser om Sociokrati 3.0 som har valt att experimentera med Sociokrati 3.0. Tack för att ni bidrar med er återkoppling för att hjälpa till att utveckla mönstren och göra det möjligt för oss alla att lära och växa.
 
 Vi skulle vilja visa vår uppskattning till följande personer, på intet sätt en uttömmande lista, som direkt bidragit till utvecklingen Sociokrati 3.0, eller vars arbete har påverkat vad det är i dag:
 

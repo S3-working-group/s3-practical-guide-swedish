@@ -1,7 +1,7 @@
 # Öppen kultur för förändring
 
 <summary>
-<strong>Bjud in alla att skapa och genomföra experiment för att utveckla organisationen.</strong>
+Bjud in alla att skapa och genomföra experiment för att förädla organisationen.
 </summary>
 
 - tydliggör [drivkraften](glossary:organizational-driver) bakom förändringarna

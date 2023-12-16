@@ -1,7 +1,7 @@
 # Representant
 
 <summary>
-<strong>Välj en teammedlem som ska delta i beslut kring den strukturella styrningen för ett annat team för att möjliggöra flödet av information och inflytande.</strong>
+En teammedlem utses till att delta i beslut kring den strukturella styrningen för ett annat team för att underlätta flödet av information och inflytande.
 </summary>
 
 Representanter (även kallat länkar):

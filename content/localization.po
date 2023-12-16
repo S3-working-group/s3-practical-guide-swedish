@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language-Team: Swedish\n"
 "Language: sv_SE\n"
-"PO-Revision-Date: 2021-11-25 18:06\n"
+"PO-Revision-Date: 2023-12-16 21:58\n"
 
 # continuation marker for follow-up slides
 msgid "(…)"

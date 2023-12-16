@@ -1,7 +1,7 @@
 # Mötesvärd
 
 <summary>
-<strong>Välj någon som tar ansvar för förberedelser och uppföljning av möten, workshops eller andra arrangemang.</strong>
+Att välja någon som tar ansvar för förberedelser och uppföljning av möten, workshops eller andra arrangemang.
 </summary>
 
 En person kan ta på sig rollen som mötesvärd för ett specifikt arrangemang eller för flera arrangemang över en tidsperiod.

@@ -1,7 +1,7 @@
 # Roll
 
 <summary>
-<strong>Delegera ansvaret för en domän till personer.</strong>
+Delegera ansvar för en domän till enskilda personer.
 </summary>
 
 En roll är ett ansvarsområde (en [domän](glossary:domain)) som [delegeras](glossary:delegation) till en person ( **rollinnehavaren**), som har självständighet att bestämma och agera inom domänens begränsningar.

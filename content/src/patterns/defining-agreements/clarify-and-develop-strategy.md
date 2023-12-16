@@ -14,4 +14,4 @@ En strategi är en överenskommelse mellan delegator(er) och delegat(er) som reg
 
 ![Strategier valideras och förädlas genom experiment och lärande.](img/evolution/domain-driver-strategy-exeriments.png)
 
-Strategier valideras och förädlas genom experimenterande och lärande.
+Strategier valideras och förädlas genom experiment och lärande.

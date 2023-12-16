@@ -17,4 +17,4 @@ Denna praktiska handledning till Sociokrati 3.0 är skriven och publicerad av d
 
 Trogen tankesättet bakom S3, kommer denna bok alltid att vara ett pågående arbete som växer och förändras vartefter vi lär oss av människor som experimenterar med S3 i organisationer runt om i världen. Sedan vi började för 5 år sedan har vi släppt flera uppdateringar per år och vi kommer att fortsätta göra det under de kommande åren.
 
-Även om flera avsnitt i denna bok är korta och kanske inte färdigformulerade, så har innehåll och förklaringar har varit tillräckliga för att många människor ska ha  kommit igång med S3 och uppnått positiva förändringar i sina organisationer. Vi hoppas att du också kommer att tycka att material är användbart.
+Även om flera avsnitt i denna bok är korta och kanske inte färdigformulerade, så har innehåll och förklaringar varit tillräckliga för att många människor ska ha  kommit igång med S3 och uppnått positiva förändringar i sina organisationer. Vi hoppas att du också kommer att tycka att material är användbart.

@@ -1,7 +1,7 @@
 # Fraktal organisation
 
 <summary>
-<strong>Flera kretsar (avdelningar, team eller projekt) i en organisation som har en gemensam (eller liknande) primär drivkraft och struktur kan dela lärande tvärs funktionella domäner, ensa åtgärder och fatta beslut på hög nivå (t.ex övergripande strategi).</strong>
+Flera kretsar (avdelningar, team eller projekt) i en organisation som har en gemensam (eller liknande) primär drivkraft och struktur kan dela lärande tvärs funktionella domäner, ensa åtgärder och fatta beslut på hög nivå (t.ex övergripande strategi).
 </summary>
 
 Att skapa en fraktal organisation kan göra det möjligt för ett stort nätverk att snabbt agera på en föränderlig omvärld.
