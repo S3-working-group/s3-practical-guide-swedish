@@ -1,5 +1,9 @@
 ---
 title: "Författare"
+next_page_title: "Begreppslista"
+next_page_url: "glossary.html"
+prev_page_title: "Tack till"
+prev_page_url: "acknowledgments.html"
 ---
 
 
@@ -38,16 +42,3 @@ Utöver det gör vi allt innehåll på denna webbplats och allt material på sid
 Vi delar med oss av den nya dokumentation vi skapar, beskriver och förklarar om S3-mönster och hur de kan tillämpas, i den praktiska handledningen och på webbplatsen för Sociokrati 3.0, så snart dessa dokument är i ett tillstånd som vi är nöjda med.
 
 För att ta reda på hur du kan bidra till utvecklingen av S3, gå till <https://sociocracy30.org/contribute/>
-
-<div class="bottom-nav">
-<a href="acknowledgments.html" title="Tillbaka till: Tack till">◀</a> <a href="appendix.html" title="Upp: Bilagor">▲</a> <a href="glossary.html" title="Läs vidare: Begreppslista">▶ Läs vidare: Begreppslista</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'glossary.html';
-    return false;
-});
-</script>
-

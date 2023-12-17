@@ -1,10 +1,14 @@
 ---
 title: "Tidsbegränsa aktiviteter"
+next_page_title: "Samordnare"
+next_page_url: "coordinator.html"
+prev_page_title: "Begränsa pågående arbete"
+prev_page_url: "limit-work-in-progress.html"
 ---
 
 
-<strong>Sätt en tidsbegränsning för att förbli fokuserad, göra alla medvetna om den tid som finns tillgänglig och hur man använder den på bästa sätt.</strong>
-
+<div class="card summary"><div class="card-body">Att sätta en tidsbegränsning för att förbli fokuserad, göra alla medvetna om den tid som finns tillgänglig och hur man använder den på bästa sätt.
+</div></div>
 _En **timebox** är en bestämd tidsperiod fokuserad på en specifik aktivitet (som inte nödvändigtvis hinner blir klar inom tidsperioden)._
 
 - var tydlig med vad som skall uppnås för att få ut så mycket värde som möjligt av den begränsade tiden
@@ -23,16 +27,3 @@ Man kan tidsbegränsa
 - läsa e-post
 - pauser
 - arbete som sträcker sig över en längre tid (en sprint)
-
-<div class="bottom-nav">
-<a href="limit-work-in-progress.html" title="Tillbaka till: Begränsa pågående arbete">◀</a> <a href="organizing-work.html" title="Upp: Organisera arbete">▲</a> <a href="align-flow.html" title="Läs vidare: Ensa flödet">▶ Läs vidare: Ensa flödet</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'align-flow.html';
-    return false;
-});
-</script>
-

@@ -1,9 +1,11 @@
 ---
 title: "Vad är Sociokrati 3.0?"
+next_page_title: "Hur kan Sociokrati 3.0 hjälpa?"
+next_page_url: "how-does-s3-help.html"
 ---
 
 
-Sociokrati 3.0 — också kallat "S3" — är en <a href="#" class="tooltip" title="Social teknologi: Social teknologi är varje process, teknik, metod, skicklighet eller annat tillvägagångssätt som människor kan använda för att påverka sociala system – organisationer, samhällen, samhällen etc. — för att stödja uppnåendet av gemensamma mål och vägleda meningsfullt samspel och utbyte.">social teknologi</a> för att utveckla lättrörliga och motståndskraftiga organisationer i alla storlekar, från små nystartade företag till stora internationella nätverk och samarbeten mellan många myndigheter.
+Sociokrati 3.0 — också kallat "S3" — är en <a href="glossary.html#entry-social-technology" class="glossary-tooltip" data-toggle="tooltip" title="Social teknologi: Social teknologi är varje process, teknik, metod, skicklighet eller annat tillvägagångssätt som människor kan använda för att påverka sociala system – organisationer, samhällen, samhällen etc. — för att stödja uppnåendet av gemensamma mål och vägleda meningsfullt samspel och utbyte.">social teknologi</a> för att utveckla lättrörliga och motståndskraftiga organisationer i alla storlekar, från små nystartade företag till stora internationella nätverk och samarbeten mellan många myndigheter.
 
 Denna praktiska guide innehåller en omfattande samling av beprövade och testade **koncept, principer och metoder för att förbättra prestanda, engagemang och välbefinnande** i organisationer.
 
@@ -17,17 +19,3 @@ Att använda S3 kan **hjälpa dig att uppnå dina mål** och framgångsrikt navi
 **Oavsett din position i organisationen** finns det många beprövade idéer som är relevanta och användbara för dig.
 
 **Sociokrati 3.0 är gratis och helt fritt att använda**, och licensierat under Creative Commons Free Culture License.
-
-
-<div class="bottom-nav">
-<a href="how-does-s3-help.html" title="Läs vidare: Hur kan Sociokrati 3.0 hjälpa?">▶ Läs vidare: Hur kan Sociokrati 3.0 hjälpa?</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'how-does-s3-help.html';
-    return false;
-});
-</script>
-

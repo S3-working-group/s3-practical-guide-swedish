@@ -5,3 +5,4 @@ make setup
 make site
 make epub
 make ebook
+make version

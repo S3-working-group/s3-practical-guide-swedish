@@ -1,15 +1,19 @@
 ---
 title: "Kontrakt för framgångsrikt samarbete"
+next_page_title: "Stödjande roll"
+next_page_url: "support-role.html"
+prev_page_title: "Transparent lönesättning"
+prev_page_url: "transparent-salary.html"
 ---
 
 
-<strong>Främja framgångsrikt samarbete redan från början och skapa förtroende mellan parterna genom att skapa ömsesidigt fördelaktiga och juridiskt robusta kontrakt.</strong>
-
+<div class="card summary"><div class="card-body">Främja framgångsrikt samarbete redan från början och skapa förtroende mellan parterna genom att skapa ömsesidigt fördelaktiga och juridiskt robusta kontrakt.
+</div></div>
 Ett **kontrakt** är ett antal löften som två eller flera parter kommer överens om att göra juridiskt bindande, dvs. om dessa löften bryts har den förfördelade parten rätt till rättslig (eller alternativ) kompensation.
 
 Att utveckla en gemensam förståelse för behov och förväntningar är avgörande för ett framgångsrikt samarbete.
 
-Under förhandlingar om, och fastställande av, ett kontrakt, modellera den samarbetskultur du vill uppnå, och bygg en positiv relation med de andra berörda parterna.
+Under förhandlingar om, och fastställande av,  ett kontrakt, modellera den samarbetskultur du vill uppnå, och bygg en positiv relation med de andra berörda parterna.
 
 Detta mönster avser kontrakt relaterade till samarbete kring alla affärstransaktioner mellan en organisation och andra parter (t.ex. anställda, konsulter, tjänsteleverantörer, aktieägare eller kunder). Det är särskilt relevant för kontrakt som har ett betydande inflytande på framtiden för en organisation eller en av dess partner, såsom:
 
@@ -43,7 +47,7 @@ Det sätt som ett kontrakt förhandlas fram på kan avsevärt bidra till att byg
 
 ## Vid samskapande av ett kontrakt:
 
-- se till att alla parter har en delegation som inkluderar representation för alla berörda <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> (t.ex. inte bara försäljning, men också utveckling / produktion / stöd, etc.)
+- se till att alla parter har en delegation som inkluderar representation för alla berörda <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> (t.ex. inte bara försäljning, men också utveckling / produktion / stöd, etc.)
 - beskriv uttryckligen den kultur du vill utveckla, med hänsyn till en gemensam grund och eventuella kulturella skillnader mellan parter
 - ange skälen till det föreslagna samarbetet, och var öppen om förväntningar och behov hos alla parter
 - lämna ut all relevant information (under NDA om nödvändigt)
@@ -72,16 +76,4 @@ Varje kontrakt påverkar kulturen i det samarbete som den styr, även när det v
 - bygg kontrakt som möjliggör och uppmuntrar ansvarskänsla
 
 Om standardavtal i branschen är föråldrade jämfört med den önskade kulturen, bygg en databas med mallar för kontrakt och klausuler och överväg att dela den med andra, så att det går att utnyttja tidigare erfarenheter när nya kontrakt skapas.
-
-<div class="bottom-nav">
-<a href="breaking-agreements.html" title="Tillbaka till: Bryta överenskommelser">◀</a> <a href="enablers-of-collaboration.html" title="Upp: Främja samarbete">▲</a> <a href="transparent-salary.html" title="Läs vidare: Transparent lönesättning">▶ Läs vidare: Transparent lönesättning</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'transparent-salary.html';
-    return false;
-});
-</script>
 

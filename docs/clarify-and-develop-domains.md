@@ -1,15 +1,21 @@
 ---
 title: "Tydliggör och utveckla domäner"
+next_page_title: "Delegera inflytande"
+next_page_url: "delegate-influence.html"
+prev_page_title: "Utveckla organisationer"
+prev_page_url: "evolving-organizations.html"
 ---
 
 
-En tydlig förståelse för människors ansvar och självbestämmande möjliggör ökad effektivitet, bättre samarbete och lättrörlighet i hela organisationen.
+<div class="card summary"><div class="card-body">Att uttryckligen tydliggöra, och sedan utvärdera och utveckla en domäns design baserat på lärande för att underlätta för de som är ansvariga för domänen att hantera den så att den får största effekt. 
+</div></div>
+En klar förståelse för personers ansvarsområden och autonomi underlättar ökad effektivitet, verkansfullt samarbete och lättrörlighet i hela organisationen.
 
-Fördela arbetet mellan personer i organisationen genom att skapa roller eller forma team, enheter eller avdelningar så att den begränsade mängd tid, energi och resurser som finns utnyttjas bättre. I det arbetet kommer också <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> - distinkta ansvarsområden och självbestämmande - att definieras, uttryckligen eller underförstått.
+För att bättre utnyttja den begränsade mängd tid, energi och resurser som finns, fördela arbetetet mellan personer i organisationen genom att skapa roller eller forma team, enheter eller avdelningar. I det arbetet kommer också <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> - distinkta ansvarsområden och självbestämmande - att definieras, uttryckligen eller underförstått.
 
-Uppgiften för varje roll eller team är att bidra till det övergripande syftet med organisationen genom att ta hand om ett specifikt organisatoriskt behov. Domäner som inte är tillräckligt definierade leder typiskt till att intressenter har olika antaganden om ansvarsområden och autonomi. Som en följd av detta uppstår brister i både samarbete och arbetsfördelning på grund av att man missar beroenden, gör dubbelt arbete eller att inget arbete utförs alls.
+Uppgiften för varje roll eller team är att bidra till det övergripande syftet med organisationen genom att ta hand om ett specifikt organisatoriskt behov. Otillräckligt definierade domäner leder typiskt till att intressenter har olika antaganden om ansvarsområden och autonomi. Som en följd av detta uppstår brister i både samarbete och arbetsfördelning på grund av att man missar beroenden, gör dubbelt arbete eller att inget arbete utförs alls.
 
-Förtydligande av domäner gör kontraktet mellan <a href="#" class="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">delegator</a> och <a href="#" class="tooltip" title="Delegat: En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.">delegater</a> explicit, vilket gör det möjligt för alla att inse vad som fungerar och vad som inte fungerar, eftersom alla förstår vem som är ansvarig för vad. En tydlig domänbeskrivning med en rimlig detaljrikedom är en nödvändig förutsättning för att människor framgångsrikt ska kunna utvärdera och kontinuerligt förbättra sitt arbete.
+Förtydligande av domäner gör kontraktet mellan <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">delegator</a> och <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegat: En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.">delegater</a> explicit, vilket gör det möjligt för alla att inse vad som fungerar och vad som inte fungerar, eftersom alla förstår vem som är ansvarig för vad. En tydlig domänbeskrivning med en rimlig detaljrikedom är en nödvändig förutsättning för att människor framgångsrikt ska kunna utvärdera och kontinuerligt förbättra sitt arbete.
 
 Ett enkelt sätt att stödja intressenter i att utveckla en gemensam förståelse för olika aspekter av en domän är genom att skapa en **domänbeskrivning** som innehåller information om:
 
@@ -25,16 +31,14 @@ Ett enkelt sätt att stödja intressenter i att utveckla en gemensam förståels
 -   Primära mätvärden
 -   Utvärdering
 
-På [S3 Canvas microsite] hittar du en mängd olika mallar som du kan använda för att (sam-)skapa och dokumentera domänbeskrivningar.
-
-(http://s3canvas.sociocracy30.org/s3-delegation-canvas.html)
+På  [mikro-sajten för S3-kartan](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html) kan du hitta en mängd olika mallar som du kan använda för att (sam)skapa och dokumentera domänbeskrivningar.
 
 Överväg att skapa domäner med minsta möjliga, men tillräckliga, begränsningar och välj alltid begränsningar som gör möjligheterna för människor att skapa värde maximala.
 
 Delegaten(erna) kan göra vad helst de tror kan hjälpa dem att uppnå sitt syfte, om det inte är utanför domänen för organisationen, explicit förbjudet, de bryter mot någon annans (explicita) domän, eller hindrar andra människors bidrag till organisationen på något annat sätt. Saker som är förbjudna inkluderar uttryckliga begränsningar som anges i domänbeskrivningen, andra överenskommelser delegaten(-erna) måste hålla, såväl som rättsliga och regulatoriska krav.
 
 
-## När behöver man förtydliga domäner
+## När behöver man förtydliga domäner?
 
 Överväg att förtydliga domäner när du märker att intressenter har olika antaganden om domänen för en befintlig [roll](role.html), position, team, avdelning, enhet eller till och med för organisationens domän som helhet.
 
@@ -166,7 +170,7 @@ Beskriv delegatorns ansvar i specifika och mätbara termer, så att de kan grans
 
 ### Primära mätvärden
 
-<a href="#" class="tooltip" title="Metrik: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång">Mätvärden</a> är statistik som fungerar som kritiska indikatorer för framsteg, projektstatus eller prestanda. De relaterar till den primära drivkraften (och/eller syftet), nyckelansvar, utmaningar, leverabler och delegatorns ansvar som definierats för denna domän.
+<a href="glossary.html#entry-metric" class="glossary-tooltip" data-toggle="tooltip" title="Mätvärde: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång">Mätvärden</a> är statistik som fungerar som kritiska indikatorer för framsteg, projektstatus eller prestanda. De relaterar till den primära drivkraften (och/eller syftet), nyckelansvar, utmaningar, leverabler och delegatorns ansvar som definierats för denna domän.
 
 Primära mätvärden övervakas och utvärderas ofta. De är relevanta kriterier för utvärdering av utfall och framgång i schemalagda utvärderingar (se ”Övervakning och utvärdering” nedan).
 
@@ -186,7 +190,7 @@ I utvärderingen, se till att du överväger följande aspekter:
 -   Hur väl delegatorn(-erna) tar hand om sitt ansvar.
 -   Designen av själva domänen (och potentiellt utformningen av andra relaterade domäner).
 -   Delegatens(-ernas) kompetens och färdigheter i förhållande till domänen.
--   Den <a href="#" class="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.">strategi</a> delegaten(s) följer att ansvara för denna domän.
+-   Den <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.">strategi</a> delegaten(s) följer att ansvara för denna domän.
 
 Definiera:
 
@@ -209,17 +213,3 @@ Se till att registrera och övervaka när en domän skall granskas och lägg til
 -   Datum för senaste uppdateringen till domänbeskrivningen
 -   Författarens namn
 -   Termin (för en roll)
-
-
-<div class="bottom-nav">
-<a href="clarify-and-develop-strategy.html" title="Tillbaka till: Förtydliga och utveckla strategi">◀</a> <a href="defining-agreements.html" title="Upp: Definiera överenskommelser">▲</a> <a href="clarify-intended-outcome.html" title="Läs vidare: Förtydliga avsett utfall">▶ Läs vidare: Förtydliga avsett utfall</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'clarify-intended-outcome.html';
-    return false;
-});
-</script>
-

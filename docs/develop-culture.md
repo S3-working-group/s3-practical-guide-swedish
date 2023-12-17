@@ -1,5 +1,9 @@
 ---
 title: "Princip 9 – Utveckla kulturen medvetet"
+next_page_title: "Princip 10 – Bygg gemensamma mentala modeller"
+next_page_url: "shared-mental-models.html"
+prev_page_title: "Princip 8 – Satsa på lärande"
+prev_page_url: "invest-in-learning.html"
 ---
 
 
@@ -14,17 +18,3 @@ Viktiga möster för att hjälpa till att uppnå detta är:
 -   [Utvärdera och förädla överenskommelser](evaluate-and-evolve-agreements.html) – Regelbunden utvärdering och medveten utveckling av överenskommelserna avseende kultur håller dem levande i medvetandet hos människorna och gör det lättare att identifiera när och hur de kan förbättras.
 -   [Kontrakt för framgångsrikt samarbete](contract-for-successful-collaboration.html) – Att tillsammans skapa ömsesidigt fördelaktiga överenskommelser för samarbete redan från början stöder uppbyggnaden och upprätthållandet av en engagerande och produktiv arbetsmiljö och en kultur av förtroende mellan parter.
 -   [Skapa ett flödesbaserat system för organisatorisk förändring](create-a-pull-system-for-organizational-change.html) – Att fördela ansvaret för att utveckla kulturen på alla inbjuder till proaktivitet i att ta itu med utmaningar och möjligheter närhelst de uppstår.
-
-
-<div class="bottom-nav">
-<a href="invest-in-learning.html" title="Tillbaka till: Princip 8 – Satsa på lärande">◀</a> <a href="transformation.html" title="Upp: Tre principer för transformation">▲</a> <a href="shared-mental-models.html" title="Läs vidare: Princip 10 – Bygg gemensamma mentala modeller">▶ Läs vidare: Princip 10 – Bygg gemensamma mentala modeller</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'shared-mental-models.html';
-    return false;
-});
-</script>
-

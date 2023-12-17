@@ -1,5 +1,9 @@
 ---
 title: "Vad finns i den här handledningen?"
+next_page_title: "Inspiration till och historien bakom Sociokrati 3.0"
+next_page_url: "history.html"
+prev_page_title: "Ett mönsterbaserat tillvägagångssätt för organisatorisk förändring"
+prev_page_url: "pattern.html"
 ---
 
 
@@ -20,18 +24,4 @@ Denna praktiska handledning till Sociokrati 3.0 är skriven och publicerad av d
 
 Trogen tankesättet bakom S3, kommer denna bok alltid att vara ett pågående arbete som växer och förändras vartefter vi lär oss av människor som experimenterar med S3 i organisationer runt om i världen. Sedan vi började för 5 år sedan har vi släppt flera uppdateringar per år och vi kommer att fortsätta göra det under de kommande åren.
 
-Även om flera avsnitt i denna bok är korta och kanske inte färdigformulerade, så har innehåll och förklaringar har varit tillräckliga för att många människor ska ha  kommit igång med S3 och uppnått positiva förändringar i sina organisationer. Vi hoppas att du också kommer att tycka att material är användbart.
-
-
-<div class="bottom-nav">
-<a href="pattern.html" title="Tillbaka till: Ett mönsterbaserat tillvägagångssätt för organisatorisk förändring">◀</a> <a href="what-is-s3.html" title="Upp: Vad är Sociokrati 3.0?">▲</a> <a href="history.html" title="Läs vidare: Inspiration till och historien bakom Sociokrati 3.0">▶ Läs vidare: Inspiration till och historien bakom Sociokrati 3.0</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'history.html';
-    return false;
-});
-</script>
-
+Även om flera avsnitt i denna bok är korta och kanske inte färdigformulerade, så har innehåll och förklaringar varit tillräckliga för att många människor ska ha  kommit igång med S3 och uppnått positiva förändringar i sina organisationer. Vi hoppas att du också kommer att tycka att material är användbart.

@@ -1,5 +1,9 @@
 ---
 title: "Drivkrafter"
+next_page_title: "Domän"
+next_page_url: "domain.html"
+prev_page_title: "Nyckelbegrepp för att förstå organisationer"
+prev_page_url: "making-sense-of-organizations.html"
 ---
 
 
@@ -21,16 +25,3 @@ Genom att anamma begreppen värde och spill, kan många metoder och idéer från
 - värdeströmskartläggning
 - olika strategier för att eliminera spill
 - Kanban-metoden
-
-<div class="bottom-nav">
-<a href="making-sense-of-organizations.html" title="Upp: Nyckelbegrepp för att förstå organisationer">▲</a> <a href="domain.html" title="Läs vidare: Domän">▶ Läs vidare: Domän</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'domain.html';
-    return false;
-});
-</script>
-

@@ -1,0 +1,28 @@
+<!-- Mobile menu toggle button (hamburger/x icon) -->
+<input id="main-menu-state" type="checkbox" />
+<label class="main-menu-btn" for="main-menu-state">
+  <span class="main-menu-btn-icon"></span> Visa/dölj huvudmenyn
+</label>
+<!-- the actual menu -->
+<ul id="main-menu" class="sm sm-mint sm-vertical">
+  <li><a href="index.html">Hem</a></li>
+  
+  {{html-menu}}
+  
+  <li><a href="#">Snabblänkar</a>
+    <ul class="mega-menu">
+      <li><a href="\{\{ 'index.html' | relative_url \}\}">Startsida</a></li>
+      <li><a href="\{\{ 'glossary.html' | relative_url \}\}">Begreppslista</a></li>
+      <li><a href="\{\{ 'changelog.html' | relative_url \}\}">Ändringslogg</a></li>
+      <li><a href="\{\{ 'pattern-index.html' | relative_url \}\}" title="Alfabetisk lista över alla mönster."><img src="\{\{ 'icons/list-ul.svg' | relative_url \}\}" class="icon" alt="site index" />&nbsp;Mönsterförteckning</a></li>
+      <li><a href="\{\{ 'map.html' | relative_url \}\}" title="Använd mönsterkartan för att hoppa till godtyckligt mönster."><img src="\{\{ 'icons/map.svg' | relative_url \}\}" class="icon" alt="site map" />&nbsp;Karta</a></li>
+      <li><span id="annotate-span"><a href="" id="annotate-link" title="Kommentera denna sida med hjälp av 'hypothes.is'. Klicka här, vänta på att sidan laddar om, sedan kan du markera text och lägga till offentliga kommentarer. Du måste först sätta upp ett gratiskonto på 'hypothes.is'."><img src="\{\{ 'icons/comments-alt.svg' | relative_url \}\}" class="icon" alt="annotate page" />&nbsp;Kommentera på sidan</a></span></li>
+      <li><a href="https://sociocracy30.org/resources/#se-practical-guide">Nerladdningar</a></li>
+      <li><a href="https://sociocracy30.org">Sociokrati 3.0 webbplats</a></li>
+    </ul>
+  </li>
+</ul>
+
+
+
+

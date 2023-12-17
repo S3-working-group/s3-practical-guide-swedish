@@ -1,10 +1,14 @@
 ---
 title: "Utvärdera möten"
+next_page_title: "Mötesvärd"
+next_page_url: "meeting-host.html"
+prev_page_title: "Incheckning"
+prev_page_url: "check-in.html"
 ---
 
 
-<strong>Se till att det finns tid att lära i slutet av varje möte eller workshop.</strong>
-
+<div class="card summary"><div class="card-body">Se till att det finns tid att lära i slutet av varje möte eller workshop.
+</div></div>
 Reflektera över interaktioner, fira framgångar och dela förslag på förbättringar innan mötet avslutas.
 
 - reservera 5 minuter av varje timme, eller 15 minuter om det är en heldagsaktivitet
@@ -19,7 +23,7 @@ Några förslag på korta format:
 
 ## Utvärdera möten: Långt format
 
-I en [runda](rounds.html) be alla att reflektera över något eller alla av följande ämnen i en kort delning, och registrera viktiga punkter du vill komma ihåg till nästa gång:
+I en [runda](rounds.html) be alla att reflektera över något eller alla av följande ämnen i en kort delning, och registrera viktiga punkter ni vill komma ihåg till nästa gång:
 
 - ändamålsenlighet och format
 - facilitering och deltagande
@@ -27,16 +31,3 @@ I en [runda](rounds.html) be alla att reflektera över något eller alla av föl
 - uppskattningar och prestationer (jag gillade...)
 - utvecklingsområden och förbättringsförslag (jag önskar...)
 - galna idéer och radikala förslag (tänk om...)
-
-<div class="bottom-nav">
-<a href="check-in.html" title="Tillbaka till: Incheckning">◀</a> <a href="meeting-practices.html" title="Upp: Mötestekniker">▲</a> <a href="meeting-host.html" title="Läs vidare: Mötesvärd">▶ Läs vidare: Mötesvärd</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'meeting-host.html';
-    return false;
-});
-</script>
-

@@ -1,23 +1,14 @@
 ---
 title: "Servicecirkel"
+next_page_title: "Lagrad organisation"
+next_page_url: "peach-organization.html"
+prev_page_title: "Delegatscirkel"
+prev_page_url: "delegate-circle.html"
 ---
 
 
-<strong>Flytta ut tjänster som behövs av två eller flera domäner.</strong>
-
-En servicecirkel kan fyllas av medlemmar i de <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> den tjänar och/eller andra personer.
+<div class="card summary"><div class="card-body">Flytta ut tjänster som behövs av två eller flera domäner.
+</div></div>
+En servicecirkel kan fyllas av medlemmar i de <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> den tjänar och/eller andra personer.
 
 ![Servicecirkel](img/structural-patterns/service-circle.png)
-
-<div class="bottom-nav">
-<a href="organizational-structure.html" title="Upp: Organisationsstruktur">▲</a> <a href="delegate-circle.html" title="Läs vidare: Delegatscirkel">▶ Läs vidare: Delegatscirkel</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'delegate-circle.html';
-    return false;
-});
-</script>
-

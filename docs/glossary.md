@@ -1,5 +1,7 @@
 ---
 title: "Begreppslista"
+prev_page_title: "Författare"
+prev_page_url: "authors.html"
 ---
 
 
@@ -11,7 +13,7 @@ title: "Begreppslista"
 
 
 <dt id="entry-accountability">Ansvarighet (princip)</dt>
-<dd><strong>Agera när något behövs, gör vad du överenskommit och axla din del av ansvaret för organisationens framgång</strong> så att det som behöver göras blir gjort, ingenting förbises och alla gör vad de kan för att bidra till organisationens ändamålsmässighet och integritet.</dd>
+<dd><strong>Agera när något behövs, gör vad du åtagit dig och axla din del av ansvaret för organisationens framgång</strong> så att det som behöver göras blir gjort, ingenting förbises och alla gör vad de kan för att bidra till organisationens ändamålsmässighet och integritet.</dd>
 
 
 <dt id="entry-intended-outcome">Avsett utfall</dt>
@@ -39,7 +41,7 @@ title: "Begreppslista"
 
 
 <dt id="entry-domain">Domän</dt>
-<dd>Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.</dd>
+<dd>Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.</dd>
 
 
 <dt id="entry-driver">Drivkraft</dt>
@@ -71,11 +73,11 @@ title: "Begreppslista"
 
 
 <dt id="entry-check-in">Incheckning</dt>
-<dd>Ett kort yppande om vad som är aktuellt för dig och hur du känner dig, något som visar dina tankar, känslor, distraktioner eller behov.</dd>
+<dd>Ett kort uttalande om vad som känns aktuellt för dig och hur du känner dig, något som visar dina tankar, känslor, distraktioner eller behov.</dd>
 
 
 <dt id="entry-objection">Invändning</dt>
-<dd>Ett argument som rör en (föreslagen) överenskommelse, åtgärd eller beslut och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar.</dd>
+<dd>Ett argument – i relation till ett förslag, avtal, en aktivitet eller det rådande läget – som avslöjar konsekvenser eller risker bör undvikas, eller visar på värdefull förbättring.</dd>
 
 
 <dt id="entry-complexity">Komplex</dt>
@@ -91,14 +93,14 @@ title: "Begreppslista"
 
 
 <dt id="entry-equivalence">Likvärdighet (princip)</dt>
-<dd><strong>Engagera människor i att fatta och förfina beslut som påverkar dem</strong> så att du ökar engagemanget och ansvarstagandet, och utnyttjar den distribuerade intelligensen för att uppnå och utveckla dina mål.</dd>
+<dd><strong>Engagera människor i att fatta och förädla beslut som påverkar dem</strong> så att engagemanget och ansvarstagandet ökar, och ni utnyttjar den distribuerade intelligensen för att uppnå och utveckla era mål.</dd>
 
 
 <dt id="entry-logbook">Loggbok</dt>
 <dd>Ett (digitalt) system för att lagra all information som är relevant för att driva en organisation.</dd>
 
 
-<dt id="entry-metric">Metrik</dt>
+<dt id="entry-metric">Mätvärde</dt>
 <dd>Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång</dd>
 
 
@@ -127,7 +129,7 @@ title: "Begreppslista"
 
 
 <dt id="entry-concern">Oro</dt>
-<dd>Ett antagande – eller en åsikt – om att göra något (även i avsaknad av invändningar) skulle kunna stå i vägen för en (mer) ändamålsenlig respons på en organisatorisk drivkraft.</dd>
+<dd>Ett antagande som inte kan backas upp av resonemang eller tillräckligt med bevis för att bevisa dess relevans eller giltighet.</dd>
 
 
 <dt id="entry-backlog">Planeringslista</dt>
@@ -159,7 +161,7 @@ title: "Begreppslista"
 
 
 <dt id="entry-consent">Samtycke (princip)</dt>
-<dd><strong>Ta upp, undersök och lös upp invändningar mot beslut och åtgärder</strong> så att risken för oönskade konsekvenser minskar och eventuella värdefulla sätt att förbättra kan upptäckas.</dd>
+<dd><strong>Ta upp, undersök och lös upp invändningar mot beslut och åtgärder</strong> så att risken för oönskade konsekvenser minskar och eventuella värdefulla förbättringar kan upptäckas.</dd>
 
 
 <dt id="entry-self-organization">Självorganisering</dt>
@@ -199,7 +201,7 @@ title: "Begreppslista"
 
 
 <dt id="entry-continuous-improvement">Ständig förbättring (princip)</dt>
-<dd><strong>Granska regelbundet utfallet av det du gör, och gör sedan stegvisa förbättringar av vad du gör och hur du gör det baserat på vad du lär dig</strong> så att du kan anpassa dig till förändringar när det behövs, och upprätthålla eller förbättra ändamålsenligheten över tid.</dd>
+<dd><strong>Granska regelbundet utfallet av det du gör, och gör sedan stegvisa förbättringar av vad du gör och hur du gör det baserat på vad du lärt dig</strong> så att du kan anpassa dig till förändringar när det behövs, och upprätthålla eller förbättra ändamålsenligheten över tid.</dd>
 
 
 <dt id="entry-peer-domain">Syskondomän</dt>
@@ -242,12 +244,12 @@ title: "Begreppslista"
 <dd><strong>Lägg endast tid på sådant som leder närmare organisationens övergripande mål</strong>, så att den begränsade tid, energi och resurs som finns tillgänglig används på bästa sätt.</dd>
 
 
-<dt id="entry-open-domain">Öppen domän</dt>
-<dd>En domän som hanteras av en rad personer som har bjudits in att bidra när de kan.</dd>
-
-
 <dt id="entry-transparency">Öppenhet (princip)</dt>
-<dd><strong>Anteckna all information som är värdefull för organisationen och gör den tillgänglig för alla i organisationen, såvida det inte finns någon speciell anledning till sekretess</strong> så att alla har den information de behöver för att förstå hur man gör sitt arbete på ett sätt som så ändamålsenligt som möjligt bidrar helheten.</dd>
+<dd><strong>Anteckna all information som är värdefull för organisationen och gör den tillgänglig för alla i organisationen, såvida det inte finns någon speciell anledning till sekretess</strong> så att alla har den information de behöver för att förstå hur man gör sitt arbete på ett sätt som så ändamålsenligt som möjligt bidrar till helheten.</dd>
+
+
+<dt id="entry-open-team">Öppet team</dt>
+<dd>En grupp människor som bjuds in att bidra till det arbete och den styrning som görs inom ett område när de kan.</dd>
 
 
 <dt id="entry-superdomain">Överdomän</dt>
@@ -266,8 +268,3 @@ title: "Begreppslista"
 
 
 
-
-
-<div class="bottom-nav">
-<a href="authors.html" title="Tillbaka till: Författare">◀</a> <a href="appendix.html" title="Upp: Bilagor">▲</a>
-</div>

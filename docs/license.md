@@ -1,9 +1,13 @@
 ---
 title: "Licens"
+next_page_title: "Ansvarsfriskrivning"
+next_page_url: "disclaimer.html"
+prev_page_title: "Länkar"
+prev_page_url: "links.html"
 ---
 
 
-"En praktisk handledning för att utveckla agila och uthålliga organisationer med Sociokrati 3.0" av Bernhard Bockelbrink, James Priest och Liliana David är licensierad under en internationell **Creative Commons Attributions-ShareAlike 4.0** licens, som är en **fri kulturlicens**.
+"*En Praktisk Handledning för att Utveckla Agila och Motståndskraftiga Organisationer med Sociokrati 3.0*" skriven av Bernhard Bockelbrink, James Priest och Liliana David är licensierad under **Creative Commons Attribution-ShareAlike 4.0 International License**, som är en **fri kultur-licens (Free Culture License)**.
 
 I grund och botten ger denna licens dig:
 
@@ -25,16 +29,3 @@ Om du skapar ett arbete som bygger på materialet, måste du ge lämplig tillerk
 > Detta arbete, "[namnet på ditt arbete]", bygger på "A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0"av James Priest, Bernhard Bockelbrink och Liliana David använt under CC BY SA. "[namnet på ditt arbete]" är licensierat under CC BY SA av [ditt namn].
 
 Du kan läsa mer om tillerkännande på [Creative Commons sida om bästa metoder för tillerkännanden](https://wiki.creativecommons.org/wiki/best_practices_for_attribution).
-
-<div class="bottom-nav">
-<a href="links.html" title="Tillbaka till: Länkar">◀</a> <a href="appendix.html" title="Upp: Bilagor">▲</a> <a href="disclaimer.html" title="Läs vidare: Ansvarsfriskrivning">▶ Läs vidare: Ansvarsfriskrivning</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'disclaimer.html';
-    return false;
-});
-</script>
-

@@ -1,8 +1,8 @@
 title:
 - type: main
-  text: ${_("A Practical Guide for Evolving Agile and Resilient Organizations with Sociocracy 3.0")}
+  text: ${_("En praktisk handledning för att utveckla agila och motståndskraftiga organisationer med Sociokrati 3.0")}
 - type: subtitle
-  text: ${_("70+ Powerful Practices to Help You and Your Organization Thrive")}
+  text: ${_("Över 70 kraftfulla tekniker som hjälper dig och din organisation att frodas")}
 creator:
 - role: author
   text: Bernhard Bockelbrink
@@ -10,7 +10,7 @@ creator:
   text: James Priest
 - role: author
   text: Liliana David
-rights: ${version} © 2015 - 2021 Bernhard Bockelbrink, James Priest, Liliana David
+rights: ${version} © 2015 - 2022 Bernhard Bockelbrink, James Priest, Liliana David
 lang: ${html_language}
 direction: ${html_dir}
 page-progression-direction: ${html_dir}

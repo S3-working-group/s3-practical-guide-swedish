@@ -1,5 +1,9 @@
 ---
 title: "Var ska man börja?"
+next_page_title: "Bilagor"
+next_page_url: "appendix.html"
+prev_page_title: "Princip 10 – Bygg gemensamma mentala modeller"
+prev_page_url: "shared-mental-models.html"
 ---
 
 
@@ -10,17 +14,3 @@ Varje princip stöder ett specifikt utfall. För att bestämma var man bör bör
 I bilden nedan kan du se att några av principerna är mer nära besläktade än andra, det kan vara  ytterligare en hjälp till vad som är en lämplig startpunkt.
 
 Med varje princip har vi inkluderat en lista med förslag på saker man kan prova. Förslagen är hämtade från [menyn av mönster i Sociokrati 3.0](http://patterns.sociocracy30.org). För närvarande finns bara de viktigaste mönstren som stöder varje princip, i framtida versioner av detta ramverk kommer det att finnas ännu fler mönster. 
-
-
-<div class="bottom-nav">
-<a href="shared-mental-models.html" title="Tillbaka till: Princip 10 – Bygg gemensamma mentala modeller">◀</a> <a href="csf.html" title="Upp: Ett ramverk för sunt förnuft i organisationer och team">▲</a> <a href="appendix.html" title="Läs vidare: Bilagor">▶ Läs vidare: Bilagor</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'appendix.html';
-    return false;
-});
-</script>
-

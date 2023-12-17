@@ -1,5 +1,9 @@
 ---
 title: "Varför \"3.0\"?"
+next_page_title: "De Sju Principerna"
+next_page_url: "principles.html"
+prev_page_title: "Inspiration till och historien bakom Sociokrati 3.0"
+prev_page_url: "history.html"
 ---
 
 
@@ -30,7 +34,7 @@ Det bidrar också till att undvika uppfattningen att vi förvanskar *Sociocratic
 Vi stöder "viral" spridning genom två viktiga strategier:
 
 * **Sociokrati 3.0 är öppet:** Vi vill uppmuntra tillväxten av ett levande ekosystem av tillämpningar och smaker av sociokrati där människor delar och diskuterar sina insikter och de anpassningar de gör utifrån sitt specifika sammanhang. Därför lägger Sociokrati 3.0 tonvikten på att kommunicera de bakomliggande principerna och uppmanar uttryckligen alla människor att kreativt blanda, utöka och anpassa saker efter deras behov.
-* **Sociokrati 3.0 är gratis:** För att förenkla för människor och organisationer att börja nyttja Sociokrati 3.0 tillhandahåller vi gratis material under *Creative Commons Free Culture License* för att alla skall kunna lära sig, praktisera och lära ut *Sociokrati 3.0*. Vem som helst får använda materialet utan uttryckligt tillstånd, även i kommersiella sammanhang, eller som grund för att skapa nytt material, så länge de delar dessa under samma licens. Vi förväntar oss och stödjer andra organisationer, konsulter, coacher, utbildare och utbildare att följa vårt exempel och göra sitt material tillgängligt också.
+* **Sociokrati 3.0 är gratis:** För att förenkla för människor och organisationer att börja nyttja Sociokrati 3.0 tillhandahåller vi gratis material under *Creative Commons Free Culture License* för att alla skall kunna lära sig, praktisera och lära ut *Sociokrati 3.0*. Vem som helst får använda materialet utan uttryckligt tillstånd, även i kommersiella sammanhang, eller som grund för att skapa nytt material, så länge de delar dessa under samma licens. Vi uppmanar, och stöttar, andra organisationer, konsulter, coacher, facilitatorer och utbildare att följa vårt exempel och också göra sitt material tillgängligt.
 
 ## Utvecklingen av den sociokratiska cirkelorganisations-metoden
 
@@ -59,16 +63,3 @@ Detta betyder inte att det är helt enkelt, att välja att börja med mönster f
 ### Ett nytt sätt att utveckla organisationsstrukturer
 
 Organisationsstrukturen enligt *Sociocratic Circle Organization Metod* modelleras efter en strikt hierarki av domäner. Vi ser allt fler miljöer av samarbete mellan flera intressenter och därmed ett ökat behov av ett bredare utbud av mönster för organisationsstrukturer. Organisationsstrukturen utvecklas naturligt när informationsflödet och inflytandet i en organisation stegvis anpassas till värdeflödet. *Sociokrati 3.0* möjliggör en mängd olika strukturella mönster som kan kombineras för att utveckla strukturen efter behov och på ett flexibelt sätt.
-
-<div class="bottom-nav">
-<a href="history.html" title="Tillbaka till: Inspiration till och historien bakom Sociokrati 3.0">◀</a> <a href="what-is-s3.html" title="Upp: Vad är Sociokrati 3.0?">▲</a> <a href="principles.html" title="Läs vidare: De Sju Principerna">▶ Läs vidare: De Sju Principerna</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'principles.html';
-    return false;
-});
-</script>
-

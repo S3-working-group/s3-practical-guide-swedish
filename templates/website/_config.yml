@@ -1,11 +1,14 @@
 # Site settings
-title: ${_("A Practical Guide to Sociocracy 3.0")}
+title: ${_("En praktisk handledning till Sociokrati 3.0")}
 email: bernhard.bockelbrink@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-   ${_("The official description of Sociocracy 3.0 - All patterns, the Seven Principles and key concepts. Maintained by Bernhard Bockelbrink, James Priest and Liliana David.")}
+   ${_("Den officiella beskrivningen av Sociokrati 3.0 - Alla mönster, de Sju Principerna och väsentliga begrepp. Underhålls av Bernhard Bockelbrink, James Priest och Liliana David.")}
 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "" # subpath of the site, e.g. /blog, empty otherwise
 url: "${site_url}" # the base hostname & protocol for your site
+keywords: "sociocracy, holacracy, s3, scrum, kanban, agile, lean"
+author: "Bernhard Bockelbrink, James Priest, Liliana David"
+githuburl: "https://github.com/bboc/mdtools"
 
 twitter_username: sociocracy30
 

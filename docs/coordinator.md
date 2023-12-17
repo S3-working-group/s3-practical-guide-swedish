@@ -1,25 +1,16 @@
 ---
 title: "Samordnare"
+next_page_title: "Organisationsstruktur"
+next_page_url: "organizational-structure.html"
+prev_page_title: "Tidsbegränsa aktiviteter"
+prev_page_url: "timebox-activities.html"
 ---
 
 
-En person som innehar rollen som samordnare ansvarar för att <strong>samordna en domäns verksamhet</strong> och väljs <strong>för en begränsad tidsperiod.</strong>
+<div class="card summary"><div class="card-body">En person som innehar rollen som samordnare ansvarar för att <strong>samordna en domäns operationella verksamhet</strong> och väljs <strong>för en begränsad tidsperiod.</strong>
+</div></div>
+Samordnaren kan väljas av teamet självt, eller av <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">delegatorn</a>.
 
-Samordnaren kan väljas av teamet självt, eller av <a href="#" class="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">delegatorn</a>.
-
-Flera koordinatorer kan samarbeta för att synkronisera arbetet mellan flera <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a>.
+Flera koordinatorer kan samarbeta för att synkronisera arbetet mellan flera <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a>.
 
 Istället för att välja en koordinator kan ett team välja att själv-organisera sig.
-
-<div class="bottom-nav">
-<a href="align-flow.html" title="Tillbaka till: Ensa flödet">◀</a> <a href="organizing-work.html" title="Upp: Organisera arbete">▲</a> <a href="organizational-structure.html" title="Läs vidare: Organisationsstruktur">▶ Läs vidare: Organisationsstruktur</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'organizational-structure.html';
-    return false;
-});
-</script>
-

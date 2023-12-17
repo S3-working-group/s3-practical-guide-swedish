@@ -1,23 +1,14 @@
 ---
 title: "Länkning"
+next_page_title: "Dubbellänkning"
+next_page_url: "double-linking.html"
+prev_page_title: "Roll"
+prev_page_url: "role.html"
 ---
 
 
-<strong>Möjliggör flöde av information och inflytande mellan två team.</strong>
-
-Ett team väljer en av sina medlemmar att företräda sina intressen i beslut om den <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">strukturella styrningen</a> av ett annat team.
+<div class="card summary"><div class="card-body">Möjliggör flöde av information och inflytande mellan två team.
+</div></div>
+Ett team väljer en av sina medlemmar att företräda sina intressen i beslut om den <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">strukturella styrningen</a> av ett annat team.
 
 ![En cirkel kopplad till en annan cirkel](img/structural-patterns/link.png)
-
-<div class="bottom-nav">
-<a href="role.html" title="Tillbaka till: Roll">◀</a> <a href="building-organizations.html" title="Upp: Bygga organisationer">▲</a> <a href="double-linking.html" title="Läs vidare: Dubbellänkning">▶ Läs vidare: Dubbellänkning</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'double-linking.html';
-    return false;
-});
-</script>
-

@@ -1,25 +1,16 @@
 ---
 title: "Planerings- och utvärderingsmöten"
+next_page_title: "Samordningsmöte"
+next_page_url: "coordination-meeting.html"
+prev_page_title: "Dagligt planeringsmöte"
+prev_page_url: "daily-standup.html"
 ---
 
 
-<strong>Människor träffas med jämna mellanrum (1-4 veckor) i tidsbegränsade möten för att planera och utvärdera arbetet.</strong>
-
+<div class="card summary"><div class="card-body">Människor träffas med jämna mellanrum (1-4 veckor) i tidsbegränsade möten för att planera och utvärdera arbetet.
+</div></div>
 **Planeringsmöte:** välj och storleksuppskatta arbetsposter för nästa period.
 
-**Utvärderingsmöte:** utvärdera slutfört arbete och avgöra om det krävs omarbetning och ändringar inför nästa period.
+**Utvärderingsmöte:** utvärdera slutfört arbete och avgör om det krävs omarbetning och ändringar inför nästa period.
 
-![Planering- och granskningsmöten](img/meetings/planning-review.png)
-
-<div class="bottom-nav">
-<a href="daily-standup.html" title="Tillbaka till: Dagligt planeringsmöte">◀</a> <a href="focused-interactions.html" title="Upp: Fokuserade interaktioner">▲</a> <a href="coordination-meeting.html" title="Läs vidare: Samordningsmöte">▶ Läs vidare: Samordningsmöte</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'coordination-meeting.html';
-    return false;
-});
-</script>
-
+![Planering- och utvärderingsmöten](img/meetings/planning-review.png)
