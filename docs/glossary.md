@@ -89,7 +89,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-deliverable">Leverabel</dt>
-<dd>En produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.</dd>
+<dd>En produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft.</dd>
 
 
 <dt id="entry-equivalence">Likvärdighet (princip)</dt>
@@ -125,7 +125,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-organizational-driver">Organisatorisk drivkraft</dt>
-<dd>En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en <strong>organisatorisk drivkraft</strong> om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.</dd>
+<dd>En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en <strong>organisatorisk drivkraft</strong> om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.</dd>
 
 
 <dt id="entry-concern">Oro</dt>
@@ -185,7 +185,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-waste">Spill</dt>
-<dd>Allt som är onödigt för — eller står i vägen för — en (mer) effektiv respons på en drivkraft.</dd>
+<dd>Allt som är onödigt för — eller står i vägen för — ett (mer) effektivt svar på en drivkraft.</dd>
 
 
 <dt id="entry-tension">Spänning</dt>
@@ -193,7 +193,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-strategy">Strategi</dt>
-<dd>Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.</dd>
+<dd>Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.</dd>
 
 
 <dt id="entry-governance">Strukturell styrning</dt>
@@ -221,7 +221,7 @@ prev_page_url: "authors.html"
 
 
 <dt id="entry-subdriver">Underliggande drivkraft</dt>
-<dd>En underliggande drivkraft uppstår som en konsekvens av att agera på en annan drivkraft (den överliggande drivkraften) och är nödvändig för att på ett ändamålsenligt sätt kunna svara på den överliggande drivkraften.</dd>
+<dd>En underliggande drivkraft uppstår som en konsekvens av att svara på en annan drivkraft (den överliggande drivkraften) och är nödvändig för att på ett ändamålsenligt sätt kunna svara på den överliggande drivkraften.</dd>
 
 
 <dt id="entry-chosen-values">Valda värderingar</dt>

@@ -1,10 +1,10 @@
 # Anta De Sju Principerna
 
 <summary>
-Ensa samarbetsformerna med De Sju Principerna.
+Rätta in samarbetsformerna i enlighet med De Sju Principerna.
 </summary>
 
-Att anta De Sju Principerna minskar behovet av uttryckliga överenskommelser, och vägleder anpassningen av S3-mönster för att passa organisationens situation.
+Att anta De Sju Principerna minskar behovet av uttryckliga överenskommelser, och vägleder anpassning av S3-mönster för att passa organisationens situation.
 
 En organisations värderingar måste omfatta De Sju Principerna.
 

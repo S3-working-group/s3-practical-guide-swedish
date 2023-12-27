@@ -9,7 +9,7 @@ prev_page_url: "clarify-intended-outcome.html"
 
 <div class="card summary"><div class="card-body">Beskriv tydligt alla leverabler (konkreta utresultat) som förväntas från en överenskommelse för att underlätta en gemensam förståelse av förväntningarna.
 </div></div>
-_En **leverabel** är en produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft._
+_En **leverabel** är en produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft._
 
 När en leverabel ska beskrivas:
 

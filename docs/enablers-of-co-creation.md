@@ -13,7 +13,7 @@ prev_page_url: "development-plan.html"
   <dd><p>Förbind dig till att göra ditt bästa för att agera och interagera på ett sätt som främjar ett effektivt samarbete.</p></dd>
 
   <dt><a href="adopt-the-seven-principles.html">Anta De Sju Principerna</a></dt>
-  <dd><p>Ensa samarbetsformerna med De Sju Principerna.</p></dd>
+  <dd><p>Rätta in samarbetsformerna i enlighet med De Sju Principerna.</p></dd>
 
   <dt><a href="agree-on-values.html">Enas om värderingar</a></dt>
   <dd><p>Utveckla medvetet kulturen i din organisation.</p></dd>
@@ -23,7 +23,7 @@ prev_page_url: "development-plan.html"
 <p>öka kunskapen som används vid beslutet.</p></dd>
 
   <dt><a href="breaking-agreements.html">Bryta överenskommelser</a></dt>
-  <dd><p>Bryt överenskommelser när det är tydligt att nyttan för organisationen av det är större än kostnaden av att först vänta på en förändring av överenskommelsen och tag ansvar för konsekvenserna.</p></dd>
+  <dd><p>Bryt överenskommelser när det är tydligt att nyttan för organisationen av det är större än kostnaden för att först vänta på en förändring av överenskommelsen och tag ansvar för konsekvenserna.</p></dd>
 
   <dt><a href="transparent-salary.html">Transparent lönesättning</a></dt>
   <dd><p>Skapa en rättvis löneformel och gör den synlig för alla.</p></dd>

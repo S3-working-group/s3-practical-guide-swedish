@@ -1,7 +1,7 @@
 # Kollegial utvärdering
 
 <summary>
-Stötta varandra i att lära och växa i de roller och team du arbetar i.
+Stötta varandra i att lära och växa i de roller och team ni arbetar i.
 </summary>
 
 Rollinnehavaren — eller teamet — leder den kollegiala utvärderingen genom att sätta upp processen, och genom att tala först i varje steg.

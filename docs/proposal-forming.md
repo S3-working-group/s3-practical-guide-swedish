@@ -17,7 +17,7 @@ _Förslagsformulering_ kan också användas av en enstaka person.
 
 ## Stegen i förslagsformulering
 
-**Samtycke till drivkraften:** Presentera kort <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraften</a>. _Är denna drivkraft relevant för oss att agera på? Finns det några väsentliga tillägg till drivkraften som har lagts fram?_
+**Samtycke till drivkraften:** Presentera kort <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraften</a>. _Är denna drivkraft relevant för oss att agera på? Finns det några väsentliga tillägg till drivkraften som har lagts fram?_
 
 **Fördjupa förståelsen av drivkraften:** Uppmuntra väsentliga frågor för att förstå drivkraften i mera detalj.
 

@@ -15,11 +15,11 @@ En transparent löneformel måste anpassas till en organisations förhållanden 
 
 Uppfattningen av rättvisa varierar från person till person och är beroende på sammanhang, så för att skapa en löneformel krävs att man utvecklar en gemensam förståelse för vad som anses vara rättvist.
 
-När man beslutar (eller överenskommer) om en löneformel för en organisation eller institution, bör man beakta:
+När man beslutar (eller överenskommer) om en löneformel för en organisation eller institution, bör man beakta
 
 - vad som skulle vara en lämplig garanterad levnadsnivå
 - hur man beräknar ersättning enligt behov, investeringar, produktivitet eller meriter
-- hur man fördelar organisationens vinst och täcker förluster i linje med de olika intressenternas förväntningar och behov
+- hur man fördelar organisationens vinst och täcker förluster i linje med de olika intressenternas förväntningar och behov.
 
 Besluta hur ersättning för förändrade roller ska hanteras och [utveckla en strategi](clarify-and-develop-strategy.html) för hur man går över till nya kontrakt och ersättningsavtal.
 

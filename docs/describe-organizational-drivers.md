@@ -9,7 +9,7 @@ prev_page_url: "navigate-via-tension.html"
 
 <div class="card summary"><div class="card-body">Beskriv organisatoriska drivkrafter för att förstå, kommunicera och komma ihåg dem.
 </div></div>
-Att beskriva <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkrafter</a> kan göras av en grupp eller av en enstaka person. Beroende på deras perspektiv kan de bestämma sig för att beskriva en drivkraft som ett **problem** att lösa eller en **möjlighet** att utnyttja.
+Att beskriva <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkrafter</a> kan göras av en grupp eller av en enstaka person. Beroende på deras perspektiv kan de bestämma sig för att beskriva en drivkraft som ett **problem** att lösa eller en **möjlighet** att utnyttja.
 
 Ett enkelt sätt att beskriva en drivkraft är genom att förklara:
 

@@ -2,7 +2,7 @@
 title: "Navigera via spänning"
 next_page_title: "Beskriv organisatoriska drivkrafter"
 next_page_url: "describe-organizational-drivers.html"
-prev_page_title: "Agera på organisatoriska drivkrafter"
+prev_page_title: "Svara på organisatoriska drivkrafter"
 prev_page_url: "respond-to-organizational-drivers.html"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Meningsskapande och beslutsfattande"
-next_page_title: "Agera på organisatoriska drivkrafter"
+next_page_title: "Svara på organisatoriska drivkrafter"
 next_page_url: "respond-to-organizational-drivers.html"
 prev_page_title: "Mönstren"
 prev_page_url: "patterns.html"
@@ -9,8 +9,8 @@ prev_page_url: "patterns.html"
 
 <dl>
 
-  <dt><a href="respond-to-organizational-drivers.html">Agera på organisatoriska drivkrafter</a></dt>
-  <dd><p>Tydliggör organisatoriska drivkrafter (t.ex vad händer och vad behövs i relation till den organisatoriska drivkraften), och agera på lämpligt sätt.</p></dd>
+  <dt><a href="respond-to-organizational-drivers.html">Svara på organisatoriska drivkrafter</a></dt>
+  <dd><p>Tydliggör organisatoriska drivkrafter (t.ex vad händer och vad behövs i relation till den organisatoriska drivkraften) och agera på lämpligt sätt.</p></dd>
 
   <dt><a href="navigate-via-tension.html">Navigera via spänning</a></dt>
   <dd><p>Var uppmärksam på spänningar som upplevs i organisationen, undersök deras orsak och vidarebefordra alla organisatoriska drivkrafter som upptäcks till personer som är ansvariga för den relevanta domänen.</p></dd>
@@ -31,7 +31,7 @@ prev_page_url: "patterns.html"
   <dd><p>Förädla kontinuerligt existerande överenskommelser, och eliminera spill och slöseri.</p></dd>
 
   <dt><a href="co-create-proposals.html">Samskapa förslag</a></dt>
-  <dd><p>För samman människor så att de tillsammans kan skapa förslag som respons på organisatoriska drivkrafter: utnyttja kollektiv intelligens, bygg upp en känsla av ägandeskap och öka engagemang och ansvarighet.</p></dd>
+  <dd><p>För samman människor så att de tillsammans kan skapa förslag som svar på organisatoriska drivkrafter: utnyttja kollektiv intelligens, bygg upp en känsla av ägandeskap och öka engagemang och ansvarighet.</p></dd>
 
   <dt><a href="proposal-forming.html">Förslagsformulering</a></dt>
   <dd><p>En (faciliterad) gruppprocess för att samskapa ett svar på en drivkraft.</p></dd>

@@ -20,7 +20,7 @@ En cirkel:
     - En cirkels medlemmar agerar inom begränsningarna i deras <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domän</a>.
     - Varje cirkel kan skapa <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Värde: Vikt, värde, nytta eller användbarhet av något i förhållande till en drivkraft. Se också &quot;värderingar&quot;.">värde</a> självständigt.
 - **självstyrande:** 
-    - En cirkels medlemmar bestämmer tillsammans och kontinuerligt vad som behöver göras för att de skall kunna svara upp för sin domän och sätter gränser för hur och när saker ska göras.
+    - En cirkels medlemmar bestämmer tillsammans och kontinuerligt vad som behöver göras för att de skall kunna ansvara för sin domän och sätter gränser för hur och när saker ska göras.
 - **cirkelmedlemmarnas likvärdighet:** 
     - Alla medlemmar i en cirkel är lika ansvariga för den <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">strukturella styrningen</a> av cirkelns domän.
 

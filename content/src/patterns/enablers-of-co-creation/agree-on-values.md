@@ -11,7 +11,7 @@ Utveckla medvetet kulturen i din organisation.
 
 Värderingar kan ge vägledning till lämpliga åtgärder, även när tydliga [överenskommelser](glossary:agreement) saknas.
 
-Att gemensamt anta en uppsättning värderingar stöder en organisations ändamålsenlighet. Det:
+Att gemensamt anta en uppsättning värderingar stöder en organisations ändamålsenlighet. Det
 
 -   minskar risken för **missförstånd**
 -   hjälper till att **ensa** beslutsfattande och åtgärder

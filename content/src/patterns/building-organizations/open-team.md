@@ -1,7 +1,7 @@
 # Öppet team
 
 <summary>
-Avsiktligen skapa ansvar för en domän genom att bjuda in, snarare än genom att peka ut, och begära att de inbjudna bidrar när de kan.
+Avsiktligen skapa ansvar för en domän genom att bjuda in, snarare än genom att dela ut, och begära att de inbjudna bidrar när de kan.
 </summary>
 
 {{define:open-team}}

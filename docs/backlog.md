@@ -26,7 +26,7 @@ Planeringslistor kan användas för
 
 Varje punkt på i en (prioriterad) planeringslista innehåller ofta
 
-- en **kort beskrivning** av en <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Leverabel: En produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.">leverabel</a> eller en <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraft</a>
+- en **kort beskrivning** av en <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Leverabel: En produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft.">leverabel</a> eller en <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraft</a>
 - en **unik referens**
 - (**ordningsnummer** om det inte framgår på annat sätt)
 - **beroenden** till andra punkter i listan eller projekt

@@ -18,7 +18,7 @@ Drivkrafter:
 
 _**Värde** är vikten, värdet, nyttan eller användbarheten av något i förhållande till en drivkraft._
 
-_**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för en (mer) ändamålsenlig respons på en drivkraft._
+_**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för ett (mer) ändamålsenligt svar på en drivkraft._
 
 Genom att anamma begreppen värde och spill, kan många metoder och idéer från **lean production** och **lean software development** användas av organisationer som börjar använda mönster från S3:
 

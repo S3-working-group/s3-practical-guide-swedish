@@ -9,14 +9,11 @@ prev_page_url: "changelog.html"
 
 <dl>
 
-  <dt><a href="respond-to-organizational-drivers.html">Agera på organisatoriska drivkrafter</a></dt>
-  <dd><p>Tydliggör organisatoriska drivkrafter (t.ex vad händer och vad behövs i relation till den organisatoriska drivkraften), och agera på lämpligt sätt.</p></dd>
-
   <dt><a href="adapt-patterns-to-context.html">Anpassa mönster till sammanhang</a></dt>
   <dd><p>Anpassa och utveckla mönstren i S3 så att de passar de speciella förhållandena.</p></dd>
 
   <dt><a href="adopt-the-seven-principles.html">Anta De Sju Principerna</a></dt>
-  <dd><p>Ensa samarbetsformerna med De Sju Principerna.</p></dd>
+  <dd><p>Rätta in samarbetsformerna i enlighet med De Sju Principerna.</p></dd>
 
   <dt><a href="ask-for-help.html">Be om hjälp</a></dt>
   <dd><p>Ett enkelt protokoll för lärande, kunskapsdelning och byggande av kontakter, med respekt för människors medverkan.</p></dd>
@@ -34,7 +31,7 @@ prev_page_url: "changelog.html"
   <dd><p>Klargör argumenten för att förändra och bjud in människor att delta och bidra.</p></dd>
 
   <dt><a href="breaking-agreements.html">Bryta överenskommelser</a></dt>
-  <dd><p>Bryt överenskommelser när det är tydligt att nyttan för organisationen av det är större än kostnaden av att först vänta på en förändring av överenskommelsen och tag ansvar för konsekvenserna.</p></dd>
+  <dd><p>Bryt överenskommelser när det är tydligt att nyttan för organisationen av det är större än kostnaden för att först vänta på en förändring av överenskommelsen och tag ansvar för konsekvenserna.</p></dd>
 
   <dt><a href="circle.html">Cirkel</a></dt>
   <dd><p><em>En <strong>cirkel</strong> är ett självstyrande och halv-autonomt team av likvärdiga personer som samarbetar för att hantera en domän.</em></p></dd>
@@ -46,7 +43,7 @@ prev_page_url: "changelog.html"
   <dd><p>Att delegera beslut om strukturell styrning som påverkar flera domäner till en grupp av representanter som valts ut av dessa domäner.</p></dd>
 
   <dt><a href="delegate-influence.html">Delegera inflytande</a></dt>
-  <dd><p>Fördela makten att påverka, för att göra det möjligt för människor att bestämma och agera för sig själva inom definierade begränsningar.</p></dd>
+  <dd><p>Fördela makten att påverka, för att göra det möjligt för människor att bestämma och själva agera själva inom definierade begränsningar.</p></dd>
 
   <dt><a href="double-linked-hierarchy.html">Dubbellänkad hierarki</a></dt>
   <dd><p>Delegera allt mandat för att fatta beslut om strukturell styrning till självstyrande cirklar, dubbelkopplade över alla nivåer i hierarkin, för att gå från en traditionell hierarki till en struktur som är mer lämplig för att nyttja den kollektiva intelligensen, säkerställa likvärdighet och bygga engagemang.</p></dd>
@@ -82,7 +79,7 @@ prev_page_url: "changelog.html"
   <dd><p>Var tydlig och uttryck den förväntade effekten av överenskommelser, aktiviteter, projekt och strategier.</p></dd>
 
   <dt><a href="clarify-and-develop-strategy.html">Förtydliga och utveckla strategi</a></dt>
-  <dd><p><em>En <strong>strategi</strong> är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.</em></p></dd>
+  <dd><p><em>En <strong>strategi</strong> är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.</em></p></dd>
 
   <dt><a href="helping-team.html">Hjälpande team</a></dt>
   <dd><p>Samlar ett team av likvärda människor med mandat att agera på en specifik uppsättning behov som definierats av en delegator.</p></dd>
@@ -95,10 +92,10 @@ prev_page_url: "changelog.html"
 <p>öka kunskapen som används vid beslutet.</p></dd>
 
   <dt><a href="driver-mapping.html">Kartläggning av drivkrafter</a></dt>
-  <dd><p>Ett workshopformat för större grupper att samskapa och organisera sig som respons på en komplex situation av betydande omfattning och skala.</p></dd>
+  <dd><p>Ett workshopformat för större grupper att samskapa och organisera sig som svar på en komplex situation av betydande omfattning och skala.</p></dd>
 
   <dt><a href="peer-review.html">Kollegial utvärdering</a></dt>
-  <dd><p>Stötta varandra i att lära och växa i de roller och team du arbetar i.</p></dd>
+  <dd><p>Stötta varandra i att lära och växa i de roller och team ni arbetar i.</p></dd>
 
   <dt><a href="peer-feedback.html">Kollegial återkoppling</a></dt>
   <dd><p>Bjud in en medlem i din organisation att ge dig konstruktiv återkoppling på din prestation i en roll eller i ett team, om ditt allmänna deltagande och bidrag, eller om något annat område som du vill utveckla.</p></dd>
@@ -167,7 +164,7 @@ prev_page_url: "changelog.html"
   <dd><p>Träffas regelbundet (oftast veckovis) för rapportering och samordning av arbetet mellan domäner.</p></dd>
 
   <dt><a href="co-create-proposals.html">Samskapa förslag</a></dt>
-  <dd><p>För samman människor så att de tillsammans kan skapa förslag som respons på organisatoriska drivkrafter: utnyttja kollektiv intelligens, bygg upp en känsla av ägandeskap och öka engagemang och ansvarighet.</p></dd>
+  <dd><p>För samman människor så att de tillsammans kan skapa förslag som svar på organisatoriska drivkrafter: utnyttja kollektiv intelligens, bygg upp en känsla av ägandeskap och öka engagemang och ansvarighet.</p></dd>
 
   <dt><a href="consent-decision-making.html">Samtyckesbeslut</a></dt>
   <dd><p>En (faciliterad) grupprocess för beslutsfattande: välkomna invändningar, och överväg nyupptäckt information och kunskap för att ytterligare förädla förslag eller befintliga överenskommelser.</p></dd>
@@ -193,6 +190,9 @@ prev_page_url: "changelog.html"
   <dt><a href="support-role.html">Stödjande roll</a></dt>
   <dd><p>Tillämpa rollmönstret även på externa entreprenörer.</p></dd>
 
+  <dt><a href="respond-to-organizational-drivers.html">Svara på organisatoriska drivkrafter</a></dt>
+  <dd><p>Tydliggör organisatoriska drivkrafter (t.ex vad händer och vad behövs i relation till den organisatoriska drivkraften) och agera på lämpligt sätt.</p></dd>
+
   <dt><a href="visualize-work.html">Synliggör arbete</a></dt>
   <dd><p>Använd ett system som gör att alla intressenter kan studera tillståndet för de uppgifter som för närvarande väntar, pågår eller slutförts.</p></dd>
 
@@ -206,10 +206,10 @@ prev_page_url: "changelog.html"
   <dd><p>Skapa en rättvis löneformel och gör den synlig för alla.</p></dd>
 
   <dt><a href="clarify-and-develop-domains.html">Tydliggör och utveckla domäner</a></dt>
-  <dd><p>Att uttryckligen tydliggöra, och sedan utvärdera och utveckla en domäns design baserat på lärande för att underlätta för de som är ansvariga för domänen att hantera den så att den får största effekt. </p></dd>
+  <dd><p>Tydliggör uttryckligen en domäns design och utvärdera och utveckla den sedan  baserat på lärdomar för att underlätta för de som är ansvariga för domänen att hantera den så effektivt som möjligt. </p></dd>
 
   <dt><a href="development-plan.html">Utvecklingsplan</a></dt>
-  <dd><p>En plan för hur man kan utveckla mer verkansfulla sätt att ansvara för ett område som man kommit överens om mellan delegator och delegat.</p></dd>
+  <dd><p>En plan för hur man kan utveckla mer ändamålsenliga sätt att ansvara för ett område som man kommit överens om mellan delegator och delegat.</p></dd>
 
   <dt><a href="evaluate-meetings.html">Utvärdera möten</a></dt>
   <dd><p>Se till att det finns tid att lära i slutet av varje möte eller workshop.</p></dd>
@@ -230,8 +230,8 @@ prev_page_url: "changelog.html"
   <dd><p>Bjud in alla att skapa och genomföra experiment för att förädla organisationen.</p></dd>
 
   <dt><a href="open-team.html">Öppet team</a></dt>
-  <dd><p>Avsiktligen skapa ansvar för en domän genom att bjuda in, snarare än genom att peka ut, och begära att de inbjudna bidrar när de kan.</p></dd>
+  <dd><p>Avsiktligen skapa ansvar för en domän genom att bjuda in, snarare än genom att dela ut, och begära att de inbjudna bidrar när de kan.</p></dd>
 
   <dt><a href="open-systems.html">Öppna system</a></dt>
-  <dd><p>Kommunicera medvetet med och lär av andra utanför ditt system.</p></dd>
+  <dd><p>Kommunicera medvetet med och lär av andra utanför ditt eget system.</p></dd>
 </dl>

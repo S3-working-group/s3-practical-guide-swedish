@@ -472,7 +472,7 @@ Närhelst du ser en viktig fråga, se till att den tas om hand, antingen genom a
 
 De flesta organisationer har en hierarki av delegering och därför en hierarki av ansvarighet. Detta innebär att ansvarighet för utfall fördelas i hela organisationen, medan övergripande ansvarighet för integriteten i organisationen vilar på dem som tar juridiskt ansvar för organisationen som helhet. I många organisationer av idag pekar detta i allmänhet upp längs en ledarskapshierarki till den position där ansvaret ytterst axlas. Men i andra sammanhang, som till exempel i en gemenskap, ligger det övergripande ansvaret lika mycket hos alla som är involverade.
 
-Oavsett det speciella organisatoriska sammanhanget, är en explicit hierarki av ansvarighet användbar eftersom det avslöjar förhållandet mellan [delegator] och [delegat(er).
+Oavsett det speciella organisatoriska sammanhanget, är en explicit hierarki av ansvarighet användbar eftersom det avslöjar förhållandet mellan delegator och delegat(er).
 
 #### Från ”hålla ansvarig” till självansvarighet
 
@@ -505,7 +505,7 @@ För att uppmuntra en kultur med en hög grad av självansvarighet, måste alla 
 -   Hitta andra som kan hjälpa dig om du upptäcker att du inte kan ta hand om det du ansvarar för.
 -   Bryt överenskommelser när det är tydligt att nyttan för organisationen av det är större än kostnaden av att först vänta på en förändring av överenskommelsen. Och ta ansvar för eventuella konsekvenser, inklusive att följa upp så snart som möjligt med de som påverkas.
 -   Tala ut om du inte håller med om något eller tror att det kan förbättras på ett värdefullt sätt, genom att ge luft åt eventuella invändningar så snart du blir medveten om dem.
--   Var proaktiv i att agera på situationer som kan hjälpa eller skada organisationen, antingen genom att hantera dem själv direkt, eller genom att hitta de människor som kan, och uppmärksamma dem på situationen.
+-   Var proaktiv genom att reagera på situationer som kan hjälpa eller skada organisationen, antingen genom att hantera dem själv direkt, eller genom att hitta de människor som kan, och uppmärksamma dem på situationen.
 -   Sträva mot att göra ditt bästa, både genom det arbete du gör och genom hur du samverkar eller direkt samarbetar med andra.
 -   Ta ansvar för ditt pågående lärande och din utveckling, och stötta andra att göra detsamma.
 
@@ -540,7 +540,7 @@ Drivkrafter:
 
 _**Värde** är vikten, värdet, nyttan eller användbarheten av något i förhållande till en drivkraft._
 
-_**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för en (mer) ändamålsenlig respons på en drivkraft._
+_**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för ett (mer) ändamålsenligt svar på en drivkraft._
 
 Genom att anamma begreppen värde och spill, kan många metoder och idéer från **lean production** och **lean software development** användas av organisationer som börjar använda mönster från S3:
 
@@ -589,7 +589,7 @@ Delegaten(erna) kan göra det som de tror kommer att hjälpa dem att uppnå sitt
 Det är också möjligt att förstå en domän i förhållande till organisatoriska drivkrafter:
 
 - domänens **primära drivkraft** - den huvudsakliga drivkraften delegaten/delegaterna svarar på
-- den uppsättning av sekundära, underliggande, drivkrafter organisationen kan dra nytta av att ta itu med samtidigt som man agerar på den primära drivkraften, vilket inkluderar: 
+- den uppsättning av sekundära, underliggande, drivkrafter organisationen kan dra nytta av att ta itu med samtidigt som man svarar på den primära drivkraften, vilket inkluderar: 
     - **nyckelansvar** (alla drivkrafter som följer direkt från domänens primära drivkraft)
     - **beroenden** och **externa begränsningar** (drivkrafter relaterade till andra domäner eller till miljön utanför organisationen) som begränsar delegaternas autonomi
 
@@ -626,11 +626,11 @@ Utnyttja en mångfald av perspektiv och var öppen för att utmana ditt eget, f�
 
 #### Oro
 
-**Inte alla argument som framförs är invändningar, men de kan avslöja farhågor:.**
+**Inte alla argument som framförs är invändningar, men de kan avslöja farhågor.**
 
 _En **oro** är ett antagande som inte kan backas upp av resonemang eller tillräckligt med bevis för att bevisa dess relevans eller giltighet._
 
-Oro kan peka på sätt att vidareutveckla överenskommelser, som att göra ändringar i en överenskommelse som lindrar oron, lägga till vissa utvärderingskriterier, eller justera utvärderingsfrekvensen. Ta upp oron om du tycker att det kan vara värdefullt att resonera om dem.
+Oro kan visa på sätt att vidareutveckla överenskommelser, som t.ex. att göra ändringar i en överenskommelse som minskar oron, lägga till vissa utvärderingskriterier, eller justera utvärderingsfrekvensen. Ta upp oron om du tycker att det kan vara värdefullt att resonera om den.
 
 Att avgöra om ett argument är en invändning eller oro är ibland beroende av sammanhanget.
 
@@ -643,7 +643,7 @@ _En **överenskommelse** är en överenskommen inriktning, process, förhållnin
 
 Samsyn om riktlinjer om varför, hur och när man ska agera, och vad som särskilt krävs, möjliggör ett effektivt samarbete.
 
-Överenskommelser skapas som ett sätt att agera på <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">organisatoriska drivkrafter</a>, ska **utvärderas regelbundet**, och förädlas vid behov.
+Överenskommelser skapas som ett sätt att svara på <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">organisatoriska drivkrafter</a>, ska **utvärderas regelbundet**, och förädlas vid behov.
 
 **Övergripande ansvarighet** för överenskommelser ligger hos de människor som ingår dom.
 
@@ -735,27 +735,27 @@ I den här handledningen har mönstren grupperats efter ämne i elva kategorier 
 
 
 
-#### Agera på organisatoriska drivkrafter
+#### Svara på organisatoriska drivkrafter
 
-<div class="card summary"><div class="card-body">Tydliggör organisatoriska drivkrafter (t.ex vad händer och vad behövs i relation till den organisatoriska drivkraften), och agera på lämpligt sätt.
+<div class="card summary"><div class="card-body">Tydliggör organisatoriska drivkrafter (t.ex vad händer och vad behövs i relation till den organisatoriska drivkraften) och agera på lämpligt sätt.
 </div></div>
-Att agera på <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">organisatoriska drivkrafter</a> innebär bland annat:
+Att svara på <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">organisatoriska drivkrafter</a> kan innebära:
 
 - direkta <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operativ verksamhet: Att organisera, planera och utföra de dagliga aktiviteterna inom de begränsningar som definierats genom strukturell styrning.">åtgärder</a>
 - organisera hur arbete kommer att utföras
 - fatta beslut om strukturell styrning
 
-Hur man beslutar att agera på en organisatorisk drivkraft bör alltid betraktas som ett experiment som ska utvärderas och förädlas över tid.
+Hur man beslutar att svara på en organisatorisk drivkraft bör alltid betraktas som ett experiment som ska utvärderas och förädlas över tid.
 
 ![Möjliga svar på organisatoriska drivkrafter](img/driver-domain/driver-response-full.png)
 
 ##### Kvalificera drivkrafter som organisatoriska drivkrafter
 
-En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.
+En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.
 
 Ett enkelt sätt att avgöra om en drivkraft faller inom en organisations <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domän</a> är genom att kontrollera:
 
-_Skulle det hjälpa organisationen om vi agerar på den här drivkraften? Eller skulle det leda till oönskade konsekvenser om vi inte gör det?_
+_Skulle det hjälpa organisationen om vi svarar på den här drivkraften? Eller leder det till oönskade konsekvenser om vi inte gör det?_
 
 
 #### Navigera via spänning
@@ -777,7 +777,7 @@ När en drivkraft vidarebefordras till en annan domän är det ofta tillräcklig
 
 <div class="card summary"><div class="card-body">Beskriv organisatoriska drivkrafter för att förstå, kommunicera och komma ihåg dem.
 </div></div>
-Att beskriva <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkrafter</a> kan göras av en grupp eller av en enstaka person. Beroende på deras perspektiv kan de bestämma sig för att beskriva en drivkraft som ett **problem** att lösa eller en **möjlighet** att utnyttja.
+Att beskriva <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkrafter</a> kan göras av en grupp eller av en enstaka person. Beroende på deras perspektiv kan de bestämma sig för att beskriva en drivkraft som ett **problem** att lösa eller en **möjlighet** att utnyttja.
 
 Ett enkelt sätt att beskriva en drivkraft är genom att förklara:
 
@@ -1305,11 +1305,11 @@ Uppföljning:
 
 #### Samskapa förslag
 
-<div class="card summary"><div class="card-body">För samman människor så att de tillsammans kan skapa förslag som respons på organisatoriska drivkrafter: utnyttja kollektiv intelligens, bygg upp en känsla av ägandeskap och öka engagemang och ansvarighet.
+<div class="card summary"><div class="card-body">För samman människor så att de tillsammans kan skapa förslag som svar på organisatoriska drivkrafter: utnyttja kollektiv intelligens, bygg upp en känsla av ägandeskap och öka engagemang och ansvarighet.
 </div></div>
 Det finns många sätt att skapa förslag tillsammans. De följer vanligtvis ett liknande mönster:
 
-1. Enas om <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraften</a> (eller problemet / tillfället / behovet)
+1. Enas om <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraften</a> (eller problemet / tillfället / behovet)
 2. Utforska ämnet och förstå begränsningar
 3. Generera idéer
 4. Formulera ett förslag (ofta gjort av en mindre grupp)
@@ -1335,7 +1335,7 @@ _Förslagsformulering_ kan också användas av en enstaka person.
 
 ##### Stegen i förslagsformulering
 
-**Samtycke till drivkraften:** Presentera kort <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraften</a>. _Är denna drivkraft relevant för oss att agera på? Finns det några väsentliga tillägg till drivkraften som har lagts fram?_
+**Samtycke till drivkraften:** Presentera kort <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraften</a>. _Är denna drivkraft relevant för oss att agera på? Finns det några väsentliga tillägg till drivkraften som har lagts fram?_
 
 **Fördjupa förståelsen av drivkraften:** Uppmuntra väsentliga frågor för att förstå drivkraften i mera detalj.
 
@@ -1451,35 +1451,35 @@ Detta mönster kan också användas i alla situationer där det finns ett behov 
 
 #### Tydliggör och utveckla domäner
 
-<div class="card summary"><div class="card-body">Att uttryckligen tydliggöra, och sedan utvärdera och utveckla en domäns design baserat på lärande för att underlätta för de som är ansvariga för domänen att hantera den så att den får största effekt. 
+<div class="card summary"><div class="card-body">Tydliggör uttryckligen en domäns design och utvärdera och utveckla den sedan  baserat på lärdomar för att underlätta för de som är ansvariga för domänen att hantera den så effektivt som möjligt. 
 </div></div>
-En klar förståelse för personers ansvarsområden och autonomi underlättar ökad effektivitet, verkansfullt samarbete och lättrörlighet i hela organisationen.
+En klar förståelse för personers ansvarsområden och autonomi underlättar ökad effektivitet, ändamålsenligt samarbete och lättrörlighet i hela organisationen.
 
-För att bättre utnyttja den begränsade mängd tid, energi och resurser som finns, fördela arbetetet mellan personer i organisationen genom att skapa roller eller forma team, enheter eller avdelningar. I det arbetet kommer också <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> - distinkta ansvarsområden och självbestämmande - att definieras, uttryckligen eller underförstått.
+För att bättre utnyttja den begränsade mängd tid, energi och resurser som finns, fördela arbetetet mellan personer i organisationen genom att skapa roller eller forma team, enheter eller avdelningar. I det arbetet kommer också <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> - distinkta ansvarsområden med självbestämmande - att definieras, uttryckligen eller underförstått.
 
-Uppgiften för varje roll eller team är att bidra till det övergripande syftet med organisationen genom att ta hand om ett specifikt organisatoriskt behov. Otillräckligt definierade domäner leder typiskt till att intressenter har olika antaganden om ansvarsområden och autonomi. Som en följd av detta uppstår brister i både samarbete och arbetsfördelning på grund av att man missar beroenden, gör dubbelt arbete eller att inget arbete utförs alls.
+Uppgiften för varje roll eller team är att bidra till det övergripande syftet med organisationen genom att ta hand om ett specifikt organisatoriskt behov. Otillräckligt definierade domäner leder typiskt till att intressenter har olika antaganden om området för ansvar och självbestämmande. Som en följd av detta uppstår brister i både samarbete och arbetsfördelning på grund av att man missar beroenden, gör dubbelt arbete eller att inget arbete utförs alls.
 
 Förtydligande av domäner gör kontraktet mellan <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">delegator</a> och <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegat: En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.">delegater</a> explicit, vilket gör det möjligt för alla att inse vad som fungerar och vad som inte fungerar, eftersom alla förstår vem som är ansvarig för vad. En tydlig domänbeskrivning med en rimlig detaljrikedom är en nödvändig förutsättning för att människor framgångsrikt ska kunna utvärdera och kontinuerligt förbättra sitt arbete.
 
-Ett enkelt sätt att stödja intressenter i att utveckla en gemensam förståelse för olika aspekter av en domän är genom att skapa en **domänbeskrivning** som innehåller information om:
+Ett enkelt sätt att stödja intressenter i att utveckla en gemensam förståelse för olika aspekter av en domän är genom att skapa en **domänbeskrivning** som innehåller information om
 
--   Primär drivkraft (och/eller syfte)
--   Huvudansvar
--   Beroenden
--   Externa begränsningar
--   Viktiga utmaningar
--   Viktiga leverabler
--   Kompetenser, egenskaper och färdigheter
--   Nyckelresurser
--   Delegatorns ansvar
--   Primära mätvärden
--   Utvärdering
+-   primär drivkraft (och/eller syfte)
+-   huvudansvar
+-   beroenden
+-   externa begränsningar
+-   viktiga utmaningar
+-   viktiga leverabler
+-   kompetenser, egenskaper och färdigheter
+-   nyckelresurser
+-   delegatorns ansvar
+-   primära mätvärden
+-   utvärderingsprinciper
 
-På  [mikro-sajten för S3-kartan](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html) kan du hitta en mängd olika mallar som du kan använda för att (sam)skapa och dokumentera domänbeskrivningar.
+På  [mikro-sajten för S3s diskussionsdukar](http://s3canvas.sociocracy30.org/s3-delegation-canvas.html) kan du hitta en mängd olika mallar som du kan använda för att (sam)skapa och dokumentera domänbeskrivningar.
 
-Överväg att skapa domäner med minsta möjliga, men tillräckliga, begränsningar och välj alltid begränsningar som gör möjligheterna för människor att skapa värde maximala.
+Överväg att skapa domäner med minsta möjliga, men tillräckliga, begränsningar och välj alltid begränsningar som maximerar människors möjligheterna att skapa värde.
 
-Delegaten(erna) kan göra vad helst de tror kan hjälpa dem att uppnå sitt syfte, om det inte är utanför domänen för organisationen, explicit förbjudet, de bryter mot någon annans (explicita) domän, eller hindrar andra människors bidrag till organisationen på något annat sätt. Saker som är förbjudna inkluderar uttryckliga begränsningar som anges i domänbeskrivningen, andra överenskommelser delegaten(-erna) måste hålla, såväl som rättsliga och regulatoriska krav.
+Delegaten(erna) kan göra vad helst de tror kan hjälpa dem att uppnå deras syfte, såvida det inte är utanför organisationens domän, explicit förbjudet, de bryter mot någon annans (explicita) domän, eller hindrar andra människors bidrag till organisationen på något annat sätt. Saker som är förbjudna inkluderar uttryckliga begränsningar som anges i domänbeskrivningen, andra överenskommelser delegaten(-erna) måste hålla, såväl som rättsliga och regulatoriska krav.
 
 
 ##### När behöver man förtydliga domäner?
@@ -1488,27 +1488,27 @@ Delegaten(erna) kan göra vad helst de tror kan hjälpa dem att uppnå sitt syft
 
 Som delegator, se till att förtydliga varje nytt område som du har för avsikt att delegera.
 
-När man retroaktivt tydliggör domäner som redan har delegerats till människor, kan en delegator få värdefulla insikter genom att bjuda in delegaten(-erna) och låta dom beskriva domänen ur deras perspektiv först.
+När man retroaktivt tydliggör domäner som redan har delegerats till människor, kan man som delegator få värdefulla insikter genom att bjuda in delegaten(-erna) och låta dom beskriva domänen ur deras perspektiv först.
 
 
 ##### Utvärdera och utveckla domäner regelbundet
 
-Människors förståelse för organisationen är begränsad och omgivningen förändras alltid. Därför är det viktigt att delegatorn, delegaten och andra relevanta intressenter regelbundet tar sig tid att utvärdera och utveckla både utformningen av domänen och hur människor ansvarar för den allt eftersom deras förståelse av domänen fördjupas.
+Människors förståelse för organisationen är begränsad och omgivningen förändras ständigt. Därför är det viktigt att delegatorn, delegaten och andra relevanta intressenter regelbundet tar sig tid att utvärdera och utveckla både utformningen av domänen och hur människor ansvarar för den allt eftersom deras förståelse av domänen fördjupas.
 
-Ofta kan människor ansvara väl för en domän på det sätt som domänen är utformad, men utformningen av domänen kan vara förenklad eller bristfällig. Å andra sidan, även om utformningen av en domän är dålig i den första iterationen, genom denna process kommer den att förbättras med tiden.
+Ofta kan människor ansvara väl för en domän på det sätt som domänen är utformad, men utformningen av domänen kan vara förenklad eller bristfällig. Å andra sidan, även om första försöket till utformning av en domän är undermålig kommer den att förbättras med tiden genom denna process.
 
 
 ##### Förtydliga hela organisationens domän
 
-Alla domäner i en organisation är inbäddade inom organisationens övergripande domän, som kan utformas avsiktligt i ett tidigt skede, eller förtydligas retroaktivt. En organisations domän måste göra det möjligt för medlemmarna i organisationen att på ett ändamålsenligt sätt uppfylla sitt syfte och måste oftas utvecklas över tid.
+Alla domäner i en organisation är nästlade innanför organisationens övergripande domän, som avsiktligt utformades redan i ett tidigt skede, eller förtydligas retroaktivt. En organisations domän måste göra det möjligt för medlemmarna i organisationen att på ett ändamålsenligt sätt uppfylla sitt syfte och måste oftas utvecklas över tid.
 
-Överväg att explicit tydliggöra organisationens övergripande domän om du upptäcker att viktiga intressenter har olika förståelse för det, eller när ändringar i domänen måste göras. För att göra detta är det nödvändigt att identifiera vem som är den övergripande delegatorn för organisationen.
+Överväg att explicit tydliggöra organisationens övergripande domän om du upptäcker att viktiga intressenter har olika förståelse för den, eller när ändringar i domänen måste göras. För att göra detta är det nödvändigt att identifiera vem som är den övergripande delegatorn för organisationen.
 
 En organisations domän bör utformas med kunden och affärsmodellen i åtanke, och måste ta hänsyn till begränsningar i omgivningen (t.ex rättsligt, ekonomiskt, marknad, konkurrens osv.)
 
 Utvärdera organisationens domän regelbundet för att stötta de ansvariga för organisationen att snabbt lära och anpassa.
 
-Ett sätt att förtydliga en organisations domän är genom att arbeta med en [S3 Organisation Canvas](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
+Ett sätt att förtydliga en organisations domän är genom att arbeta med en [duk för diskussion om organsationer](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
 
 
 ##### Aspekter som är värdefulla att tydliggöra i en domänbeskrivning
@@ -1520,7 +1520,7 @@ Alla de följande faktorerna är viktiga att tänka på när man klargör en dom
 
 ###### Primär drivkraft
 
-Förklara hur delegaten(-erna) kommer att bidra till det övergripande syftet med organisationen genom att tydliggöra de specifika organisatoriska behov som de (kommer) ta hand om.
+Förklara hur delegaten(-erna) kommer att bidra till det övergripande syftet med organisationen genom att tydliggöra de specifika organisatoriska behov som de tar, eller kommer att ta, hand om.
 
 Beskriv vilken organisatorisk drivkraft delegaten(-erna) (kommer att) agera på, till exempel med hjälp av mönstret _Beskriv organisatoriska drivkrafter_.
 
@@ -1544,11 +1544,11 @@ Ansvar bör vara specifika och mätbara, så att de kan utvärderas och utveckla
 
 Gör de väsentliga beroendena mellan denna domän och andra delar av organisationen explicita, så att delegaten(-erna) kan samarbeta med andra intressenter för att hantera dessa beroenden.
 
-Ta hänsyn till:
+Ta hänsyn till
 
--   Interna och externa kunder (de som nyttjar teamets resultat)
--   Leverantörer av produkter eller tjänster som är väsentliga för delegatens/delegaternas arbete.
--   Delade resurser
+-   interna och externa kunder (de som nyttjar teamets resultat)
+-   leverantörer av produkter eller tjänster som är väsentliga för delegatens/delegaternas arbete
+-   delade resurser.
 
 
 ###### Externa begränsningar
@@ -1559,30 +1559,30 @@ Externa begränsningar kan vara fasta eller förhandlingsbara. De kan hänvisa t
 
 Några exempel:
 
--   Särskilda beslut som kräver tillstånd
--   Rättsliga, tids- eller budgetbegränsningar
--   Revision och/eller förväntad rapportering
--   Delegatorns och hela organisationens strategi
--   Organisatoriska värderingar
+-   Särskilda beslut som kräver tillstånd.
+-   Rättsliga, tids- eller budgetbegränsningar.
+-   Revision och/eller förväntad rapportering.
+-   Delegatorns och hela organisationens strategi.
+-   Organisatoriska värderingar.
 
 
 ###### Viktiga utmaningar
 
 Vilka är de kända eller förväntade utmaningar som delegaten(-erna) kan möta när de ansvarar för denna domän: relaterande till omvärlden, resten av organisationen och ibland till en specifik delegat?
 
--   risker och sårbarheter
--   variabler (t.ex. väder)
--   osäkerhet och komplexitet
--   brist på kompetens eller resurser.
+-   Risker och sårbarheter?
+-   Variabler (t.ex. väder)?
+-   Osäkerhet och komplexitet?
+-   Brist på kompetens eller resurser?
 
-**Obs:** Det finns alltid några risker som måste hanteras. Försök att lista minst 3!
+**Notera:** Det finns alltid några risker som måste hanteras. Försök att lista minst 3!
 
 
 ###### Viktiga leverabler
 
-Vad åstadkommer teamet eller rollen för att svara på sin främsta drivkraft, de viktigaste ansvarsområdena och de viktigaste utmaningarna som de står inför?
+Vad är det som teamet eller rollen tillhandahåller för att kunna svara på sin främsta drivkraft, sina viktigaste ansvarsområdena och de viktigaste utmaningarna som de står inför?
 
-Som delegator, överväga noga i vilken grad du kommer att lämna utformningen av leverablerna till delegaten(-erna), som kan definiera leverabler och lägga till dem i domänbeskrivningen senare. Att låta delegaten(-erna) leda utformningen av leverabler frigör ofta dem för att skapa värde enligt deras styrkor och intresse.
+Som delegator, överväga noga i vilken grad du kommer att lämna utformningen av leverablerna till delegaten(-erna), som i så fall kan definiera leverabler och lägga till dem i domänbeskrivningen senare. Att låta delegaten(-erna) leda utformningen av leverabler frigör ofta dem för att skapa värde enligt deras styrkor och intresse.
 
 Beskriv varje leverabel rimligt detaljerat och säkra att leverablerna är värdefulla för de intressenter som tar emot dem. Du kan börja med bara en mening eller två om varje leverabel men så småningom kan du behöva _beskriva dem mer i detalj_.
 
@@ -1603,11 +1603,11 @@ När en domän delegeras till andra, behåller delegatorn fortfarande den överg
 
 Lista exakt vilka skyldigheter delegatorn tar på sig till stöd för delegaten(-erna) som ansvara för denna domän.
 
-Ta hänsyn till:
+Ta hänsyn till
 
--   Möjligheter till lärande och utveckling och stöd som erbjuds till delegaten(-erna).
--   Saker som är viktiga för att framgångsrikt kunna ansvara för den domän som endast delegatorn kan göra.
--   Saker som gör delegaternas liv lättare och är värda att ta med.
+-   möjligheter till lärande och utveckling och stöd som erbjuds till delegaten(-erna)
+-   saker som är viktiga för att framgångsrikt kunna ansvara för den domän som endast delegatorn kan göra
+-   saker som gör delegaternas liv lättare och är värda att ta med.
 
 Beskriv delegatorns ansvar i specifika och mätbara termer, så att de kan granskas och utvecklas efter behov.
 
@@ -1627,47 +1627,47 @@ Sikta på att definiera enkla och specifika mätvärden som kan inhämtas regelb
 
 Utvärdera regelbundet utfallet av aktiviteten inom denna domän och använd insikterna för att förbättra värdeskapandet.
 
-I utvärderingen, se till att du överväger följande aspekter:
+I utvärderingen, se till att du överväger
 
--   Värdet som delegaten(-erna) tillfördeorganisationen genom att ansvara för domänen.
--   Delegaternas arbetsprocesser och deras samarbete med varandra, med delegatorn och med resten av organisationen.
--   Hur väl delegatorn(-erna) tar hand om sitt ansvar.
--   Designen av själva domänen (och potentiellt utformningen av andra relaterade domäner).
--   Delegatens(-ernas) kompetens och färdigheter i förhållande till domänen.
--   Den <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.">strategi</a> delegaten(s) följer att ansvara för denna domän.
+-   värdet som delegaten(-erna) tillfört organisationen genom att ansvara för domänen
+-   delegaternas arbetsprocesser och deras samarbete med varandra, med delegatorn och med resten av organisationen
+-   hur väl delegatorn(-erna) tar hand om sitt ansvar
+-   designen av själva domänen (och potentiellt utformningen av andra relaterade domäner)
+-   delegatens(-ernas) kompetens och färdigheter i förhållande till domänen
+-   den <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.">strategi</a> delegaten(s) följer att ansvara för denna domän.
 
-Definiera:
+Definiera
 
--   Schema eller frekvens för utvärderingar.
--   Andra användbara utvärderingskriterier utöver de primära mätetalen.
--   Eventuella andra relevanta aspekter att beakta vid utvärderingen.
--   Vem ska delta i utvärderingen.
--   En process för utvärdering (t.ex. _kollegiala utvärderingar_).
--   Överväg att ange en termin (för en roll).
+-   schema eller frekvens för utvärderingar
+-   andra användbara utvärderingskriterier utöver de primära mätetalen
+-   eventuella andra relevanta aspekter att beakta vid utvärderingen
+-   vem som ska delta i utvärderingen
+-   processen för utvärdering (t.ex. _kollegiala utvärderingar_)
+-   om det finns en löptid (för en roll).
 
-Se till att registrera och övervaka när en domän skall granskas och lägg till dessa datum i din _loggbok_.
+Registrera och övervaka när en domän skall granskas och lägg till dessa datum i din _loggbok_.
 
 ###### Ytterligare information
 
-Överväg att också inkludera följande information till domänbeskrivningen
+Överväg att också inkludera följande information till domänbeskrivningen:
 
 -   Domännamn
 -   Delegator (namn på cirkeln eller rollen; t.ex. utvecklingsavdelningen, projektledare, VD, etc.)
 -   Delegat(-er) (om de har utsetts)
 -   Datum för senaste uppdateringen till domänbeskrivningen
 -   Författarens namn
--   Termin (för en roll)
+-   Tidsbegränsning (för en roll)
 
 
 #### Delegera inflytande
 
-<div class="card summary"><div class="card-body">Fördela makten att påverka, för att göra det möjligt för människor att bestämma och agera för sig själva inom definierade begränsningar.
+<div class="card summary"><div class="card-body">Fördela makten att påverka, för att göra det möjligt för människor att bestämma och själva agera själva inom definierade begränsningar.
 </div></div>
-En <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">delegator</a> kan stödja <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegat: En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.">delegater</a> för att leverera värde genom att:
+En <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">delegator</a> kan stödja <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegat: En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.">delegater</a> för att leverera värde genom att
 
--   Tydligt definiera <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> för autonomi och ansvar
--   Säkra att det finns möjligheter till lärande och utveckling
--   Ge det stöd som behövs
+-   tydligt definiera <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> för autonomi och ansvar
+-   säkra att det finns möjligheter till lärande och utveckling
+-   ge det stöd som behövs.
 
 Justera begränsningar stegvis, med tanke på möjlighet, tillförlitlighet och utfall.
 
@@ -1676,7 +1676,7 @@ Decentralisera så mycket som möjligt, och behåll bara så mycket inflytande s
 
 #### Förtydliga och utveckla strategi
 
-<div class="card summary"><div class="card-body">_En **strategi** är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän._
+<div class="card summary"><div class="card-body">_En **strategi** är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän._
 </div></div>
 Det är oftast mer effektivt om ett team eller rollinnehavare leder utvecklingen av sin egen strategi.
 
@@ -1699,12 +1699,12 @@ Strategier valideras och förädlas genom experiment och lärande.
 
 Sträva efter, och upprätthåll, ensade flöden genom att ständigt utveckla och förädla organisationens samlade <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a>:
 
--   säkra att alla beslut som påverkar värdeflödet faktiskt stöder värdeflödet
--   möjliggör att personer med relevant kompetens och kunskap kan påverka beslut
--   gör all användbar information tillgänglig
--   sikta på snabbare återkoppling för att förstärka lärandet
+-   Säkra att alla beslut som påverkar värdeflödet faktiskt stöder värdeflödet.
+-   Möjliggör att personer med relevant kompetens och kunskap kan påverka beslut.
+-   Gör all användbar information tillgänglig.
+-   Sikta på snabbare återkoppling för att förstärka lärandet.
 
-När beslut tas nära där värde skapas, och informationsflödet stödjer det kontinuerliga och stadiga flödet av värde, minskar risken för spill.
+När beslut tas nära där värde skapas, och informationsflödet stödjer det kontinuerliga och stadiga flödet av värde, minskar risken för spill och slöseri.
 
 ![Ensa informationsflödet för att stödja värdeflödet](img/workflow-and-value/align-flow.png)
 
@@ -1723,37 +1723,37 @@ När beslut tas nära där värde skapas, och informationsflödet stödjer det k
 
 #### Kartläggning av drivkrafter
 
-<div class="card summary"><div class="card-body">Ett workshopformat för större grupper att samskapa och organisera sig som respons på en komplex situation av betydande omfattning och skala.
+<div class="card summary"><div class="card-body">Ett workshopformat för större grupper att samskapa och organisera sig som svar på en komplex situation av betydande omfattning och skala.
 </div></div>
 Under workshopen tar intressenterna fullt ansvar för processen från början till slut, då de snabbt går från idé till fullt fungerande samarbete.
 
 Identifiera relevanta intressenter, kartlägg relaterade krav och använd dem för att identifiera arbete som behöver göras och beslut som behöver fattas, distribuera arbetet och definiera en initial struktur för samarbete.
 
-Ni kan använda Kartläggning av drivkrafter till att:
+Ni kan använda kartläggning av drivkrafter till att
 
--   organisera start-ups,
--   kickstarta projekt,
--   tackla stora hinder eller möjligheter,
--   genomföra strategi,
+-   organisera start-ups
+-   kick-starta projekt
+-   tackla stora hinder eller möjligheter
+-   genomföra strategi
 -   utveckla organisationsstrukturen för att bättre stötta värdeflödet.
 
-Resultatet av en workshop för kartläggning av drivkrafter är vanligen:
+Resultatet av en workshop för kartläggning av drivkrafter kan vara
 
--   en fördelning av arbete, kategoriserad i ett antal domäner, centrerade kring intressenternas behov.
--   en skräddarsydd organisationsstruktur som sammanför alla delar, inklusive sammanlänkning av domäner för att hantera beroenden.
--   ett första utkast till prioriterade planeringslistor för strukturell styrning och operationell verksamhet för varje identifierad underdomän.
--   delegering av inflytande och fördelning av människor till underdomäner genom självutnämnande och nominering.
+-   en fördelning av arbete, kategoriserad i ett antal domäner, centrerade kring intressenternas behov
+-   en skräddarsydd organisationsstruktur som sammanför alla delar, inklusive sammanlänkning av domäner för att hantera beroenden
+-   ett första utkast till prioriterade planeringslistor för strukturell styrning och operationell verksamhet för varje identifierad underdomän
+-   en delegering av inflytande och fördelning av människor till underdomäner genom självutnämnande och nominering.
 
 Även om kartläggning av drivkrafter ofta används för att identifiera och definiera nya domäner, har det också sin användning vid identifiering och fördelning av drivkrafter för strukturell styrning och operativ verksamhet i redan existerande domäner i en organisation, t.ex. när ett initiativ ska behandlas av befintliga team i en organisation, eller om ett team tycker att de sitter fast i sin nuvarande struktur och letar efter inspiration för hur man stegvis anpassar den. Arbetsgruppen kan bestämma om det är lämpligt att mappa drivkrafterna till befintliga domäner, räkna ut vilka nya som skulle behöva skapas, eller till och med skapa en ny struktur från grunden.
 
-Små team eller cirklar (max. 6-8 personer), kan, när det inte är prioriterat att fördela arbete, använda bara steg 1-5, för att förstå omfattningen och fylla på planeringslistorna för den strukturella styrningen och operationella verksamheten, för att sedan använda förslagsformulering eller någon annan strategi för att identifiera strategi och/eller nästa steg.
+Små team eller cirklar (max. 6-8 personer), kan, när inte arbetsfördelning är prioriterat, använda endast steg 1 till 5, för att förstå omfattningen och fylla på planeringslistorna för den strukturella styrningen och operationella verksamheten, för att sedan använda förslagsformulering eller någon annan strategi för att identifiera strategi och/eller nästa steg.
 
-Som förberedelse:
+Här är några punkter som bör göras som förberedelse:
 
--   Bjud in personer som kan bidra på ett relevant sätt till detta projekt. Skicka ut dagordningen för workshopen i förväg.
--   Skicka med beskrivningen av den primära drivkraften, och om det berör en redan existerande domän, domänbeskrivningen för projektet/initiativet i förväg så att människor kan bekanta sig med det. Sikta på att lösa eventuella invändningar före workshopen.
+-   Bjud in personer som kan bidra på ett relevant sätt till detta projekt, skicka ut dagordningen för workshopen i förväg.
+-   Skicka med beskrivningen av den primära drivkraften, och om det berör en redan existerande domän, domänbeskrivningen för projektet/initiativet, i förväg så att människor kan bekanta sig med det, sikta på att lösa eventuella invändningar före workshopen.
 -   Deltagarna kan förbereda sig redan innan workshopen genom att tänka igenom och anteckna sina idéer om aktörer och relaterade behov.
--   Förbered en affisch med domänbeskrivningen för att presentera i det första steget. Du kommer också att behöva A5-paper, post-its, pennor och en bred vägg eller yta att arbeta vid.
+-   Förbered en affisch med domänbeskrivningen för att presentera i det första steget, du kommer också att behöva A5-paper, post-its, pennor och en bred vägg eller yta att arbeta vid.
 
 
 ##### Arbetsflöde för kartläggning av drivkrafter
@@ -1765,10 +1765,10 @@ Följ dom här stegen:
 
 ###### 1. Varför är vi här?
 
-_Presentera och säkra samtycke kring den primära drivkraften_
+_Presentera och säkra samtycke kring den primära drivkraften._
 
 -   Presentera den primära drivkraften för gruppen.
--   Samtycke till drivkraften - _är den tillräckligt tydligt beskriven? Är den relevant för oss att agera på?_
+-   Samtyck till drivkraften - _är den tillräckligt tydligt beskriven? Är den relevant för oss att svara på?_
 -   Förtydliga eventuella begränsningar från delegatorn, t.ex. budget, färdigdatum, förväntningar etc. Om kartläggningen sker inom en existerande domän presentera även domänbeskrivningen. Öppna för ytterligare frågor som kan fördjupa förståelsen för vad som händer och vad som behövs.
 -   Tydliggör nivå av engagemang som förväntas av deltagarna. T.ex. förväntas deltagarna vara här bara under workshopen, eller under hela initiativet etc.
 -   Anteckna all relevant information som kommer fram.
@@ -1776,9 +1776,9 @@ _Presentera och säkra samtycke kring den primära drivkraften_
 
 ###### 2. Vem kommer att påverkas?
 
-_Vem kommer att påverkas när vi agerar på den primära drivkraften? Överväg vem som kan hjälpa / stå i vägen / nytta/förlora eller skadas._
+_Vem kommer att påverkas när vi svarar på den primära drivkraften? Överväg vem som kan hjälpa / stå i vägen / dra nytta / förlora eller skadas._
 
--   Sätt upp aktörerna på en tavla t.ex med hjälp av notis-lappar
+-   Sätt upp aktörerna på en tavla t.ex med hjälp av notis-lappar.
 -   Fokusera på faktiska personer som kommer att påverkas av detta initiativ (grupper eller individer), och undvik i detta skede att göra antagande om framtida roller (såsom _projektledare_) eller andra domäner (t.ex _Marknadsavdelningen_).
 
 
@@ -1786,22 +1786,22 @@ _Vem kommer att påverkas när vi agerar på den primära drivkraften? Överväg
 
 _Tänk på de olika aktörerna och beskriv vad som behövs: vad behöver de i förhållande till den primära drivkraften, och vad behöver vi av dem?_
 
--   Skriv varje förslag på en separat klisterlapp ("behovskort")
--   Beskriv behovet samt den förväntade effekten av att svara på detta behov
--   Använd formatet _"Vi/de behöver … så att …"_
--   Skriv aktörens namn i det övre vänstra hörnet av kortet
--   Skriv ditt namn i det övre högra hörnet av kortet
+-   Skriv varje förslag på en separat klisterlapp ("behovskort").
+-   Beskriv behovet samt den förväntade effekten av att svara på detta behov.
+-   Använd formatet _"Vi/de behöver … så att …"_.
+-   Skriv aktörens namn i det övre vänstra hörnet av kortet.
+-   Skriv ditt namn i det övre högra hörnet av kortet.
 
 ![Kartläggning av drivkrafter: ett behovskort](img/templates/need-card.png)
 
 
 ###### 4. Identifiera erfarenhet och expertis
 
-_Identifiera de som har erfarenhet eller expertis att svara på behoven, så att när människor senare agerar på ett specifikt behov de förstå veta vem som kan ha värdefulla kommentarer eller idéer._
+_Identifiera de som har erfarenhet eller expertis att svara på behoven, så att när människor senare agerar på ett specifikt behov, förstår vem som kan ha värdefulla kommentarer eller idéer._
 
 -   Ta dig tid att bekanta dig med de olika _behovskorten_.
 -   Skriv ditt namn på de _behovskort_ som du har erfarenhet av, eller idéer om hur man skulle kunna åtgärda, så att det går att rådgöra med dig senare i processen.
--   Överväg att lägga till namn på personer som inte är närvarande om du tror att de skulle kunna göra ett värdefullt bidrag.
+-   Överväg att lägga till namn på personer som inte är närvarande om du tror att de skulle kunna ha något värdefullt att bidra med.
 -   Skriv namnet/namnen på dessa personer längst ner på _behovskortet_.
 -   Att skriva sitt eget namn på ett kort i detta steg innebär inte att du tar ansvar för behovet, bara att du kan, och är villig att, bidra till att hitta en lösning i det kommande arbetet.
 
@@ -1810,30 +1810,30 @@ _Identifiera de som har erfarenhet eller expertis att svara på behoven, så att
 
 _Gruppera aktörer och/eller behov, i förhållande till relevans, till sammanhängande **domäner** som utgångspunkt för sortering och prioritering av behoven. Överväg hur man optimerar leverans av värde längs hela flödet till de olika aktörer som identifierades i steg 2._
 
-Några sätt att identifiera domäner:
+Några sätt att identifiera domäner är
 
--   Gruppera liknande aktörer (aktörs-fokus)
--   Gruppera liknande behov (behovs-fokus)
--   En kombination av båda (av ovanstående) är vanligt
+-   gruppera liknande aktörer (aktörs-fokus)
+-   gruppera liknande behov (behovs-fokus)
+-   en kombination av båda (av ovanstående) är också vanligt
 
-Detta steg kan anses klart när det finns en överenskommelse om en första iteration av hur meningsfullt arbete är fördelat. Kom ihåg att det när som helst går att göra ändringar i de domäner som definierats (under workshoppen eller senare), så målet behöver bara vara något som är tillräckligt bra som en start.
+Detta steg kan anses klart när det finns en överenskommelse om en första iteration av meningsfull fördelning av arbete. Kom ihåg att det när som helst går att göra ändringar i de domäner som definierats (under workshoppen eller senare), så målet behöver bara vara något som är tillräckligt bra som en start.
 
-_Facilitatorn stöttar gruppen i deras självorganisering och uppmärksammar personer som inte är fokuserade på konversationen. Processen innehåller ofta en fas som kan verka kaotisk för vissa deltagare, vilket kan få dem att känna sig obekväma. För att testa om ett resultat har uppnåtts, fråga efter invändningar mot att domänerna är tillräckligt bra för tillfället._
+_Som facilitator, stötta gruppen i deras självorganisering och var uppmärksam på personer som inte verkar fokuserade på konversationen. Processen innehåller ofta en fas som kan verka kaotisk för vissa deltagare, vilket kan få dem att känna sig obekväma. För att kontrollera om ett resultat har uppnåtts, fråga efter invändningar mot att domänerna är tillräckligt bra för tillfället._
 
 
 ###### 6. Populera & definiera domäner
 
-_Låt deltagarna organisera sig i mindre grupper runt de olika domänerna, sedan definiera domänen och ge den ett namn._
+_Låt deltagarna organisera sig i mindre grupper runt de olika domänerna, låt dem sedan definiera domänen och ge den ett namn._
 
 -   Bilda små grupper för domänerna enligt erfarenhet och intresse.
--   Lägg till minst 1 eller 2 personer med expertis först. Använd informationen på korten.
+-   Lägg till minst 1 eller 2 personer med expertis först, använd informationen på korten.
 -   Kontrollera att alla domäner har tagits om hand tillräckligt.
 -   I varje grupp:
-    -   enas om ett namn på domänen.
-    -   definiera den primära drivkraften för domänen (och skissa på en kort domänbeskrivning om det hjälper).
--   Slutligen, låt varje grupp göra en kort presentation av sin domän, och under dem var uppmärksam på beroenden och eventuella överlapp mellan domänerna.
+    -   Enas om ett namn på domänen.
+    -   Definiera den primära drivkraften för domänen (och skissa på en kort domänbeskrivning om det hjälper).
+-   Slutligen, låt varje grupp göra en kort presentation av sin domän, och under dessa var uppmärksam på beroenden och eventuella överlapp mellan domänerna.
 
-I denna fas kan några personer vandra mellan domäner tills de hittar en som de känner att de kan bidra till.
+I denna fas kan en del personer vandra mellan domäner tills de hittar en som de känner att de kan bidra till.
 
 
 ###### 7. Förädla planeringslistorna
@@ -1841,25 +1841,25 @@ I denna fas kan några personer vandra mellan domäner tills de hittar en som de
 _Organisera arbetet framåt inom varje område, säkra att behoven prioriteras och beskrivs tillräckligt tydligt._
 
 -   För varje domän, kopiera mallen nedan till ett blädderblock
--   Skriv ner alla kvarvarande behov på varsitt kort och sortera in dom i de två planeringslistorna på blädderblocket:
-    -   operativ planeringslista: behov som det direkt går att agera på
+-   Skriv ner alla kvarvarande behov på varsitt kort och sortera in dom i följande två planeringslistor på blädderblocket:
+    -   operativ planeringslista: behov som det direkt går att svara på
     -   strukturell planeringslista: behov som skulle må bra av eller behöver ett beslut
--   Kombinera och omformulera kort vid behov, så att beskrivningen på varje kort är tydlig. Konsultera författaren till kortet när du är osäker.
+-   Kombinera och omformulera behovskort vid behov, så att beskrivningen på varje kort är tydlig, konsultera författaren till kortet vid osäkerhet.
 -   Ordna korten i varje lista enligt prioritet.
 -   Arkivera alla kort som verkar överflödiga.
 -   Studera domänen och beskriv och prioritera andra behov som inte identifierats tidigare.
 -   Vidarebefordra de kort som verkar beskriva behov som ligger innanför andra domäners ansvar.
 -   Lägg undan kort relaterade till flera domäner. Du kan ta itu med dem i steg 8.
 
-_Facilitatorn av arbetet med att kartlägga drivkrafter tillhandahåller en plats där kort som berör flera domäner samtidigt så att de kan hanteras senare._
+_Som facilitator av arbetet med att kartlägga drivkrafter, tillhandahåll en plats där kort som berör flera domäner samtidigt kan placeras så att de kan hanteras senare._
 
-Pausa regelbundet för att rapportera framsteg mellan grupperna som arbetar med de olika domänerna. Obs: Vissa domäner kan upplösas, ändras eller slås samman med andra.
+Pausa regelbundet för att rapportera framsteg mellan grupperna som arbetar med de olika domänerna. Notera: Vissa domäner kan under arbetets gång upplösas, ändras eller slås samman med andra.
 
 ![Kartläggning av drivkrafter: en mall för domäner](img/templates/domain-template.png)
 
 ###### 8. Koppla domäner
 
-_Skapa en struktur för att hantera beroenden och frågor som sträcker sig utanför domänen eller berör den bredare organisationen_
+_Skapa en struktur för att hantera beroenden och frågor som sträcker sig utanför domänen eller berör den bredare organisationen._
 
 -   I en ny organisation eller nytt projekt, överväg  _delegatscirklar_, _servicecirklar_ eller _dubbellänkning mellan domäner_.
 -   I en existerande organisation, överväg också att koppla till redan befintliga domäner i organisationen.
@@ -1882,12 +1882,12 @@ _Ta tid att fira det som uppnåtts för att komma igång med organisationen elle
 
 #### Öppna system
 
-<div class="card summary"><div class="card-body">Kommunicera medvetet med och lär av andra utanför ditt system.
+<div class="card summary"><div class="card-body">Kommunicera medvetet med och lär av andra utanför ditt eget system.
 </div></div>
-Personer, team och hela organisationer kan erkänna ömsesidigt beroende och medvetet bjuda in människor utanför deras eget system för att föra in **kunskap, erfarenhet och inflytande** för att hjälpa till i beslutsfattande och stötta kollektivt lärande.
+Personer, team och hela organisationer kan tillstå ömsesidigt beroende och därför medvetet bjuda in människor utanför deras eget system för att föra in **kunskap, erfarenhet och inflytande** för att hjälpa dom i beslutsfattande och stötta kollektivt lärande.
 
--   **Externa experter** kan erbjuda ett utifrån-perspektiv och bidra med kunskap, förståelse och kompetens
--   **Representanter för berörda parter** kan bidra med information och ha inflytande över beslutsfattandet på sätt som gynnar övergripande målsättningar (se _Involvera de som påverkas_)
+-   **Externa experter** kan erbjuda ett utifrån-perspektiv och bidra med kunskap, förståelse och kompetens.
+-   **Representanter för berörda parter** kan bidra med information och ha inflytande över beslutsfattandet på sätt som gynnar övergripande målsättningar (se _Involvera de som påverkas_).
 
 
 ### Kollegial utveckling
@@ -1901,9 +1901,9 @@ Personer, team och hela organisationer kan erkänna ömsesidigt beroende och med
 </div></div>
 Fråga någon, "*skulle du vara villig att hjälpa mig med...*?" Den tillfrågade accepterar eller avböjer med ett enkelt "*ja*" eller "*nej*".
 
-- om begäran avslås, accepterar den som frågar svaret utan förhandling eller utfrågning
-- om begäran är oklar, frågar den tillfrågade efter mer information
-- om begäran accepteras ska den frågade ge sitt bästa möjliga stöd
+- Om begäran avslås, accepterar den som frågar svaret utan förhandling eller utfrågning.
+- Om begäran är oklar, frågar den tillfrågade efter mer information.
+- Om begäran accepteras ska den frågade ge sitt bästa möjliga stöd.
 
 #### Kollegial återkoppling
 
@@ -1927,7 +1927,7 @@ Efter sessionen går du igenom dina anteckningar och bestämmer själv vad du sk
 
 #### Kollegial utvärdering
 
-<div class="card summary"><div class="card-body">Stötta varandra i att lära och växa i de roller och team du arbetar i.
+<div class="card summary"><div class="card-body">Stötta varandra i att lära och växa i de roller och team ni arbetar i.
 </div></div>
 Rollinnehavaren — eller teamet — leder den kollegiala utvärderingen genom att sätta upp processen, och genom att tala först i varje steg.
 
@@ -1942,17 +1942,17 @@ För både uppskattningar och förbättringsförslag, se till att du beaktar fö
 - hur väl **delegatorn(-erna)** tar hand om sitt ansvar
 - designen av själva domänen (och potentiellt utformningen av andra relaterade domäner)
 - rollinnehavaren eller teamets **kompetens och förmågor** i förhållande till domänen
-- den **<a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.">strategi</a>** rollinnehavaren eller teamet följer att ansvara för denna domän
+- den **<a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.">strategi</a>** rollinnehavaren eller teamet följer att ansvara för denna domän
 
 ![Kontinuerlig förbättring av människors förmåga att fylla roller eller samarbeta i team](img/evolution/development-process.png)
 
 #### Utvecklingsplan
 
-<div class="card summary"><div class="card-body">En plan för hur man kan utveckla mer verkansfulla sätt att ansvara för ett område som man kommit överens om mellan delegator och delegat.
+<div class="card summary"><div class="card-body">En plan för hur man kan utveckla mer ändamålsenliga sätt att ansvara för ett område som man kommit överens om mellan delegator och delegat.
 </div></div>
 Utvecklingsplanen kan skapas för en person i en roll eller för ett team (t.ex. en avdelning, _cirkel_ eller ett _öppet team_).
 
-Utveckling kan ske i form av förfining av _beskrivningen av drivkraften_ och <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domänen</a>, göra ändringar i <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.">strategi</a>, eller genom att skapa nya eller uppdatera avtal och specifika åtgärder som ska vidtas inom delegatorns eller delegatens område.
+Utveckling kan ske genom att förfina _beskrivningen av drivkraften_ och <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domänen</a>, genom att göra ändringar i <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.">strategi</a>, eller genom att skapa nya eller uppdatera avtal och specifika åtgärder som ska vidtas inom delegatorns eller delegatens domän.
 
 En utvecklingsplan (och eventuella medföljande rekommendationer för ändringar i beskrivningen av domänen och <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Drivkraft: En persons eller grupps motiv för att agera på en specifik situation.">drivkraften</a>) kräver samtycke från både <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegat: En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.">delegaten</a> och <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">delegatorn</a>.
 
@@ -1977,7 +1977,7 @@ _Skickligt deltagande_ är ett **individuellt åtagande** att:
 -   **utveckla medvetenhet och förståelse** för personers individuella och gemensamma behov
 -   **utveckla de nödvändiga färdigheterna**
 -   **stötta andra** att delta på ett skickligt sätt
--   ta upp hinder och förbättringsförslag inför varandra vid behov
+-   ta upp hinder och förbättringsförslag inför varandra vid behov.
 
 ##### Fördelarna med skickligt deltagande
 
@@ -1987,7 +1987,7 @@ Skickligt deltagande
 - bidrar till att utveckla bättre team
 - bygger eget ansvar, integritet och förtroende
 - skapar en kultur av ömsesidigt stöttning och nära samarbete
-- ju fler som använder det desto mer kraftfullt är det
+- blir kraftfullare ju fler som använder det.
 
 ![Balansera autonomi och samarbete genom skickligt deltagande](img/illustrations/balance-autonomy-collaboration-alt.png)
 
@@ -2002,14 +2002,14 @@ Skickligt deltagande
     -   samarbete och interaktion med andra?
     -   organisationen?
     -   våra kunder eller klienter?
-    -   den vidare omgivningen?
+    -   den bredare omgivningen?
 
 
 #### Anta De Sju Principerna
 
-<div class="card summary"><div class="card-body">Ensa samarbetsformerna med De Sju Principerna.
+<div class="card summary"><div class="card-body">Rätta in samarbetsformerna i enlighet med De Sju Principerna.
 </div></div>
-Att anta De Sju Principerna minskar behovet av uttryckliga överenskommelser, och vägleder anpassningen av S3-mönster för att passa organisationens situation.
+Att anta De Sju Principerna minskar behovet av uttryckliga överenskommelser, och vägleder anpassning av S3-mönster för att passa organisationens situation.
 
 En organisations värderingar måste omfatta De Sju Principerna.
 
@@ -2029,7 +2029,7 @@ _**Värderingar** är grundläggande principer som vägleder beteende. Värderin
 
 Värderingar kan ge vägledning till lämpliga åtgärder, även när tydliga <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a> saknas.
 
-Att gemensamt anta en uppsättning värderingar stöder en organisations ändamålsenlighet. Det:
+Att gemensamt anta en uppsättning värderingar stöder en organisations ändamålsenlighet. Det
 
 -   minskar risken för **missförstånd**
 -   hjälper till att **ensa** beslutsfattande och åtgärder
@@ -2045,25 +2045,25 @@ De valda värderingarna bildar en överenskommelse som tjänar på **regelbundna
 <div class="card summary"><div class="card-body">Involvera de personer som påverkas när beslut fattas för att upprätthålla likvärdighet och ansvarighet och för att 
 öka kunskapen som används vid beslutet.
 </div></div>
-För större grupper:
+För större grupper kan man
 
 -   facilitera en process i flera steg och skapa mindre grupper som väljer delegater
--   använd ett online-verktyg och genomför en asynkron, _tidsbegränsad_ process i flera steg
+-   använda ett online-verktyg för att genomföra en asynkron, _tidsbegränsad_ process i flera steg.
 
 Överväg att inkludera de som berörs även i att utvärdera och förädla beslut.
 
 
 #### Bryta överenskommelser
 
-<div class="card summary"><div class="card-body">Bryt överenskommelser när det är tydligt att nyttan för organisationen av det är större än kostnaden av att först vänta på en förändring av överenskommelsen och tag ansvar för konsekvenserna.
+<div class="card summary"><div class="card-body">Bryt överenskommelser när det är tydligt att nyttan för organisationen av det är större än kostnaden för att först vänta på en förändring av överenskommelsen och tag ansvar för konsekvenserna.
 </div></div>
 Att bryta <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a> är ibland **nödvändigt** men kan betyda en **kostnad** för organisationen.
 
-Ansvara för att:
+Agera ansvarigt genom att
 
 -   **rensa ut** störningar
--   **följ upp** så snart som möjligt med de påverkade
--   **ändra överenskommelsen** istället för att vid upprepade tillfällen tvingas bryta mot den
+-   **följa upp** så snart som möjligt med de som påverkas
+-   **ändra överenskommelsen** istället för att vid upprepade tillfällen tvingas bryta mot den.
 
 
 #### Transparent lönesättning
@@ -2076,11 +2076,11 @@ En transparent löneformel måste anpassas till en organisations förhållanden 
 
 Uppfattningen av rättvisa varierar från person till person och är beroende på sammanhang, så för att skapa en löneformel krävs att man utvecklar en gemensam förståelse för vad som anses vara rättvist.
 
-När man beslutar (eller överenskommer) om en löneformel för en organisation eller institution, bör man beakta:
+När man beslutar (eller överenskommer) om en löneformel för en organisation eller institution, bör man beakta
 
 - vad som skulle vara en lämplig garanterad levnadsnivå
 - hur man beräknar ersättning enligt behov, investeringar, produktivitet eller meriter
-- hur man fördelar organisationens vinst och täcker förluster i linje med de olika intressenternas förväntningar och behov
+- hur man fördelar organisationens vinst och täcker förluster i linje med de olika intressenternas förväntningar och behov.
 
 Besluta hur ersättning för förändrade roller ska hanteras och _utveckla en strategi_ för hur man går över till nya kontrakt och ersättningsavtal.
 
@@ -2097,24 +2097,24 @@ Att utveckla en gemensam förståelse för behov och förväntningar är avgöra
 
 Under förhandlingar om, och fastställande av,  ett kontrakt, modellera den samarbetskultur du vill uppnå, och bygg en positiv relation med de andra berörda parterna.
 
-Detta mönster avser kontrakt relaterade till samarbete kring alla affärstransaktioner mellan en organisation och andra parter (t.ex. anställda, konsulter, tjänsteleverantörer, aktieägare eller kunder). Det är särskilt relevant för kontrakt som har ett betydande inflytande på framtiden för en organisation eller en av dess partner, såsom:
+Detta mönster avser kontrakt relaterade till samarbete kring alla affärstransaktioner mellan en organisation och andra parter (t.ex. anställda, konsulter, tjänsteleverantörer, aktieägare eller kunder). Det är särskilt relevant för kontrakt som har ett betydande inflytande på framtiden för en organisation eller en av dess partner, såsom
 
 - anställningskontrakt och kontrakt med externa entreprenörer eller konsulter i _stödjande roller_ (inklusive kontrakt som resulterar i en förändring av ersättning eller insats)
 - kontrakt som reglerar samarbete med kunder, leverantörer eller tjänsteleverantörer
-- aktieägaravtal
+- aktieägaravtal.
 
 **Observera:** Många överenskommelser om samarbete inom en organisation kräver inga speciella kontrakt, eftersom de redan styrs av eller omfattas av befintliga avtal eller överenskommelser.
 
 ##### Framgångskriterier för kontraktsförhandlingar
 
-När du förhandlar ett kontrakt, säkerställ att:
+När du förhandlar ett kontrakt, säkerställ att
 
 - det finns en gemensam förståelse för orsaken till samarbetet, likväl som för den avsedda effekten och eventuella viktiga begränsningar
 - alla parter förstår vad som förväntas av dem
 - alla parter som berörs av ett kontrakt är involverade i att skapa kontraktet och ingår det frivilligt
 - förväntningarna är realistiska
 - kontaktet är fördelaktigt för alla parter
-- alla har för avsikt att hålla sig till det kontrakt som ingåtts
+- alla har för avsikt att hålla sig till det kontrakt som ingåtts.
 
 Om ett eller flera av dessa kriterier av någon anledning inte kan uppfyllas är det förmodligen klokt att inte gå vidare.
 
@@ -2127,35 +2127,35 @@ Det sätt som ett kontrakt förhandlas fram på kan avsevärt bidra till att byg
 - Om du behöver använda specifika tekniska eller juridiska termer som en part kan vara obekant med, förklara dem i en ordlista som medföljer kontraktet.
 - Konsultera en advokat som stödjer den kultur du strävar efter och är kompetent inom affärsområdet som är föremål för förhandlingen.
 
-##### Vid samskapande av ett kontrakt:
+##### Vid samskapande av ett kontrakt
 
-- se till att alla parter har en delegation som inkluderar representation för alla berörda <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> (t.ex. inte bara försäljning, men också utveckling / produktion / stöd, etc.)
-- beskriv uttryckligen den kultur du vill utveckla, med hänsyn till en gemensam grund och eventuella kulturella skillnader mellan parter
-- ange skälen till det föreslagna samarbetet, och var öppen om förväntningar och behov hos alla parter
-- lämna ut all relevant information (under NDA om nödvändigt)
-- enas först om villkoren för relationen och förväntningarna hos alla parter, och överväg sedan hur du kan göra dem juridiskt robusta
-- sammanställa en lista över specifika lagar och regler som kontraktet måste ta hänsyn till
-- förhandla i flera steg, detta ger tid att överväga konsekvenser och föreslå ändringar
-- gör anteckningar på varje möte för att minska risken för missuppfattningar
+- Se till att alla parter har en delegation som inkluderar representation för alla berörda <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> (t.ex. inte bara försäljning, men också utveckling / produktion / stöd, etc.).
+- Beskriv uttryckligen den kultur du vill utveckla, med hänsyn till en gemensam grund och eventuella kulturella skillnader mellan parter.
+- Ange skälen till det föreslagna samarbetet, och var öppen om förväntningar och behov hos alla parter.
+- Lämna ut all relevant information (under NDA om nödvändigt).
+- Enas först om villkoren för relationen och förväntningarna hos alla parter, och överväg sedan hur du kan göra dem juridiskt robusta.
+- Sammanställ en lista över specifika lagar och regler som kontraktet måste ta hänsyn till.
+- Förhandla i flera steg, detta ger tid att överväga konsekvenser och föreslå ändringar.
+- Gör anteckningar på varje möte för att minska risken för missuppfattningar.
 
-##### Stöd samarbetets hela livscykel:
+##### Stöd samarbetets hela livscykel
 
 Alla kontrakt kan ändras när som helst, förutsatt att alla parter är överens. Det minskar dock avsevärt risken för senare konflikter om man beaktar samarbetets hela livscykel i kontraktet:
 
 - vidta åtgärder för att framgångsrikt komma igång genom att definiera uppstartsförfaranden
-- har en prövotid, där alla parter kan prova på samarbetet, och ett tydligt protokoll för hur varje part kan säga upp kontraktet under provperioden
+- ha en prövotid, där alla parter kan prova på samarbetet, och ett tydligt protokoll för hur varje part kan säga upp kontraktet under provperioden
 - definiera och bygg in regelbundna utvärderingsmöten i överenskommelsen där de som undertecknat träffas för att dela erfarenheter och lärande och besluta hur överenskommelsen kan ändras för att anpassas till förändrade förhållanden
 - inkludera tydliga rutiner för hanteringen av kontraktsöverträdelser
-- överväg att tillhandahålla alternativa metoder för tvistlösning, t.ex. medling, förlikning eller skiljeförfarande
-- överväg att begränsa kontraktet till en viss tid varefter avtalet löper ut och kan förnyas om det krävs
+- överväga att tillhandahålla alternativa metoder för tvistlösning, t.ex. medling, förlikning eller skiljeförfarande
+- överväga att begränsa kontraktet till en viss tid varefter avtalet löper ut och kan förnyas om det krävs.
 
 ##### Kultur
 
-Varje kontrakt påverkar kulturen i det samarbete som den styr, även när det verkar bara beskriva *vad* som skall levereras:
+Varje kontrakt påverkar kulturen i det samarbete som den styr, även när det verkar bara beskriva *vad* som skall levereras.
 
-- skapa avsiktligt den önskade samarbetskulturer genom att inkludera förväntningar på *hur* saker ska göras
-- ensa kontraktet med organisationskulturen (hos alla parter) och med juridiska krav
-- bygg kontrakt som möjliggör och uppmuntrar ansvarskänsla
+- Skapa avsiktligt den önskade samarbetskulturer genom att inkludera förväntningar på *hur* saker ska göras.
+- Ensa kontraktet med organisationskulturen (hos alla parter) och med juridiska krav.
+- Bygg kontrakt som möjliggör och uppmuntrar ansvarskänsla.
 
 Om standardavtal i branschen är föråldrade jämfört med den önskade kulturen, bygg en databas med mallar för kontrakt och klausuler och överväg att dela den med andra, så att det går att utnyttja tidigare erfarenheter när nya kontrakt skapas.
 
@@ -2165,10 +2165,10 @@ Om standardavtal i branschen är föråldrade jämfört med den önskade kulture
 
 <div class="card summary"><div class="card-body">Tillämpa rollmönstret även på externa entreprenörer.
 </div></div>
--   Tydliggör och beskriv <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraften</a> för _rollen _.
+-   Tydliggör och beskriv <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraften</a> för _rollen _.
 -   Skapa en _domänbeskrivning_.
 -   Om det är värdefullt, gör en utnämning via utnämningsprocessen.
--   överväg att begränsa avtalets löptid, efter vilken det kan ses över och förnyas vid behov
+-   Överväg att begränsa avtalets löptid, efter vilken det kan ses över och förnyas vid behov.
 -   Bygg in regelbundna _kollegiala utvärderingar_.
 
 Yttre entreprenörer samtycker till att ta på sig sin roll.
@@ -2179,13 +2179,13 @@ Yttre entreprenörer samtycker till att ta på sig sin roll.
 
 <div class="card summary"><div class="card-body">Säkerställ att S3:s principer och mönster reflekteras i stadgar efter behov så att **rättslig integritet** och **organisationskultur** skyddas.
 </div></div>
-Ta hänsyn till:
+Ta särskild hänsyn till
 
 -   samtycke och likvärdighet i beslutsfattande
 -   processen för utnämning till ledande roller
 -   organisationsstruktur, <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Värderingar: Värderade principer som styr beteende. Icke att förväxla med &quot;värde&quot; i samband med en drivkraft.">värderingar</a> och <a href="glossary.html#entry-principle" class="glossary-tooltip" data-toggle="tooltip" title="Princip: En grundläggande idé eller regel som styr beteendet, eller förklarar eller styr hur något händer eller fungerar.">principer</a>
 -   inflytande från ägare eller aktieägare
--   hur vinster och kostnader skall fördelas
+-   hur vinster och kostnader skall fördelas.
 
 
 ### Bygga organisationer
@@ -2209,7 +2209,7 @@ En cirkel:
     - En cirkels medlemmar agerar inom begränsningarna i deras <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domän</a>.
     - Varje cirkel kan skapa <a href="glossary.html#entry-value" class="glossary-tooltip" data-toggle="tooltip" title="Värde: Vikt, värde, nytta eller användbarhet av något i förhållande till en drivkraft. Se också &quot;värderingar&quot;.">värde</a> självständigt.
 - **självstyrande:** 
-    - En cirkels medlemmar bestämmer tillsammans och kontinuerligt vad som behöver göras för att de skall kunna svara upp för sin domän och sätter gränser för hur och när saker ska göras.
+    - En cirkels medlemmar bestämmer tillsammans och kontinuerligt vad som behöver göras för att de skall kunna ansvara för sin domän och sätter gränser för hur och när saker ska göras.
 - **cirkelmedlemmarnas likvärdighet:** 
     - Alla medlemmar i en cirkel är lika ansvariga för den <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">strukturella styrningen</a> av cirkelns domän.
 
@@ -2221,7 +2221,7 @@ En cirkel:
 </div></div>
 En roll är ett ansvarsområde (en <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domän</a>) som <a href="glossary.html#entry-delegation" class="glossary-tooltip" data-toggle="tooltip" title="Delegering: Utdelandet av befogenheter från en part (_delegatorn_) till en annan (_delegaten_) för att ansvara för en domän (dvs. att göra vissa saker och / eller att fatta vissa beslut), för vilka delegatorn behåller det övergripande redovisningsansvaret.">delegeras</a> till en person ( **rollinnehavaren**), som har självständighet att bestämma och agera inom domänens begränsningar.
 
-Rollinnehavaren leder arbetet att skapa en <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.">strategi</a> för hur hen kommer att redogöra för sin domän. De utvecklar sin strategi i samarbete med <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">delegatorn</a>.
+Rollinnehavaren leder arbetet att skapa en <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.">strategi</a> för hur hen kommer att redogöra för sin domän. De utvecklar sin strategi i samarbete med <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">delegatorn</a>.
 
 En roll är ett enkelt sätt för en organisation (eller <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a>) att delegera återkommande uppgifter eller ett specifikt arbetesområde och beslutsfattande till en av sina medlemmar.
 
@@ -2269,7 +2269,7 @@ Representanter (även kallat länkar):
 
 #### Öppet team
 
-<div class="card summary"><div class="card-body">Avsiktligen skapa ansvar för en domän genom att bjuda in, snarare än genom att peka ut, och begära att de inbjudna bidrar när de kan.
+<div class="card summary"><div class="card-body">Avsiktligen skapa ansvar för en domän genom att bjuda in, snarare än genom att dela ut, och begära att de inbjudna bidrar när de kan.
 </div></div>
 _Ett **öppet team** är en grupp människor som bjuds in att bidra till det arbete och den styrning som görs inom en domän när de kan._
 
@@ -2351,7 +2351,7 @@ Bjud in de inblandade och påverkade till regelbunden utvärdering av utfallet.
 
 <div class="card summary"><div class="card-body">Bjud in alla att skapa och genomföra experiment för att förädla organisationen.
 </div></div>
-- tydliggör <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraften</a> bakom förändringarna
+- tydliggör <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraften</a> bakom förändringarna
 - schemalägga regelbundna öppna diskussioner: 
     - bjud in alla medlemmar att skapa och genomföra experiment
     - definiera begränsningar för experimenten som möjliggör utveckling av <a href="glossary.html#entry-sociocracy" class="glossary-tooltip" data-toggle="tooltip" title="Sociokrati: En strategi för att samorganisera där människor som påverkas av beslut kan påverka dem då det finns skäl att göra det.">sociokratisk</a> och agilt tänkesätt (t.ex. S3 principer)
@@ -2370,7 +2370,7 @@ Bjud in de inblandade och påverkade till regelbunden utvärdering av utfallet.
 
 ##### Spill och kontinuerlig förbättring
 
-_**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för en (mer) ändamålsenlig respons på en drivkraft._
+_**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för ett (mer) ändamålsenligt svar på en drivkraft._
 
 Spill finns i olika former och på olika abstraktionsnivåer (uppgifter, processer, organisationsstruktur, mentala modeller ...)
 
@@ -2444,7 +2444,7 @@ Det avsedda utfallet kan användas för att definiera _utvärderingskriterier_ o
 
 <div class="card summary"><div class="card-body">Beskriv tydligt alla leverabler (konkreta utresultat) som förväntas från en överenskommelse för att underlätta en gemensam förståelse av förväntningarna.
 </div></div>
-_En **leverabel** är en produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft._
+_En **leverabel** är en produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft._
 
 När en leverabel ska beskrivas:
 
@@ -2476,7 +2476,7 @@ Vanliga plattformar för loggböcker är Wikis (t.ex. [Dokuwiki](https://www.dok
 
 Innehåll som rör hela organisationen:
 
-- <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Primär drivkraft: Den primära drivkraften för en domän är den huvudsakliga drivkraften som de personer som ansvarar för den domänen agerar på.">primär drivkraft</a>, <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.">strategi</a> och organisatoriska <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Värderingar: Värderade principer som styr beteende. Icke att förväxla med &quot;värde&quot; i samband med en drivkraft.">värderingar</a>
+- <a href="glossary.html#entry-primary-driver" class="glossary-tooltip" data-toggle="tooltip" title="Primär drivkraft: Den primära drivkraften för en domän är den huvudsakliga drivkraften som de personer som ansvarar för den domänen agerar på.">primär drivkraft</a>, <a href="glossary.html#entry-strategy" class="glossary-tooltip" data-toggle="tooltip" title="Strategi: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.">strategi</a> och organisatoriska <a href="glossary.html#entry-values" class="glossary-tooltip" data-toggle="tooltip" title="Värderingar: Värderade principer som styr beteende. Icke att förväxla med &quot;värde&quot; i samband med en drivkraft.">värderingar</a>
 - organisationsstruktur (<a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domäner</a> och kopplingarna mellan dem)
 - <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a>
 
@@ -2507,7 +2507,7 @@ Sekreteraren är ansvarig för att underhålla ett teams <a href="glossary.html#
 
 <div class="card summary"><div class="card-body">Reservera tid för att reflektera över tidigare erfarenheter och lärdomar och bestämma hur man kan förbättra arbetsprocessen.
 </div></div>
--   resultat: förändringar i arbetsprocessen, nya uppgifter, <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a> och <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkrafter</a> som kräver en överenskommelse
+-   resultat: förändringar i arbetsprocessen, nya uppgifter, <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a> och <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkrafter</a> som kräver en överenskommelse
 -   faciliterade möten (~1h)
 -   med jämna mellanrum (1-4 veckor)
 -   anpassa till situation och sammanhang
@@ -2798,7 +2798,7 @@ Planeringslistor kan användas för
 
 Varje punkt på i en (prioriterad) planeringslista innehåller ofta
 
-- en **kort beskrivning** av en <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Leverabel: En produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.">leverabel</a> eller en <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraft</a>
+- en **kort beskrivning** av en <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Leverabel: En produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft.">leverabel</a> eller en <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkraft</a>
 - en **unik referens**
 - (**ordningsnummer** om det inte framgår på annat sätt)
 - **beroenden** till andra punkter i listan eller projekt
@@ -3003,7 +3003,7 @@ En fraktal organisation har minst tre nivåer:
 
 - första nivån: **kretsar** (dvs organisationer, grenar, avdelningar eller projekt)
 - andra nivån: **funktionsspecifika _delegatscirklar_** för att dela lärande och för att ingå och förädla överenskommelser på uppdrag av funktionsspecifika domäner
-- tredje nivå: en **tvärfunktionell delegatscirkel** för att ingå och förädla överenskommelser som respons på drivkrafter som påverkar de övergripande organisatoriska kretsarna
+- tredje nivå: en **tvärfunktionell delegatscirkel** för att ingå och förädla överenskommelser som svar på drivkrafter som påverkar de övergripande organisatoriska kretsarna
 
 ##### Att bilda en fraktal organisation
 
@@ -3437,7 +3437,7 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
 **Begreppslista:**
 
 - added <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a> to glossary (and replaced group with team throughout the practical guide where applicable)
-- updated definition for <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Leverabel: En produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.">deliverable</a>
+- updated definition for <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Leverabel: En produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft.">deliverable</a>
 - removed **driver statement** from text and glossary
 - updated definitions for <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">governance</a>, <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operativ verksamhet: Att organisera, planera och utföra de dagliga aktiviteterna inom de begränsningar som definierats genom strukturell styrning.">operations</a>, and <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Självorganisering: Alla aktiviteter eller processer genom vilka människor organiserar arbete. Självorganisering sker inom begränsningarna av ett område, men utan direkt inflytande av externa agenter. I varje organisation eller grupp samexisterar självorganisation med externt inflytande (t.ex. externa invändningar eller styrningsbeslut som påverkar domänen).">self-organization</a>
 
@@ -3618,14 +3618,11 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
 
 <dl>
 
-  <dt><a href="respond-to-organizational-drivers.html">Agera på organisatoriska drivkrafter</a></dt>
-  <dd><p>Tydliggör organisatoriska drivkrafter (t.ex vad händer och vad behövs i relation till den organisatoriska drivkraften), och agera på lämpligt sätt.</p></dd>
-
   <dt><a href="adapt-patterns-to-context.html">Anpassa mönster till sammanhang</a></dt>
   <dd><p>Anpassa och utveckla mönstren i S3 så att de passar de speciella förhållandena.</p></dd>
 
   <dt><a href="adopt-the-seven-principles.html">Anta De Sju Principerna</a></dt>
-  <dd><p>Ensa samarbetsformerna med De Sju Principerna.</p></dd>
+  <dd><p>Rätta in samarbetsformerna i enlighet med De Sju Principerna.</p></dd>
 
   <dt><a href="ask-for-help.html">Be om hjälp</a></dt>
   <dd><p>Ett enkelt protokoll för lärande, kunskapsdelning och byggande av kontakter, med respekt för människors medverkan.</p></dd>
@@ -3643,7 +3640,7 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
   <dd><p>Klargör argumenten för att förändra och bjud in människor att delta och bidra.</p></dd>
 
   <dt><a href="breaking-agreements.html">Bryta överenskommelser</a></dt>
-  <dd><p>Bryt överenskommelser när det är tydligt att nyttan för organisationen av det är större än kostnaden av att först vänta på en förändring av överenskommelsen och tag ansvar för konsekvenserna.</p></dd>
+  <dd><p>Bryt överenskommelser när det är tydligt att nyttan för organisationen av det är större än kostnaden för att först vänta på en förändring av överenskommelsen och tag ansvar för konsekvenserna.</p></dd>
 
   <dt><a href="circle.html">Cirkel</a></dt>
   <dd><p><em>En <strong>cirkel</strong> är ett självstyrande och halv-autonomt team av likvärdiga personer som samarbetar för att hantera en domän.</em></p></dd>
@@ -3655,7 +3652,7 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
   <dd><p>Att delegera beslut om strukturell styrning som påverkar flera domäner till en grupp av representanter som valts ut av dessa domäner.</p></dd>
 
   <dt><a href="delegate-influence.html">Delegera inflytande</a></dt>
-  <dd><p>Fördela makten att påverka, för att göra det möjligt för människor att bestämma och agera för sig själva inom definierade begränsningar.</p></dd>
+  <dd><p>Fördela makten att påverka, för att göra det möjligt för människor att bestämma och själva agera själva inom definierade begränsningar.</p></dd>
 
   <dt><a href="double-linked-hierarchy.html">Dubbellänkad hierarki</a></dt>
   <dd><p>Delegera allt mandat för att fatta beslut om strukturell styrning till självstyrande cirklar, dubbelkopplade över alla nivåer i hierarkin, för att gå från en traditionell hierarki till en struktur som är mer lämplig för att nyttja den kollektiva intelligensen, säkerställa likvärdighet och bygga engagemang.</p></dd>
@@ -3691,7 +3688,7 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
   <dd><p>Var tydlig och uttryck den förväntade effekten av överenskommelser, aktiviteter, projekt och strategier.</p></dd>
 
   <dt><a href="clarify-and-develop-strategy.html">Förtydliga och utveckla strategi</a></dt>
-  <dd><p><em>En <strong>strategi</strong> är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.</em></p></dd>
+  <dd><p><em>En <strong>strategi</strong> är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.</em></p></dd>
 
   <dt><a href="helping-team.html">Hjälpande team</a></dt>
   <dd><p>Samlar ett team av likvärda människor med mandat att agera på en specifik uppsättning behov som definierats av en delegator.</p></dd>
@@ -3704,10 +3701,10 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
 <p>öka kunskapen som används vid beslutet.</p></dd>
 
   <dt><a href="driver-mapping.html">Kartläggning av drivkrafter</a></dt>
-  <dd><p>Ett workshopformat för större grupper att samskapa och organisera sig som respons på en komplex situation av betydande omfattning och skala.</p></dd>
+  <dd><p>Ett workshopformat för större grupper att samskapa och organisera sig som svar på en komplex situation av betydande omfattning och skala.</p></dd>
 
   <dt><a href="peer-review.html">Kollegial utvärdering</a></dt>
-  <dd><p>Stötta varandra i att lära och växa i de roller och team du arbetar i.</p></dd>
+  <dd><p>Stötta varandra i att lära och växa i de roller och team ni arbetar i.</p></dd>
 
   <dt><a href="peer-feedback.html">Kollegial återkoppling</a></dt>
   <dd><p>Bjud in en medlem i din organisation att ge dig konstruktiv återkoppling på din prestation i en roll eller i ett team, om ditt allmänna deltagande och bidrag, eller om något annat område som du vill utveckla.</p></dd>
@@ -3776,7 +3773,7 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
   <dd><p>Träffas regelbundet (oftast veckovis) för rapportering och samordning av arbetet mellan domäner.</p></dd>
 
   <dt><a href="co-create-proposals.html">Samskapa förslag</a></dt>
-  <dd><p>För samman människor så att de tillsammans kan skapa förslag som respons på organisatoriska drivkrafter: utnyttja kollektiv intelligens, bygg upp en känsla av ägandeskap och öka engagemang och ansvarighet.</p></dd>
+  <dd><p>För samman människor så att de tillsammans kan skapa förslag som svar på organisatoriska drivkrafter: utnyttja kollektiv intelligens, bygg upp en känsla av ägandeskap och öka engagemang och ansvarighet.</p></dd>
 
   <dt><a href="consent-decision-making.html">Samtyckesbeslut</a></dt>
   <dd><p>En (faciliterad) grupprocess för beslutsfattande: välkomna invändningar, och överväg nyupptäckt information och kunskap för att ytterligare förädla förslag eller befintliga överenskommelser.</p></dd>
@@ -3802,6 +3799,9 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
   <dt><a href="support-role.html">Stödjande roll</a></dt>
   <dd><p>Tillämpa rollmönstret även på externa entreprenörer.</p></dd>
 
+  <dt><a href="respond-to-organizational-drivers.html">Svara på organisatoriska drivkrafter</a></dt>
+  <dd><p>Tydliggör organisatoriska drivkrafter (t.ex vad händer och vad behövs i relation till den organisatoriska drivkraften) och agera på lämpligt sätt.</p></dd>
+
   <dt><a href="visualize-work.html">Synliggör arbete</a></dt>
   <dd><p>Använd ett system som gör att alla intressenter kan studera tillståndet för de uppgifter som för närvarande väntar, pågår eller slutförts.</p></dd>
 
@@ -3815,10 +3815,10 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
   <dd><p>Skapa en rättvis löneformel och gör den synlig för alla.</p></dd>
 
   <dt><a href="clarify-and-develop-domains.html">Tydliggör och utveckla domäner</a></dt>
-  <dd><p>Att uttryckligen tydliggöra, och sedan utvärdera och utveckla en domäns design baserat på lärande för att underlätta för de som är ansvariga för domänen att hantera den så att den får största effekt. </p></dd>
+  <dd><p>Tydliggör uttryckligen en domäns design och utvärdera och utveckla den sedan  baserat på lärdomar för att underlätta för de som är ansvariga för domänen att hantera den så effektivt som möjligt. </p></dd>
 
   <dt><a href="development-plan.html">Utvecklingsplan</a></dt>
-  <dd><p>En plan för hur man kan utveckla mer verkansfulla sätt att ansvara för ett område som man kommit överens om mellan delegator och delegat.</p></dd>
+  <dd><p>En plan för hur man kan utveckla mer ändamålsenliga sätt att ansvara för ett område som man kommit överens om mellan delegator och delegat.</p></dd>
 
   <dt><a href="evaluate-meetings.html">Utvärdera möten</a></dt>
   <dd><p>Se till att det finns tid att lära i slutet av varje möte eller workshop.</p></dd>
@@ -3839,10 +3839,10 @@ Med varje princip har vi inkluderat en lista med förslag på saker man kan prov
   <dd><p>Bjud in alla att skapa och genomföra experiment för att förädla organisationen.</p></dd>
 
   <dt><a href="open-team.html">Öppet team</a></dt>
-  <dd><p>Avsiktligen skapa ansvar för en domän genom att bjuda in, snarare än genom att peka ut, och begära att de inbjudna bidrar när de kan.</p></dd>
+  <dd><p>Avsiktligen skapa ansvar för en domän genom att bjuda in, snarare än genom att dela ut, och begära att de inbjudna bidrar när de kan.</p></dd>
 
   <dt><a href="open-systems.html">Öppna system</a></dt>
-  <dd><p>Kommunicera medvetet med och lär av andra utanför ditt system.</p></dd>
+  <dd><p>Kommunicera medvetet med och lär av andra utanför ditt eget system.</p></dd>
 </dl>
 
 
@@ -4046,7 +4046,7 @@ För att ta reda på hur du kan bidra till utvecklingen av S3, gå till <https:/
 **Krets:** Ett team (t.ex. en cirkel, team, avdelning, gren, projekt eller organisation) som delegerar befogenhet till en representant för att agera på deras vägnar i andra team eller organisationer.
 
 
-**Leverabel:** En produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.
+**Leverabel:** En produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft.
 
 
 **Likvärdighet (princip):** **Engagera människor i att fatta och förädla beslut som påverkar dem** så att engagemanget och ansvarstagandet ökar, och ni utnyttjar den distribuerade intelligensen för att uppnå och utveckla era mål.
@@ -4073,7 +4073,7 @@ För att ta reda på hur du kan bidra till utvecklingen av S3, gå till <https:/
 **Organisation:** En grupp människor som samarbetar mot en delad drivkraft (eller mål). Ofta delas en organisation upp i flera grupper.
 
 
-**Organisatorisk drivkraft:** En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.
+**Organisatorisk drivkraft:** En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.
 
 
 **Oro:** Ett antagande som inte kan backas upp av resonemang eller tillräckligt med bevis för att bevisa dess relevans eller giltighet.
@@ -4118,13 +4118,13 @@ För att ta reda på hur du kan bidra till utvecklingen av S3, gå till <https:/
 **Sociokrati:** En strategi för att samorganisera där människor som påverkas av beslut kan påverka dem då det finns skäl att göra det.
 
 
-**Spill:** Allt som är onödigt för — eller står i vägen för — en (mer) effektiv respons på en drivkraft.
+**Spill:** Allt som är onödigt för — eller står i vägen för — ett (mer) effektivt svar på en drivkraft.
 
 
 **Spänning:** En personlig upplevelse: ett symptom av dissonans mellan en persons uppfattning om en situation och dennes förväntningar (eller preferenser).
 
 
-**Strategi:** Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.
+**Strategi:** Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.
 
 
 **Strukturell styrning:** Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.
@@ -4145,7 +4145,7 @@ För att ta reda på hur du kan bidra till utvecklingen av S3, gå till <https:/
 **Underdomän:** En domän som är helt innesluten inom en annan domän.
 
 
-**Underliggande drivkraft:** En underliggande drivkraft uppstår som en konsekvens av att agera på en annan drivkraft (den överliggande drivkraften) och är nödvändig för att på ett ändamålsenligt sätt kunna svara på den överliggande drivkraften.
+**Underliggande drivkraft:** En underliggande drivkraft uppstår som en konsekvens av att svara på en annan drivkraft (den överliggande drivkraften) och är nödvändig för att på ett ändamålsenligt sätt kunna svara på den överliggande drivkraften.
 
 
 **Valda värderingar:** En uppsättning principer ett team (eller en organisation) har valt att kollektivt anta för att vägleda deras beteende i samband med deras samarbete.

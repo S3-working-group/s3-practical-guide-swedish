@@ -7,7 +7,7 @@ prev_page_url: "delegate-influence.html"
 ---
 
 
-<div class="card summary"><div class="card-body">_En **strategi** är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän._
+<div class="card summary"><div class="card-body">_En **strategi** är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän._
 </div></div>
 Det är oftast mer effektivt om ett team eller rollinnehavare leder utvecklingen av sin egen strategi.
 

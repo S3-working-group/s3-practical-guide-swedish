@@ -38,11 +38,11 @@ Utnyttja en mångfald av perspektiv och var öppen för att utmana ditt eget, f�
 
 ## Oro
 
-**Inte alla argument som framförs är invändningar, men de kan avslöja farhågor:.**
+**Inte alla argument som framförs är invändningar, men de kan avslöja farhågor.**
 
 _En **oro** är ett antagande som inte kan backas upp av resonemang eller tillräckligt med bevis för att bevisa dess relevans eller giltighet._
 
-Oro kan peka på sätt att vidareutveckla överenskommelser, som att göra ändringar i en överenskommelse som lindrar oron, lägga till vissa utvärderingskriterier, eller justera utvärderingsfrekvensen. Ta upp oron om du tycker att det kan vara värdefullt att resonera om dem.
+Oro kan visa på sätt att vidareutveckla överenskommelser, som t.ex. att göra ändringar i en överenskommelse som minskar oron, lägga till vissa utvärderingskriterier, eller justera utvärderingsfrekvensen. Ta upp oron om du tycker att det kan vara värdefullt att resonera om den.
 
 Att avgöra om ett argument är en invändning eller oro är ibland beroende av sammanhanget.
 

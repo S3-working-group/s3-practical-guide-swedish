@@ -74,8 +74,8 @@ terms:
     glossary: En individ eller grupp som delegerar ansvarigheten för en domän till andra.
   deliverable:
     name: Leverabel
-    definition: En **leverabel** är en produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.
-    glossary: En produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.
+    definition: En **leverabel** är en produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft.
+    glossary: En produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft.
   domain:
     name: Domän
     definition: En **domän** är ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.
@@ -160,7 +160,7 @@ terms:
   organizational-driver:
     name: Organisatorisk drivkraft
     definition:
-    glossary: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.
+    glossary: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.
   pattern:
     name: Mönster
     definition: Ett **mönster** är en process, teknik eller riktlinje som fungerar som en mall för att framgångsrikt agera på en viss typ av utmaning eller möjlighet.
@@ -209,8 +209,8 @@ terms:
     glossary: En strategi för att samorganisera där människor som påverkas av beslut kan påverka dem då det finns skäl att göra det.
   strategy:
     name: Strategi
-    definition: En **strategi** är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.
-    glossary: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.
+    definition: En **strategi** är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.
+    glossary: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.
   subdomain:
     name: Underdomän
     definition:
@@ -218,7 +218,7 @@ terms:
   subdriver:
     name: Underliggande drivkraft
     definition:
-    glossary: En underliggande drivkraft uppstår som en konsekvens av att agera på en annan drivkraft (den överliggande drivkraften) och är nödvändig för att på ett ändamålsenligt sätt kunna svara på den överliggande drivkraften.
+    glossary: En underliggande drivkraft uppstår som en konsekvens av att svara på en annan drivkraft (den överliggande drivkraften) och är nödvändig för att på ett ändamålsenligt sätt kunna svara på den överliggande drivkraften.
   superdriver:
     name: Överliggande drivkraft
     definition:
@@ -253,5 +253,5 @@ terms:
     glossary: "Värderade principer som styr beteende. Icke att förväxla med \"värde\" i samband med en drivkraft."
   waste:
     name: Spill
-    definition: "**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för en (mer) ändamålsenlig respons på en drivkraft."
-    glossary: Allt som är onödigt för — eller står i vägen för — en (mer) effektiv respons på en drivkraft.
+    definition: "**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för ett (mer) ändamålsenligt svar på en drivkraft."
+    glossary: Allt som är onödigt för — eller står i vägen för — ett (mer) effektivt svar på en drivkraft.

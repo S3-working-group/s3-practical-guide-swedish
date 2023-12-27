@@ -16,8 +16,8 @@ prev_page_url: "open-systems.html"
   <dd><p>Bjud in en medlem i din organisation att ge dig konstruktiv återkoppling på din prestation i en roll eller i ett team, om ditt allmänna deltagande och bidrag, eller om något annat område som du vill utveckla.</p></dd>
 
   <dt><a href="peer-review.html">Kollegial utvärdering</a></dt>
-  <dd><p>Stötta varandra i att lära och växa i de roller och team du arbetar i.</p></dd>
+  <dd><p>Stötta varandra i att lära och växa i de roller och team ni arbetar i.</p></dd>
 
   <dt><a href="development-plan.html">Utvecklingsplan</a></dt>
-  <dd><p>En plan för hur man kan utveckla mer verkansfulla sätt att ansvara för ett område som man kommit överens om mellan delegator och delegat.</p></dd>
+  <dd><p>En plan för hur man kan utveckla mer ändamålsenliga sätt att ansvara för ett område som man kommit överens om mellan delegator och delegat.</p></dd>
 </dl>

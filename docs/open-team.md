@@ -7,7 +7,7 @@ prev_page_url: "representative.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Avsiktligen skapa ansvar för en domän genom att bjuda in, snarare än genom att peka ut, och begära att de inbjudna bidrar när de kan.
+<div class="card summary"><div class="card-body">Avsiktligen skapa ansvar för en domän genom att bjuda in, snarare än genom att dela ut, och begära att de inbjudna bidrar när de kan.
 </div></div>
 _Ett **öppet team** är en grupp människor som bjuds in att bidra till det arbete och den styrning som görs inom en domän när de kan._
 

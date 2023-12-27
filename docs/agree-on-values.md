@@ -16,7 +16,7 @@ _**Värderingar** är grundläggande principer som vägleder beteende. Värderin
 
 Värderingar kan ge vägledning till lämpliga åtgärder, även när tydliga <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a> saknas.
 
-Att gemensamt anta en uppsättning värderingar stöder en organisations ändamålsenlighet. Det:
+Att gemensamt anta en uppsättning värderingar stöder en organisations ändamålsenlighet. Det
 
 -   minskar risken för **missförstånd**
 -   hjälper till att **ensa** beslutsfattande och åtgärder

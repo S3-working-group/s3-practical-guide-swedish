@@ -27,7 +27,7 @@ En fraktal organisation har minst tre nivåer:
 
 - första nivån: **kretsar** (dvs organisationer, grenar, avdelningar eller projekt)
 - andra nivån: **funktionsspecifika [delegatscirklar](delegate-circle.html)** för att dela lärande och för att ingå och förädla överenskommelser på uppdrag av funktionsspecifika domäner
-- tredje nivå: en **tvärfunktionell delegatscirkel** för att ingå och förädla överenskommelser som respons på drivkrafter som påverkar de övergripande organisatoriska kretsarna
+- tredje nivå: en **tvärfunktionell delegatscirkel** för att ingå och förädla överenskommelser som svar på drivkrafter som påverkar de övergripande organisatoriska kretsarna
 
 ## Att bilda en fraktal organisation
 

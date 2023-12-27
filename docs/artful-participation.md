@@ -19,7 +19,7 @@ _Skickligt deltagande_ är ett **individuellt åtagande** att:
 -   **utveckla medvetenhet och förståelse** för personers individuella och gemensamma behov
 -   **utveckla de nödvändiga färdigheterna**
 -   **stötta andra** att delta på ett skickligt sätt
--   ta upp hinder och förbättringsförslag inför varandra vid behov
+-   ta upp hinder och förbättringsförslag inför varandra vid behov.
 
 ## Fördelarna med skickligt deltagande
 
@@ -29,7 +29,7 @@ Skickligt deltagande
 - bidrar till att utveckla bättre team
 - bygger eget ansvar, integritet och förtroende
 - skapar en kultur av ömsesidigt stöttning och nära samarbete
-- ju fler som använder det desto mer kraftfullt är det
+- blir kraftfullare ju fler som använder det.
 
 ![Balansera autonomi och samarbete genom skickligt deltagande](img/illustrations/balance-autonomy-collaboration-alt.png)
 
@@ -44,4 +44,4 @@ Skickligt deltagande
     -   samarbete och interaktion med andra?
     -   organisationen?
     -   våra kunder eller klienter?
-    -   den vidare omgivningen?
+    -   den bredare omgivningen?

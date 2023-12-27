@@ -58,7 +58,7 @@ För att uppmuntra en kultur med en hög grad av självansvarighet, måste alla 
 -   Hitta andra som kan hjälpa dig om du upptäcker att du inte kan ta hand om det du ansvarar för.
 -   Bryt överenskommelser när det är tydligt att nyttan för organisationen av det är större än kostnaden av att först vänta på en förändring av överenskommelsen. Och ta ansvar för eventuella konsekvenser, inklusive att följa upp så snart som möjligt med de som påverkas.
 -   Tala ut om du inte håller med om något eller tror att det kan förbättras på ett värdefullt sätt, genom att ge luft åt eventuella invändningar så snart du blir medveten om dem.
--   Var proaktiv i att agera på situationer som kan hjälpa eller skada organisationen, antingen genom att hantera dem själv direkt, eller genom att hitta de människor som kan, och uppmärksamma dem på situationen.
+-   Var proaktiv genom att reagera på situationer som kan hjälpa eller skada organisationen, antingen genom att hantera dem själv direkt, eller genom att hitta de människor som kan, och uppmärksamma dem på situationen.
 -   Sträva mot att göra ditt bästa, både genom det arbete du gör och genom hur du samverkar eller direkt samarbetar med andra.
 -   Ta ansvar för ditt pågående lärande och din utveckling, och stötta andra att göra detsamma.
 

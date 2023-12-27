@@ -7,9 +7,9 @@ prev_page_url: "artful-participation.html"
 ---
 
 
-<div class="card summary"><div class="card-body">Ensa samarbetsformerna med De Sju Principerna.
+<div class="card summary"><div class="card-body">Rätta in samarbetsformerna i enlighet med De Sju Principerna.
 </div></div>
-Att anta De Sju Principerna minskar behovet av uttryckliga överenskommelser, och vägleder anpassningen av S3-mönster för att passa organisationens situation.
+Att anta De Sju Principerna minskar behovet av uttryckliga överenskommelser, och vägleder anpassning av S3-mönster för att passa organisationens situation.
 
 En organisations värderingar måste omfatta De Sju Principerna.
 

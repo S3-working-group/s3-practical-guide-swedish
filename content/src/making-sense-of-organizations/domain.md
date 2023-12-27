@@ -39,6 +39,6 @@ Delegaten(erna) kan göra det som de tror kommer att hjälpa dem att uppnå sitt
 Det är också möjligt att förstå en domän i förhållande till organisatoriska drivkrafter:
 
 - domänens **primära drivkraft** - den huvudsakliga drivkraften delegaten/delegaterna svarar på
-- den uppsättning av sekundära, underliggande, drivkrafter organisationen kan dra nytta av att ta itu med samtidigt som man agerar på den primära drivkraften, vilket inkluderar: 
+- den uppsättning av sekundära, underliggande, drivkrafter organisationen kan dra nytta av att ta itu med samtidigt som man svarar på den primära drivkraften, vilket inkluderar: 
     - **nyckelansvar** (alla drivkrafter som följer direkt från domänens primära drivkraft)
     - **beroenden** och **externa begränsningar** (drivkrafter relaterade till andra domäner eller till miljön utanför organisationen) som begränsar delegaternas autonomi

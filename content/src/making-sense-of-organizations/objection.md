@@ -31,11 +31,11 @@ Utnyttja en mångfald av perspektiv och var öppen för att utmana ditt eget, f�
 
 ## Oro
 
-**Inte alla argument som framförs är invändningar, men de kan avslöja farhågor:.**
+**Inte alla argument som framförs är invändningar, men de kan avslöja farhågor.**
 
 {{define:concern}}
 
-Oro kan peka på sätt att vidareutveckla överenskommelser, som att göra ändringar i en överenskommelse som lindrar oron, lägga till vissa utvärderingskriterier, eller justera utvärderingsfrekvensen. Ta upp oron om du tycker att det kan vara värdefullt att resonera om den.
+Oro kan visa på sätt att vidareutveckla överenskommelser, som t.ex. att göra ändringar i en överenskommelse som minskar oron, lägga till vissa utvärderingskriterier, eller justera utvärderingsfrekvensen. Ta upp oron om du tycker att det kan vara värdefullt att resonera om den.
 
 Att avgöra om ett argument är en invändning eller oro är ibland beroende av sammanhanget.
 

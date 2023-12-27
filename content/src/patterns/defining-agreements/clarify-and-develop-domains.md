@@ -24,7 +24,7 @@ Ett enkelt sätt att stödja intressenter i att utveckla en gemensam förståels
 -   Primära mätvärden
 -   Utvärdering
 
-På [S3 Canvas microsite] hittar du en mängd olika mallar som du kan använda för att (sam-)skapa och dokumentera domänbeskrivningar.
+På [mikrosajten för S3s diskussionsdukar] hittar du en mängd olika mallar som du kan använda för att (sam-)skapa och dokumentera domänbeskrivningar.
 
 (http://s3canvas.sociocracy30.org/s3-delegation-canvas.html)
 
@@ -59,7 +59,7 @@ En organisations domän bör utformas med kunden och affärsmodellen i åtanke, 
 
 Utvärdera organisationens domän regelbundet för att stötta de ansvariga för organisationen att snabbt lära och anpassa.
 
-Ett sätt att förtydliga en organisations domän är genom att arbeta med en [S3 Organisation Canvas](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
+Ett sätt att förtydliga en organisations domän är genom att arbeta med en [duk för diskussion om organsationer](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
 
 
 ## Aspekter som är värdefulla att tydliggöra i en domänbeskrivning

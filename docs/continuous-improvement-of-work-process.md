@@ -18,7 +18,7 @@ prev_page_url: "open-space-for-change.html"
 
 ## Spill och kontinuerlig förbättring
 
-_**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för en (mer) ändamålsenlig respons på en drivkraft._
+_**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för ett (mer) ändamålsenligt svar på en drivkraft._
 
 Spill finns i olika former och på olika abstraktionsnivåer (uppgifter, processer, organisationsstruktur, mentala modeller ...)
 

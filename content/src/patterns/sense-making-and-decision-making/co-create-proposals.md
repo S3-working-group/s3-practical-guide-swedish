@@ -1,7 +1,7 @@
 # Samskapa förslag
 
 <summary>
-För samman människor så att de tillsammans kan skapa förslag som respons på organisatoriska drivkrafter: utnyttja kollektiv intelligens, bygg upp en känsla av ägandeskap och öka engagemang och ansvarighet.
+För samman människor så att de tillsammans kan skapa förslag som svar på organisatoriska drivkrafter: utnyttja kollektiv intelligens, bygg upp en känsla av ägandeskap och öka engagemang och ansvarighet.
 </summary>
 
 Det finns många sätt att skapa förslag tillsammans. De följer vanligtvis ett liknande mönster:
