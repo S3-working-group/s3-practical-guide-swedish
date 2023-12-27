@@ -35,7 +35,7 @@ Utnyttja en mångfald av perspektiv och var öppen för att utmana ditt eget, f�
 
 {{define:concern}}
 
-Oro kan peka på sätt att vidareutveckla överenskommelser, som att göra ändringar i en överenskommelse som lindrar oron, lägga till vissa utvärderingskriterier, eller justera utvärderingsfrekvensen. Ta upp oron om du tycker att det kan vara värdefullt att resonera om dem.
+Oro kan peka på sätt att vidareutveckla överenskommelser, som att göra ändringar i en överenskommelse som lindrar oron, lägga till vissa utvärderingskriterier, eller justera utvärderingsfrekvensen. Ta upp oron om du tycker att det kan vara värdefullt att resonera om den.
 
 Att avgöra om ett argument är en invändning eller oro är ibland beroende av sammanhanget.
 

@@ -25,7 +25,7 @@ Närhelst du ser en viktig fråga, se till att den tas om hand, antingen genom a
 
 De flesta organisationer har en hierarki av delegering och därför en hierarki av ansvarighet. Detta innebär att ansvarighet för utfall fördelas i hela organisationen, medan övergripande ansvarighet för integriteten i organisationen vilar på dem som tar juridiskt ansvar för organisationen som helhet. I många organisationer av idag pekar detta i allmänhet upp längs en ledarskapshierarki till den position där ansvaret ytterst axlas. Men i andra sammanhang, som till exempel i en gemenskap, ligger det övergripande ansvaret lika mycket hos alla som är involverade.
 
-Oavsett det speciella organisatoriska sammanhanget, är en explicit hierarki av ansvarighet användbar eftersom det avslöjar förhållandet mellan [delegator] och [delegat(er).
+Oavsett det speciella organisatoriska sammanhanget, är en explicit hierarki av ansvarighet användbar eftersom det avslöjar förhållandet mellan delegator och delegat(er).
 
 ## Från ”hålla ansvarig” till självansvarighet
 
