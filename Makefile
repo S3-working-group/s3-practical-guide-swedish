@@ -23,7 +23,7 @@ rebuild-site:
 	mdbuild all-in-one-jekyll-page $(PROJECT) -vv
 
 serve-site:
-	open http://127.0.0.1:4000/
+	# open http://127.0.0.1:4000/
 	# serve jekyll site
 	cd docs;jekyll serve
 	# release the port if something went wrong:
