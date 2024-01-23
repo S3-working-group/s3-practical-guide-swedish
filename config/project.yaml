@@ -2,7 +2,7 @@ defaults:
   # these are available for substitution in templates
   variables:
     # Version of the practical guide (added to all releases)
-    version: "v2022-04-26-se-0.9.0"
+    version: "v2022-04-26-se-0.9.1"
     # Language and text direction for Jekyll site and epub
     html-language: "se"
     html-dir: "ltr"
