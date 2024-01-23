@@ -1,7 +1,7 @@
 # Serviceorganisation
 
 <summary>
-<strong>Samarbete med flera intressenter och gemensam inriktning mot en gemensam drivkraft (eller målbild).</strong>
+Samarbete med flera intressenter och gemensam inriktning mot en delad drivkraft (eller målbild).
 </summary>
 
 - förbättrar möjligheten till likvärdighet mellan olika enheter

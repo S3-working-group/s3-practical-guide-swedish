@@ -1,5 +1,9 @@
 ---
 title: "Ett ramverk för sunt förnuft i organisationer och team"
+next_page_title: "En organisation där BÅDE människor och organisationen kan frodas"
+next_page_url: "thrive.html"
+prev_page_title: "Fraktal organisation"
+prev_page_url: "fractal-organization.html"
 ---
 
 
@@ -13,17 +17,3 @@ Vi har summerat kärnan i detta _sunda förnuft_ till ett koncist ramverk för t
 Vi korsrefererade de 10 principer som utgör ramen till mönstren i S3, så att man kan använda CSF som en guide för att identifiera de mönster som hjälper till att tillgodose specifika behov.
 
 CSF kan tillämpas för att utveckla enskilda team eller hela organisationer. 
-
-
-<div class="bottom-nav">
-<a href="fractal-organization.html" title="Tillbaka till: Fraktal organisation">◀</a> <a href="thrive.html" title="Läs vidare: En organisation där BÅDE människor och organisationen kan frodas">▶ Läs vidare: En organisation där BÅDE människor och organisationen kan frodas</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'thrive.html';
-    return false;
-});
-</script>
-

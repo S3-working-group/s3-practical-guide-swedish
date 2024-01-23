@@ -1,10 +1,14 @@
 ---
 title: "Bjud in till förändring"
+next_page_title: "Öppen kultur för förändring"
+next_page_url: "open-space-for-change.html"
+prev_page_title: "Var förändringen"
+prev_page_url: "be-the-change.html"
 ---
 
 
-<strong>Klargör argumenten för att förändra och bjud in människor att delta och bidra.</strong>
-
+<div class="card summary"><div class="card-body">Klargör argumenten för att förändra och bjud in människor att delta och bidra.
+</div></div>
 Att bjuda in till, snarare än att påtvinga, förändring bidrar till att minska motståndet och gör det möjligt för människor att välja själva.
 
 Vid inbjudan:
@@ -15,16 +19,3 @@ Vid inbjudan:
 - acceptera eventuell skepticism och tvivel
 
 Bjud in de inblandade och påverkade till regelbunden utvärdering av utfallet.
-
-<div class="bottom-nav">
-<a href="be-the-change.html" title="Tillbaka till: Var förändringen">◀</a> <a href="bringing-in-s3.html" title="Upp: Börja använda S3">▲</a> <a href="open-space-for-change.html" title="Läs vidare: Öppen kultur för förändring">▶ Läs vidare: Öppen kultur för förändring</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'open-space-for-change.html';
-    return false;
-});
-</script>
-

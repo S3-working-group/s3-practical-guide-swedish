@@ -1,13 +1,17 @@
 ---
 title: "Förbered möten"
+next_page_title: "Incheckning"
+next_page_url: "check-in.html"
+prev_page_title: "Facilitera möten"
+prev_page_url: "facilitate-meetings.html"
 ---
 
 
-<strong>Förbered möten i förväg för att göra dem mer ändamålsenliga.</strong>
-
+<div class="card summary"><div class="card-body">Förbered möten i förväg för att göra dem mer ändamålsenliga.
+</div></div>
 Några saker att tänka på när man förbereder ett möte:
 
-- förtydliga och kommunicera <a href="#" class="tooltip" title="Drivkraft: En persons eller grupps motiv för att agera på en specifik situation.">drivkraften</a> för, och <a href="#" class="tooltip" title="Avsett utfall: Det förväntade utfallet av en överenskommelse, ett projekt, en åtgärd eller strategi.">avsedda resultat</a> av mötet
+- förtydliga och kommunicera <a href="glossary.html#entry-driver" class="glossary-tooltip" data-toggle="tooltip" title="Drivkraft: En persons eller grupps motiv för att agera på en specifik situation.">drivkraften</a> för, och <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Avsett utfall: Det förväntade utfallet av en överenskommelse, ett projekt, en åtgärd eller strategi.">avsedda resultat</a> av mötet
 - bestäm vem som ska bjudas in
 - skapa en dagordning
 - planera mötet tillräckligt långt i förväg, så att det finns tid att förbereda sig
@@ -38,16 +42,3 @@ För varje punkt på föredragningslistan enas om:
 - granska dagordningen och fundera över hur du kan bidra till varje punkt
 - ta upp dina invändningar mot dagordningen, och försök om möjligt lösa dem före mötet
 - granska förbättringsförslag från senaste mötets utvärdering och fundera över hur **du** kan agera på dem
-
-<div class="bottom-nav">
-<a href="facilitate-meetings.html" title="Tillbaka till: Facilitera möten">◀</a> <a href="meeting-practices.html" title="Upp: Mötestekniker">▲</a> <a href="check-in.html" title="Läs vidare: Incheckning">▶ Läs vidare: Incheckning</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'check-in.html';
-    return false;
-});
-</script>
-

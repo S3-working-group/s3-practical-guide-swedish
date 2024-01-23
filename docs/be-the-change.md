@@ -1,21 +1,12 @@
 ---
 title: "Var förändringen"
+next_page_title: "Bjud in till förändring"
+next_page_url: "invite-change.html"
+prev_page_title: "Anpassa mönster till sammanhang"
+prev_page_url: "adapt-patterns-to-context.html"
 ---
 
 
-<strong>Led genom att vara ett exempel.</strong>
-
+<div class="card summary"><div class="card-body">Led genom att vara ett exempel.
+</div></div>
 Uppför dig och agera på det sätt du vill att andra ska uppföra sig och agera på.
-
-<div class="bottom-nav">
-<a href="create-a-pull-system-for-organizational-change.html" title="Tillbaka till: Skapa ett flödebaserat system för organisatorisk förändring">◀</a> <a href="bringing-in-s3.html" title="Upp: Börja använda S3">▲</a> <a href="invite-change.html" title="Läs vidare: Bjud in till förändring">▶ Läs vidare: Bjud in till förändring</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'invite-change.html';
-    return false;
-});
-</script>
-

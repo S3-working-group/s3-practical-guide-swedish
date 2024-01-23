@@ -1,25 +1,16 @@
 ---
 title: "Förtydliga avsett utfall"
+next_page_title: "Beskriv leverabler"
+next_page_url: "describe-deliverables.html"
+prev_page_title: "Teckna ner överenskommelser"
+prev_page_url: "record-agreements.html"
 ---
 
 
-<strong>Var tydlig med den förväntade effekten av överenskommelser, aktiviteter, projekt och strategier.</strong>
-
+<div class="card summary"><div class="card-body">Var tydlig och uttryck den förväntade effekten av överenskommelser, aktiviteter, projekt och strategier.
+</div></div>
 Godkänn och teckna ner en tydlig beskrivning av det avsedda utfallet.
 
-Det avsedda utfallet kan användas för att definiera [utvärderingskriterier](evaluation-criteria.html) och <a href="#" class="tooltip" title="Metrik: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång">mätetal</a> för att värdera det verkliga utfallet.
+Det avsedda utfallet kan användas för att definiera [utvärderingskriterier](evaluation-criteria.html) och <a href="glossary.html#entry-metric" class="glossary-tooltip" data-toggle="tooltip" title="Mätvärde: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång">mätvärden</a> för att värdera det verkliga utfallet.
 
 ![Avsett utfall och utvärderingskriterier](img/templates/outcome-and-criteria.png)
-
-<div class="bottom-nav">
-<a href="clarify-and-develop-domains.html" title="Tillbaka till: Tydliggör och utveckla domäner">◀</a> <a href="defining-agreements.html" title="Upp: Definiera överenskommelser">▲</a> <a href="describe-deliverables.html" title="Läs vidare: Beskriv leverabler">▶ Läs vidare: Beskriv leverabler</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'describe-deliverables.html';
-    return false;
-});
-</script>
-

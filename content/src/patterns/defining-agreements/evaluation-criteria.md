@@ -1,7 +1,7 @@
 # Utvärderingskriterier
 
 <summary>
-<strong>Utveckla väl definierade utvärderingskriterier för att avgöra om en överenskommelse haft önskad effekt.</strong>
+Utveckla väl definierade utvärderingskriterier för att kunna avgöra om en överenskommelse haft önskad effekt.
 </summary>
 
 - Sikta på **enkla och entydiga** kriterier och dokumentera dem (för att undvika diskussion eller onödig dialog vid senare utvärdering av [överenskommelsen](glossary:agreement)).

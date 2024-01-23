@@ -1,7 +1,66 @@
 ---
 title: "Ändringslogg"
+next_page_title: "Alfabetisk lista över alla mönster"
+next_page_url: "pattern-index.html"
+prev_page_title: "Bilagor"
+prev_page_url: "appendix.html"
 ---
 
+
+## Changes 2022-04-26
+
+- added detailed description and new illustrations to [Test Arguments Qualify as Objections](test-arguments-qualify-as-objections.html) 
+
+## Changes 2022-04-05
+
+- added detailed description and new illustrations to [Resolve Objections](resolve-objections.html) 
+
+## Changes 2022-02-04
+
+- added detailed description of the [Consent Decision-Making](consent-decision-making.html) process
+- revised text of [Reasoned Decision-Making](reasoned-decision-making.html)
+- updated 20 illustration to align with style of new illustration for Consent Decision-Making 
+
+## Changes 2022-01-27
+
+- added [Reasoned Decision-Making](reasoned-decision-making.html)
+- updated pattern categories: 
+    - new category *Evolving Organizations*
+    - renamed *Co-Creation and Evolution* to *Sense-Making and Decision-Making*
+    - renamed *Focused Interactions* to *Meeting Formats*
+    - renamed *Enablers of Collaboration* to *Enablers of Co-Creation*
+    - and moved some patterns around
+- Aligned spelling of decision-making throughout the guide
+- revised summary of [Resolve Objections](resolve-objections.html)
+- revised text of [Driver Mapping](driver-mapping.html) (step 7)
+
+## Changes 2021-09-22
+
+- fixed a link on the pattern map and added links to the principles
+- fixed some typos, minor revisions to the text 
+
+## Changes 2021-09-03
+
+- revised text about [Objections](objection.html) as well as the definitions of <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Invändning: Ett argument – i relation till ett förslag, avtal, en aktivitet eller det rådande läget – som avslöjar konsekvenser eller risker bör undvikas, eller visar på värdefull förbättring.">Objection</a> and <a href="glossary.html#entry-concern" class="glossary-tooltip" data-toggle="tooltip" title="Oro: Ett antagande som inte kan backas upp av resonemang eller tillräckligt med bevis för att bevisa dess relevans eller giltighet.">Concern</a>
+
+## Changes 2021-08-15
+
+- renamed *Open Domain* to [Open Team](open-team.html)
+
+## Changes 2021-06-18
+
+- added a dedicated chapter for each of the Seven Principles
+- revised the ten principles of the Common Sense Framework
+- updated section about governance in the introduction 
+    - added more text to explain how governance can be distributed throughout the organization
+    - more examples for governance decisions
+- corrected a few typos
+- several small revisions
+
+## Changes 2021-05-15
+
+- [Navigate via Tension](navigate-via-tension.html): added more explanation about passing on drivers to another domain
+- [Clarify and Develop Domains](clarify-and-develop-domains.html): more explanation about refining the elements of a domain description, more information about metrics, monitoring and evaluation, added template illustration, 
 
 ## Changes 2021-03-15
 
@@ -18,7 +77,7 @@ title: "Ändringslogg"
 
 ## Changes 2021-02-06
 
-- Revised glossary definitions for <a href="#" class="tooltip" title="Halv-autonomi: Människors självständighet att själva bestämma hur man skapar värde, inom ramen för begränsningarna i deras domän, och genom invändningar från delegatorn, representanter eller andra.">Semi-Autonomy</a>, <a href="#" class="tooltip" title="Självorganisering: Alla aktiviteter eller processer genom vilka människor organiserar arbete. Självorganisering sker inom begränsningarna av ett område, men utan direkt inflytande av externa agenter. I varje organisation eller grupp samexisterar självorganisation med externt inflytande (t.ex. externa invändningar eller styrningsbeslut som påverkar domänen).">Self-Organization</a> and <a href="#" class="tooltip" title="Sociokrati: En strategi för att samorganisera där människor som påverkas av beslut kan påverka dem då det finns skäl att göra det.">Sociocracy</a>
+- Revised glossary definitions for <a href="glossary.html#entry-semi-autonomy" class="glossary-tooltip" data-toggle="tooltip" title="Halv-autonomi: Människors självständighet att själva bestämma hur man skapar värde, inom ramen för begränsningarna i deras domän, och genom invändningar från delegatorn, representanter eller andra.">Semi-Autonomy</a>, <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Självorganisering: Alla aktiviteter eller processer genom vilka människor organiserar arbete. Självorganisering sker inom begränsningarna av ett område, men utan direkt inflytande av externa agenter. I varje organisation eller grupp samexisterar självorganisation med externt inflytande (t.ex. externa invändningar eller styrningsbeslut som påverkar domänen).">Self-Organization</a> and <a href="glossary.html#entry-sociocracy" class="glossary-tooltip" data-toggle="tooltip" title="Sociokrati: En strategi för att samorganisera där människor som påverkas av beslut kan påverka dem då det finns skäl att göra det.">Sociocracy</a>
 - Renamed Pattern: *Those Affected Decide* to *Involve Those Affected*
 - Several small corrections and revisions
 
@@ -26,11 +85,11 @@ title: "Ändringslogg"
 
 - Added the **[Common Sense Framework](csf.html)** to the Practical Guide
 - A new structure of the Practical Guide that makes that the relevant parts easier to find: 
-    - [What is Sociocracy 3.0](what-is-s3.html)
+    - [Vad är Sociokrati 3.0](what-is-s3.html)
     - [De Sju Principerna](principles.html)
     - [Nyckelbegrepp för att förstå organisationer](making-sense-of-organizations.html)
-    - [The Patterns](patterns.html)
-    - [Ramverket för Sunt Förnuft](csf.html)
+    - [Mönstren](patterns.html)
+    - [The Common Sense Framework - ramverket för sunt förnuft](csf.html)
     - [Bilagor](appendix.html)
 - Redesigned the website for better usability: 
     - A new responsive menu that provides direct access to all patterns and other sections of the guide
@@ -60,7 +119,7 @@ title: "Ändringslogg"
 
 - revised all illustrations for a more consistent style and increased readability
 - revised introduction: more explanation about patterns and core concepts
-- updated glossary: revised explanation of <a href="#" class="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">Delegator</a>, <a href="#" class="tooltip" title="Delegat: En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.">Delegatee</a>, <a href="#" class="tooltip" title="Roll: En domän som delegeras till en person som då blir rollinnehavare.">Role</a> and <a href="#" class="tooltip" title="Mönster: En process, teknik eller riktlinje som fungerar som en mall för att framgångsrikt agera på en viss typ av utmaning eller möjlighet.">Pattern</a>, added <a href="#" class="tooltip" title="Rollinnehavare: En person som tar ansvar för en roll.">Role Keeper</a>
+- updated glossary: revised explanation of <a href="glossary.html#entry-delegator" class="glossary-tooltip" data-toggle="tooltip" title="Delegator: En individ eller grupp som delegerar ansvarigheten för en domän till andra.">Delegator</a>, <a href="glossary.html#entry-delegatee" class="glossary-tooltip" data-toggle="tooltip" title="Delegat: En individ eller grupp som tar ansvar för en domän som delegeras till dem, genom att bli rollinnehavare eller ett team.">Delegatee</a>, <a href="glossary.html#entry-role" class="glossary-tooltip" data-toggle="tooltip" title="Roll: En domän som delegeras till en person som då blir rollinnehavare.">Role</a> and <a href="glossary.html#entry-pattern" class="glossary-tooltip" data-toggle="tooltip" title="Mönster: En process, teknik eller riktlinje som fungerar som en mall för att framgångsrikt agera på en viss typ av utmaning eller möjlighet.">Pattern</a>, added <a href="glossary.html#entry-role-keeper" class="glossary-tooltip" data-toggle="tooltip" title="Rollinnehavare: En person som tar ansvar för en roll.">Role Keeper</a>
 
 ## Changes 2020-04-29
 
@@ -84,13 +143,13 @@ title: "Ändringslogg"
 
 ## Changes 2019-06-27
 
-- *Objection*: further refined definition of objection, and updated the glossary term for <a href="#" class="tooltip" title="Invändning: Ett argument som rör en (föreslagen) överenskommelse, åtgärd eller beslut och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar.">objection</a> accordingly
+- *Objection*: further refined definition of objection, and updated the glossary term for <a href="glossary.html#entry-objection" class="glossary-tooltip" data-toggle="tooltip" title="Invändning: Ett argument – i relation till ett förslag, avtal, en aktivitet eller det rådande läget – som avslöjar konsekvenser eller risker bör undvikas, eller visar på värdefull förbättring.">objection</a> accordingly
 - replaced "action" with activity in a few places where it made more sense
 - fixed a few typos
 
 ## Changes 2019-05-03
 
-- refined glossary terms for <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">agreement</a>, <a href="#" class="tooltip" title="Organisation: En grupp människor som samarbetar mot en delad drivkraft (eller mål). Ofta delas en organisation upp i flera grupper.">organization</a> and <a href="#" class="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a>, added glossary term for <a href="#" class="tooltip" title="Mål: Ett (specifikt) resultat som en person eller grupp eller organisation vill uppnå, en målsättning eller ambition.">objective</a>
+- refined glossary terms for <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">agreement</a>, <a href="glossary.html#entry-organization" class="glossary-tooltip" data-toggle="tooltip" title="Organisation: En grupp människor som samarbetar mot en delad drivkraft (eller mål). Ofta delas en organisation upp i flera grupper.">organization</a> and <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a>, added glossary term for <a href="glossary.html#entry-objective" class="glossary-tooltip" data-toggle="tooltip" title="Mål: Ett (specifikt) resultat som en person eller grupp eller organisation vill uppnå, en målsättning eller ambition.">objective</a>
 - Principle of Accountability: clarified individual accountability for work as well as for collaboration
 - [Contract For Successful Collaboration](contract-for-successful-collaboration.html): revised text
 - [Describe Deliverables](describe-deliverables.html): added User Stories as an example for describing deliverables
@@ -114,10 +173,10 @@ title: "Ändringslogg"
 
 **Begreppslista:**
 
-- added <a href="#" class="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a> to glossary (and replaced group with team throughout the practical guide where applicable)
-- updated definition for <a href="#" class="tooltip" title="Leverabel: En produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.">deliverable</a>
+- added <a href="glossary.html#entry-team" class="glossary-tooltip" data-toggle="tooltip" title="Team: En grupp människor som samarbetar mot en gemensam drivkraft (eller mål). Vanligtvis är ett team en del av en organisation, eller så bildas det som ett samarbete mellan flera organisationer.">team</a> to glossary (and replaced group with team throughout the practical guide where applicable)
+- updated definition for <a href="glossary.html#entry-deliverable" class="glossary-tooltip" data-toggle="tooltip" title="Leverabel: En produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft.">deliverable</a>
 - removed **driver statement** from text and glossary
-- updated definitions for <a href="#" class="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">governance</a>, <a href="#" class="tooltip" title="Operativ verksamhet: Att organisera, planera och utföra de dagliga aktiviteterna inom de begränsningar som definierats genom strukturell styrning.">operations</a>, and <a href="#" class="tooltip" title="Självorganisering: Alla aktiviteter eller processer genom vilka människor organiserar arbete. Självorganisering sker inom begränsningarna av ett område, men utan direkt inflytande av externa agenter. I varje organisation eller grupp samexisterar självorganisation med externt inflytande (t.ex. externa invändningar eller styrningsbeslut som påverkar domänen).">self-organization</a>
+- updated definitions for <a href="glossary.html#entry-governance" class="glossary-tooltip" data-toggle="tooltip" title="Strukturell styrning: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.">governance</a>, <a href="glossary.html#entry-operations" class="glossary-tooltip" data-toggle="tooltip" title="Operativ verksamhet: Att organisera, planera och utföra de dagliga aktiviteterna inom de begränsningar som definierats genom strukturell styrning.">operations</a>, and <a href="glossary.html#entry-self-organization" class="glossary-tooltip" data-toggle="tooltip" title="Självorganisering: Alla aktiviteter eller processer genom vilka människor organiserar arbete. Självorganisering sker inom begränsningarna av ett område, men utan direkt inflytande av externa agenter. I varje organisation eller grupp samexisterar självorganisation med externt inflytande (t.ex. externa invändningar eller styrningsbeslut som påverkar domänen).">self-organization</a>
 
 **Illustrations:**
 
@@ -143,7 +202,7 @@ title: "Ändringslogg"
 **Begreppslista:**
 
 - **updated:** account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
-- **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
+- **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team and open domain
 - **removed:** peer driver
 
 **Changes to Introduction**
@@ -153,7 +212,7 @@ title: "Ändringslogg"
     - *The Principle of Empiricism*: removed reference to "falsification"
     - *The Principle of Consent* is now explained more clearly as "Raise, seek-out and resolve objections to decisions and actions"
 - *Governance, Semi-Autonomy and Self-Organization*: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to "coordination", and clarified the distinction between governance and operations
-- *Drivers and Domains* - we clarified how domains can be understood in relation to organizational drivers
+- *Drivers and Domains*: we clarified how domains can be understood in relation to organizational drivers
 
 **Changes to Patterns:**
 
@@ -163,7 +222,7 @@ title: "Ändringslogg"
 - [Agreement](record-agreements.html): improved description, updated template
 - [Artful Participation](artful-participation.html): improved summary
 - [Clarify Intended Outcome](clarify-intended-outcome.html) (renamed from *Intended Outcome*): improved description
-- [Consent Decision Making](consent-decision-making.html): improved description, updated illustration
+- [Consent Decision-Making](consent-decision-making.html): improved description, updated illustration
 - [Continuous Improvement Of Work Process](continuous-improvement-of-work-process.html): improved description
 - [Contract For Successful Collaboration](contract-for-successful-collaboration.html): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 - [Coordination Meeting](coordination-meeting.html): clarified agenda items, updated illustration
@@ -184,7 +243,7 @@ title: "Ändringslogg"
 - [Logbook](logbook.html): clarified that there is no difference between logbooks for groups and logbooks for roles
 - [Navigate via Tension](navigate-via-tension.html): improved description, added a new illustration to clarify the distinction between *Navigate via Tension*, *Describe Organizational Drivers* and *Respond to Organizational Drivers*
 - *Objection*: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
-- [Open Domain](open-domain.html): improved description and updated illustration
+- [Open Domain](open-team.html): improved description and updated illustration
 - [Open Systems](open-systems.html): improved description
 - [Open Space for Change](open-space-for-change.html): renamed from *Open S3 Adoption*, improved description
 - [Peach Organization](peach-organization.html): clarified relationship between periphery and center
@@ -291,16 +350,3 @@ title: "Ändringslogg"
 - *Coordination Circle*
 - *Nested Domains*
 - *Qualify Driver*
-
-<div class="bottom-nav">
-<a href="appendix.html" title="Upp: Bilagor">▲</a> <a href="pattern-index.html" title="Läs vidare: Alfabetisk lista över alla mönster">▶ Läs vidare: Alfabetisk lista över alla mönster</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'pattern-index.html';
-    return false;
-});
-</script>
-

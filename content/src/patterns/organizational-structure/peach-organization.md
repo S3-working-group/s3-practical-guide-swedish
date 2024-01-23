@@ -1,7 +1,7 @@
 # Lagrad organisation
 
 <summary>
-<strong>Leverera värde i komplexa och konkurrenskraftiga miljöer genom <em>decentralisering</em> (av resurser och inflytande) och <em>direkt samverkan</em> mellan de som skapar värde och de kunder de tjänar.</strong>
+Leverera värde i komplexa och konkurrenskraftiga miljöer genom <em>decentralisering</em> (av resurser och inflytande) och <em>direkt samverkan</em> mellan de som skapar värde och de kunder och intressenter de tjänar.
 </summary>
 
 Team vid randen:

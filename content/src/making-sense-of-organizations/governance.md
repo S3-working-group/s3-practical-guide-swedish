@@ -2,13 +2,13 @@
 
 När människor tänker på styrning ("governance") tänker de ofta på bolagsstyrning, regelverk, praxis och processer som används för att styra och leda företaget. Traditionellt har många av dessa beslut ansett vara en uppgift för chefer och ledare i en organisatorisk ledningshierarki, men många andra över hela organisationen fattar ofta, eller åtminstone bidrar till, beslut om strukturell styrning, oavsett om de är medvetna om det eller inte. Den strukturella styrningen sker inte bara i den hierarkiska organisationsstrukturen utan även inom team, arbetsgrupper och till och med på individuell nivå.
 
-De flesta av dagens organisationer och team skulle gagnas av att utveckla kapacitet för gemensamt meningsskapande och av att utnyttja en mångfald perspektiv för att ändamålsenligt fatta och utveckla de beslut som krävs för att navigera i en komplex värld.
+De flesta av dagens organisationer och team skulle dra nytta av att utveckla kapacitet för gemensamt meningsskapande och av att utnyttja en mångfald perspektiv för att ändamålsenligt fatta och utveckla de beslut som krävs för att navigera i en komplex värld.
 
 Eftersom det krävs så många beslut för att driva en organisation på ett ändamålsenligt sätt, strävar S3 efter att möjliggöra produktivitet genom att tillåta människor att själva göra och bestämma så mycket som möjligt men samtidigt säkerställa samstämmighet i samverkan för en framgångsrik och ändamålsenlig organisation.
 
 Större självständighet för individer och team kräver tydliga överenskommelser (dvs. riktlinjer och begränsningar) som möjliggör ett smidigt samarbete mellan dessa team och personer, och som stöder uppnåendet av både långsiktiga och kortsiktiga mål. Regelbunden och återkommande utvärdering och successiv utveckling av överenskommelser säkrar att de förblir lämpliga för ändamålet.
 
-Medan ett beslut med kortsiktig och liten påverkan lätt kan ändras spontant, tjänar överenskommelser med större påverkan och som begränsar människors beteende och aktivitet, ofta på ett större deltagande och en tydlig [beslutsprocess](section:consent-decision-making). Dessa överenskommelser omfattar men är inte begränsade till frågor som: strategi, prioriteringar, fördelning av ansvar och makt att påverka, arbetsprocesser och många beslut om produkter och tjänster.
+Medan ett beslut med kortsiktig och liten påverkan lätt kan ändras spontant, tjänar överenskommelser med större påverkan och som begränsar människors beteende och aktivitet, ofta på ett större deltagande och en tydlig och avsiktlig [beslutsprocess](section:consent-decision-making). Dessa överenskommelser omfattar men är inte begränsade till frågor som: strategi, prioriteringar, fördelning av ansvar och makt att påverka, arbetsprocesser och många beslut om produkter och tjänster.
 
 Sådana överenskommelser måste dokumenteras, både för att man skall minnas dem och för att stödja ändamålsenlig [utvärdering](section:evaluate-and-evolve-agreements), men också för att kunna kommuniceras till berörda människor (som lämpligtvis också är [involverade i skapandet och förädlingen](section:involve-those-affected) av dessa överenskommelser).
 

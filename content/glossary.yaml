@@ -13,7 +13,7 @@ terms:
   accountability:
     name: Ansvarighet (princip)
     definition:
-    glossary: "**Agera när något behövs, gör vad du överenskommit och axla din del av ansvaret för organisationens framgång** så att det som behöver göras blir gjort, ingenting förbises och alla gör vad de kan för att bidra till organisationens ändamålsmässighet och integritet."
+    glossary: "**Agera när något behövs, gör vad du åtagit dig och axla din del av ansvaret för organisationens framgång** så att det som behöver göras blir gjort, ingenting förbises och alla gör vad de kan för att bidra till organisationens ändamålsmässighet och integritet."
   account:
     name: Ansvara för (v.)
     glossary: att ta på sig att göra någonting.
@@ -38,18 +38,18 @@ terms:
   check-in:
     name: Incheckning
     definition:
-    glossary: Ett kort yppande om vad som är aktuellt för dig och hur du känner dig, något som visar dina tankar, känslor, distraktioner eller behov.
+    glossary: Ett kort uttalande om vad som känns aktuellt för dig och hur du känner dig, något som visar dina tankar, känslor, distraktioner eller behov.
   complexity:
     name: Komplex
     glossary: En miljö där man inte vet vad man inte vet, orsak och verkan kan bara förstås i efterhand och åtgärder leder till oförutsägbara förändringar. [Snowden och Boone]
   concern:
     name: Oro
-    definition: En **oro** är ett antagande - eller en åsikt - om att göra något (även i avsaknad av invändningar) kan stå i vägen för en (mer) ändamålsenlig respons på en organisatorisk drivkraft.
-    glossary: Ett antagande – eller en åsikt – om att göra något (även i avsaknad av invändningar) skulle kunna stå i vägen för en (mer) ändamålsenlig respons på en organisatorisk drivkraft.
+    definition: En **oro** är ett antagande som inte kan backas upp av resonemang eller tillräckligt med bevis för att bevisa dess relevans eller giltighet.
+    glossary: Ett antagande som inte kan backas upp av resonemang eller tillräckligt med bevis för att bevisa dess relevans eller giltighet.
   consent:
     name: Samtycke (princip)
     definition:
-    glossary: "**Ta upp, undersök och lös upp invändningar mot beslut och åtgärder** så att risken för oönskade konsekvenser minskar och eventuella värdefulla sätt att förbättra kan upptäckas."
+    glossary: "**Ta upp, undersök och lös upp invändningar mot beslut och åtgärder** så att risken för oönskade konsekvenser minskar och eventuella värdefulla förbättringar kan upptäckas."
   constituent:
     name: Krets
     definition:
@@ -57,7 +57,7 @@ terms:
   continuous-improvement:
     name: Ständig förbättring (princip)
     definition:
-    glossary: "**Granska regelbundet utfallet av det du gör, och gör sedan stegvisa förbättringar av vad du gör och hur du gör det baserat på vad du lär dig** så att du kan anpassa dig till förändringar när det behövs, och upprätthålla eller förbättra ändamålsenligheten över tid."
+    glossary: "**Granska regelbundet utfallet av det du gör, och gör sedan stegvisa förbättringar av vad du gör och hur du gör det baserat på vad du lärt dig** så att du kan anpassa dig till förändringar när det behövs, och upprätthålla eller förbättra ändamålsenligheten över tid."
   coordination:
     name: Samordning
     definition:
@@ -74,12 +74,12 @@ terms:
     glossary: En individ eller grupp som delegerar ansvarigheten för en domän till andra.
   deliverable:
     name: Leverabel
-    definition: En **leverabel** är en produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.
-    glossary: En produkt, tjänst, komponent eller material som tillhandahålls som respons på en organisatorisk drivkraft.
+    definition: En **leverabel** är en produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft.
+    glossary: En produkt, tjänst, komponent eller material som tillhandahålls som svar på en organisatorisk drivkraft.
   domain:
     name: Domän
-    definition: En **domän** är ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.
-    glossary: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.
+    definition: En **domän** är ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.
+    glossary: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.
   driver:
     name: Drivkraft
     definition: En **drivkraft** är en persons eller grupps motiv för att svara på en specifik situation.
@@ -95,7 +95,7 @@ terms:
   equivalence:
     name: Likvärdighet (princip)
     definition:
-    glossary: "**Engagera människor i att fatta och förfina beslut som påverkar dem** så att du ökar engagemanget och ansvarstagandet, och utnyttjar den distribuerade intelligensen för att uppnå och utveckla dina mål."
+    glossary: "**Engagera människor i att fatta och förädla beslut som påverkar dem** så att engagemanget och ansvarstagandet ökar, och ni utnyttjar den distribuerade intelligensen för att uppnå och utveckla era mål."
   evolve:
     name: Förädla (v.)
     glossary: att utveckla gradvis.
@@ -104,7 +104,7 @@ terms:
     glossary: Leverabler som rör sig genom en organisation mot kunder eller andra intressenter.
   governance:
     name: Strukturell styrning
-    definition: "**Strukturell styrning** i en organisation (eller en domän inom den) är processen att sätta upp mål och fatta och förfina beslut som vägleder människor mot att uppnå dessa mål."
+    definition: "**Strukturell styrning** i en organisation (eller en domän inom den) är processen att sätta upp mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål."
     glossary: Processen att fastställa mål och fatta och förädla beslut som vägleder människor mot att uppnå dessa mål.
   governance-backlog:
     name: Planeringslista för strukturell styrning
@@ -126,8 +126,8 @@ terms:
     definition:
     glossary: Ett (digitalt) system för att lagra all information som är relevant för att driva en organisation.
   metric:
-    name: Metrik
-    definition: En **metrik** är ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång.
+    name: Mätvärde
+    definition: Ett **mätvärde** är ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång.
     glossary: Ett kvantifierbart mått som används för att spåra och bedöma framsteg, utvärdera utfall och bestämma framgång
   need:
     name: Behov
@@ -135,16 +135,16 @@ terms:
     glossary: Avsaknad av något som önskas eller anses nödvändigt (ett krav).
   objection:
     name: Invändning
-    definition: En **invändning** är ett argument som rör en (föreslagen) överenskommelse, åtgärd eller beslut och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar.
-    glossary: Ett argument som rör en (föreslagen) överenskommelse, åtgärd eller beslut och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar.
+    definition: En **invändning** är ett argument som rör ett förslag, beslut, en överenskommelse eller åtgärd och som visar på oavsiktliga konsekvenser som borde undvikas eller värdefulla förbättringar.
+    glossary: Ett argument – i relation till ett förslag, avtal, en aktivitet eller det rådande läget – som avslöjar konsekvenser eller risker bör undvikas, eller visar på värdefull förbättring.
   objective:
     name: Mål
     definition:
     glossary: Ett (specifikt) resultat som en person eller grupp eller organisation vill uppnå, en målsättning eller ambition.
-  open-domain:
-    name: Öppen domän
-    definition:
-    glossary: En domän som hanteras av en rad personer som har bjudits in att bidra när de kan.
+  open-team:
+    name: Öppet team
+    definition: Ett **öppet team** är en grupp människor som bjuds in att bidra till det arbete och den styrning som görs inom en domän när de kan.
+    glossary: En grupp människor som bjuds in att bidra till det arbete och den styrning som görs inom ett område när de kan.
   operations:
     name: Operativ verksamhet
     definition: "**Operativ verksamhet** är att organisera, planera och utföra de dagliga aktiviteterna inom de begränsningar som definierats genom strukturell styrning."
@@ -160,7 +160,7 @@ terms:
   organizational-driver:
     name: Organisatorisk drivkraft
     definition:
-    glossary: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.
+    glossary: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.
   pattern:
     name: Mönster
     definition: Ett **mönster** är en process, teknik eller riktlinje som fungerar som en mall för att framgångsrikt agera på en viss typ av utmaning eller möjlighet.
@@ -209,8 +209,8 @@ terms:
     glossary: En strategi för att samorganisera där människor som påverkas av beslut kan påverka dem då det finns skäl att göra det.
   strategy:
     name: Strategi
-    definition: En **strategi** är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.
-    glossary: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna vara ansvarig för en domän.
+    definition: En **strategi** är ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.
+    glossary: Ett angreppssätt på hög nivå för hur människor skapar värde för att framgångsrikt kunna ansvara för en domän.
   subdomain:
     name: Underdomän
     definition:
@@ -218,7 +218,7 @@ terms:
   subdriver:
     name: Underliggande drivkraft
     definition:
-    glossary: En underliggande drivkraft uppstår som en konsekvens av att agera på en annan drivkraft (den överliggande drivkraften) och är nödvändig för att på ett ändamålsenligt sätt kunna svara på den överliggande drivkraften.
+    glossary: En underliggande drivkraft uppstår som en konsekvens av att svara på en annan drivkraft (den överliggande drivkraften) och är nödvändig för att på ett ändamålsenligt sätt kunna svara på den överliggande drivkraften.
   superdriver:
     name: Överliggande drivkraft
     definition:
@@ -242,7 +242,7 @@ terms:
   transparency:
     name: Öppenhet (princip)
     definition:
-    glossary: "**Anteckna all information som är värdefull för organisationen och gör den tillgänglig för alla i organisationen, såvida det inte finns någon speciell anledning till sekretess** så att alla har den information de behöver för att förstå hur man gör sitt arbete på ett sätt som så ändamålsenligt som möjligt bidrar helheten."
+    glossary: "**Anteckna all information som är värdefull för organisationen och gör den tillgänglig för alla i organisationen, såvida det inte finns någon speciell anledning till sekretess** så att alla har den information de behöver för att förstå hur man gör sitt arbete på ett sätt som så ändamålsenligt som möjligt bidrar till helheten."
   value:
     name: Värde
     definition: "**Värde** är vikten, värdet, nyttan eller användbarheten av något i förhållande till en drivkraft."
@@ -253,5 +253,5 @@ terms:
     glossary: "Värderade principer som styr beteende. Icke att förväxla med \"värde\" i samband med en drivkraft."
   waste:
     name: Spill
-    definition: "**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för en (mer) ändamålsenlig respons på en drivkraft."
-    glossary: Allt som är onödigt för — eller står i vägen för — en (mer) effektiv respons på en drivkraft.
+    definition: "**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för ett (mer) ändamålsenligt svar på en drivkraft."
+    glossary: Allt som är onödigt för — eller står i vägen för — ett (mer) effektivt svar på en drivkraft.

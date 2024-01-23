@@ -1,20 +1,24 @@
 ---
 title: "Beskriv organisatoriska drivkrafter"
+next_page_title: "Samtyckesbeslut"
+next_page_url: "consent-decision-making.html"
+prev_page_title: "Navigera via spänning"
+prev_page_url: "navigate-via-tension.html"
 ---
 
 
-<strong>Beskriv organisatoriska drivkrafter för att förstå, kommunicera och komma ihåg dem.</strong>
-
-Att beskriva <a href="#" class="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om en respons på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkrafter</a> kan göras av en grupp eller av en enstaka person. Beroende på deras perspektiv kan de bestämma sig för att beskriva en drivkraft som ett **problem** att lösa eller en **möjlighet** att utnyttja.
+<div class="card summary"><div class="card-body">Beskriv organisatoriska drivkrafter för att förstå, kommunicera och komma ihåg dem.
+</div></div>
+Att beskriva <a href="glossary.html#entry-organizational-driver" class="glossary-tooltip" data-toggle="tooltip" title="Organisatorisk drivkraft: En drivkraft är en persons eller grupps motiv till att agera på en specifik situation. En drivkraft anses vara en **organisatorisk drivkraft** om ett svar på den skulle hjälpa organisationen att generera värde, minska spill och slöseri eller undvika oönskade konsekvenser.">drivkrafter</a> kan göras av en grupp eller av en enstaka person. Beroende på deras perspektiv kan de bestämma sig för att beskriva en drivkraft som ett **problem** att lösa eller en **möjlighet** att utnyttja.
 
 Ett enkelt sätt att beskriva en drivkraft är genom att förklara:
 
-- **Vad händer ... :** 
-    - **nuvarande situation**
-    - **påverkan** som denna situation har på organisationen
-- ...och **vad som behövs:** 
-    - **behovet** som organisationen har i förhållande till denna situation
-    - den **effekt** som ett åtgärdande av behovet kan få
+-   **Vad händer …:**
+    -   **nuvarande situation**
+    -   **påverkan** som denna situation har på organisationen
+-   och **vad som behövs:**
+    -   **behovet** som organisationen har i förhållande till denna situation
+    -   den **effekt** som ett åtgärdande av behovet kan få
 
 Skapa en kort men mångsidig sammanfattning som innehåller precis tillräckligt med information för att tydligt förmedla behovet av en åtgärd eller ett beslut.
 
@@ -26,11 +30,11 @@ Förutom sammanfattningen kan fler detaljer om drivkraften registreras i loggbok
 
 ## Exempel:
 
-> *"Köket är i oordning: det finns inga rena koppar, diskbänken är full av tallrikar och det går inte att bara snabbt ta en kopp kaffe och återgå till jobbet. Vi behöver köket i ett användbart skick så att vi kan fokusera på vårt arbete.*
+> _"Köket är i oordning: det finns inga rena koppar, diskbänken är full av tallrikar och det går inte att bara snabbt ta en kopp kaffe och återgå till jobbet. Vi behöver köket i ett användbart skick så att vi kan fokusera på vårt arbete._
 
 ## 1. Nuvarande situation
 
-> *"Köket är i oordning: det finns inga rena koppar, diskhon är full av tallrikar..."*
+> _"Köket är i oordning: det finns inga rena koppar, diskhon är full av tallrikar …"_
 
 Beskriv den nuvarande situationen:
 
@@ -39,7 +43,7 @@ Beskriv den nuvarande situationen:
 
 ## 2. Påverkan
 
-> *"...det går inte att bara snabbt ta en fika och återgå till jobbet."*
+> _"… det går inte att bara snabbt ta en fika och återgå till jobbet."_
 
 Förklara hur organisationen påverkas av denna situation:
 
@@ -49,21 +53,21 @@ Förklara hur organisationen påverkas av denna situation:
 
 ## 3. Behov
 
-> *"Vi behöver köket i ett användbart skick..."*
+> _"Vi behöver köket i ett användbart skick …"_
 
-Förklara organisationens <a href="#" class="tooltip" title="Behov: Avsaknad av något som önskas eller anses nödvändigt (ett krav).">behov</a> i förhållande till denna situation:
+Förklara organisationens <a href="glossary.html#entry-need" class="glossary-tooltip" data-toggle="tooltip" title="Behov: Avsaknad av något som önskas eller anses nödvändigt (ett krav).">behov</a> i förhållande till denna situation:
 
-- En **organisations behov** kan vara vad som helst som ett team (eller person) behöver för att på ett effektivt sätt ansvara för en <a href="#" class="tooltip" title="Domän: Ett tydligt avskiljt område av inflytande, aktivitet och beslutsfattande inom en organisation.">domän</a>.
+- En **organisations behov** kan vara vad som helst som ett team (eller person) behöver för att på ett effektivt sätt hantera en <a href="glossary.html#entry-domain" class="glossary-tooltip" data-toggle="tooltip" title="Domän: Ett tydligt urskiljbart område av inflytande, aktivitet och beslutsfattande inom en organisation.">domän</a>.
 - Var tydlig med vems behov det är ("vi behöver", "de behöver", "jag behöver").
 - Om det finns oenighet om behovet kan det hjälpa att zooma ut från specifika lösningar och fokusera på vad organisationen saknar i denna situation.
 
 ## 4. Effekt
 
-> *"...så att vi kan fokusera på vårt arbete".*
+> _"… så att vi kan fortsätta fokusera på vårt arbete"._
 
-Beskriv effekten av att ta hand om behovet:
+Beskriv den förväntade effekten av att ta hand om behovet:
 
-- Förklara det <a href="#" class="tooltip" title="Avsett utfall: Det förväntade utfallet av en överenskommelse, ett projekt, en åtgärd eller strategi.">avsedda utfallet</a>, potentiella fördelar eller möjligheter.
+- Förklara potentiella fördelar, möjligheter, eller till och med <a href="glossary.html#entry-intended-outcome" class="glossary-tooltip" data-toggle="tooltip" title="Avsett utfall: Det förväntade utfallet av en överenskommelse, ett projekt, en åtgärd eller strategi.">avsedda resultat</a> av att svara på det behovet.
 - Effekten kan vara uppenbar eller implicit, särskilt när påverkan av den nuvarande situationen redan har beskrivits.
 
 ## Utvärdera drivkrafter
@@ -72,20 +76,8 @@ Se till att utvärdera drivkrafterna regelbundet, för att fördjupa förståels
 
 Värdefulla frågor vid en sådan utvärdering kan vara:
 
-- Är beskrivningen av situationen (fortfarande) korrekt?
-- Förknippar vi fortfarande samma behov med situationen?
-- Ligger hanteringen av drivkraften fortfarande inom vår domän?
-- Är drivkraften fortfarande relevant?
-
-<div class="bottom-nav">
-<a href="navigate-via-tension.html" title="Tillbaka till: Navigera via spänning">◀</a> <a href="co-creation-and-evolution.html" title="Upp: Samskapande och utveckling">▲</a> <a href="consent-decision-making.html" title="Läs vidare: Samtyckesbeslut">▶ Läs vidare: Samtyckesbeslut</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'consent-decision-making.html';
-    return false;
-});
-</script>
+-   Är beskrivningen av situationen (fortfarande) korrekt?
+-   Förknippar vi fortfarande samma behov med situationen?
+-   Ligger hanteringen av drivkraften fortfarande inom vår domän?
+-   Är drivkraften fortfarande relevant?
 

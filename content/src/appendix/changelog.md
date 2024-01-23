@@ -1,12 +1,52 @@
 # Ändringslogg
 
+## Changes 2022-04-26
+
+- added detailed description and new illustrations to [Test Arguments Qualify as Objections](section:test-arguments-qualify-as-objections) 
+
+## Changes 2022-04-05
+
+- added detailed description and new illustrations to [Resolve Objections](section:resolve-objections) 
+
+## Changes 2022-02-04
+
+- added detailed description of the [Consent Decision-Making](section:consent-decision-making) process
+- revised text of [Reasoned Decision-Making](section:reasoned-decision-making)
+- updated 20 illustration to align with style of new illustration for Consent Decision-Making 
+
+## Changes 2022-01-27
+
+- added [Reasoned Decision-Making](section:reasoned-decision-making)
+- updated pattern categories: 
+    - new category *Evolving Organizations*
+    - renamed *Co-Creation and Evolution* to *Sense-Making and Decision-Making*
+    - renamed *Focused Interactions* to *Meeting Formats*
+    - renamed *Enablers of Collaboration* to *Enablers of Co-Creation*
+    - and moved some patterns around
+- Aligned spelling of decision-making throughout the guide
+- revised summary of [Resolve Objections](section:resolve-objections)
+- revised text of [Driver Mapping](section:driver-mapping) (step 7)
+
+## Changes 2021-09-22
+
+- fixed a link on the pattern map and added links to the principles
+- fixed some typos, minor revisions to the text 
+
+## Changes 2021-09-03
+
+- revised text about [Objections](section:objection) as well as the definitions of [Objection](glossary:objection) and [Concern](glossary:concern)
+
+## Changes 2021-08-15
+
+- renamed *Open Domain* to [Open Team](section:open-team)
+
 ## Changes 2021-06-18
 
 - added a dedicated chapter for each of the Seven Principles
 - revised the ten principles of the Common Sense Framework
 - updated section about governance in the introduction 
     - added more text to explain how governance can be distributed throughout the organization
-    - more examples for governance decisions 
+    - more examples for governance decisions
 - corrected a few typos
 - several small revisions
 
@@ -38,7 +78,7 @@
 
 - Added the **[Common Sense Framework](section:csf)** to the Practical Guide
 - A new structure of the Practical Guide that makes that the relevant parts easier to find: 
-    - [What is Sociocracy 3.0](section:what-is-s3)
+    - [Vad är Sociokrati 3.0](section:what-is-s3)
     - [De Sju Principerna](section:principles)
     - [Nyckelbegrepp för att förstå organisationer](section:making-sense-of-organizations)
     - [Mönstren](section:patterns)
@@ -120,7 +160,7 @@
 - expanded the introduction with more information about S3 and the history of sociocracy that was previously only available on the main S3 website
 - updated section about governance in the introduction
 - added captions to all illustrations
-- bytt namn på mönstergrupp "Främja samskapande" till "Främja samarbete"
+- renamed pattern group "Enablers of Co-Creation" to "Enablers of Collaboration"
 - removed slide deck version and improved layout and formatting of pdf and ePub version
 - website version: added clickable pattern map for simpler navigation, added glossary overlays to many patterns
 
@@ -155,7 +195,7 @@
 **Begreppslista:**
 
 - **updated:** account for (v.), concern, deliverable, governance, objection, operations, primary driver, principle, role, self-organization, semi-autonomy, subdriver, values
-- **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team, open domain
+- **added:** constituent, coordination, delegation, driver statement, evolve (v.), flow of value, helping team and open domain
 - **removed:** peer driver
 
 **Changes to Introduction**
@@ -165,7 +205,7 @@
     - *The Principle of Empiricism*: removed reference to "falsification"
     - *The Principle of Consent* is now explained more clearly as "Raise, seek-out and resolve objections to decisions and actions"
 - *Governance, Semi-Autonomy and Self-Organization*: we refined the definitions of Governance, Operations, and Self-Organization, removed any reference to "coordination", and clarified the distinction between governance and operations
-- *Drivers and Domains* - we clarified how domains can be understood in relation to organizational drivers
+- *Drivers and Domains*: we clarified how domains can be understood in relation to organizational drivers
 
 **Changes to Patterns:**
 
@@ -175,7 +215,7 @@
 - [Agreement](section:record-agreements): improved description, updated template
 - [Artful Participation](section:artful-participation): improved summary
 - [Clarify Intended Outcome](section:clarify-intended-outcome) (renamed from *Intended Outcome*): improved description
-- [Consent Decision Making](section:consent-decision-making): improved description, updated illustration
+- [Consent Decision-Making](section:consent-decision-making): improved description, updated illustration
 - [Continuous Improvement Of Work Process](section:continuous-improvement-of-work-process): improved description
 - [Contract For Successful Collaboration](section:contract-for-successful-collaboration): renamed the pattern to a more descriptive name, and explained process of creating contracts, and what needs to be in them
 - [Coordination Meeting](section:coordination-meeting): clarified agenda items, updated illustration
@@ -196,7 +236,7 @@
 - [Logbook](section:logbook): clarified that there is no difference between logbooks for groups and logbooks for roles
 - [Navigate via Tension](section:navigate-via-tension): improved description, added a new illustration to clarify the distinction between *Navigate via Tension*, *Describe Organizational Drivers* and *Respond to Organizational Drivers*
 - *Objection*: clarified the difference between objection and concern, clarified what qualifies as an objection, and how to qualify objections in a group context
-- [Open Domain](section:open-domain): improved description and updated illustration
+- [Open Domain](section:open-team): improved description and updated illustration
 - [Open Systems](section:open-systems): improved description
 - [Open Space for Change](section:open-space-for-change): renamed from *Open S3 Adoption*, improved description
 - [Peach Organization](section:peach-organization): clarified relationship between periphery and center

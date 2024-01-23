@@ -1,7 +1,7 @@
 # Synliggör arbete
 
 <summary>
-<strong>Använd ett system som gör att alla intressenter kan studera tillståndet för de uppgifter som för närvarande väntar, pågår eller slutförts.</strong>
+Använd ett system som gör att alla intressenter kan studera tillståndet för de uppgifter som för närvarande väntar, pågår eller slutförts.
 </summary>
 
 - värdefullt för [självorganisering](glossary:self-organization) och för att ta på sig arbete när det finns kapacitet

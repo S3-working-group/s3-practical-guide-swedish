@@ -1,28 +1,28 @@
-<footer class="site-footer">
-  <p>Detta verk, skapat av Bernhard Bockelbrink, James Priest och Liliana David, är licensierat under en internationell Creative Commons Attribution-ShareAlike 4.0 licens.</p>
-  <p>Läs denna sida på <a href="https://patterns.sociocracy30.org{{page.url}}">engelska</a> <unk> <a href="https://patterns-de.sociocracy30.org{{page.url}}">tyska</a> <unk> <a href="https://patterns-fr.sociocracy30.org{{page.url}}">franska</a> <unk> <a href="https://patterns-nl.sociocracy30.org{{page.url}}">holländska</a> <unk> <a href="https://patterns-he.sociocracy30.org{{page.url}}">hebreiska</a> 
-  </p>
-
-  <div class="footer-col-wrapper">
-    <div class="footer-col footer-col-1">
-      <p><a href="https://sociocracy30.org/contact/">Kontakta oss</a> | <a href="disclaimer.html">Friskrivning</a> | <a href="acknowledgments.html">Erkännanden</a></p>
-      <p>v2021-09-22-se-0.8</p>
-    </div>
-    <div class="footer-col footer-col-2">
-      <ul class="social-media-list">
-        <li><a href="https://sociocracy30.org">Sociokrati 3.0 webbplats</a></li>
-        {% if site.twitter_username %}
-        <li>
-          {% include icon-twitter.html username=site.twitter_username %}
-        </li>
-        {% endif %}
-        {% if site.github_username %}
-        <li>
-          {% include icon-github.html username=site.github_username %}
-        </li>
-        {% endif %}
-        <li><a href="https://github.com/S3-working-group/s3-practical-guide-swedish">Skapa kopia av källkoden på GitHub</a></li>
-      </ul>
-    </div>
+<div class="row">
+  <div class="col footer-top">
+    <p>Detta verk, skapat av Bernhard Bockelbrink, James Priest och Liliana David, är licensierat under en internationell Creative Commons Attribution-ShareAlike 4.0 licens.</p>
+    <p>Läs denna sida på <a href="https://patterns.sociocracy30.org{{page.url}}">engelska</a> <unk> <a href="https://patterns-de.sociocracy30.org{{page.url}}">tyska</a> | <a href="https://patterns-fr.sociocracy30.org{{page.url}}">franska</a> | <a href="https://patterns-nl.sociocracy30.org{{page.url}}">holländska</a> | <a href="https://patterns-he.sociocracy30.org{{page.url}}">hebreiska</a></p>
   </div>
-</footer>
+</div>
+<div class="row">
+  <div class="col-sm-8">
+    <p><a href="https://sociocracy30.org/contact/">Kontakta oss</a> | <a href="disclaimer.html">Friskrivning</a> | <a href="acknowledgments.html">Erkännanden</a></p>
+    <p class="hp-version">v2022-04-26-se-0.9.1</p>
+  </div>
+  <div class="footer-col-bottom-right col-sm-4">
+    <ul class="social-media-list">
+      <li><a href="https://sociocracy30.org">Sociokrati 3.0 webbplats</a></li>
+      {% if site.twitter_username %}
+      <li>
+        {% include icon-twitter.html username=site.twitter_username %}
+      </li>
+      {% endif %}
+      {% if site.github_username %}
+      <li>
+        {% include icon-github.html username=site.github_username %}
+      </li>
+      {% endif %}
+      <li><a href="https://github.com/S3-working-group/s3-practical-guide-swedish">Skapa kopia av källkoden på GitHub</a></li>
+    </ul>
+  </div>
+</div>

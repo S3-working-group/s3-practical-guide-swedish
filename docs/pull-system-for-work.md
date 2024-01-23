@@ -1,23 +1,14 @@
 ---
 title: "Flödesorientera arbetet"
+next_page_title: "Begränsa pågående arbete"
+next_page_url: "limit-work-in-progress.html"
+prev_page_title: "Synliggör arbete"
+prev_page_url: "visualize-work.html"
 ---
 
 
-<strong>Påbörja nya uppgifter när det finns kapacitet (i stället för att arbete åläggs eller tilldelas).</strong>
-
+<div class="card summary"><div class="card-body">Påbörja nya uppgifter när det finns kapacitet (i stället för att arbete åläggs eller tilldelas).
+</div></div>
 Prioritera väntande uppgifter för att säkra att viktigt arbete görs först.
 
 Att åta sig arbete vid ledig kapacitet förhindrar att systemet överlastas, särskilt om man begränsar [mängden pågående arbete per person eller team](limit-work-in-progress.html).
-
-<div class="bottom-nav">
-<a href="visualize-work.html" title="Tillbaka till: Synliggör arbete">◀</a> <a href="organizing-work.html" title="Upp: Organisera arbete">▲</a> <a href="limit-work-in-progress.html" title="Läs vidare: Begränsa pågående arbete">▶ Läs vidare: Begränsa pågående arbete</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'limit-work-in-progress.html';
-    return false;
-});
-</script>
-

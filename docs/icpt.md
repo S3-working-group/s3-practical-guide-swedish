@@ -1,5 +1,9 @@
 ---
 title: "Det avsiktliga åtagandet för utövare och utbildare av Sociokrati 3.0 (ICPT)"
+next_page_title: "Tack till"
+next_page_url: "acknowledgments.html"
+prev_page_title: "Ansvarsfriskrivning"
+prev_page_url: "disclaimer.html"
 ---
 
 
@@ -44,16 +48,3 @@ Jag ägnar en del tid åt att aktivt stödja andra i S3-gemenskapen att lära oc
 Jag kommer att göra alla S3-resurser jag anpassar eller skapar tillgängliga under en Creative Commons Attribution-ShareAlike licens.
 
 Jag kommer att diskutera eventuella invändningar relaterade till S3 mönster i min coachinggrupp och vidarebefordra till utvecklarna av S3 om jag tror att de kvalificerar.
-
-<div class="bottom-nav">
-<a href="disclaimer.html" title="Tillbaka till: Ansvarsfriskrivning">◀</a> <a href="appendix.html" title="Upp: Bilagor">▲</a> <a href="acknowledgments.html" title="Läs vidare: Tack till">▶ Läs vidare: Tack till</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'acknowledgments.html';
-    return false;
-});
-</script>
-

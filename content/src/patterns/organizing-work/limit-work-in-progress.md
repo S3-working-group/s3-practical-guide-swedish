@@ -1,7 +1,7 @@
 # Begränsa pågående arbete
 
 <summary>
-<strong>Begränsa antalet samtidigt pågående uppgifter i varje skede av din arbetsprocess.</strong>
+Begränsa antalet samtidigt pågående uppgifter i varje skede av din arbetsprocess.
 </summary>
 
 Till pågående uppgifter räknas t.ex

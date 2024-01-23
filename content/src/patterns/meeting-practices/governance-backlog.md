@@ -10,4 +10,4 @@ En planeringslista för strukturell styrning innehåller:
 - förslag som behöver skapas och övervägas
 - utnämning av personer till roller
 
-**Obs:** Rapporter och planerade granskningar av överenskommelser läggs oftast till direkt i agendan (snarare än i planeringslistan).
+**Obs:** Rapporter och planerade utvärderingar av överenskommelser läggs oftast till direkt i agendan (snarare än i planeringslistan).

@@ -1,5 +1,9 @@
 ---
 title: "En organisation där BÅDE människor och organisationen kan frodas"
+next_page_title: "Tio principer för att utveckla team och organisationer"
+next_page_url: "ten-principles.html"
+prev_page_title: "Ett ramverk för sunt förnuft i organisationer och team"
+prev_page_url: "csf.html"
 ---
 
 
@@ -19,17 +23,3 @@ De behöver ett enkelt sätt att bygga en gemensam förståelse för vad som hä
 -   **anpassningsbara** – människor kan på ett effektivt sätt identifiera och svara på organisatoriska behov och förändrade sammanhang (både kortsiktigt och långsiktigt).
 -   **motståndskraftiga** – organisationen och dess medlemmar kan vid behov stå emot motgångar och osäkerhet.
 -   **ömsesidig** – organisationen och dess medlemmar delar en ömsesidighet där organisationen är engagerad i utvecklingen, välbefinnandet och framgången för sina medlemmar, och vice versa.
-
-
-<div class="bottom-nav">
-<a href="csf.html" title="Upp: Ett ramverk för sunt förnuft i organisationer och team">▲</a> <a href="ten-principles.html" title="Läs vidare: Tio principer för att utveckla team och organisationer">▶ Läs vidare: Tio principer för att utveckla team och organisationer</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'ten-principles.html';
-    return false;
-});
-</script>
-

@@ -1,7 +1,7 @@
 # Teckna ner överenskommelser
 
 <summary>
-**Anteckna detaljerna i de överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förädla överenskommelsen över tid.**
+Anteckna detaljerna i de överenskommelser som görs, så att de kan återfinnas senare och göra det möjligt att utvärdera effekter och förädla överenskommelsen över tid.
 </summary>
 
 {{define:agreement}}

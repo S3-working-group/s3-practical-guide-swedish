@@ -1,7 +1,7 @@
 # Förtydliga avsett utfall
 
 <summary>
-<strong>Var tydlig med den förväntade effekten av överenskommelser, aktiviteter, projekt och strategier.</strong>
+Var tydlig och uttryck den förväntade effekten av överenskommelser, aktiviteter, projekt och strategier.
 </summary>
 
 Godkänn och teckna ner en tydlig beskrivning av det avsedda utfallet.

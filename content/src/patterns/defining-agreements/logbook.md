@@ -1,7 +1,7 @@
 # Loggbok
 
 <summary>
-<strong>Upprätthåll ett sammanhängande och tillgängligt system som lagrar all information som krävs för samarbete.</strong>
+Upprätthåll ett sammanhängande och tillgängligt system som lagrar all information som krävs för samarbete.
 </summary>
 
 En loggbok är ett (digitalt) system där all information som är relevant för att driva en organisation och dess olika grupper lagras. Loggboken är tillgänglig för alla medlemmar i organisationen och information hålls konfidentiell endast när det finns anledning att göra det.

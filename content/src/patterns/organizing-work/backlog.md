@@ -4,14 +4,14 @@
 {{define:backlog}}
 </summary>
 
-Överväg att göra planeringslistor synliga, inte bara för andra medlemmar i ett team, men också för alla andra i organisationen.
+Överväg att göra planeringslistor synliga, inte bara för andra medlemmar i ett team, utan också för alla andra i organisationen.
 
 Planeringslistor kan användas för
 
 - [strukturell](glossary:governance) styrning
 - [operationell](glossary:operations) styrning
 - uppgifter för en bestämd tidsperiod (t.ex [sprint](section:planning-and-review-meetings))
-- produktändringar
+- produktändringslista
 - hinder
 
 **Genomförande:**

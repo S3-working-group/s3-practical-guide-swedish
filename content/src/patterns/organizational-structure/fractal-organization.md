@@ -1,7 +1,7 @@
 # Fraktal organisation
 
 <summary>
-<strong>Flera kretsar (avdelningar, team eller projekt) i en organisation som har en gemensam (eller liknande) primär drivkraft och struktur kan dela lärande tvärs funktionella domäner, ensa åtgärder och fatta beslut på hög nivå (t.ex övergripande strategi).</strong>
+Flera kretsar (avdelningar, team eller projekt) i en organisation som har en gemensam (eller liknande) primär drivkraft och struktur kan dela lärande tvärs funktionella domäner, ensa åtgärder och fatta beslut på hög nivå (t.ex övergripande strategi).
 </summary>
 
 Att skapa en fraktal organisation kan göra det möjligt för ett stort nätverk att snabbt agera på en föränderlig omvärld.
@@ -22,7 +22,7 @@ En fraktal organisation har minst tre nivåer:
 
 - första nivån: **kretsar** (dvs organisationer, grenar, avdelningar eller projekt)
 - andra nivån: **funktionsspecifika [delegatscirklar](section:delegate-circle)** för att dela lärande och för att ingå och förädla överenskommelser på uppdrag av funktionsspecifika domäner
-- tredje nivå: en **tvärfunktionell delegatscirkel** för att ingå och förädla överenskommelser som respons på drivkrafter som påverkar de övergripande organisatoriska kretsarna
+- tredje nivå: en **tvärfunktionell delegatscirkel** för att ingå och förädla överenskommelser som svar på drivkrafter som påverkar de övergripande organisatoriska kretsarna
 
 ## Att bilda en fraktal organisation
 

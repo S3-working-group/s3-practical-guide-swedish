@@ -1,7 +1,7 @@
 # Hjälpande team
 
 <summary>
-<strong>Samla ett team av likvärdiga människor med mandat att agera på en specifik uppsättning behov som definierats av en delegator.</strong>
+Samlar ett team av likvärda människor med mandat att agera på en specifik uppsättning behov som definierats av en delegator.
 </summary>
 
 Ett hjälpande team:

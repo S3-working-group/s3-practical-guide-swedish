@@ -1,5 +1,9 @@
 ---
 title: "Princip 1 – Förtydliga syfte"
+next_page_title: "Princip 2 – Utveckla strategi"
+next_page_url: "develop-strategy.html"
+prev_page_title: "Två principer för orientering"
+prev_page_url: "orientation.html"
 ---
 
 
@@ -10,17 +14,3 @@ title: "Princip 1 – Förtydliga syfte"
 Viktiga möster för att hjälpa till att uppnå detta är:
 
 -   [Beskriv organisatoriska drivkrafter](describe-organizational-drivers.html) – Att förstå motivet för att agera och svara på en specifik situation är en väsentlig del i att förstå, definiera och kommunicera syftet med en organisation, ett team eller avdelning.
-
-
-<div class="bottom-nav">
-<a href="orientation.html" title="Upp: Två principer för orientering">▲</a> <a href="develop-strategy.html" title="Läs vidare: Princip 2 – Utveckla strategi">▶ Läs vidare: Princip 2 – Utveckla strategi</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'develop-strategy.html';
-    return false;
-});
-</script>
-

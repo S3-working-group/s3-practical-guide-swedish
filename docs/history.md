@@ -1,5 +1,9 @@
 ---
 title: "Inspiration till och historien bakom Sociokrati 3.0"
+next_page_title: "Varför \"3.0\"?"
+next_page_url: "why-30.html"
+prev_page_title: "Vad finns i den här handledningen?"
+prev_page_url: "contents.html"
 ---
 
 
@@ -26,16 +30,3 @@ Sociokrati har visat sig vara kraftfullt för många organisationer och samhäll
 ## Sociokrati 3.0 - Rörelsen
 
 Då intresset för Sociocracy 3.0. ökar finns det en snabbt växande gemenskap av människor från en mängd olika bakgrunder - banbrytande konsulter, coacher, utbildande facilitatorer, och personer som tillämpar S3 i sina olika sammanhang — som alla uppskattar transformationspotentialen i Sociocracy 3.0 som kan hjälpa organisationer och deras medlemmar att blomstra. Många är vänliga nog att gärna ägna en del av sin tid åt att experimentera med och dela med sig om S3, och en del samarbetar också för att lära av varandra och dokumentera erfarenheter för att vägleda den pågående utvecklingen och förfiningen av ramverket och dess olika tillämpningar.
-
-<div class="bottom-nav">
-<a href="contents.html" title="Tillbaka till: Vad finns i den här handledningen?">◀</a> <a href="what-is-s3.html" title="Upp: Vad är Sociokrati 3.0?">▲</a> <a href="why-30.html" title="Läs vidare: Varför &quot;3.0&quot;?">▶ Läs vidare: Varför &quot;3.0&quot;?</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'why-30.html';
-    return false;
-});
-</script>
-

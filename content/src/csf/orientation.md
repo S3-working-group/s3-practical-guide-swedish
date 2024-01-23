@@ -1,5 +1,5 @@
 # Två principer för orientering
 
 
-![Two Principles for Orientation: Clarify Purpose – Develop Strategy](img/csf/csf-light-orientation.png)
+![Två principer för orientering: Förtydliga syfte – Utveckla strategi](img/csf/csf-light-orientation.png)
 

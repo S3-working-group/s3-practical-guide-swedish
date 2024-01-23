@@ -1,5 +1,9 @@
 ---
 title: "Princip 8 – Satsa på lärande"
+next_page_title: "Princip 9 – Utveckla kulturen medvetet"
+next_page_url: "develop-culture.html"
+prev_page_title: "Tre principer för transformation"
+prev_page_url: "transformation.html"
 ---
 
 
@@ -13,17 +17,3 @@ Viktiga möster för att hjälpa till att uppnå detta är:
 -   [Kollegial utvärdering](peer-review.html) – Att som team eller person i en roll regelbundet bjuda in relevanta intressenter för en genomgång av sin effektivitet gör det möjligt att identifiera styrkor, tillväxtutmaningar och sätt att förbättra framtida bidrag.
 -   [Utvecklingsplan](development-plan.html) – Att samarbeta med relevanta intressenter om en plan för hur man kan utveckla nödvändig kompetens och kunnande, är ett effektivt sätt att fokusera inlärningsarbetet hos en person i en roll eller för ett team.
 -   [Kollegial återkoppling](peer-feedback.html) – Att bjuda in återkoppling från kollegor gör det möjligt för människor att förstå sina styrkor och tillväxtutmaningar så att de kan satsa på att lära sig inom områden där det kan vara till hjälp.
-
-
-<div class="bottom-nav">
-<a href="transformation.html" title="Upp: Tre principer för transformation">▲</a> <a href="develop-culture.html" title="Läs vidare: Princip 9 – Utveckla kulturen medvetet">▶ Läs vidare: Princip 9 – Utveckla kulturen medvetet</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'develop-culture.html';
-    return false;
-});
-</script>
-

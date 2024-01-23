@@ -2,7 +2,7 @@
 
 {{define:objection}}
 
-Invändningar avslöjar information om (potentiella) **oavsiktliga konsekvenser**, eller om **värdefulla sätt att förbättra**.
+Man kan tänka på invändningar som ett enkelt verktyg för att nyttja distribuerad intelligens och förbättra beslutsfattandet.
 
 Tänk på att undanhållna invändningar kan påverka personers, teams eller hela organisationens möjligheter att uppnå sina mål negativt.
 
@@ -31,10 +31,12 @@ Utnyttja en mångfald av perspektiv och var öppen för att utmana ditt eget, f�
 
 ## Oro
 
-**Alla argument som förs fram är inte invändningar. Skilj mellan invändningar, som alltid avslöjar användbar information, och andra argument som endast bygger på antaganden, personliga preferenser eller åsikter.**
+**Inte alla argument som framförs är invändningar, men de kan avslöja farhågor.**
 
 {{define:concern}}
 
-I [samtyckesbeslut](section:consent-decision-making) kan oro indikera olika sätt att förädla överenskommelser (inklusive utvärderingskriterier och utvärderingsfrekvens). Ta upp din oro om du tycker att det är värdefullt att överväga den, och registrera åtminstone den tillsammans med överenskommelsen, och övervaka resultaten över tid.
+Oro kan visa på sätt att vidareutveckla överenskommelser, som t.ex. att göra ändringar i en överenskommelse som minskar oron, lägga till vissa utvärderingskriterier, eller justera utvärderingsfrekvensen. Ta upp oron om du tycker att det kan vara värdefullt att resonera om den.
+
+Att avgöra om ett argument är en invändning eller oro är ibland beroende av sammanhanget.
 
 Om du är osäker på om du har en invändning eller en oro, var proaktiv och fråga andra för att se vad de anser. (Se också [Pröva om argument är invändningar](section:test-arguments-qualify-as-objections)).

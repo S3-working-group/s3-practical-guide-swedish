@@ -1,5 +1,9 @@
 ---
 title: "Tio principer för att utveckla team och organisationer"
+next_page_title: "Två principer för orientering"
+next_page_url: "orientation.html"
+prev_page_title: "En organisation där BÅDE människor och organisationen kan frodas"
+prev_page_url: "thrive.html"
 ---
 
 
@@ -23,17 +27,3 @@ title: "Tio principer för att utveckla team och organisationer"
 **Princip 9 – Utveckla kulturen medvetet** _Samarbeta för att odla en kooperativ kultur där alla kan uppnå sin fulla potential så att en engagerande och produktiv arbetsmiljö uppstår och kan vidmakthållas._
 
 **Princip 10 - Bygg gemensamma mentala modeller** _Investera tid och ansträngning i att bygga gemensamma mentala modeller så att människor kan föra en meningsfull dialog om vad som händer och vad som behöver göras, och samtidigt fördjupa sin förståelse för hur organisationen fungerar, vad den gör och varför.</p>
-
-
-<div class="bottom-nav">
-<a href="thrive.html" title="Tillbaka till: En organisation där BÅDE människor och organisationen kan frodas">◀</a> <a href="csf.html" title="Upp: Ett ramverk för sunt förnuft i organisationer och team">▲</a> <a href="orientation.html" title="Läs vidare: Två principer för orientering">▶ Läs vidare: Två principer för orientering</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'orientation.html';
-    return false;
-});
-</script>
-

@@ -1,7 +1,7 @@
 # Tidsbegränsa aktiviteter
 
 <summary>
-<strong>Sätt en tidsbegränsning för att förbli fokuserad, göra alla medvetna om den tid som finns tillgänglig och hur man använder den på bästa sätt.</strong>
+Att sätta en tidsbegränsning för att förbli fokuserad, göra alla medvetna om den tid som finns tillgänglig och hur man använder den på bästa sätt.
 </summary>
 
 {{define:timebox}}

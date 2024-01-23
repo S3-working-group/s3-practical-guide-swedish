@@ -1,5 +1,9 @@
 ---
 title: "Bilagor"
+next_page_title: "Ändringslogg"
+next_page_url: "changelog.html"
+prev_page_title: "Var ska man börja?"
+prev_page_url: "where-to-start.html"
 ---
 
 
@@ -12,17 +16,3 @@ title: "Bilagor"
 - [Tack till](acknowledgments.html)
 - [Författare](authors.html)
 - [Begreppslista](glossary.html)
-
-
-<div class="bottom-nav">
-<a href="where-to-start.html" title="Tillbaka till: Var ska man börja?">◀</a> <a href="changelog.html" title="Läs vidare: Ändringslogg">▶ Läs vidare: Ändringslogg</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'changelog.html';
-    return false;
-});
-</script>
-

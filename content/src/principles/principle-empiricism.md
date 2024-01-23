@@ -32,5 +32,5 @@ Definiera och dokumentera specifika värden på variablerna som visar på experi
 
 ## Behandla beslut som experiment
 
-I ett komplext system är det omöjligt att förutsäga alla de sätt på vilka detta system kommer att reagera på introduktionen av specifika förändringar. Därför kan man även se på beslutsfattande som experiment. Det är värdefullt att se alla viktiga operativa och strukturella beslut som görs som experiment och därmed dokumentera de avsedda utfalls- och utvärderingskriterierna i varje enskilt fall. Fatta ett beslut i taget, börja med vad som verkar vara en lämplig eller logisk utgångspunkt och utveckla dessa beslut iterativt, baserat lärdomar och insikter längs vägen.
+I ett komplext system är det omöjligt att förutsäga alla de sätt på vilka detta system kommer att reagera på introduktionen av specifika förändringar. Därför kan man även se på och hantera beslutsfattande som experiment. Det är värdefullt att se alla viktiga operativa och strukturella beslut som görs som experiment och därmed dokumentera de avsedda utfalls- och utvärderingskriterierna i varje enskilt fall. Fatta ett beslut i taget, börja med vad som verkar vara en lämplig eller logisk utgångspunkt och utveckla dessa beslut iterativt, baserat lärdomar och insikter längs vägen.
 

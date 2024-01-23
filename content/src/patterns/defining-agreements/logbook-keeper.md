@@ -1,7 +1,7 @@
 # Sekreterare
 
 <summary>
-<strong>Välj en medlem av ditt team som särskilt ansvarig för att hålla all nedtecknad information som teamet behöver uppdaterad.</strong>
+Välj en medlem av ditt team som särskilt ansvarig för att hålla all nedtecknad information som teamet behöver uppdaterad.
 </summary>
 
 Sekreteraren är ansvarig för att underhålla ett teams [loggbok](glossary:logbook) genom att:

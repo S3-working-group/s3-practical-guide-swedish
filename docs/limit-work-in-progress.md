@@ -1,27 +1,18 @@
 ---
 title: "Begränsa pågående arbete"
+next_page_title: "Tidsbegränsa aktiviteter"
+next_page_url: "timebox-activities.html"
+prev_page_title: "Flödesorientera arbetet"
+prev_page_url: "pull-system-for-work.html"
 ---
 
 
-<strong>Begränsa antalet samtidigt pågående uppgifter i varje skede av din arbetsprocess.</strong>
-
+<div class="card summary"><div class="card-body">Begränsa antalet samtidigt pågående uppgifter i varje skede av din arbetsprocess.
+</div></div>
 Till pågående uppgifter räknas t.ex
 
-- antalet punkter i en <a href="#" class="tooltip" title="Planeringslista: En lista av (ofta prioriterade, ordnade) oavslutade uppgifter (leverabler eller drivkrafter) som behöver åtgärdas.">planeringslista</a>
+- antalet punkter i en <a href="glossary.html#entry-backlog" class="glossary-tooltip" data-toggle="tooltip" title="Planeringslista: En lista av (ofta prioriterade, ordnade) oavslutade uppgifter (leverabler eller drivkrafter) som behöver åtgärdas.">planeringslista</a>
 - samtidiga projekt eller uppgifter för team eller individer
 - produkter i en produktportfölj
 
 När igångsättandet av ett arbete skulle överskrida en överenskommen gräns för samtidigt pågående arbete, måste detta tas upp med teamet innan det påbörjas.
-
-<div class="bottom-nav">
-<a href="pull-system-for-work.html" title="Tillbaka till: Flödesorientera arbetet">◀</a> <a href="organizing-work.html" title="Upp: Organisera arbete">▲</a> <a href="timebox-activities.html" title="Läs vidare: Tidsbegränsa aktiviteter">▶ Läs vidare: Tidsbegränsa aktiviteter</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'timebox-activities.html';
-    return false;
-});
-</script>
-

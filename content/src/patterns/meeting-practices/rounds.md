@@ -1,7 +1,7 @@
 # Rundor
 
 <summary>
-<strong>I ett gruppmöte, genom att cirkulera vem som har ordet ges alla möjlighet att tala i tur och ordning.</strong>
+I ett gruppmöte, genom att cirkulera vem som har ordet ges alla möjlighet att tala i tur och ordning.
 </summary>
 
 Rundor är en gruppfaciliteringsteknik för att säkerställa likvärdighet och stödja en ändamålsenlig dialog.

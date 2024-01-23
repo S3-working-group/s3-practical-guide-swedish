@@ -1,5 +1,9 @@
 ---
 title: "Drivkrafter"
+next_page_title: "Domän"
+next_page_url: "domain.html"
+prev_page_title: "Nyckelbegrepp för att förstå organisationer"
+prev_page_url: "making-sense-of-organizations.html"
 ---
 
 
@@ -14,23 +18,10 @@ Drivkrafter:
 
 _**Värde** är vikten, värdet, nyttan eller användbarheten av något i förhållande till en drivkraft._
 
-_**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för en (mer) ändamålsenlig respons på en drivkraft._
+_**Spill**, eller slöseri, är allt som är onödigt — eller står i vägen — för ett (mer) ändamålsenligt svar på en drivkraft._
 
 Genom att anamma begreppen värde och spill, kan många metoder och idéer från **lean production** och **lean software development** användas av organisationer som börjar använda mönster från S3:
 
 - värdeströmskartläggning
 - olika strategier för att eliminera spill
 - Kanban-metoden
-
-<div class="bottom-nav">
-<a href="making-sense-of-organizations.html" title="Upp: Nyckelbegrepp för att förstå organisationer">▲</a> <a href="domain.html" title="Läs vidare: Domän">▶ Läs vidare: Domän</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'domain.html';
-    return false;
-});
-</script>
-

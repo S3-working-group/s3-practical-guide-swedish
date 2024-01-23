@@ -1,6 +1,6 @@
 # Licens
 
-"En praktisk handledning för att utveckla agila och uthålliga organisationer med Sociokrati 3.0" av Bernhard Bockelbrink, James Priest och Liliana David är licensierad under en internationell **Creative Commons Attributions-ShareAlike 4.0** licens, som är en **fri kulturlicens**.
+"*En Praktisk Handledning för att Utveckla Agila och Motståndskraftiga Organisationer med Sociokrati 3.0*" skriven av Bernhard Bockelbrink, James Priest och Liliana David är licensierad under **Creative Commons Attribution-ShareAlike 4.0 International License**, som är en **fri kultur-licens (Free Culture License)**.
 
 I grund och botten ger denna licens dig:
 

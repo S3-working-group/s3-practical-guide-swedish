@@ -1,7 +1,7 @@
 # Beskriv leverabler
 
 <summary>
-<strong>Beskriv tydligt alla leverabler (konkreta utresultat) som förväntas från en överenskommelse för att underlätta en gemensam förståelse av förväntningarna.</strong>
+Beskriv tydligt alla leverabler (konkreta utresultat) som förväntas från en överenskommelse för att underlätta en gemensam förståelse av förväntningarna.
 </summary>
 
 {{define:deliverable}}

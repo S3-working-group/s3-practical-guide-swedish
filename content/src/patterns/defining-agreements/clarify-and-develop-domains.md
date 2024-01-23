@@ -24,7 +24,7 @@ Ett enkelt sätt att stödja intressenter i att utveckla en gemensam förståels
 -   Primära mätvärden
 -   Utvärdering
 
-På [S3 Canvas microsite] hittar du en mängd olika mallar som du kan använda för att (sam-)skapa och dokumentera domänbeskrivningar.
+På [mikrosajten för S3s diskussionsdukar] hittar du en mängd olika mallar som du kan använda för att (sam-)skapa och dokumentera domänbeskrivningar.
 
 (http://s3canvas.sociocracy30.org/s3-delegation-canvas.html)
 
@@ -33,7 +33,7 @@ På [S3 Canvas microsite] hittar du en mängd olika mallar som du kan använda f
 Delegaten(erna) kan göra vad helst de tror kan hjälpa dem att uppnå sitt syfte, om det inte är utanför domänen för organisationen, explicit förbjudet, de bryter mot någon annans (explicita) domän, eller hindrar andra människors bidrag till organisationen på något annat sätt. Saker som är förbjudna inkluderar uttryckliga begränsningar som anges i domänbeskrivningen, andra överenskommelser delegaten(-erna) måste hålla, såväl som rättsliga och regulatoriska krav.
 
 
-## När behöver man förtydliga domäner
+## När behöver man förtydliga domäner?
 
 Överväg att förtydliga domäner när du märker att intressenter har olika antaganden om domänen för en befintlig [roll](section:role), position, team, avdelning, enhet eller till och med för organisationens domän som helhet.
 
@@ -59,14 +59,14 @@ En organisations domän bör utformas med kunden och affärsmodellen i åtanke, 
 
 Utvärdera organisationens domän regelbundet för att stötta de ansvariga för organisationen att snabbt lära och anpassa.
 
-Ett sätt att förtydliga en organisations domän är genom att arbeta med en [S3 Organisation Canvas](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
+Ett sätt att förtydliga en organisations domän är genom att arbeta med en [duk för diskussion om organsationer](http://s3canvas.sociocracy30.org/s3-organization-canvas.html).
 
 
 ## Aspekter som är värdefulla att tydliggöra i en domänbeskrivning
 
 Alla de följande faktorerna är viktiga att tänka på när man klargör en domän. Beroende på din situation och var du befinner dig i domänens livscykel, kan det vara mer eller mindre möjligt att beskriva var och en av dem tydligt. Utvärdera regelbundet, testa antaganden och tydliggör vartefter insikter görs.
 
-![Mall för en domänbeskrivning](img/templates/domain-description-template.png)
+![Template for a domain description](img/templates/domain-description-template.png)
 
 
 ### Primär drivkraft

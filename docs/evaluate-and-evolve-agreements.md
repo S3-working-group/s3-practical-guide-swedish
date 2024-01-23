@@ -1,16 +1,20 @@
 ---
 title: "Utvärdera och förädla överenskommelser"
+next_page_title: "Samskapa förslag"
+next_page_url: "co-create-proposals.html"
+prev_page_title: "Lös invändningar"
+prev_page_url: "resolve-objections.html"
 ---
 
 
-<strong>Förädla kontinuerligt existerande överenskommelser, och eliminera spill och slöseri.</strong>
-
+<div class="card summary"><div class="card-body">Förädla kontinuerligt existerande överenskommelser, och eliminera spill och slöseri.
+</div></div>
 Regelbunden utvärdering av överenskommelser är en viktig procedur för en lärande organisation:
 
-- anpassa överenskommelser för att passa föränderliga sammanhang
-- integrera lärandet för att göra dem mer effektiva
+-   anpassa överenskommelser för att passa föränderliga sammanhang
+-   integrera lärandet för att göra dem mer effektiva
 
-Säkra att alla <a href="#" class="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a> har ett lämpligt datum för utvärdering.
+Säkra att alla <a href="glossary.html#entry-agreement" class="glossary-tooltip" data-toggle="tooltip" title="Överenskommelse: En överenskommen inriktning, process, förhållningssätt eller policy som skapats för att vägleda värdeflödet.">överenskommelser</a> har ett lämpligt datum för utvärdering.
 
 Att utvärdera en överenskommelse kan vara så enkelt som att kontrollera att den fortfarande är relevant, och att inte det finns några invändningar mot att behålla det som det är.
 
@@ -24,10 +28,10 @@ Delar av detta mönster kan också användas av enstaka personer för att utvär
 
 ## Kort format
 
-- *Hur har denna överenskommelse hjälpt oss?*
-- *Finns det anledning att avsluta denna överenskommelse?*
-- *Hur kan denna överenskommelse förbättras?*
-- Enas om datum för nästa utvärdering.
+-   _Hur har denna överenskommelse hjälpt oss?_
+-   _Finns det anledning att avsluta denna överenskommelse?_
+-   _Hur kan denna överenskommelse förbättras?_
+-   Enas om datum för nästa utvärdering.
 
 ## Längre format
 
@@ -35,24 +39,11 @@ Delar av detta mönster kan också användas av enstaka personer för att utvär
 
 Förberedelser:
 
-- Schemalägg utvärderingen.
-- Säkerställ att nödvändig information är tillgänglig.
+-   Schemalägg utvärderingen.
+-   Säkerställ att nödvändig information är tillgänglig.
 
 Uppföljning:
 
-- Enas om datum för nästa utvärdering.
-- Dokumentera beslut och uppgifter, och fördela till relevanta personer.
-- Överväg effekter på eventuella relaterade överenskommelser.
-
-<div class="bottom-nav">
-<a href="resolve-objections.html" title="Tillbaka till: Lös upp invändningar">◀</a> <a href="co-creation-and-evolution.html" title="Upp: Samskapande och utveckling">▲</a> <a href="involve-those-affected.html" title="Läs vidare: Involvera de som påverkas">▶ Läs vidare: Involvera de som påverkas</a>
-</div>
-
-
-<script type="text/javascript">
-Mousetrap.bind('g n', function() {
-    window.location.href = 'involve-those-affected.html';
-    return false;
-});
-</script>
-
+-   Enas om datum för nästa utvärdering.
+-   Dokumentera beslut och uppgifter, och fördela till relevanta personer.
+-   Överväg effekter på eventuella relaterade överenskommelser.

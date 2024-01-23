@@ -6,15 +6,16 @@ Ett **mönster** är en process, praxis eller riktlinje som fungerar som en mall
 
 Mönster är modulära och anpassningsbara, kan användas självständigt, och är ömsesidigt förstärkande och kompletterar varandra när de används i kombination. S3-mönster kan förädlas och anpassas för att passa en organisations specifika behov.
 
-I den här handledningen har mönstrena grupperats efter ämne i tio kategorier för att lättare kunna identifiera vilka som är mest relevanta i en viss organisation:
+I den här handledningen har mönstren grupperats efter ämne i elva kategorier för att lättare kunna identifiera vilka som är mest relevanta i en viss organisation:
 
-- Samskapande och utveckling
+- Meningsskapande och beslutsfattande
+- Utveckla organisationer
 - Kollegial utveckling
-- Främja samarbete
+- Möjliggörare för samskapande
 - Bygga organisationer
-- Börja använda S3
+- Att börja använda S3
 - Definiera överenskommelser
-- Fokuserade interaktioner
+- Mötesformat
 - Mötestekniker
 - Organisera arbete
 - Organisationsstruktur

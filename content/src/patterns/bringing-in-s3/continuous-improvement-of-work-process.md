@@ -1,7 +1,7 @@
 # Kontinuerlig förbättring av arbetsprocessen
 
 <summary>
-<strong>Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förädla processerna.</strong>
+Identifiera drivkrafter och etablera ett flödes- och evidensbaserat system för organisatorisk förändring genom att kontinuerligt förbättra och förädla processerna.
 </summary>
 
 - introducera principen om samtycke och [Navigera via spänning](section:navigate-via-tension) för att utveckla processerna i ett team
@@ -15,7 +15,7 @@
 
 {{define:waste}}
 
-Spill finns i olika former och på olika nivåer av abstraktion (uppgifter, processer, organisationsstruktur, mentala modeller ...)
+Spill finns i olika former och på olika abstraktionsnivåer (uppgifter, processer, organisationsstruktur, mentala modeller ...)
 
 En ständigt pågående process för att eliminera olika typer av spill möjliggör en organisations naturliga utveckling mot större ändamålsenlighet och anpassning till förändrade sammanhang.
 

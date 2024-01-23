@@ -1,7 +1,7 @@
 # Utvärdera möten
 
 <summary>
-<strong>Se till att det finns tid att lära i slutet av varje möte eller workshop.</strong>
+Se till att det finns tid att lära i slutet av varje möte eller workshop.
 </summary>
 
 Reflektera över interaktioner, fira framgångar och dela förslag på förbättringar innan mötet avslutas.
@@ -18,7 +18,7 @@ Några förslag på korta format:
 
 ## Utvärdera möten: Långt format
 
-I en [runda](section:rounds) be alla att reflektera över något eller alla av följande ämnen i en kort delning, och registrera viktiga punkter du vill komma ihåg till nästa gång:
+I en [runda](section:rounds) be alla att reflektera över något eller alla av följande ämnen i en kort delning, och registrera viktiga punkter ni vill komma ihåg till nästa gång:
 
 - ändamålsenlighet och format
 - facilitering och deltagande

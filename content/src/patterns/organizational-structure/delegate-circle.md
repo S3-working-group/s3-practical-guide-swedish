@@ -1,7 +1,7 @@
 # Delegatscirkel
 
 <summary>
-<strong>Delegera beslut om strukturell styrning som påverkar flera domäner till en grupp av representanter som valts ut av dessa domäner.</strong>
+Att delegera beslut om strukturell styrning som påverkar flera domäner till en grupp av representanter som valts ut av dessa domäner.
 </summary>
 
 För att fatta beslut om [strukturell styrning](glossary:governance) å deras vägnar skickar intressenter [representanter](section:representative) för att bilda en delegatscirkel.
